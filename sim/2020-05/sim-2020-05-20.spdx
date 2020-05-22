@@ -1,0 +1,2333 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_sim-2020-05-20.zip_1590000130.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-20T18:42:11Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: sim-2020-05-20.zip
+PackageFileName: sim-2020-05-20.zip
+SPDXID: SPDXRef-upload2506
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7ccdab631a67c766ad025e8a8c0ec39ba5fe4622
+PackageChecksum: SHA1: e6d76164457c09fc679fde244d4a355e82d2c3b4
+PackageChecksum: MD5: 304979f50daf57dded2a574353ae32c8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2506
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/ietf-alarms.yang
+SPDXID: SPDXRef-item9459889
+FileChecksum: SHA1: 22ca23d5e63f5458895faf18cad57fb962bae5d4
+FileChecksum: MD5: 299c394db121578f734c7d553d3233b8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2019 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-alarms-v1.yang
+SPDXID: SPDXRef-item9459893
+FileChecksum: SHA1: 7ac7acfd824c691676f4bef36aeac88f0e81a040
+FileChecksum: MD5: da3c369e510bf1b5ba362e9514a27677
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-common-alarms-v1.yang
+SPDXID: SPDXRef-item9459886
+FileChecksum: SHA1: ee188d7602b23737229aa0d97f5f853b38f1c062
+FileChecksum: MD5: 47f8edb8286654481c194bfdccf75064
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Software Community. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-hardware-v1.yang
+SPDXID: SPDXRef-item9459882
+FileChecksum: SHA1: 5e26609c7191680f96b97e0b60473bfd633c114b
+FileChecksum: MD5: 9588b84d09b4913a18c6bc1b12c9312a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-interfaces-v1.yang
+SPDXID: SPDXRef-item9459888
+FileChecksum: SHA1: 03f9efe76d8b85f382dcc94c5e3c4fc2cc3ed22c
+FileChecksum: MD5: cddc8a99be7aec982e73dfc37d0b3fec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-root-v1.yang
+SPDXID: SPDXRef-item9459894
+FileChecksum: SHA1: 3294e64ebcc10e518bdfabf59d9450e0cfdd1bc5
+FileChecksum: MD5: 00901043823a8c0d5ba9aa9ff51e0a90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-ru-alarms-v1.yang
+SPDXID: SPDXRef-item9459890
+FileChecksum: SHA1: eb6a55d7f904aab8740a0183a6acaeb91415d64b
+FileChecksum: MD5: 6767f39e47fa3c69c8f710b7bba96ac2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Software Community. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-ru-v1.yang
+SPDXID: SPDXRef-item9459895
+FileChecksum: SHA1: 42c302fe0d275fc4d83f4d9e953abf991facb628
+FileChecksum: MD5: 1622424546adf2cf175efcdae62fcd44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/o-ran-sc-types-v1.yang
+SPDXID: SPDXRef-item9459885
+FileChecksum: SHA1: afc01983ae8de93a9220597cd4d55fe95348a57c
+FileChecksum: MD5: 541cab1e0c75ef9011476dd1eaa5680b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/org-openroadm-user-mgmt.yang
+SPDXID: SPDXRef-item9459972
+FileChecksum: SHA1: 5cb134a08a76bf8f7174b1e46eebe552ad570a69
+FileChecksum: MD5: debf2e51eee4cc33d507d9a4cbda9df8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright of the Members of the Open ROADM MSA Agreement dated (c) 2016, AT&T Intellectual Property. All other rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-ald.yang
+SPDXID: SPDXRef-item9459943
+FileChecksum: SHA1: eb4b33f3457ef43237ad455c076163f86c7ee284
+FileChecksum: MD5: fc70f46874411756ed0e8d849154a6eb
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-lbm.yang
+SPDXID: SPDXRef-item9459941
+FileChecksum: SHA1: 74a252efee36d47d002c2bade25ce2853d3f67dc
+FileChecksum: MD5: 7ed6e070311e002a70afbc4c8fb0eb36
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-uplane-conf.yang
+SPDXID: SPDXRef-item9459946
+FileChecksum: SHA1: 7e69b7caf502039d784396d985d0b6ecab369faa
+FileChecksum: MD5: 8beeefdcde07486dce3558d1698a366a
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-software-management.yang
+SPDXID: SPDXRef-item9459948
+FileChecksum: SHA1: a0467fc7e84259c79d6c3594f103812adc4e9630
+FileChecksum: MD5: ca52b15fa7b024b599e7894ca3e7a2fc
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-operations.yang
+SPDXID: SPDXRef-item9459963
+FileChecksum: SHA1: 35e0fe2edb95b1d15fcac404fc1374ebbb89ec96
+FileChecksum: MD5: 917d62002b81d101f1582de5f45d0192
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-file-management.yang
+SPDXID: SPDXRef-item9459950
+FileChecksum: SHA1: b10c1134927b60651220341596a8c69ad7d73c07
+FileChecksum: MD5: e72379d99219b7200cdf79314c9b1e31
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-udp-echo.yang
+SPDXID: SPDXRef-item9459965
+FileChecksum: SHA1: 96a4310d5915082f403b789ebaed08b1f42fe4c6
+FileChecksum: MD5: dda58b4c806aa13d5064671145595839
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-troubleshooting.yang
+SPDXID: SPDXRef-item9459964
+FileChecksum: SHA1: d7cef7ffa2a514d8340b8638456079484cbcb6c6
+FileChecksum: MD5: 12d5cf1188789669872a9d7754a3acbb
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-ecpri-delay.yang
+SPDXID: SPDXRef-item9459971
+FileChecksum: SHA1: 29b7edb5f66155cc96a66876949a132df2bf6e39
+FileChecksum: MD5: a0855eb564589c4889dc46b55811aaa7
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-beamforming.yang
+SPDXID: SPDXRef-item9459962
+FileChecksum: SHA1: d507768df0a7b863529df7967f2b452dd74fdb96
+FileChecksum: MD5: 11a3d32a7567a5e8ac93eb77f822d74d
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-delay-management.yang
+SPDXID: SPDXRef-item9459979
+FileChecksum: SHA1: 466a6344a14aac2f26342e86ab61b40d63bed6d3
+FileChecksum: MD5: 852130cf856a07e5fd10b573712c6db6
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-fan.yang
+SPDXID: SPDXRef-item9459958
+FileChecksum: SHA1: e1f5d792073b770685682b335e9bd72f81b9428f
+FileChecksum: MD5: d04f154b6e7b3d0da43efe0419d66314
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-supervision.yang
+SPDXID: SPDXRef-item9459949
+FileChecksum: SHA1: b9cc130b5678b02bd9f9ef474a4f1e69f712f820
+FileChecksum: MD5: 1cf1a3b46c6b260156ece6bcd21e95b6
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-mplane-int.yang
+SPDXID: SPDXRef-item9459952
+FileChecksum: SHA1: dff24536d3f1fa73767b58e07908bc0d83c6f5e6
+FileChecksum: MD5: c200b7367c5384f4a6cfe255803818a3
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-usermgmt.yang
+SPDXID: SPDXRef-item9459961
+FileChecksum: SHA1: 1233afad00e36ad37bf861c97bb7725bda058c5a
+FileChecksum: MD5: 2c241d3c12d73ebb07a4aabb0aa2c129
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-alarm-id.yang
+SPDXID: SPDXRef-item9459974
+FileChecksum: SHA1: 4f095a93eb67b2a8ac7dfd5ae62572474a3b8380
+FileChecksum: MD5: f40e7b0669cd5a1e032aab799d9fec3c
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-transceiver.yang
+SPDXID: SPDXRef-item9459953
+FileChecksum: SHA1: b6306992c43d0d3e6e273b74cbebfa5702b59933
+FileChecksum: MD5: 9ccfeda129e121857230e50429e96ccf
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-dhcp.yang
+SPDXID: SPDXRef-item9459957
+FileChecksum: SHA1: f9a70f007f6fa3243bbb48c9bacc20ad19c29fd8
+FileChecksum: MD5: 939411875a22412e981bf24c12b20438
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 Members of the xRAN alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-processing-element.yang
+SPDXID: SPDXRef-item9459955
+FileChecksum: SHA1: 35fba16fafd8bf41159d39367396e847534fd0b0
+FileChecksum: MD5: 5fd77137ad4349064af4f960881f3bd0
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-interfaces.yang
+SPDXID: SPDXRef-item9459959
+FileChecksum: SHA1: d6117cf0d3e2df18dc10e09f580ac37905b6eb62
+FileChecksum: MD5: 4a5ba8156b398e4977827c3e82dd171d
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-ald-port.yang
+SPDXID: SPDXRef-item9459966
+FileChecksum: SHA1: e1255beda31febfc4b762b36f04ece497209c51e
+FileChecksum: MD5: ee4d16807a4fa36f1c45401eaa3eb6c2
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-externalio.yang
+SPDXID: SPDXRef-item9459978
+FileChecksum: SHA1: 2313fd7511bc165f46c8c17334c9892729fd3c82
+FileChecksum: MD5: c6e2644a6ed0b34e5a0f50d086182f1b
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-fm.yang
+SPDXID: SPDXRef-item9459956
+FileChecksum: SHA1: c429b81a97145262f119ac455c2fb57db006ba12
+FileChecksum: MD5: be69b8460677ae7b9e41516153e48afd
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-hardware.yang
+SPDXID: SPDXRef-item9459954
+FileChecksum: SHA1: a8b7910b4f7c2af8f0ff9811a44407fe84315f9f
+FileChecksum: MD5: c99cde829398b1881381c31a79286b63
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-module-cap.yang
+SPDXID: SPDXRef-item9459967
+FileChecksum: SHA1: 8944e1f8fdf663255b1c699f785fd5de14cea906
+FileChecksum: MD5: 9331880fd3db37dce6f56b780a5740b8
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-sync.yang
+SPDXID: SPDXRef-item9459968
+FileChecksum: SHA1: 07557318ad8c05ac949731fb17b03c21acea4d48
+FileChecksum: MD5: fcaf6d7e45a26e2f27126629616f1db1
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/xran-performance-management.yang
+SPDXID: SPDXRef-item9459975
+FileChecksum: SHA1: a3a864bc900032edf4447cf3728ef2e6a5cba942
+FileChecksum: MD5: 1e0f06bf5c488da1fd31f6e4ffb2a371
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2018 the xRAN Forum. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/index.rst
+SPDXID: SPDXRef-item9460083
+FileChecksum: SHA1: 62395b58c73b10ac23a428e563666872e5fedeb3
+FileChecksum: MD5: 52e12dd7255c99d00a835889660a1f5f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/release-notes.rst
+SPDXID: SPDXRef-item9460085
+FileChecksum: SHA1: 5ace9e0e07f62ee017aee800fe999545bbdcee16
+FileChecksum: MD5: 0492f9ec44bb94c7f7f5f519fc7d4ee1
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/overview.rst
+SPDXID: SPDXRef-item9460088
+FileChecksum: SHA1: b98f3f176071be7bfd24eced83880d942cc0d526
+FileChecksum: MD5: f69c46bb80da39a36615d583088c014d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/LICENSE
+SPDXID: SPDXRef-item9459862
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/inc/utils/utils.h
+SPDXID: SPDXRef-item9459872
+FileChecksum: SHA1: 271575132f8ad702725ee512902b25ddc01da1da
+FileChecksum: MD5: 706901e8d426b46a93fcb4f0f78f82c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/sysrepo-configuration-load.sh
+SPDXID: SPDXRef-item9459879
+FileChecksum: SHA1: 47b66ea194ae3fa5a45dccbfc34dd092ac6a03f9
+FileChecksum: MD5: 5f377209ca9990d83f98cecd0cf31645
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/auto-load-yangs.sh
+SPDXID: SPDXRef-item9459980
+FileChecksum: SHA1: 9255b6ec05ffe76d86e9a5c4eba5268973060ce0
+FileChecksum: MD5: 259de2789dc83b6f38f5f817603a0040
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/software-management-oran/sw-management-rpc.c
+SPDXID: SPDXRef-item9459984
+FileChecksum: SHA1: 74932d888b8a6e07285255c5431839339b5dc840
+FileChecksum: MD5: 5826d531f1f05ba88fd9066216d8fde5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Cisco Systems, Inc. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ntsimulator-manager/simulator-operations.h
+SPDXID: SPDXRef-item9459987
+FileChecksum: SHA1: adf424776cb43dcb86a0b53a74fe54d88d7870ae
+FileChecksum: MD5: 14a2fe925607aafb777c0ad918ba1a22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ntsimulator-manager/simulator-operations.c
+SPDXID: SPDXRef-item9459988
+FileChecksum: SHA1: 8c7391ccd928df167290b99890578325bcfc2369
+FileChecksum: MD5: 6fc12388cdbf0c1b9c1d399fd43f7ba6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ntsimulator-manager/ntsimulator-manager.c
+SPDXID: SPDXRef-item9459990
+FileChecksum: SHA1: d42c28ebd2a09228cb161c1d873f8f32155c9fae
+FileChecksum: MD5: 38c74fb5fa73cddb9411d47e3c0252c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ves-messages/heartbeat.c
+SPDXID: SPDXRef-item9459994
+FileChecksum: SHA1: e0c5c6402d2d3819d8e490ca306f1c4051864215
+FileChecksum: MD5: 657eecab13e7bcb9f5afac0f9566fd3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ves-messages/heartbeat.h
+SPDXID: SPDXRef-item9459996
+FileChecksum: SHA1: 7df347c10d5e462a62d4d16a9b7cc694daa47d58
+FileChecksum: MD5: f607fa25a7a9c5d7b970769a6747267a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/utils/utils.c
+SPDXID: SPDXRef-item9459992
+FileChecksum: SHA1: 4c39f727d4a04eac4f505ba1a8e56a7b23cfaf91
+FileChecksum: MD5: 1e21d31752cd2ed4fdc5658b0e17c52f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/software-management-xran/sw-management-rpc.c
+SPDXID: SPDXRef-item9460002
+FileChecksum: SHA1: 0d0e374cb5f11f2cf0e6bae89d2f051e33dbaf87
+FileChecksum: MD5: 4bf816824ec58c97704712274f250aa1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016 Cisco Systems, Inc. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/o-ran-notifications/o-ran-notifications.c
+SPDXID: SPDXRef-item9459999
+FileChecksum: SHA1: b5e11710cd6be8f3d35efa8a104a919a3fcbcb3f
+FileChecksum: MD5: 66056aeb8c74c27c615b8af94e594316
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/enable_ssh_key.sh
+SPDXID: SPDXRef-item9460017
+FileChecksum: SHA1: 9aa2585654c2cde692e67de07f828252a0288f98
+FileChecksum: MD5: 70496a4260130eda9e1875ffb9ab399d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/enable_tls.sh
+SPDXID: SPDXRef-item9460012
+FileChecksum: SHA1: 611d5d9ce5c966c20c1d615a7cbe8ead7d559a87
+FileChecksum: MD5: 3ed499ab25850e98685fd81bc0651b99
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/model-uninstall.sh
+SPDXID: SPDXRef-item9460023
+FileChecksum: SHA1: b182d0df25b4cc18eca64216aad2d5b5d1aa29cb
+FileChecksum: MD5: 52bec1f96d739e710ee7f527656300de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/model-install.sh.in
+SPDXID: SPDXRef-item9460022
+FileChecksum: SHA1: 11c935737d6d9ffc3188b184d99e9f39feb72bb3
+FileChecksum: MD5: cc063cf38a2369c71bc311d5eacf52a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/clean.sh
+SPDXID: SPDXRef-item9460025
+FileChecksum: SHA1: 39007afcbd07913d2b79abf3e44d97fffd8c91b5
+FileChecksum: MD5: c3539ab2c667f0ae3488895e4fd8fb57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/model-uninstall.sh.in
+SPDXID: SPDXRef-item9460024
+FileChecksum: SHA1: 515e45f969c1b21767af90fd521334a5046ffa2c
+FileChecksum: MD5: 3fb168e4c97c5ed0a1a50eab0fdd00f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/docker_stats.sh
+SPDXID: SPDXRef-item9460027
+FileChecksum: SHA1: bc9a2dc84a5ebbd155e5ebccd5b510bfd34af763
+FileChecksum: MD5: 76526a09c65b3c64adbd3e87fca70e19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/docker_stats.sh
+SPDXID: SPDXRef-item9460035
+FileChecksum: SHA1: de8f8e5cef8248c070ee5b27914f1ecb048f53d1
+FileChecksum: MD5: 02cc5da1bfb9866e94333f5ad571e6bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/enable_tls.sh
+SPDXID: SPDXRef-item9460038
+FileChecksum: SHA1: a906151e698c4585211f6befd362054b378b255e
+FileChecksum: MD5: 38907cfda1ede2076d5a130ad3f63809
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/set_NTS_IP.sh
+SPDXID: SPDXRef-item9460042
+FileChecksum: SHA1: c0ebd781b71320df32eff17c1eab39a433833535
+FileChecksum: MD5: 03de8a3d4e91d49366befa203ef4f8b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/enable_connections.sh
+SPDXID: SPDXRef-item9460044
+FileChecksum: SHA1: 87c18e02cddece95387a866436b1bdc82ae59261
+FileChecksum: MD5: 5a025aa02495176b65c832ea483fde97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/enable_ssh_key.sh
+SPDXID: SPDXRef-item9460045
+FileChecksum: SHA1: be2256fbc74a9e3b4c1f5dd84be8b10673ecfe49
+FileChecksum: MD5: 525e4b82090e1a1c0153df427dc12271
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/Dockerfile
+SPDXID: SPDXRef-item9460081
+FileChecksum: SHA1: f617f8c46be3810a1cfc8a4702e79dbeaed1e6ef
+FileChecksum: MD5: 368e772990a4b5273c07e174088c49e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2019 highstreet technologies GmbH and others </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/iana-hardware.yang
+SPDXID: SPDXRef-item9459973
+FileChecksum: SHA1: ebe2ec60b9cac8bc303438363c4d3730b667d2ee
+FileChecksum: MD5: 501bd8afd54f3e4425f6f4cf63d535b1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/iana-if-type.yang
+SPDXID: SPDXRef-item9459945
+FileChecksum: SHA1: ec547527be8af7627451246606cd11b383368a65
+FileChecksum: MD5: fd6ffda907b89f106527e1f323969391
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2014 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-crypto-types.yang
+SPDXID: SPDXRef-item9459977
+FileChecksum: SHA1: aabe07a473b515971acae5320ada5c808382a9a9
+FileChecksum: MD5: 1749d1ada59528ab5608dbc1901eb183
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2019 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-hardware.yang
+SPDXID: SPDXRef-item9459970
+FileChecksum: SHA1: f80649a0776cab9254231014626a5836ec277cc3
+FileChecksum: MD5: d9f3987d95da2f9dac87f955826f0d2e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-inet-types.yang
+SPDXID: SPDXRef-item9459960
+FileChecksum: SHA1: 144facc3f48a7447a398bfe064ee3287c9be83b1
+FileChecksum: MD5: a956175792b7d8c5a1a636892e4e3e81
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-interfaces.yang
+SPDXID: SPDXRef-item9459944
+FileChecksum: SHA1: d3a910226ee12a6c17e32e86e1b3ff07b143d488
+FileChecksum: MD5: 9973884fe550fe706753d7b6b6de1af1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-ip.yang
+SPDXID: SPDXRef-item9459947
+FileChecksum: SHA1: 8f1a7317190ebb9b133f7bbbebee670d910af58a
+FileChecksum: MD5: bdf664640e654fe2d5fb6a0039048f11
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-netconf-acm.yang
+SPDXID: SPDXRef-item9459942
+FileChecksum: SHA1: d04094f15ec955ae39c57cb910c4a83aeb59e986
+FileChecksum: MD5: 8f8440f5527e7699095864df9e04653a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2012 - 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-netconf-monitoring.yang
+SPDXID: SPDXRef-item9459976
+FileChecksum: SHA1: bc290b2c403cb292c3460ed8068f730dd2fbb734
+FileChecksum: MD5: 67f725cf6fc61749cff8913f048f442e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2010 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-yang-types.yang
+SPDXID: SPDXRef-item9459951
+FileChecksum: SHA1: ce12d4007b6c09b4887b11b3a0ca1edf71d80646
+FileChecksum: MD5: 97e6bcf9cf527f975b7b939724364526
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/iana-hardware.yang
+SPDXID: SPDXRef-item9459931
+FileChecksum: SHA1: ebe2ec60b9cac8bc303438363c4d3730b667d2ee
+FileChecksum: MD5: 501bd8afd54f3e4425f6f4cf63d535b1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/iana-if-type.yang
+SPDXID: SPDXRef-item9459902
+FileChecksum: SHA1: ec547527be8af7627451246606cd11b383368a65
+FileChecksum: MD5: fd6ffda907b89f106527e1f323969391
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2014 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-crypto-types.yang
+SPDXID: SPDXRef-item9459936
+FileChecksum: SHA1: aabe07a473b515971acae5320ada5c808382a9a9
+FileChecksum: MD5: 1749d1ada59528ab5608dbc1901eb183
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2019 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-hardware.yang
+SPDXID: SPDXRef-item9459926
+FileChecksum: SHA1: f80649a0776cab9254231014626a5836ec277cc3
+FileChecksum: MD5: d9f3987d95da2f9dac87f955826f0d2e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-inet-types.yang
+SPDXID: SPDXRef-item9459911
+FileChecksum: SHA1: 144facc3f48a7447a398bfe064ee3287c9be83b1
+FileChecksum: MD5: a956175792b7d8c5a1a636892e4e3e81
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-interfaces.yang
+SPDXID: SPDXRef-item9459901
+FileChecksum: SHA1: d3a910226ee12a6c17e32e86e1b3ff07b143d488
+FileChecksum: MD5: 9973884fe550fe706753d7b6b6de1af1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-ip.yang
+SPDXID: SPDXRef-item9459904
+FileChecksum: SHA1: 8f1a7317190ebb9b133f7bbbebee670d910af58a
+FileChecksum: MD5: bdf664640e654fe2d5fb6a0039048f11
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-netconf-acm.yang
+SPDXID: SPDXRef-item9459900
+FileChecksum: SHA1: d04094f15ec955ae39c57cb910c4a83aeb59e986
+FileChecksum: MD5: 8f8440f5527e7699095864df9e04653a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2012 - 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-netconf-monitoring.yang
+SPDXID: SPDXRef-item9459934
+FileChecksum: SHA1: bc290b2c403cb292c3460ed8068f730dd2fbb734
+FileChecksum: MD5: 67f725cf6fc61749cff8913f048f442e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2010 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-yang-types.yang
+SPDXID: SPDXRef-item9459905
+FileChecksum: SHA1: ce12d4007b6c09b4887b11b3a0ca1edf71d80646
+FileChecksum: MD5: 97e6bcf9cf527f975b7b939724364526
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-alarm-id.yang
+SPDXID: SPDXRef-item9459932
+FileChecksum: SHA1: 80db63c50956b0bb61ef36f7eb0826109107fcce
+FileChecksum: MD5: c0a509bafd29c2771364d7afe0491afc
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-ald-port.yang
+SPDXID: SPDXRef-item9459927
+FileChecksum: SHA1: 4aa00df72c1b5d70417e115433d8f66dbc5c3b76
+FileChecksum: MD5: 4f2ca8c5515ce925b340af2cfde75c93
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-ald.yang
+SPDXID: SPDXRef-item9459910
+FileChecksum: SHA1: 9e02222bcaedb9e50ccf217f985340cff2984e16
+FileChecksum: MD5: c2858e6e29bef097131a6d852cb4b66b
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-beamforming.yang
+SPDXID: SPDXRef-item9459929
+FileChecksum: SHA1: c759316d8bdcac25205d035985e89866a175e57d
+FileChecksum: MD5: a8a477f629c2e727429267208c48ef9d
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-compression-factors.yang
+SPDXID: SPDXRef-item9459921
+FileChecksum: SHA1: cf5ea79cfdb96321691d3f1279c3741ead7a3889
+FileChecksum: MD5: 52ad4ac7957bdb631926d1483781248b
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-delay-management.yang
+SPDXID: SPDXRef-item9459937
+FileChecksum: SHA1: 8172f6650b49d7afa8b8767135e3fa734898a0a7
+FileChecksum: MD5: bef381a4367bc75151c918d31b5eb4dc
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-dhcp.yang
+SPDXID: SPDXRef-item9459925
+FileChecksum: SHA1: b35b58b7c1060f0e699eebf432c8d507dd8503f5
+FileChecksum: MD5: 782559c1f8244119dd1c59abf533d419
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-ecpri-delay.yang
+SPDXID: SPDXRef-item9459918
+FileChecksum: SHA1: 085c25ab95b73c71d2305b956bfa83defd5d5604
+FileChecksum: MD5: cfa291ced03ef72fb648b9a5da0d674f
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-externalio.yang
+SPDXID: SPDXRef-item9459898
+FileChecksum: SHA1: 20edbada8c5d1731872df08aa2d979a0d591ab9f
+FileChecksum: MD5: 150948de574c04a6ede9423f2ae59914
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-fan.yang
+SPDXID: SPDXRef-item9459922
+FileChecksum: SHA1: 8a9861bed4e43c176e222bae1cdde681b0ce29b0
+FileChecksum: MD5: d147238bb8b5533044a88234afa50236
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-file-management.yang
+SPDXID: SPDXRef-item9459920
+FileChecksum: SHA1: fb24837c05ffb0da2df162eef296ff92a800a211
+FileChecksum: MD5: b661bdd96edb8ed2e44a187f6160091f
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-fm.yang
+SPDXID: SPDXRef-item9459930
+FileChecksum: SHA1: a0a9e20243d3dce13a9da16551e38ffd631391e8
+FileChecksum: MD5: 45e479f3c772e8de288db18bede44da9
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-hardware.yang
+SPDXID: SPDXRef-item9459935
+FileChecksum: SHA1: c9af69180c993e6006a49929df7fa4747ca3a198
+FileChecksum: MD5: 51d70e4785c4d5a502e61f02edf4d791
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-interfaces.yang
+SPDXID: SPDXRef-item9459917
+FileChecksum: SHA1: 1bf9f5b975a9df2510cb840334499f04b9bdc39b
+FileChecksum: MD5: 17da9063d37410a45ea5acc3c8dd5052
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-laa-operations.yang
+SPDXID: SPDXRef-item9459939
+FileChecksum: SHA1: a43ec72c7a515715a616b279fcd4c1fd22926428
+FileChecksum: MD5: 05c7b8cfdceea23b245e950f6022cb85
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-laa.yang
+SPDXID: SPDXRef-item9459916
+FileChecksum: SHA1: 46f673ba93fbe75656063e24ed29453da66266f1
+FileChecksum: MD5: 26ce95bc6bebc8c3585b90f9b9bf25fa
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-lbm.yang
+SPDXID: SPDXRef-item9459933
+FileChecksum: SHA1: d4f26834bc8a6dd34f160319c01caa4c7cb6785c
+FileChecksum: MD5: 1973f14ce78858eb4b9e28e1d6fa7cd8
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-module-cap.yang
+SPDXID: SPDXRef-item9459924
+FileChecksum: SHA1: c12bfcb7469676cdc3f100ce1a3d4d173814e158
+FileChecksum: MD5: 9db97f8bd1e7fe8f49daf39fb4254531
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-mplane-int.yang
+SPDXID: SPDXRef-item9459928
+FileChecksum: SHA1: 411a643a6a440bb01116956f44cd9e4125af8ce6
+FileChecksum: MD5: 40a72183113695ba1c9e1e2233a48de2
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-operations.yang
+SPDXID: SPDXRef-item9459913
+FileChecksum: SHA1: cf03e5b46c3ee60e5e9735e10d84a1af0e576ce6
+FileChecksum: MD5: ac130980cb6455f0e3847f80992f13ba
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-performance-management.yang
+SPDXID: SPDXRef-item9459907
+FileChecksum: SHA1: e7a79cabbe04df24a80c099e5c4ab2383c43cd84
+FileChecksum: MD5: e95abe1a077df52af1c1160aaceda635
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-processing-element.yang
+SPDXID: SPDXRef-item9459912
+FileChecksum: SHA1: e94a790d7b195a630b55b11c40b8d56e5fb4b91c
+FileChecksum: MD5: 89b2ac29337fb43a5ff818159bb34714
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-software-management.yang
+SPDXID: SPDXRef-item9459914
+FileChecksum: SHA1: 7bbabdcd6d039cc93038167ce970120ca3c8ed86
+FileChecksum: MD5: 7d0cdb21d928705588a3a1b8b23fd8f3
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-supervision.yang
+SPDXID: SPDXRef-item9459906
+FileChecksum: SHA1: 2d1fc84298d29b5972d15a59bb07b1d791b993b4
+FileChecksum: MD5: c8e93c9ff5edcfc81a656d4808c5a9a3
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-sync.yang
+SPDXID: SPDXRef-item9459908
+FileChecksum: SHA1: 5e74746564ed047c0a50744083dca7cbe847b5f7
+FileChecksum: MD5: 57335f3b736f242123d221836d9a7f7b
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-trace.yang
+SPDXID: SPDXRef-item9459919
+FileChecksum: SHA1: 73a32db81cc491d8fde6ab8af8e8540b209f4e10
+FileChecksum: MD5: 9e22852b4202a8e8dc5f2601d0909eab
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-transceiver.yang
+SPDXID: SPDXRef-item9459909
+FileChecksum: SHA1: c92ae6fef123965869b27b7b9ca32c5f8de3c951
+FileChecksum: MD5: 4cdc02e657621d92b89b1678f9221f16
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-troubleshooting.yang
+SPDXID: SPDXRef-item9459903
+FileChecksum: SHA1: 810c18af4bc948551b29821567f7ef4c92a8dd92
+FileChecksum: MD5: f4506bb0b10574cd22c04bc85a33ce01
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-udp-echo.yang
+SPDXID: SPDXRef-item9459938
+FileChecksum: SHA1: f4b516c1348c0e95c926cf575f0307a0bfdd5a5d
+FileChecksum: MD5: fdfaab82b98e9f57b57f80f4f296b42b
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-uplane-conf.yang
+SPDXID: SPDXRef-item9459899
+FileChecksum: SHA1: 20131cad8545f059709aaa07114735ee0ade43be
+FileChecksum: MD5: 59710cfd11fd9b8c9e25a53b6a723f30
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/o-ran-usermgmt.yang
+SPDXID: SPDXRef-item9459915
+FileChecksum: SHA1: 191de935d44b4455a38e1174e7a0c50f520c1bbc
+FileChecksum: MD5: eb7617e43628b9fa23349d56b0d2ce7f
+LicenseConcluded: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: <text> Copyright 2019 the O-RAN Alliance. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/iana-hardware.yang
+SPDXID: SPDXRef-item9459892
+FileChecksum: SHA1: ebe2ec60b9cac8bc303438363c4d3730b667d2ee
+FileChecksum: MD5: 501bd8afd54f3e4425f6f4cf63d535b1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/ietf-hardware.yang
+SPDXID: SPDXRef-item9459891
+FileChecksum: SHA1: f80649a0776cab9254231014626a5836ec277cc3
+FileChecksum: MD5: d9f3987d95da2f9dac87f955826f0d2e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/ietf-inet-types.yang
+SPDXID: SPDXRef-item9459887
+FileChecksum: SHA1: 144facc3f48a7447a398bfe064ee3287c9be83b1
+FileChecksum: MD5: a956175792b7d8c5a1a636892e4e3e81
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/ietf-interfaces.yang
+SPDXID: SPDXRef-item9459883
+FileChecksum: SHA1: d3a910226ee12a6c17e32e86e1b3ff07b143d488
+FileChecksum: MD5: 9973884fe550fe706753d7b6b6de1af1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2018 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran-sc/o-ran-ru/ietf-yang-types.yang
+SPDXID: SPDXRef-item9459884
+FileChecksum: SHA1: ce12d4007b6c09b4887b11b3a0ca1edf71d80646
+FileChecksum: MD5: 97e6bcf9cf527f975b7b939724364526
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: <text> Copyright (c) 2013 IETF Trust and the persons identified as authors of the code. All rights reserved. </text>
+ 
+
+##File
+
+FileName: sim-o1-interface/README.md
+SPDXID: SPDXRef-item9459859
+FileChecksum: SHA1: dc205d4707e1412d2a056f70275474b1c8682231
+FileChecksum: MD5: f6c32d3222f719143e82314aef4ce41a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/INFO.yaml
+SPDXID: SPDXRef-item9459860
+FileChecksum: SHA1: 36003577e2719444a54ed3e385a4515ed903e191
+FileChecksum: MD5: 1e56c785b4dad0ba5271e4cf98197cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/.gitreview
+SPDXID: SPDXRef-item9459861
+FileChecksum: SHA1: c90b96e4857f8c2c35dec706f1c4460f6fabed4c
+FileChecksum: MD5: 01891c332b65fb85a3b86c2ab25ff1fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/.releases/container-release-sim-o1-interface-device.yaml
+SPDXID: SPDXRef-item9459864
+FileChecksum: SHA1: 9ebab12d9360008e8c982746d5b37f34d49bbc55
+FileChecksum: MD5: 357e3c7439dc9e39929aba7250a44d45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/.releases/container-release-sim-o1-interface-manager.yaml
+SPDXID: SPDXRef-item9459865
+FileChecksum: SHA1: e37f4db5ce1702b1e9eac93c73603e04f42abbca
+FileChecksum: MD5: c49fdb164613188160030d3d65062e22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/tox.ini
+SPDXID: SPDXRef-item9459866
+FileChecksum: SHA1: e60c49a23a796b5c9ab167962efc9b4a7f412dd8
+FileChecksum: MD5: 5cc5c055de37005db02ea8f1642c82c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/.readthedocs.yaml
+SPDXID: SPDXRef-item9459867
+FileChecksum: SHA1: 9e30dad70ca4a21e03fa4c922d1479623adea8fe
+FileChecksum: MD5: 85a11194572e84ca0ea916c840165820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/.gitignore
+SPDXID: SPDXRef-item9459868
+FileChecksum: SHA1: 88bd38efc0765f0cae2f1ebed3532868a2d98206
+FileChecksum: MD5: e69860ff1bb546ef8b1dfd827ce8c29b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/CMakeModules/FindSYSREPO.cmake
+SPDXID: SPDXRef-item9459874
+FileChecksum: SHA1: f72b300ebeb1438e5b63414d4ebbb7838a48a721
+FileChecksum: MD5: 9e8b8cbf32953f5ca6418514df3c4100
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/nts-manager/network-topology-simulator.yang
+SPDXID: SPDXRef-item9459877
+FileChecksum: SHA1: 4769f7ecdb915bfffaf5704658cfff37b9d0d2ef
+FileChecksum: MD5: 5f57acba6d65cdfdfb8644680173628a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/nts-manager/network-topology-simulator.xml
+SPDXID: SPDXRef-item9459878
+FileChecksum: SHA1: a31309e7be2361c771adf6128514f92bce9501bc
+FileChecksum: MD5: 9b847f49f73b84358c63257473948885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/o-ran/ru-fh/ietf-dhcpv6-types.yang
+SPDXID: SPDXRef-item9459923
+FileChecksum: SHA1: a02696db79ab65473cb0a2bfee7dc892f4d41a15
+FileChecksum: MD5: f3e2223a46c7430df0fb4679ae359a51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/yang/x-ran/ietf-dhcpv6-types.yang
+SPDXID: SPDXRef-item9459969
+FileChecksum: SHA1: a02696db79ab65473cb0a2bfee7dc892f4d41a15
+FileChecksum: MD5: f3e2223a46c7430df0fb4679ae359a51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/README.md
+SPDXID: SPDXRef-item9459981
+FileChecksum: SHA1: 7503ab70d7a2deac2a1fd745ae71f553b0d032d5
+FileChecksum: MD5: c63bbcc3867715d13cfd1964dd952e66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/software-management-oran/CMakeLists.txt
+SPDXID: SPDXRef-item9459985
+FileChecksum: SHA1: 59a1d4a188106795841624a99f307d9e20ff42f8
+FileChecksum: MD5: 80c25a916ce122ed529468e69e4d5e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ntsimulator-manager/CMakeLists.txt
+SPDXID: SPDXRef-item9459989
+FileChecksum: SHA1: b1d95e0809a513c6428217d6407fc8a9a152adfb
+FileChecksum: MD5: 58eebd6599018818231b4c9c3474f664
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/ves-messages/CMakeLists.txt
+SPDXID: SPDXRef-item9459995
+FileChecksum: SHA1: 9f3ca65b45eb51320fa3e5602cb4b288419fb6f9
+FileChecksum: MD5: 88642d5c6cc8febc804ca682e5d49744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/o-ran-notifications/CMakeLists.txt
+SPDXID: SPDXRef-item9459998
+FileChecksum: SHA1: abe225bb82b8a60432658728279b67766b30b886
+FileChecksum: MD5: 8b19fbb5e444ffd4ec2e96b388de191b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/CMakeLists.txt
+SPDXID: SPDXRef-item9460000
+FileChecksum: SHA1: 4c184ca40590b77ebecc813ef4c9682588fa97b1
+FileChecksum: MD5: 754a3abab108d96acb4689fe19deb961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/src/software-management-xran/CMakeLists.txt
+SPDXID: SPDXRef-item9460003
+FileChecksum: SHA1: 59a1d4a188106795841624a99f307d9e20ff42f8
+FileChecksum: MD5: 80c25a916ce122ed529468e69e4d5e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/docker-build-nts-xran.sh
+SPDXID: SPDXRef-item9460004
+FileChecksum: SHA1: b242e035d1aa7d5ae452cd07f9a799aa2d461062
+FileChecksum: MD5: 7113489bfa0bc02d1aecebb3a5e472a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/docker-build-nts-manager.sh
+SPDXID: SPDXRef-item9460005
+FileChecksum: SHA1: 8c2be358d22669b865121be1370628cb20594c25
+FileChecksum: MD5: 9e7e1d495b5c617518d8bee16db459f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/docker-build-nts-o-ran-sc-o-ran-ru.sh
+SPDXID: SPDXRef-item9460006
+FileChecksum: SHA1: 5479326ae960a6b07b507561cb4a1e957d2b2034
+FileChecksum: MD5: a69c5f5ddb7a63bc55da79e36e35d150
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/docker-build-nts-o-ran-ru-fh.sh
+SPDXID: SPDXRef-item9460007
+FileChecksum: SHA1: 13273222632e9a7fcb57dd97298f16a9aaa08120
+FileChecksum: MD5: 641ac148f56938363937323c0295fa2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/CMakeLists.txt
+SPDXID: SPDXRef-item9460008
+FileChecksum: SHA1: 1c7de24d694be41544d5de2c04b2915eff568d5f
+FileChecksum: MD5: 7302dbb097d808a4f0b06ee545692ee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/.gitignore
+SPDXID: SPDXRef-item9460009
+FileChecksum: SHA1: b3f7de0b8b23213271e9b1d97793e4191ac4800f
+FileChecksum: MD5: 857c6a9e2e73ab59a42d2463fa8d2fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/ca.key
+SPDXID: SPDXRef-item9460013
+FileChecksum: SHA1: 28fd10ff65a5c9b7a20b34229ed64dfe44d71af0
+FileChecksum: MD5: 22a9d49169af73ec8beccd4db9d02d3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/ca.pem
+SPDXID: SPDXRef-item9460014
+FileChecksum: SHA1: 19b51445fc2c24c8479fa0dfeaa58191f37f312d
+FileChecksum: MD5: a84a2729e5ce60e64412a82d4fb9f053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/netconf_browser.csr
+SPDXID: SPDXRef-item9460015
+FileChecksum: SHA1: d2827fdf688746f0bc167e0511ccc19c7911ede8
+FileChecksum: MD5: 8c0546226f21b87bfff7b9f00ea58c96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/client.crt
+SPDXID: SPDXRef-item9460016
+FileChecksum: SHA1: feede090b416b6982a80070a9b8b89a1ef0ba6f3
+FileChecksum: MD5: 8fa111e08b5d196d5b045bb1933bf96e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/client.key
+SPDXID: SPDXRef-item9460018
+FileChecksum: SHA1: afcdafe54208145132f23233cd8808e0f98c0a48
+FileChecksum: MD5: 7ca6f9447fbd590043102855a95ca814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/ca.srl
+SPDXID: SPDXRef-item9460019
+FileChecksum: SHA1: ed6492d681e79598cd6a723973714ff39da2571f
+FileChecksum: MD5: 12a1ad9410d18297f53e0216dc98cb34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/tls/netconf_browser.crt
+SPDXID: SPDXRef-item9460020
+FileChecksum: SHA1: 45ec9edde442a86c798f369d665dffdb5147e01a
+FileChecksum: MD5: db404aa20e3517ea84672d99455faf30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/configuration.json
+SPDXID: SPDXRef-item9460021
+FileChecksum: SHA1: 36f97e1bd682b633b9dbf0a0147f95cf96a56593
+FileChecksum: MD5: 9393422ba0526ea6f5f71b708c4b3db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/docker-compose.yml
+SPDXID: SPDXRef-item9460026
+FileChecksum: SHA1: 71836fef3d9270cb64362b9bac404e69a90a86dc
+FileChecksum: MD5: 6080c216c8ce9f683ca3e2e02915d283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/scripts/stock_config.xml
+SPDXID: SPDXRef-item9460028
+FileChecksum: SHA1: 376c3b55a242d0408335b97e170a0246eeeeef8c
+FileChecksum: MD5: 8d4fa167200ecdcb6252658fe6b3935b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/model-install.sh.in
+SPDXID: SPDXRef-item9460031
+FileChecksum: SHA1: 56438c878c2229af2955a64c854e9347c7a14c3d
+FileChecksum: MD5: f9a0327449dd9e6528b2c91ca19f6bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/supervisord.conf
+SPDXID: SPDXRef-item9460032
+FileChecksum: SHA1: f49209f90b400f228f5ea4453cb62b2cb3c847eb
+FileChecksum: MD5: d1289416bce22191152a2ecc652bc6e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/CMakeLists.txt
+SPDXID: SPDXRef-item9460033
+FileChecksum: SHA1: 97d1a70239c054a7295b2b1fe1fda91a3e594cc2
+FileChecksum: MD5: 53fb74a05bed3873a7a8dcd35379d6ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/container-tag.yaml
+SPDXID: SPDXRef-item9460034
+FileChecksum: SHA1: 5299c7d3ea225e06b3168a6ad80508c6752d2cc4
+FileChecksum: MD5: 42fb397e1ea821f3c9eeeca42c0eb3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/nts-manager/Dockerfile
+SPDXID: SPDXRef-item9460036
+FileChecksum: SHA1: 8681b7191068c4d888e494c0644564468a766ed2
+FileChecksum: MD5: 9aec0145d44fcf6bbd899fbcfe2140ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/ca.key
+SPDXID: SPDXRef-item9460039
+FileChecksum: SHA1: 28fd10ff65a5c9b7a20b34229ed64dfe44d71af0
+FileChecksum: MD5: 22a9d49169af73ec8beccd4db9d02d3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/ca.pem
+SPDXID: SPDXRef-item9460040
+FileChecksum: SHA1: 19b51445fc2c24c8479fa0dfeaa58191f37f312d
+FileChecksum: MD5: a84a2729e5ce60e64412a82d4fb9f053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/netconf_browser.csr
+SPDXID: SPDXRef-item9460041
+FileChecksum: SHA1: d2827fdf688746f0bc167e0511ccc19c7911ede8
+FileChecksum: MD5: 8c0546226f21b87bfff7b9f00ea58c96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/client.crt
+SPDXID: SPDXRef-item9460043
+FileChecksum: SHA1: feede090b416b6982a80070a9b8b89a1ef0ba6f3
+FileChecksum: MD5: 8fa111e08b5d196d5b045bb1933bf96e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/client.key
+SPDXID: SPDXRef-item9460046
+FileChecksum: SHA1: afcdafe54208145132f23233cd8808e0f98c0a48
+FileChecksum: MD5: 7ca6f9447fbd590043102855a95ca814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/ca.srl
+SPDXID: SPDXRef-item9460047
+FileChecksum: SHA1: ed6492d681e79598cd6a723973714ff39da2571f
+FileChecksum: MD5: 12a1ad9410d18297f53e0216dc98cb34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/tls/netconf_browser.crt
+SPDXID: SPDXRef-item9460048
+FileChecksum: SHA1: 45ec9edde442a86c798f369d665dffdb5147e01a
+FileChecksum: MD5: db404aa20e3517ea84672d99455faf30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/supervisord.conf
+SPDXID: SPDXRef-item9460049
+FileChecksum: SHA1: 740e93288ff78fa5be1567a7574cbb58a8fe78da
+FileChecksum: MD5: 4d31b44bb115a36ba10468c705a29047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran-sc/o-ran-ru/supervisord.conf
+SPDXID: SPDXRef-item9460052
+FileChecksum: SHA1: 197896fbc2fa9c9c94b198f53bc39df1c82d7958
+FileChecksum: MD5: a491b58dad3c04851d022eb8ceb233d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran-sc/o-ran-ru/sysrepo-configuration-load.sh
+SPDXID: SPDXRef-item9460053
+FileChecksum: SHA1: 6dbd657683b75c768aa699689d7f6fc50d4311ee
+FileChecksum: MD5: 0529f0174e1f044951fd92478482e4bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran-sc/o-ran-ru/CMakeLists.txt
+SPDXID: SPDXRef-item9460054
+FileChecksum: SHA1: 5f37e5513bbcb44a2ee7ad7386e835d9a4a9471c
+FileChecksum: MD5: 38cab382bed5d4155aa56c4c5ceed704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran-sc/o-ran-ru/container-tag.yaml
+SPDXID: SPDXRef-item9460055
+FileChecksum: SHA1: 5299c7d3ea225e06b3168a6ad80508c6752d2cc4
+FileChecksum: MD5: 42fb397e1ea821f3c9eeeca42c0eb3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran-sc/o-ran-ru/Dockerfile
+SPDXID: SPDXRef-item9460056
+FileChecksum: SHA1: 0afdbe152e050384b5316db6068ce67da19a7d24
+FileChecksum: MD5: 4268d997600eeaa221b0285558bfc265
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/container-tag.yaml
+SPDXID: SPDXRef-item9460057
+FileChecksum: SHA1: 3950ce79e96dd57e1057b8fc3f469cac7d272592
+FileChecksum: MD5: 51dafd28e83b14c0a8ba836d2515f158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-demo-start.sh
+SPDXID: SPDXRef-item9460060
+FileChecksum: SHA1: 5999d69ce6071fa14afd67e21c1772c2ee56c28f
+FileChecksum: MD5: 1e70a33db4ffe92cddaf5b44e664b9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-after-activate.sh
+SPDXID: SPDXRef-item9460061
+FileChecksum: SHA1: 7177f58ea514f1c2716bae6e9e1731a274a2bb61
+FileChecksum: MD5: 99c9f121cfbe5478dc4cf6464be4926d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-after-download.sh
+SPDXID: SPDXRef-item9460062
+FileChecksum: SHA1: 760bb02dcbeeb93fdcfa0d5539e605631b98596d
+FileChecksum: MD5: 4f93a77c3bf30b8954bb5a51dd15df4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-demo-start.xml
+SPDXID: SPDXRef-item9460063
+FileChecksum: SHA1: 082d95cf9b7a49148bea6cc8d95199b67f04f024
+FileChecksum: MD5: 1b810a39dbf4584a5b67e5be6d405799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/supervisord.conf
+SPDXID: SPDXRef-item9460064
+FileChecksum: SHA1: d05a0701de8895e8981ca5729016dbbe2763d489
+FileChecksum: MD5: f0811ac08b3c102a56b8b890ffcfd209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-after-activate.xml
+SPDXID: SPDXRef-item9460065
+FileChecksum: SHA1: 1b30cd01c7fae1c8ad8c4e52c1140f51b48557be
+FileChecksum: MD5: 5ddd12804f05e94d5a55b55e05d153f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/CMakeLists.txt
+SPDXID: SPDXRef-item9460066
+FileChecksum: SHA1: 35efc1496cb476550379d431e1316af78790dea0
+FileChecksum: MD5: 04a8ace8fca6333a2a035832f45d9117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/edit-config-after-download.xml
+SPDXID: SPDXRef-item9460067
+FileChecksum: SHA1: ad5c3cd97ad381789a4eb9952f37e46f1efd831f
+FileChecksum: MD5: e4fb2b4500cff7fd82931c3f6a42631d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/container-tag.yaml
+SPDXID: SPDXRef-item9460068
+FileChecksum: SHA1: 5299c7d3ea225e06b3168a6ad80508c6752d2cc4
+FileChecksum: MD5: 42fb397e1ea821f3c9eeeca42c0eb3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/o-ran/ru-fh/Dockerfile
+SPDXID: SPDXRef-item9460069
+FileChecksum: SHA1: 4bc90b48b860a03adcb9aa7619ce1d86159f9bb9
+FileChecksum: MD5: b7dd56cf98cc189dbad72cd7cfe3b5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-demo-start.sh
+SPDXID: SPDXRef-item9460071
+FileChecksum: SHA1: 5999d69ce6071fa14afd67e21c1772c2ee56c28f
+FileChecksum: MD5: 1e70a33db4ffe92cddaf5b44e664b9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-after-activate.sh
+SPDXID: SPDXRef-item9460072
+FileChecksum: SHA1: 7177f58ea514f1c2716bae6e9e1731a274a2bb61
+FileChecksum: MD5: 99c9f121cfbe5478dc4cf6464be4926d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-after-download.sh
+SPDXID: SPDXRef-item9460073
+FileChecksum: SHA1: 760bb02dcbeeb93fdcfa0d5539e605631b98596d
+FileChecksum: MD5: 4f93a77c3bf30b8954bb5a51dd15df4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-demo-start.xml
+SPDXID: SPDXRef-item9460074
+FileChecksum: SHA1: 515b581ef68521ba21e5ec228b3ddf65cde7c673
+FileChecksum: MD5: adde4e9b0670f13d6e7bc47d71c97a22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/supervisord.conf
+SPDXID: SPDXRef-item9460075
+FileChecksum: SHA1: 6dd2a5e4953f8a248356956c963ee52b230c9942
+FileChecksum: MD5: dcd192b5004c434ae54ed2d493ab1256
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-after-activate.xml
+SPDXID: SPDXRef-item9460076
+FileChecksum: SHA1: 2863a2be4ab6a6685429ae506404c4f4be57ca5b
+FileChecksum: MD5: ee0717bea6ded34185adfa48967824e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/CMakeLists.txt
+SPDXID: SPDXRef-item9460077
+FileChecksum: SHA1: 643cc0df294de1a027aa41dd40ed1516b170a237
+FileChecksum: MD5: b689dba9afa70e2c4b48a1e0210ce53a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/edit-config-after-download.xml
+SPDXID: SPDXRef-item9460078
+FileChecksum: SHA1: 2069b55e517bbeebbc3683331f22992bc2db185f
+FileChecksum: MD5: 9aa305f262ff0c4208a670689edaca1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/container-tag.yaml
+SPDXID: SPDXRef-item9460079
+FileChecksum: SHA1: 5299c7d3ea225e06b3168a6ad80508c6752d2cc4
+FileChecksum: MD5: 42fb397e1ea821f3c9eeeca42c0eb3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/ntsimulator/deploy/x-ran/Dockerfile
+SPDXID: SPDXRef-item9460080
+FileChecksum: SHA1: 37db142ffa396a3d1cc414d5725c549d3dcc1655
+FileChecksum: MD5: ffe54913b18d57307e5721a097cbdf21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/requirements-docs.txt
+SPDXID: SPDXRef-item9460084
+FileChecksum: SHA1: 830678d3ea4f78eaf5a4d076610cce919fdf8044
+FileChecksum: MD5: 21035841f6e7dd1492077f0070952a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/conf.yaml
+SPDXID: SPDXRef-item9460086
+FileChecksum: SHA1: 0a84a7e26dfeb8f9a1dec961e438b49fc95bc0af
+FileChecksum: MD5: f565e76b262772f98a5d97832227fe5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/conf.py
+SPDXID: SPDXRef-item9460087
+FileChecksum: SHA1: c9a34975639f2c3d6b3da7fd6266928c55c34d3e
+FileChecksum: MD5: b92c281beb36ff430cec7d7f93ff9271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/favicon.ico
+SPDXID: SPDXRef-item9460089
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: sim-o1-interface/docs/_static/logo.png
+SPDXID: SPDXRef-item9460091
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-O-RAN-Alliance-BSD-style
+LicenseName: O-RAN Alliance BSD-style
+ExtractedText: <text> Copyright 2019 the O-RAN Alliance.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 'AS IS'
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice,
+this list of conditions and the above disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the above disclaimer in the documentation
+and/or other materials provided with the distribution.
+* Neither the Members of the O-RAN Alliance nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
