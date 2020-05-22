@@ -1,0 +1,1819 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_odulow-2020-05-19.zip_1590000093.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-20T18:41:33Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: odulow-2020-05-19.zip
+PackageFileName: odulow-2020-05-19.zip
+SPDXID: SPDXRef-upload2503
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: ec5618415a27fe76117624afdc7819079b5b3118
+PackageChecksum: SHA1: aaf049c39c805c649a3747bab094e3e2af292e7e
+PackageChecksum: MD5: ee63dcafd2711d5995a4243561f4d058
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2503
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: o-du-phy/docs/index.rst
+SPDXID: SPDXRef-item9446113
+FileChecksum: SHA1: b5e35e7d85046aa022265f6b81fe2fa512c8e2ee
+FileChecksum: MD5: 24e7fe6ee058723a153d455384bdd472
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel </text>
+ 
+
+##File
+
+FileName: o-du-phy/docs/installation-guide.rst
+SPDXID: SPDXRef-item9446125
+FileChecksum: SHA1: e51f30ec6fa0ae25b67014bc81a3f3c5f95c9ce7
+FileChecksum: MD5: d22a86a97eee060e7f552b79277669c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel </text>
+ 
+
+##File
+
+FileName: o-du-phy/docs/overview.rst
+SPDXID: SPDXRef-item9446118
+FileChecksum: SHA1: 59084c48416aeec7a1ee52887ec8d2ebf83911c9
+FileChecksum: MD5: 90e36825505bdff79c36d29d6a077938
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel </text>
+ 
+
+##File
+
+FileName: o-du-phy/docs/release-notes.rst
+SPDXID: SPDXRef-item9446115
+FileChecksum: SHA1: d82c87cc0d3dfc0dc705286c7b39eff77d0782ec
+FileChecksum: MD5: f97a679631aa0075b474beb7a3d719f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/json.hpp
+SPDXID: SPDXRef-item9445941
+FileChecksum: SHA1: 5b286e07f1f32698cb10b497feb3c2b892d2ffd7
+FileChecksum: MD5: 8bd322f86a7062641142527f6a4a18a6
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (C) 2013-2017 Niels Lohmann
+Copyright (c) 2013-2017 Niels Lohmann <http://nlohmann.me>. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/MIT_License.txt
+SPDXID: SPDXRef-item9445947
+FileChecksum: SHA1: 658f16abb09b7508ebb1803a1ade8cec4156a82c
+FileChecksum: MD5: a5c4961c5004e5e7808c079e9514b2b4
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2018 JSON for Modern C++ </text>
+ 
+
+##File
+
+FileName: o-du-phy/tox.ini
+SPDXID: SPDXRef-item9445924
+FileChecksum: SHA1: fe08ccf456caa222160120455e56ebdb5e052dff
+FileChecksum: MD5: a16b885fa6e765ca564a54a9de5f419e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/build.sh
+SPDXID: SPDXRef-item9446109
+FileChecksum: SHA1: 16ffd079e1ff3e6f4718271c721b7bfff23e8b61
+FileChecksum: MD5: 08c51f55decf335046b031868f20db37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/misc/build-xran-image.sh
+SPDXID: SPDXRef-item9445921
+FileChecksum: SHA1: 184791c7e8c228af8253bb14cb3659bcd6b66c33
+FileChecksum: MD5: 8a0deb05771eb626a67ac92d48a07b1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/readme.txt
+SPDXID: SPDXRef-item9446070
+FileChecksum: SHA1: 01bcbd3808a644ceb2444f7d5b5e8e089ba81bf1
+FileChecksum: MD5: 6b4946a5a1f6b8ab2f6cc5e4bf598621
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/chain_tests.cc
+SPDXID: SPDXRef-item9445931
+FileChecksum: SHA1: c950b317965a10fc3e38834ccb74cbe1975af2d0
+FileChecksum: MD5: af303aab422fad7b96a0f3e6e456f5a8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/u_plane_performance.cc
+SPDXID: SPDXRef-item9445932
+FileChecksum: SHA1: 9c57375614c7485dec643258a6997b8568981256
+FileChecksum: MD5: efede0357998483a37c92e291a282a61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/u_plane_functional.cc
+SPDXID: SPDXRef-item9445934
+FileChecksum: SHA1: ca379ffa7d1c163e5b0df1a7996fabc12e473178
+FileChecksum: MD5: de10ab76f236ac9acb0e1dc9bbc170f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/compander_functional.cc
+SPDXID: SPDXRef-item9445935
+FileChecksum: SHA1: 01d9b54c4a781b6c210f46c1cac3c07ad0f84ce0
+FileChecksum: MD5: 014e108c0eefe075cc737a986200b1fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/unittests.cc
+SPDXID: SPDXRef-item9445936
+FileChecksum: SHA1: e2eca9504a1d11108aa33aa16f4d665cbe288bec
+FileChecksum: MD5: e155fd88d22d1a39e284bcb3b0cf3918
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/c_plane_tests.cc
+SPDXID: SPDXRef-item9445933
+FileChecksum: SHA1: 381d5e990896b26fc144437ccc30850805809f9c
+FileChecksum: MD5: 83b5357063b43da7bf736cbd8bb5893d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/prach_functional.cc
+SPDXID: SPDXRef-item9445937
+FileChecksum: SHA1: fa40d0be5ccb67eb23569452dff6cd8073d902e8
+FileChecksum: MD5: cab8fea3ac2c61a49a011833dd2053a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/Makefile
+SPDXID: SPDXRef-item9445929
+FileChecksum: SHA1: e86a0d10902060abe58f32e38527239ca74ad897
+FileChecksum: MD5: edf2d20843113e98f7538b1238e17429
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/init_sys_functional.cc
+SPDXID: SPDXRef-item9445938
+FileChecksum: SHA1: 7ad88848207e4615f84315c41070a44283195cfb
+FileChecksum: MD5: 346bdaf7288513bf9a5364a0be1e7279
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/common.cpp
+SPDXID: SPDXRef-item9445942
+FileChecksum: SHA1: f8a48b492cadddf8cf38fbdca5b86881141013f2
+FileChecksum: MD5: 62aed188e96a06747a8bbaa4e994afc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/prach_performance.cc
+SPDXID: SPDXRef-item9445939
+FileChecksum: SHA1: 98bd8cbebe3a0c6a83cb496704c8700f4a6866ae
+FileChecksum: MD5: 3d0949b28d1bc684b4428581f086ca4c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/xranlib_unit_test_main.cc
+SPDXID: SPDXRef-item9445943
+FileChecksum: SHA1: 2ac1301e9784dbd75b53d5d00e9ca6f8b08be819
+FileChecksum: MD5: 64333d61bcd4d623e105fee87aca65e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/common_typedef_xran.h
+SPDXID: SPDXRef-item9445944
+FileChecksum: SHA1: 28ce42dca51433fdd69ed0bc0c54f653c929b7b8
+FileChecksum: MD5: 30c9a9c013b912dc6836de4fd8d82cbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/common.hpp
+SPDXID: SPDXRef-item9445945
+FileChecksum: SHA1: 7fdc26b1a540a9a452d05d9a3e9edbffe822778d
+FileChecksum: MD5: 8207e0cbd94df7ae2d57c9826a5487dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/common/xran_lib_wrap.hpp
+SPDXID: SPDXRef-item9445946
+FileChecksum: SHA1: f5326e03dfc26b97aac120eb12f287739635a9fd
+FileChecksum: MD5: 096b3e563f23c948cceb36ac832ca82e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/readme.txt
+SPDXID: SPDXRef-item9445948
+FileChecksum: SHA1: dfa2d34e5ef12268a5eed547afa39ee96b362f8c
+FileChecksum: MD5: 75a804018b19f475dddd44aa27821cab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/run_o_ru.sh
+SPDXID: SPDXRef-item9445952
+FileChecksum: SHA1: bd46d1eb3c3b86c9c61bdcf96543233172ca6c5d
+FileChecksum: MD5: 020dabd02e1708ea9adf60a00914d443
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/sample-app.c
+SPDXID: SPDXRef-item9445956
+FileChecksum: SHA1: 7f45aea44b05507176cd70644a29c792efc4fa96
+FileChecksum: MD5: 07720676db38fb5a6e627c13e171c6a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/config.c
+SPDXID: SPDXRef-item9445955
+FileChecksum: SHA1: 9e67b0b408091d252c40df2e139830c60b02a136
+FileChecksum: MD5: 847da00c1a6cc0491715e16ad72d1cae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/Makefile
+SPDXID: SPDXRef-item9445951
+FileChecksum: SHA1: f33d462ac3a957d30a981ae6cd585cc93cb551b1
+FileChecksum: MD5: 24f528259f2509038b1460895a37462e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/common.h
+SPDXID: SPDXRef-item9445957
+FileChecksum: SHA1: f33ab55126246c8e31afc113e096832aa70fe9c5
+FileChecksum: MD5: b117f4510ee8bd16f875810b9d536d24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/debug.h
+SPDXID: SPDXRef-item9445960
+FileChecksum: SHA1: 142d2b9ed79e70e17d745894c453a815515dc365
+FileChecksum: MD5: 718841978577ed804340451cab4b7e70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/common.c
+SPDXID: SPDXRef-item9445959
+FileChecksum: SHA1: 5205da343c2ac26cec2640997bda0f5363318caf
+FileChecksum: MD5: 5bbca10648cb40f010db8c613dadb946
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/xran_mlog_task_id.h
+SPDXID: SPDXRef-item9445958
+FileChecksum: SHA1: 20072619320464106e15692c6aeeb80b62ed2a3a
+FileChecksum: MD5: 4c049a2ee85da2bf61e3ceb15747cbdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/src/config.h
+SPDXID: SPDXRef-item9445961
+FileChecksum: SHA1: 2e15fba505ac3d29742629f96556d8b701241db8
+FileChecksum: MD5: 062e706dc7f8f1f54e7394c7a2d451e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/dpdk.sh
+SPDXID: SPDXRef-item9445962
+FileChecksum: SHA1: dfae4d2bedc8289b40eec1b1a049f194b1ca686e
+FileChecksum: MD5: 9fea86860c4236bb4e912eda05c826f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_10mhz/12/config_file_o_du.dat
+SPDXID: SPDXRef-item9445966
+FileChecksum: SHA1: 0590b55662dc33ad9cdcae49802a72b0b4fd385c
+FileChecksum: MD5: a54b7c1f2c16a3e9cb4f7eef1091f375
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_10mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9445968
+FileChecksum: SHA1: af7bbadb2911fee68f5a85495157849f47381b4d
+FileChecksum: MD5: a95bca2cc820f1926dcaa45e2ba566f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_10mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445969
+FileChecksum: SHA1: 1feadfb0f8396fe15e5484b9579991ce8c5baf16
+FileChecksum: MD5: c7571922a015bd4de89f3b2cbf54e6a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu3_100mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9445971
+FileChecksum: SHA1: 3ec8e548de8841a686e904038b0962ff8a606106
+FileChecksum: MD5: 0c07bdc26e3beb080c81aeac5590e115
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_10mhz/12/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445967
+FileChecksum: SHA1: 8516457de7d2113ebcc7c8dab46a72f51da9bfef
+FileChecksum: MD5: caca670d27ac40e1a7c83516ca434194
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/102/config_file_o_du.dat
+SPDXID: SPDXRef-item9445976
+FileChecksum: SHA1: 664c071f049ab1b102b67304510981f1692c3a2a
+FileChecksum: MD5: 641d0f487a983f61f93e157c03ac9e3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu3_100mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445972
+FileChecksum: SHA1: 782d8e062461cefb22b724875b7821d4e7fa6480
+FileChecksum: MD5: 8e7255e74024e93bada820d27bea2301
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/102/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445977
+FileChecksum: SHA1: b8a2fa4ab0b046686ce67dd88337e4105f7c01d2
+FileChecksum: MD5: b5a720c1febbff2626644c97f6ae88c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/1/config_file_o_du.dat
+SPDXID: SPDXRef-item9445979
+FileChecksum: SHA1: 6a98950eb25fc534bbb90bcad057754c0e3d180f
+FileChecksum: MD5: f09ff7ed240902f756bf3b1a86f3a841
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/1/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445980
+FileChecksum: SHA1: c9ee355e29d606b5728d57d57298ee27945c4c22
+FileChecksum: MD5: 236205fdff29a9b16226d4349694baba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/214/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445983
+FileChecksum: SHA1: 931cb3e52dd290b71595f7b6e304468229a89193
+FileChecksum: MD5: e06e7a9322039f45536b2b22c111a2ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/203/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445986
+FileChecksum: SHA1: 5c762f44517484b49bb5d8ccb88f2e74ef12fa5e
+FileChecksum: MD5: 8e79ec5ce9b1bb2aa1bb1935a05bac95
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/214/config_file_o_du.dat
+SPDXID: SPDXRef-item9445982
+FileChecksum: SHA1: 725aa642bca9245ea71a70930e93018ea579f4df
+FileChecksum: MD5: b802277ea0729021a6d417aa7f7e1952
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/203/config_file_o_du.dat
+SPDXID: SPDXRef-item9445985
+FileChecksum: SHA1: b3887c274bd17ff2aad6efac75acbce011f09e57
+FileChecksum: MD5: 75d2ea93ac040903665b6607ee167dab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/201/config_file_o_du.dat
+SPDXID: SPDXRef-item9445989
+FileChecksum: SHA1: dcd72ac1cb4404f7883d84ee869629e7f38b16ef
+FileChecksum: MD5: 19b47d7aaa2fd92b96083af9a18ec5e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9445987
+FileChecksum: SHA1: 30d9c9e93c01ddb56bb8a2446f217cc11ef4e104
+FileChecksum: MD5: e7208f3d39d728335d6c3198d5e24bf0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/201/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445990
+FileChecksum: SHA1: 2f7fb1b3bc1e36f19aebd13d74f64ade31048787
+FileChecksum: MD5: f93bec96b095dee2e3cacfd2e4a9fb6a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445991
+FileChecksum: SHA1: ba4a4b47412301a05699b1823c20452d8ed404c6
+FileChecksum: MD5: bee624565d36edd49871de1d6f01e07d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/213/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445994
+FileChecksum: SHA1: b706b4a1bdad28feac86e8614d593525823b66a2
+FileChecksum: MD5: bffd4e9848e5eeea4194d658d13e7dc8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/205/config_file_o_du.dat
+SPDXID: SPDXRef-item9445996
+FileChecksum: SHA1: c64f96232d2ef5b7ed45ce2bebca0b234f8bc649
+FileChecksum: MD5: 67c3cb709bd5fae372597ba48462f50c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/206/config_file_o_du.dat
+SPDXID: SPDXRef-item9445999
+FileChecksum: SHA1: f01723c3ac353c6c22285265276a1f600ed4d89f
+FileChecksum: MD5: ae1a48f5b70eb218e147ce4f5e5e017f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/213/config_file_o_du.dat
+SPDXID: SPDXRef-item9445993
+FileChecksum: SHA1: f9d771996d0eadf0f2848bdd82bf0edc7e6f4459
+FileChecksum: MD5: 0bef801015973c0d9a5cf5760f7fd1e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/205/config_file_o_ru.dat
+SPDXID: SPDXRef-item9445997
+FileChecksum: SHA1: a2285a77546db623986b515d77fb4b06dc58402a
+FileChecksum: MD5: db6fae97a768bfdbb013c96876e79209
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/206/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446000
+FileChecksum: SHA1: d426d53cc7329c07f301ffa295507a475f25ff7f
+FileChecksum: MD5: 4803f5e1b666c2f7923e78d8520650cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/103/config_file_o_du.dat
+SPDXID: SPDXRef-item9446005
+FileChecksum: SHA1: 5ee9201e60c3780a1880297fa4e61281c1ae43f7
+FileChecksum: MD5: 3ae0142351e53730ca34011f4c52a0e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/211/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446003
+FileChecksum: SHA1: 1f440fbfdccc8b463db1e30bb7394c9eb036881c
+FileChecksum: MD5: ca1b408874d57806a9a4b4ed4f851c82
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/211/config_file_o_du.dat
+SPDXID: SPDXRef-item9446002
+FileChecksum: SHA1: a14c6d199a8cee9fdf021fef96c530924f53d756
+FileChecksum: MD5: 8c9be5a00f5d6d688d890003aaf5a1f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/101/config_file_o_du.dat
+SPDXID: SPDXRef-item9446008
+FileChecksum: SHA1: 43cffc67183a90d98d4f982de84cabee2e907535
+FileChecksum: MD5: a3879a9e8bd30ef71495a0fbbdfc4389
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/103/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446006
+FileChecksum: SHA1: e8a2e3baf10340dd3a8a1c6ad019e1149dc88d9f
+FileChecksum: MD5: e35486ba00ef8f08a125f534d9e3e5b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/101/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446009
+FileChecksum: SHA1: c9c3811a95fb51f017fec7280a1ed96b7d76d70f
+FileChecksum: MD5: 18ecf17d609c05a110ffe2c28b74dc56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/216/config_file_o_du.dat
+SPDXID: SPDXRef-item9446011
+FileChecksum: SHA1: c56c5d20db9cfd0e44113bdd402fd1f3f27d11b3
+FileChecksum: MD5: 51ab8e36e7d34b2ea5bdf7fc4d552001
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/216/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446012
+FileChecksum: SHA1: af8c0f9902fe2f68fc7c36765a860e153c6a20c1
+FileChecksum: MD5: a1735031563a66268b9c055e7aee2b54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/204/config_file_o_du.dat
+SPDXID: SPDXRef-item9446014
+FileChecksum: SHA1: df90a11ebc31be0de78a1e3648705b08ca719b0e
+FileChecksum: MD5: 532aeabf37eb3d1dc560a912ef67ba03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/204/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446015
+FileChecksum: SHA1: ba0870b8ac1d3485b499650a1807a30e5cdef05d
+FileChecksum: MD5: ccd96f3b1573f85a8a7a78ba3604e58e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/104/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446018
+FileChecksum: SHA1: e2bdc407858a1422e61d71674ec5941b70450e3a
+FileChecksum: MD5: 17192078847515fc54379f0acd61b9eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/104/config_file_o_du.dat
+SPDXID: SPDXRef-item9446017
+FileChecksum: SHA1: 23a9c4923f21103c249e251e688d8b6c628b0ad0
+FileChecksum: MD5: efd534d8e4f1845059e0c015f1ee7d94
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/105/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446021
+FileChecksum: SHA1: 0a8c7c99ab52f4b70c460ba8c575a64a81081b64
+FileChecksum: MD5: 626434c682306007c150a00806eda464
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/105/config_file_o_du.dat
+SPDXID: SPDXRef-item9446020
+FileChecksum: SHA1: 0b4e35ea973577755aa39056d3bdc11564eb8390
+FileChecksum: MD5: d112517ec67b96e2bcc5d03d39f24e31
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/215/config_file_o_du.dat
+SPDXID: SPDXRef-item9446023
+FileChecksum: SHA1: 6144b3c61d3d066af0ebbd686030ba8f73138f21
+FileChecksum: MD5: baae4abb4ad357837ce1f017e3593423
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/215/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446024
+FileChecksum: SHA1: 64c5ceb11eab22d56fd84219440261652ed21407
+FileChecksum: MD5: 67e25968632848d01600284f2763130c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/106/config_file_o_du.dat
+SPDXID: SPDXRef-item9446026
+FileChecksum: SHA1: 9f8163dff93f80784d1c3a45f54ef765103d5d85
+FileChecksum: MD5: 0ba3a57e2cf707d0b7c0469a958b99e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/106/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446027
+FileChecksum: SHA1: 6ec26cbd5d597e44772db4b800b2a32c4c489954
+FileChecksum: MD5: 59b00ab96199fed0b5423f82fdd15ef6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/108/config_file_o_du.dat
+SPDXID: SPDXRef-item9446029
+FileChecksum: SHA1: ef3103fa694d771b23ff4ded73cca125a6c7c71d
+FileChecksum: MD5: b8999caa35dd24d420d93f715349d558
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/108/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446030
+FileChecksum: SHA1: 12dec3433fec2c881a3d13825dfdcc7895c6e8d7
+FileChecksum: MD5: c5174de7fc332dac7ec6b9df856a9946
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/107/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446033
+FileChecksum: SHA1: a6c9292834f4c5ca517dcd07e9bda3a6480994a7
+FileChecksum: MD5: b681fbcc4af682bb23954cc3d9378e91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/212/config_file_o_du.dat
+SPDXID: SPDXRef-item9446035
+FileChecksum: SHA1: 941396f29cb932436f1722481066115ea0c46d2a
+FileChecksum: MD5: 8f5eec943d9720d9073cce1d5a9ffe72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/212/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446036
+FileChecksum: SHA1: 2230b66da3245588814e862efc0edff293783f05
+FileChecksum: MD5: 116c11f89b8a583777bf2ca16d9f1850
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/107/config_file_o_du.dat
+SPDXID: SPDXRef-item9446032
+FileChecksum: SHA1: 0ba07a1392f7f11d9110f02f98d1b2a9e3eadaef
+FileChecksum: MD5: c1559be0a7b0156f4cb98569f9cd8505
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/109/config_file_o_du.dat
+SPDXID: SPDXRef-item9446038
+FileChecksum: SHA1: 583edddde6aed499103ddbbfab054e86aa6d192d
+FileChecksum: MD5: 0d709933ef1900721272ea1e6fce8803
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/109/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446039
+FileChecksum: SHA1: f191ee94c3762ef90c5a1ca8da35b5cae0fa1632
+FileChecksum: MD5: 88c107e913425bb3c65069947593b668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/202/config_file_o_du.dat
+SPDXID: SPDXRef-item9446041
+FileChecksum: SHA1: 6e06633c0163a72d15e05a6257f52d12246d3d45
+FileChecksum: MD5: 53d8aed437f634bac4395935f69e533b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_5mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446045
+FileChecksum: SHA1: 4f51687ce51351e645cad24a88d8e8a300d5e82f
+FileChecksum: MD5: 3c14a56e81b5dcb92f90e74457f5a690
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/cat_b/mu1_100mhz/202/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446042
+FileChecksum: SHA1: 2c124d64c678f4f8279100f82136397b76eb7288
+FileChecksum: MD5: 091148fd8d43270314b53663a851719e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu1_100mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446048
+FileChecksum: SHA1: a96f67e530e6384a8c90f50038506315833237c3
+FileChecksum: MD5: 1e5f7110154e8fbd8acb443f58637fb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu1_100mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9446047
+FileChecksum: SHA1: 57a55f6b8a60dfaa8a9fa8c2da9b6243aa31e726
+FileChecksum: MD5: 2abb4fda531d584b70b407ca5cb21848
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_5mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9446044
+FileChecksum: SHA1: a80b8bef715db5c00df81f42eaabd030d25d1ec6
+FileChecksum: MD5: a393aa646aac2f901f1eda0cc11b3f7b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu1_100mhz/2/config_file_o_du.dat
+SPDXID: SPDXRef-item9446050
+FileChecksum: SHA1: 2a82528fdc12824f7a78fcf824da0672235d76d1
+FileChecksum: MD5: 8b79578c2bc920d1df87ff202b597e27
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu1_100mhz/2/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446051
+FileChecksum: SHA1: 95d10dc7b8f5d4c487d9e8a0aab4c228f153273f
+FileChecksum: MD5: 7ff580b638d7c5e33384df2db9c39d90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/instance0/run_o_du_0.sh
+SPDXID: SPDXRef-item9446064
+FileChecksum: SHA1: 369555d413f6fa667648f43bd4b2cc37eeaff55a
+FileChecksum: MD5: 00e7d797427ed13a8265ef2bccbe7651
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/run_o_du.sh
+SPDXID: SPDXRef-item9446062
+FileChecksum: SHA1: 00ab68e97c04873e83c3a03f4a883a087b107068
+FileChecksum: MD5: 696bdfc0ba22af7956aec9c69bd6276d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/config_file_o_du.dat
+SPDXID: SPDXRef-item9446060
+FileChecksum: SHA1: bfa3a03799bf851161b51c53b75f425fd0c8eda1
+FileChecksum: MD5: b4f34aa438a77be7f40a68ced614c982
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446061
+FileChecksum: SHA1: a071b75b8e960f9d484003189b6c5a07d4acc796
+FileChecksum: MD5: a4dabdf70b2664ae13616cad12692eab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/instance0/run_o_ru_0.sh
+SPDXID: SPDXRef-item9446065
+FileChecksum: SHA1: f5ddf3da7dcab2f28f5d519dda1fe7feb79abc21
+FileChecksum: MD5: a7a88fc61ace11665f418f9bce4eda96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/instance1/run_o_ru_1.sh
+SPDXID: SPDXRef-item9446068
+FileChecksum: SHA1: 982ecb36d651478499de6d04dfa4b1989c433d98
+FileChecksum: MD5: 3ed51c38c7fa798665c641e371a190de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/instance1/run_o_du_1.sh
+SPDXID: SPDXRef-item9446069
+FileChecksum: SHA1: badac56605016261ebe0c9e124dee1ab408cc39b
+FileChecksum: MD5: 2b033b7f80363f633f8551aa4eff2d03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_common.c
+SPDXID: SPDXRef-item9446074
+FileChecksum: SHA1: e8cddb915551ea27fc2dc4df5cb3ee29a3372f88
+FileChecksum: MD5: 02eea28896f4e34e3dfdd23a98ff91c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_transport.c
+SPDXID: SPDXRef-item9446075
+FileChecksum: SHA1: aa9cd851a82e15ce539b01d2c589864d4ecde6fb
+FileChecksum: MD5: 62a58597eeecccec41625dd155c33ac8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_frame_struct.h
+SPDXID: SPDXRef-item9446077
+FileChecksum: SHA1: 3f99e80f16cbb2f56279b34c55e5f7d775f43116
+FileChecksum: MD5: aaffbe1bfc9d6eed8231506fd6ba4cfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_compression.cpp
+SPDXID: SPDXRef-item9446078
+FileChecksum: SHA1: c126f40fec33cc4af762112d3781d2c23acf85ec
+FileChecksum: MD5: 92f4d58cc68fd5bbc9e9dc8cfcbc8ae0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_app_frag.c
+SPDXID: SPDXRef-item9446076
+FileChecksum: SHA1: 5556a7f584ad49744da8f48a47d5ec2c26f403f1
+FileChecksum: MD5: 04a895f2a6f0759b2cfbe8981004a7d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_frame_struct.c
+SPDXID: SPDXRef-item9446079
+FileChecksum: SHA1: 3a9d0d084f7d553ffe284cd6284eed33b3965b2f
+FileChecksum: MD5: 36efe5dad46528c8654b79f7b8645e34
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/Makefile
+SPDXID: SPDXRef-item9446072
+FileChecksum: SHA1: 44f47d10e29261e079742a5e2deb47261ce0db62
+FileChecksum: MD5: 5006a32dad51779a5ba80506ef6ad62e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_timer.c
+SPDXID: SPDXRef-item9446082
+FileChecksum: SHA1: 5d7ac77159675ab45cc44e790976985f889771da
+FileChecksum: MD5: f44a1a916196601c4b2a3b2c72fd0769
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_ul_tables.c
+SPDXID: SPDXRef-item9446080
+FileChecksum: SHA1: 4cdf065bb00e79b3ebd028b5f4a5289a0c5ab394
+FileChecksum: MD5: 2c01a16c69bf210c509fa1efb883379f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_main.c
+SPDXID: SPDXRef-item9446083
+FileChecksum: SHA1: 2cf8a6946afc9e93b40ef46e8117247c0f60fa61
+FileChecksum: MD5: 9627210c5e0c937d2197f9a87f0a75aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_up_api.c
+SPDXID: SPDXRef-item9446084
+FileChecksum: SHA1: d7fc780b754b4dd66082f433acea191f3513fdf9
+FileChecksum: MD5: 8ce6c7547f6d1f8a7bc0239458d7b97b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_cp_api.c
+SPDXID: SPDXRef-item9446081
+FileChecksum: SHA1: 8a1fa5e75807ca4d57d3e7bc24e283bc2afeabad
+FileChecksum: MD5: 364cc69643544256c5bfaef518d53a50
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_lib_mlog_tasks_id.h
+SPDXID: SPDXRef-item9446085
+FileChecksum: SHA1: 081a8cf97638c46764e97d419c71a5c75d183368
+FileChecksum: MD5: 8a57f14e59847d2e54b6b4fffb1d574a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_printf.h
+SPDXID: SPDXRef-item9446086
+FileChecksum: SHA1: a24d2b21b0652e5cbb0eed33a30cf8a0da57e79f
+FileChecksum: MD5: f9543ea5c0bbe16046990a3aa6f720bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_common.h
+SPDXID: SPDXRef-item9446087
+FileChecksum: SHA1: 9dbd31ed13c94fa8a52761776e4c354370a142b8
+FileChecksum: MD5: f42a0b272504b2cee2973eddc552bbd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_sync_api.c
+SPDXID: SPDXRef-item9446088
+FileChecksum: SHA1: 7d7e3cee0c9a76586a3225eb94a7a7cb0952a3f7
+FileChecksum: MD5: 2bb3922e39c8397f78129eaea173624c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/src/xran_app_frag.h
+SPDXID: SPDXRef-item9446089
+FileChecksum: SHA1: d3a1b39ea1b53b399f6819c95e70360b37b3829a
+FileChecksum: MD5: 4e06c6822fe82de2f0ff4c2c5663f9a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/build_ci.sh
+SPDXID: SPDXRef-item9446090
+FileChecksum: SHA1: 811d66701afb9b5455a90dec523abb970d2d6452
+FileChecksum: MD5: 500575b948f4394a12700f0b2da5d2b4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/ethernet/ethernet.h
+SPDXID: SPDXRef-item9446092
+FileChecksum: SHA1: 4266d3dd99a0cd33ddb70e467fed225359a0da2e
+FileChecksum: MD5: e7fbcc2e0560cfbea6c088ab7cb31331
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/ethernet/ethdi.c
+SPDXID: SPDXRef-item9446093
+FileChecksum: SHA1: 6b55d414bb44e815d4ea673dd3683d0d0624b6a4
+FileChecksum: MD5: 8e32e0d2765f4acf0b99d38eb6f57a24
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/ethernet/ethdi.h
+SPDXID: SPDXRef-item9446094
+FileChecksum: SHA1: b71c7923b1c03e3246c5c46d83442aaf26579223
+FileChecksum: MD5: e3290550271ae4920831aa4b7605ed83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_up_api.h
+SPDXID: SPDXRef-item9446098
+FileChecksum: SHA1: b5595bd83d2af7981b3aaff2a2b623076f715736
+FileChecksum: MD5: e96e2e6833ab5106204b371d785490a9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/ethernet/ethernet.c
+SPDXID: SPDXRef-item9446095
+FileChecksum: SHA1: 2e69ec51fb36c87fe3a7b3605a010cc6ea110934
+FileChecksum: MD5: 7c27bb17ce32047ad1b817ba2998a5fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_timer.h
+SPDXID: SPDXRef-item9446099
+FileChecksum: SHA1: 4aa33f593c2452f3462a4318ed9958c048922bae
+FileChecksum: MD5: 01b0908ee2fa73e6c8f268fd84ffb615
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_transport.h
+SPDXID: SPDXRef-item9446100
+FileChecksum: SHA1: 75353d15b51e888f70ed8c8fb42d4184e7e51d3f
+FileChecksum: MD5: 105e63c6dc574b647c04a41ea0440b10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_compression.hpp
+SPDXID: SPDXRef-item9446102
+FileChecksum: SHA1: 6fdaf278bb25b16019934f44ed9896c31d4dc018
+FileChecksum: MD5: 869da4c88a92a2fee0c558e9d2b75995
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_pkt.h
+SPDXID: SPDXRef-item9446101
+FileChecksum: SHA1: 358e30aed5c8f6246d33937bf37e57c0912b70cb
+FileChecksum: MD5: d2efae42a4a9bd978c60b8e0cce93a7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_sync_api.h
+SPDXID: SPDXRef-item9446097
+FileChecksum: SHA1: 4ec21d3d2e4e5c73840086b21f0354ecb3b34bf0
+FileChecksum: MD5: bbd180ee47d5a56fd9ccd7108a36b388
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_compression.h
+SPDXID: SPDXRef-item9446104
+FileChecksum: SHA1: 2d81f71d48614a04b62278d4b5b5a2b24648c434
+FileChecksum: MD5: 4bb688a36aadc48c548444e08551ab6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_mlog_lnx.h
+SPDXID: SPDXRef-item9446106
+FileChecksum: SHA1: 166c61cc5534fe7bf3b32bb2a5fe771d345a69fb
+FileChecksum: MD5: 91af55c4c1c9fb866ddc3ac1d3380732
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_cp_api.h
+SPDXID: SPDXRef-item9446103
+FileChecksum: SHA1: 6b4d54323c644bd77c05345bee30cdbe9316a70f
+FileChecksum: MD5: e6538623294e8d1c268c75810fcd6020
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_fh_o_du.h
+SPDXID: SPDXRef-item9446105
+FileChecksum: SHA1: c055bc052def0c8b49c78c31dcd1f3a66da82bf0
+FileChecksum: MD5: 6f75b3b905ad8486f6fff1275942cb77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_pkt_up.h
+SPDXID: SPDXRef-item9446108
+FileChecksum: SHA1: 419618b739511f2f5bb77a609956ec9e76d05f20
+FileChecksum: MD5: 81c9ddd3b9d38c866afda1686182e0ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/lib/api/xran_pkt_cp.h
+SPDXID: SPDXRef-item9446107
+FileChecksum: SHA1: 613d71a09d7ebf1833853a3f9b7bbe192860eaf0
+FileChecksum: MD5: 5412d7b73939d926f6ba83cf0beec060
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/Dockerfile
+SPDXID: SPDXRef-item9446127
+FileChecksum: SHA1: 21a8472a398ee28aa7e5cffe2b3f513572ad0c8a
+FileChecksum: MD5: d290fdedbfc357f8e0b436068f6dc23d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/Licenses.txt
+SPDXID: SPDXRef-item9446110
+FileChecksum: SHA1: 52b6a603804da3224255fe5577c1c3518ae6f448
+FileChecksum: MD5: f3222438536b47f43e6d46d0dac11a1f
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/Licenses.txt
+SPDXID: SPDXRef-item9446126
+FileChecksum: SHA1: 52b6a603804da3224255fe5577c1c3518ae6f448
+FileChecksum: MD5: f3222438536b47f43e6d46d0dac11a1f
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 Intel. </text>
+ 
+
+##File
+
+FileName: o-du-phy/misc/update-config-run.sh
+SPDXID: SPDXRef-item9445922
+FileChecksum: SHA1: f2991ac21fdecc254279d69390d20765b900a53c
+FileChecksum: MD5: 236d46c2412fbd781949f0967f0ad83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/.gitreview
+SPDXID: SPDXRef-item9445923
+FileChecksum: SHA1: 2211cc1340b9dd142462395e00500b659992b99f
+FileChecksum: MD5: 823e50fc10037dc42bce839af22e7874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/.readthedocs.yaml
+SPDXID: SPDXRef-item9445925
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/test_xran/conf.json
+SPDXID: SPDXRef-item9445930
+FileChecksum: SHA1: b101a90b93d790864b32d505a145631733ba68e1
+FileChecksum: MD5: 7f5ea4b9831fef97996e8e3aad6de0b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/test/master.py
+SPDXID: SPDXRef-item9445949
+FileChecksum: SHA1: 66ac8244c9ab732a29aba751f1132a3ac545f77d
+FileChecksum: MD5: b70a2992e6c24e3a74a8f9c46df5b1cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/gen_test.m
+SPDXID: SPDXRef-item9445953
+FileChecksum: SHA1: d9d36365f0e2db24627d4777c4ac27537271293b
+FileChecksum: MD5: f3f2a61e096f11d7684adc87bebe5804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_du.dat
+SPDXID: SPDXRef-item9446054
+FileChecksum: SHA1: 09bacc8df4e4299ffabddfacab30fdfb99c0496f
+FileChecksum: MD5: 09c918b3d2e78417789316e86f48ca9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_du_1.dat
+SPDXID: SPDXRef-item9446055
+FileChecksum: SHA1: e66d74254068131709311786e990d0320ca9e4a3
+FileChecksum: MD5: 3532e79c2a5dfcb48963562a3d36fdbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_ru.dat
+SPDXID: SPDXRef-item9446056
+FileChecksum: SHA1: fa99cb2baccb4d76239814eaa34dbafcf859c361
+FileChecksum: MD5: 15a7a52f1fd7c14971050e8c1fa711ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_ru_0.dat
+SPDXID: SPDXRef-item9446057
+FileChecksum: SHA1: c496a2d00009ad8ee031213e357029873bbae92c
+FileChecksum: MD5: 3254afb7d00ccb12ed229e2d0dd723db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_ru_1.dat
+SPDXID: SPDXRef-item9446058
+FileChecksum: SHA1: 34a2fb02b47265133402e01f248c7c56fa1c7eb5
+FileChecksum: MD5: 6d17bbf417162dbfddcabd84aaf1e76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/usecase/mu0_20mhz/12/config_file_o_du_0.dat
+SPDXID: SPDXRef-item9446059
+FileChecksum: SHA1: f64c3a8c8a8f33b7a50bfc2d3622f0a6715adcf5
+FileChecksum: MD5: 332952f4611c8e7064212a2c6f5b8aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/fhi_lib/app/ifft_in.txt
+SPDXID: SPDXRef-item9446066
+FileChecksum: SHA1: 0ed3655ef758281983992e1a7ba1ea9a742ee97d
+FileChecksum: MD5: 5eb86889cb0d1f72bde4459e121c8d84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/.gitignore
+SPDXID: SPDXRef-item9446111
+FileChecksum: SHA1: e3b2cee88d1831c5961ca3ca21d9dacfe9192b84
+FileChecksum: MD5: 327e127d349f7f9c8205dc4b32dfcb32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/requirements-docs.txt
+SPDXID: SPDXRef-item9446114
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/conf.yaml
+SPDXID: SPDXRef-item9446116
+FileChecksum: SHA1: abb788d7924d29573b402c4e2fc1969f4075625b
+FileChecksum: MD5: 61a234b398173112fe7ded03cb097173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/conf.py
+SPDXID: SPDXRef-item9446117
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/favicon.ico
+SPDXID: SPDXRef-item9446119
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/_static/logo.png
+SPDXID: SPDXRef-item9446121
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/Doxygen/Doxyfile
+SPDXID: SPDXRef-item9446123
+FileChecksum: SHA1: 70d8b0636414d89fc7bc2c162512ab4fb6e31d1a
+FileChecksum: MD5: 7b17373fbebf8d0ae5eaa4e0eca0e55b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: o-du-phy/docs/Doxygen/terminal_commands.txt
+SPDXID: SPDXRef-item9446124
+FileChecksum: SHA1: e937d066c9959999428845ffbb4b7b9d4d77f29c
+FileChecksum: MD5: f5410ab97fed78e4961017b306e44417
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
