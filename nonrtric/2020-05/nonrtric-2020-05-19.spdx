@@ -1,0 +1,4938 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_nonrtric-2020-05-19.zip_1590000069.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-05-20T18:41:09Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: nonrtric-2020-05-19.zip
+PackageFileName: nonrtric-2020-05-19.zip
+SPDXID: SPDXRef-upload2500
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: c1a1f5d056845a9dc46d20dd29a7a2f6141a9413
+PackageChecksum: SHA1: d0a9adb9ce294786e750f4b48d0870f88c27bce6
+PackageChecksum: MD5: c1306d68f22e44ed4223d466a4147304
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2500
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/README.md
+SPDXID: SPDXRef-item9443133
+FileChecksum: SHA1: 811bbdb05997f0f1c21f86613453cf295779d3f3
+FileChecksum: MD5: 972fdc9d18fb59f959cb077d8daeebcb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/README.md
+SPDXID: SPDXRef-item9443218
+FileChecksum: SHA1: 92f494f0a1518dca15f0da83a70e2c7fdeef0604
+FileChecksum: MD5: 1db12da9c148be25868758ac978c1554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/LICENSES.txt
+SPDXID: SPDXRef-item9443263
+FileChecksum: SHA1: 8c68f7ba211e790993a41acee45958e786d76257
+FileChecksum: MD5: 173bc9e0df99faf4400bd25f1968b6af
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/README.md
+SPDXID: SPDXRef-item9443216
+FileChecksum: SHA1: 2eb99e79355375cfbf787e1770fc7412e31c5547
+FileChecksum: MD5: 043ade90c039754d8371840a2028c325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/LICENSES.txt
+SPDXID: SPDXRef-item9443115
+FileChecksum: SHA1: 3e0ea956a93f19045d2fb5a40f8143f07f58a414
+FileChecksum: MD5: 912c13970da6797164e1d607dbf30258
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/README.md
+SPDXID: SPDXRef-item9442883
+FileChecksum: SHA1: bb153f755d81d1ffe939a8fe136f6a7b5144e2cf
+FileChecksum: MD5: 7b4067787913113b41b9a28bb6bed97a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/LICENSE.txt
+SPDXID: SPDXRef-item9443128
+FileChecksum: SHA1: 58853eb8199b5afe72a73a25fd8cf8c94285174b
+FileChecksum: MD5: 2b42edef8fa55315f34f2370b4715ca9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/properties/sql-resource.properties
+SPDXID: SPDXRef-item9443227
+FileChecksum: SHA1: ea2d64021c211c93116ab381bff9d4a58ae4716c
+FileChecksum: MD5: 9862dc243f455677395f68ee0ec53528
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/properties/svclogic.properties
+SPDXID: SPDXRef-item9443228
+FileChecksum: SHA1: bfea54101e8398277c227e9a746bb64c77777636
+FileChecksum: MD5: c071820af5e66e9aef8612cf740464bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/properties/dblib.properties
+SPDXID: SPDXRef-item9443226
+FileChecksum: SHA1: e9945070081b226ea1f402bae9d7d473d13d09fd
+FileChecksum: MD5: 72b54954ef67aa252d30cd23bcf6198f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/installer/src/main/resources/scripts/install-feature.sh
+SPDXID: SPDXRef-item9443160
+FileChecksum: SHA1: ea6404db0fa700dd32f70806306873e3eee7b580
+FileChecksum: MD5: fb341af07955d1f5a169937d7a8f6640
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/installer/src/assembly/assemble_installer_zip.xml
+SPDXID: SPDXRef-item9443156
+FileChecksum: SHA1: ef4b5dd874c89332f634c7999d379cdb8e475bf1
+FileChecksum: MD5: 8456d9aa9874a617154bc40cdc227de6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/properties/aaiclient.properties
+SPDXID: SPDXRef-item9443229
+FileChecksum: SHA1: d284dce8e54ff9d8f4149c6151690c0bbc0ec1e6
+FileChecksum: MD5: 2f06cc08345f8d6972acb600344eaddf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/installer/src/assembly/assemble_zip.xml
+SPDXID: SPDXRef-item9443257
+FileChecksum: SHA1: dada8a8df289cea3dff4f369c285961048125d83
+FileChecksum: MD5: dd1bcd72c54a1035484d15d58bf989d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/properties/blueprints-processor-adaptor.properties
+SPDXID: SPDXRef-item9443230
+FileChecksum: SHA1: 17647a8c3a107aeef523a67c4d570fc5ab2bd068
+FileChecksum: MD5: 7334976aca3282aa6595b89c514315e5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2017-2018 AT&T Intellectual Property.
+Copyright (c) 2018 IBM. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/installer/src/assembly/assemble_mvnrepo_zip.xml
+SPDXID: SPDXRef-item9443155
+FileChecksum: SHA1: efcdb9af5b1ff6a8f971c06fb99790961815a47a
+FileChecksum: MD5: bda5a270afc8fdb1e7ed08e1cd23b5b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/policy-card/policy-card.component.spec.ts
+SPDXID: SPDXRef-item9443311
+FileChecksum: SHA1: 81b76a576f26aa04773b2d728eb0a39ae63b1e43
+FileChecksum: MD5: d5d92a8cbee91a0c4dd7a448850e2293
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-control.component.spec.ts
+SPDXID: SPDXRef-item9443333
+FileChecksum: SHA1: e0ea133119a9805a138161b0425ff0168225f8ae
+FileChecksum: MD5: 900cd7f706b00c2950da7622dc1e15e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/policy-card/policy-card.component.html
+SPDXID: SPDXRef-item9443313
+FileChecksum: SHA1: 2a19fd0174823c0942d778d842a04bb9723b2680
+FileChecksum: MD5: 3a213ab06d82941374e62d72a845dc0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/policy/policy.service.spec.ts
+SPDXID: SPDXRef-item9443358
+FileChecksum: SHA1: e30620dc8204bf4da1f54d62eac7abbbc6df3865
+FileChecksum: MD5: ca4b2a7995851eb4f3b62df76fafbfc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/main/main.component.html
+SPDXID: SPDXRef-item9443366
+FileChecksum: SHA1: 098badd3ea252551c8fea5c3105094fc3d4968da
+FileChecksum: MD5: fd2654e46b5e98f4a24818060c3ff4dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/README.md
+SPDXID: SPDXRef-item9442890
+FileChecksum: SHA1: 35c8dfeca5e96765ae2ac3a2ed5f0b7ae7cd56d7
+FileChecksum: MD5: c0d82ef0fe0889eb352b1030e6673e75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/utils/MockA1ClientFactory.java
+SPDXID: SPDXRef-item9442907
+FileChecksum: SHA1: 211dae12629a3726abeaf4a98f69ce1795ef8cd5
+FileChecksum: MD5: 6f1422d58f15dd79f5cf2695a7c7b3f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/utils/MockA1Client.java
+SPDXID: SPDXRef-item9442906
+FileChecksum: SHA1: 20d35636a9789864107714ff52f4d62584b5170e
+FileChecksum: MD5: b9fe3333ff642edd37dff1f9d35387e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/utils/LoggingUtils.java
+SPDXID: SPDXRef-item9442908
+FileChecksum: SHA1: a6a79bc619edd0a1467ee02fa40c9d61d434ab4d
+FileChecksum: MD5: 84a6f2ed15d6805b77f626996d9f49be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/tasks/RicSynchronizationTaskTest.java
+SPDXID: SPDXRef-item9442910
+FileChecksum: SHA1: 76649df91d93f65e3f8933761eb7296ad4cbdb31
+FileChecksum: MD5: 30a35084caff5bdcfb7c6b10f1803de6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/tasks/ServiceSupervisionTest.java
+SPDXID: SPDXRef-item9442911
+FileChecksum: SHA1: 1e0fb43357f776ba7ec8e47b1bcdf857dc489705
+FileChecksum: MD5: 9f56277d94c022d7b0536dce1b2557a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/tasks/EnvironmentProcessorTest.java
+SPDXID: SPDXRef-item9442913
+FileChecksum: SHA1: a61235a4171d41f8ea6448373646368a20095b6f
+FileChecksum: MD5: 2836d6c0671744f53bfa66119d8c31de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/tasks/RicSupervisionTest.java
+SPDXID: SPDXRef-item9442912
+FileChecksum: SHA1: 7966184da09101aa451feafad239235774ef6a23
+FileChecksum: MD5: f8d93d7fd35c532002cc63d4d89e750f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/configuration/ApplicationConfigParserTest.java
+SPDXID: SPDXRef-item9442916
+FileChecksum: SHA1: f932d22b86886c3762f6032ed57e42f45c390182
+FileChecksum: MD5: c5f2ecafd4cc6d3957cdef72dec8c97e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/tasks/RefreshConfigTaskTest.java
+SPDXID: SPDXRef-item9442914
+FileChecksum: SHA1: 9ff43d0782452d40613728bc3291b0372b64c6e4
+FileChecksum: MD5: 80902a3da6bb72c80753c5c241688365
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/configuration/ApplicationConfigTest.java
+SPDXID: SPDXRef-item9442917
+FileChecksum: SHA1: 47460cdae7e286514deff4e3e9b3b9aa51b38af0
+FileChecksum: MD5: 5720595247f599e2717abf1cfc8e69ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/dmaap/DmaapMessageConsumerTest.java
+SPDXID: SPDXRef-item9442919
+FileChecksum: SHA1: 9d3d646de799fd8ca818f35f7b5771af60497561
+FileChecksum: MD5: 01e65ec30a9e1600ce8429d282762a84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/dmaap/DmaapMessageHandlerTest.java
+SPDXID: SPDXRef-item9442920
+FileChecksum: SHA1: 64e9a231a5222e654b654d5c395a06e5cf783aef
+FileChecksum: MD5: 6f09c79096159f0a76d73368e365611d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/A1ClientFactoryTest.java
+SPDXID: SPDXRef-item9442924
+FileChecksum: SHA1: f8f4db69f6bf8a656abb572f022b66688c803d35
+FileChecksum: MD5: 32f645df2a0124aba15247c049e501d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/repository/LockTest.java
+SPDXID: SPDXRef-item9442922
+FileChecksum: SHA1: e1b71a1ef973d1a8f4a8cff096d3b09a026f4e82
+FileChecksum: MD5: 4a47b78ea6273d61ea460cc97645e8c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/OscA1ClientTest.java
+SPDXID: SPDXRef-item9442925
+FileChecksum: SHA1: 1d7684526490e55f455028349759ff7431dc351d
+FileChecksum: MD5: ffe440b49968b5e61a08c71d16196a29
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/StdA1ClientTest.java
+SPDXID: SPDXRef-item9442926
+FileChecksum: SHA1: 2cae5e3be63741801fa072563a994753c5c76ec3
+FileChecksum: MD5: b68a13a749496430bfb4219293f6689c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/A1ClientHelper.java
+SPDXID: SPDXRef-item9442929
+FileChecksum: SHA1: 2c241724824a5a1a0fc97ebec6161e92bc28ded1
+FileChecksum: MD5: dd3b42394957335a1feb537f6ce06b80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/AsyncRestClientTest.java
+SPDXID: SPDXRef-item9442928
+FileChecksum: SHA1: 0bce751ee97ef8ffe93d2541ce4de3ee6ea606f8
+FileChecksum: MD5: 1513f771e3d07e16959ccc7e0a979e70
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/SdncOscA1ClientTest.java
+SPDXID: SPDXRef-item9442927
+FileChecksum: SHA1: 062efa0cb876e3d8e661a2b82806f9615b572411
+FileChecksum: MD5: d5968d41a44fa0034f18131fed54db69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/ConcurrencyTestRunnable.java
+SPDXID: SPDXRef-item9442933
+FileChecksum: SHA1: 4fb266a708c2ee2c63c1278b73f3ef0e2582a7f5
+FileChecksum: MD5: adf3ec715583751b2116e109bbcaa4a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/MockPolicyAgent.java
+SPDXID: SPDXRef-item9442931
+FileChecksum: SHA1: b0a43836bf68b3d498c7b447333a10313aedcff0
+FileChecksum: MD5: 2583caf036c9bdd93e70cffb2c59bf25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/ApplicationTest.java
+SPDXID: SPDXRef-item9442932
+FileChecksum: SHA1: ee68d6227c4f336317d3c9ebdaebd3bb0ecd1134
+FileChecksum: MD5: 87a90b69caba5b588a33d0b003a8c832
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/Application.java
+SPDXID: SPDXRef-item9442941
+FileChecksum: SHA1: 9fc11c099c5450486acd2574d3e893c407788365
+FileChecksum: MD5: 639b1bf6cc2719db87e3fa98d1311080
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/java/org/oransc/policyagent/clients/SdncOnapA1ClientTest.java
+SPDXID: SPDXRef-item9442930
+FileChecksum: SHA1: 1e98307fc5f4d05ab3c7fb9697cbd51c1d6b68dd
+FileChecksum: MD5: 923074a184170899d0848b49fd27b759
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/SwaggerConfig.java
+SPDXID: SPDXRef-item9442944
+FileChecksum: SHA1: f0959160ecad4647b75c8f82f77af6708ac512f6
+FileChecksum: MD5: b533ea6252fa956f717bcfcb85cc9277
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/tasks/EnvironmentProcessor.java
+SPDXID: SPDXRef-item9442947
+FileChecksum: SHA1: 1c38064f5210188f8c0f78657ed9a9b382854653
+FileChecksum: MD5: 28e882b3b4db01de83854c90d824692a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/aspect/LogAspect.java
+SPDXID: SPDXRef-item9442943
+FileChecksum: SHA1: 338aaed6d91c69dcc842efcf1f9d743dde7df0cc
+FileChecksum: MD5: e294c24948cbe33f276ade6f6633081d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/tasks/RicSynchronizationTask.java
+SPDXID: SPDXRef-item9442946
+FileChecksum: SHA1: 1f38ec707c307c378c444b62d131d84b4e9bb3c0
+FileChecksum: MD5: fe26c2528c6f710394d45a8fd3623de4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/tasks/RicSupervision.java
+SPDXID: SPDXRef-item9442950
+FileChecksum: SHA1: dc41e6d62b62213f727d73564ad208df30d3a522
+FileChecksum: MD5: cff4356aa201b1a542d914ec6dc0fa63
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/AsyncConfiguration.java
+SPDXID: SPDXRef-item9442952
+FileChecksum: SHA1: 56d950c4fd60e080f2a4d59b60d683f17dbaf6b9
+FileChecksum: MD5: 89fe027d8159955a53ce19e30d44d159
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/tasks/ServiceSupervision.java
+SPDXID: SPDXRef-item9442948
+FileChecksum: SHA1: 7ae0326fdcb97883af46b1b294abb5e56d607154
+FileChecksum: MD5: 0358f068413ad816532f10f081dde6e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/tasks/RefreshConfigTask.java
+SPDXID: SPDXRef-item9442949
+FileChecksum: SHA1: f753cfd6ca94b8a8b9ce5b56eb89d16945be47c1
+FileChecksum: MD5: 8dbd7237e29af9d821849a820d4f8bdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/WebClientConfig.java
+SPDXID: SPDXRef-item9442955
+FileChecksum: SHA1: f46841353b04af9b32388ff53d1a626340600c1e
+FileChecksum: MD5: 0339d27d8776e225a35c86f2a5ca0df7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/ControllerConfig.java
+SPDXID: SPDXRef-item9442954
+FileChecksum: SHA1: 182f93d29dfd8a39d93a7a95b8a51cce256b54c7
+FileChecksum: MD5: 0dfca70dc5d9ea859fa5b65973f0f5b2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/ApplicationConfig.java
+SPDXID: SPDXRef-item9442953
+FileChecksum: SHA1: 45712f6313852e5b9dc071db011b1e3ea968c7bf
+FileChecksum: MD5: a18894a18cd6cc9211b438a60b58aff4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/RicConfig.java
+SPDXID: SPDXRef-item9442957
+FileChecksum: SHA1: b893c1e96eff10de64a93832db127943fed1313d
+FileChecksum: MD5: 32f0c78818f1041a78566ddbf6eb5326
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/dmaap/DmaapResponseMessage.java
+SPDXID: SPDXRef-item9442959
+FileChecksum: SHA1: 4fcb83a646f351ae50646e693d03cc3236080a85
+FileChecksum: MD5: c455ab20a964c1d8f23b3b3dd1cb1660
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/configuration/ApplicationConfigParser.java
+SPDXID: SPDXRef-item9442956
+FileChecksum: SHA1: c342a02a79feab798d26214edc31dc5e6d58a04f
+FileChecksum: MD5: 3978a82764a494824e60caf4fb158f9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/dmaap/DmaapRequestMessage.java
+SPDXID: SPDXRef-item9442960
+FileChecksum: SHA1: 51929d927eada4b34f7b63c4fd8eff653878bd64
+FileChecksum: MD5: 1ddce86270063239776b8481cd9b7328
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/BeanFactory.java
+SPDXID: SPDXRef-item9442963
+FileChecksum: SHA1: 8a292568a5e8981dbab64b574157de2da443b8b1
+FileChecksum: MD5: 529f0f154903ad071e242ee3655db523
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/dmaap/DmaapMessageHandler.java
+SPDXID: SPDXRef-item9442961
+FileChecksum: SHA1: 1ad5bdbeba4d169cb95492295109377a2fcbe94a
+FileChecksum: MD5: bd4dd843abb1515c01feb7e4b119cee1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/no-type-policy-instance-dialog.component.ts
+SPDXID: SPDXRef-item9443337
+FileChecksum: SHA1: a197ad58fceffc7d0d5b22b96023e8261f007a34
+FileChecksum: MD5: 89597f8ddabe17bf213553f28fb71f35
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel.component.spec.ts
+SPDXID: SPDXRef-item9443341
+FileChecksum: SHA1: 2769cd05e35df03c3d5efe7fd2ab94de76d3c512
+FileChecksum: MD5: 6c18c9b934459fc4d6d81790f899d711
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-control.component.scss
+SPDXID: SPDXRef-item9443340
+FileChecksum: SHA1: 6d96b41e493de316b3114968348cd41761c1274b
+FileChecksum: MD5: a84068dafb8f2dc3e153ca2010d1c6f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/footer/footer.component.spec.ts
+SPDXID: SPDXRef-item9443343
+FileChecksum: SHA1: 5da9615aa4b40751f51cd8832b0795a811fcfefe
+FileChecksum: MD5: 7ca6d25192477b4ef041f779a3fb6324
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/footer/footer.component.scss
+SPDXID: SPDXRef-item9443345
+FileChecksum: SHA1: 3e957f8e8c519df9d4186450a95d9fea06563c4a
+FileChecksum: MD5: 928aaf88cf8259ce662eb8fca18d9b19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/footer/footer.component.html
+SPDXID: SPDXRef-item9443344
+FileChecksum: SHA1: f620070e11d16d34126ac48c3840f8bba6029ac4
+FileChecksum: MD5: a27070561c26f10c6d8c5c6bbd078682
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 AT&T Intellectual Property.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/footer/footer.component.ts
+SPDXID: SPDXRef-item9443346
+FileChecksum: SHA1: 8e7f37e67ee21e50aeef50edfa98cac5aa0c71b9
+FileChecksum: MD5: d7a664f78a74787c799edd23130110a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/notification.service.ts
+SPDXID: SPDXRef-item9443350
+FileChecksum: SHA1: 4e20354185ea103b20f9c2ab55439aae9eff88dc
+FileChecksum: MD5: ab17656e3e8741222b2ed22f30187411
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/ui.service.spec.ts
+SPDXID: SPDXRef-item9443349
+FileChecksum: SHA1: 008603686382c42a90c3b16ec3e8fedbe5ba8556
+FileChecksum: MD5: bc85b21c29f44d9a372fa81a902fca47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/notification.service.spec.ts
+SPDXID: SPDXRef-item9443351
+FileChecksum: SHA1: 1874c3f5be06196abf29d40e78a7d6164e86bcf2
+FileChecksum: MD5: 1e3c621d4edb8e46c12071835e72f272
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/error-dialog.service.ts
+SPDXID: SPDXRef-item9443353
+FileChecksum: SHA1: 8b36436b9513b096eb7dbdd322633c80eec0828b
+FileChecksum: MD5: ead067ef578e4abccab72f39753e516f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/ui.service.ts
+SPDXID: SPDXRef-item9443352
+FileChecksum: SHA1: bdfe7ac9283b59ca87c7602081a8ddf257b196c2
+FileChecksum: MD5: 4fd1cff2c72a87bb97f98c8d1b8a792b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/confirm-dialog.service.ts
+SPDXID: SPDXRef-item9443354
+FileChecksum: SHA1: d76fdbb8f41829d0a942947d11bb750e86563984
+FileChecksum: MD5: 34776b8852325c70cbddd7dd47fcbc75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/ui/confirm-dialog.service.spec.ts
+SPDXID: SPDXRef-item9443355
+FileChecksum: SHA1: 213a5c6078e0fc550a7b2342fd9c042cc12c747b
+FileChecksum: MD5: 9109305146f0c5f840e31229aa6c88ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/policy/policy.service.ts
+SPDXID: SPDXRef-item9443357
+FileChecksum: SHA1: a9c7e54ff9030c9e4bbfe175a25a6afeb5b2c41b
+FileChecksum: MD5: 8d50ada5ffc826644d6acdc200b2e51f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/controlpanel/controlpanel.service.spec.ts
+SPDXID: SPDXRef-item9443360
+FileChecksum: SHA1: 0cd84be4226e20022cbb35917eafc04678ab9531
+FileChecksum: MD5: 905c7a42f19131a6ed24eba7185db438
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/services/controlpanel/controlpanel.service.ts
+SPDXID: SPDXRef-item9443361
+FileChecksum: SHA1: 877c6ea8ef6091c8acc7763383fd6020711a6f85
+FileChecksum: MD5: 92c6661c26880f9e88a50882f96c4dc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/main/main.component.scss
+SPDXID: SPDXRef-item9443364
+FileChecksum: SHA1: 1becd8541be61eef999c334f13fdb75d86ac7118
+FileChecksum: MD5: 0f19908fcf64e2352c175c49da0c6de3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel-routing.module.ts
+SPDXID: SPDXRef-item9443362
+FileChecksum: SHA1: 7c64308c84cec9a7349296e5096c685908c13f12
+FileChecksum: MD5: 9311e31f6396005ac6f6c264cfd7f32e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/main/main.component.ts
+SPDXID: SPDXRef-item9443365
+FileChecksum: SHA1: baec06922e39a6bae58e21a3b290e9fafd7320a5
+FileChecksum: MD5: db4150932699e0035419c3a93d269a4f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/main/main.component.spec.ts
+SPDXID: SPDXRef-item9443367
+FileChecksum: SHA1: e7bb56b3d98746b1c70d05b308d4aef3be9b3902
+FileChecksum: MD5: c0a4e20521b69ddc4ba4b18870c8e48f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/navigation/sidenav-list/sidenav-list.component.scss
+SPDXID: SPDXRef-item9443370
+FileChecksum: SHA1: 47618d154008e3a01797b60a5ad061492af981eb
+FileChecksum: MD5: 650897f9807389c0f96c032e726a7bfc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/navigation/sidenav-list/sidenav-list.component.html
+SPDXID: SPDXRef-item9443371
+FileChecksum: SHA1: 98cd1b2ffaa1cb3f31689001144da1a528cf94e8
+FileChecksum: MD5: 8ba0440f5f413279be7c27a12c1a9860
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/interfaces/controlpanel.types.ts
+SPDXID: SPDXRef-item9443375
+FileChecksum: SHA1: 20904884c0232ff468455744fa15a2bb5f584ad7
+FileChecksum: MD5: 6be8751350f6ba49ba4cb1e32fe2278d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/navigation/sidenav-list/sidenav-list.component.ts
+SPDXID: SPDXRef-item9443372
+FileChecksum: SHA1: 431bd1cd815dfd9dfb2248c95ff0638201f1dbb6
+FileChecksum: MD5: 936476b34de8aeef347b90b6fea5d09b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel.component.ts
+SPDXID: SPDXRef-item9443373
+FileChecksum: SHA1: 7c43f397911c66c1ad21dc7bdabfb91ad80433af
+FileChecksum: MD5: 997ad0cdb80b4f28c59a73a1e59b90e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/interfaces/policy.types.ts
+SPDXID: SPDXRef-item9443376
+FileChecksum: SHA1: e7d27fe6b6ac134f50f9488b3e5a2b21e2f8a52c
+FileChecksum: MD5: 2e873c559acd1b5d6bca5ee59e57f787
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/main.ts
+SPDXID: SPDXRef-item9443377
+FileChecksum: SHA1: c0d34bb4aac1cbe50b06c6a7ccf42302b5b600e0
+FileChecksum: MD5: 7795610a7c5598ef5028312b72336548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/styles/dark-theme.scss
+SPDXID: SPDXRef-item9443380
+FileChecksum: SHA1: e483d027636d418f605f894310c1dc76ae6d3e97
+FileChecksum: MD5: 4022b03963fd3ea9acb905645ac34368
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/polyfills.ts
+SPDXID: SPDXRef-item9443378
+FileChecksum: SHA1: 7ca1dec5aaf0612897ac5f5e26f0720d2f444917
+FileChecksum: MD5: e8c2aecb5d5be4514e62a852ab5c4925
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/e2e/src/app.po.ts
+SPDXID: SPDXRef-item9443387
+FileChecksum: SHA1: 7fb4cdadd4b5db46cd20be7035c95a648b794d33
+FileChecksum: MD5: 9620864c2103080710db72097288725b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/e2e/src/app.e2e-spec.ts
+SPDXID: SPDXRef-item9443388
+FileChecksum: SHA1: 5f5c53153af3045d58362a5e4b0bcb6704ddc28e
+FileChecksum: MD5: 78ba473480f6fc0f9d5c62db69a9f25c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/pom.xml
+SPDXID: SPDXRef-item9443392
+FileChecksum: SHA1: 10de937b971a4047b753c577cc87dd001e96cbe5
+FileChecksum: MD5: 22c34b3c2ddfc03e3b6472c53f2bf973
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/e2e/protractor.conf.js
+SPDXID: SPDXRef-item9443389
+FileChecksum: SHA1: 47968e5e4bf2a93d5962cbe8bf134f9278ce3edf
+FileChecksum: MD5: 3afc41c1b6a578b913deba9908f046bc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/README.md
+SPDXID: SPDXRef-item9443395
+FileChecksum: SHA1: 9315b006d0315893de63e2e328a84dc9bdd91c7d
+FileChecksum: MD5: daa6f25b7ebc491c3cd8f9c0f4f2787f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/README.md
+SPDXID: SPDXRef-item9443400
+FileChecksum: SHA1: 488fc87094704bc7798e9cbd87290c098a369a73
+FileChecksum: MD5: 4ac6c13e84c986216d0c5ed79d9041c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/portal.properties
+SPDXID: SPDXRef-item9443404
+FileChecksum: SHA1: aa6d9d217b11ee1d474fb2c564508589f7241a79
+FileChecksum: MD5: f77f5f500380d5e471cb6dbc7d181326
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/key.properties
+SPDXID: SPDXRef-item9443443
+FileChecksum: SHA1: ce9bcbe6ff30aa26dfec3378d2dd80350bc35f2f
+FileChecksum: MD5: 0644a3577de8726cc6effea2f320ab91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/key.properties
+SPDXID: SPDXRef-item9443410
+FileChecksum: SHA1: ce9bcbe6ff30aa26dfec3378d2dd80350bc35f2f
+FileChecksum: MD5: 0644a3577de8726cc6effea2f320ab91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/controller/DefaultContextTest.java
+SPDXID: SPDXRef-item9443419
+FileChecksum: SHA1: 1e9b6d881fa39a7fbe48fe1f1e611c7f484170a4
+FileChecksum: MD5: 6a39c038e2efb87261d1ae6ebdcfb161
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/controller/AbstractControllerTest.java
+SPDXID: SPDXRef-item9443418
+FileChecksum: SHA1: 4724584820eed6dddfca8b692cefa6389bb90417
+FileChecksum: MD5: 60db4d81fef1395ee668830c45981c7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/controller/PortalRestCentralServiceTest.java
+SPDXID: SPDXRef-item9443420
+FileChecksum: SHA1: f97da8077fcc685dc264e5553eddb758041e0cfd
+FileChecksum: MD5: aec15f4e7f8c1eeae3543b0d5f54a3ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/config/PortalApIMockConfiguration.java
+SPDXID: SPDXRef-item9443424
+FileChecksum: SHA1: 3a347f4f8071ca879c26088451d1f9edf5ab342b
+FileChecksum: MD5: ba3c89c2d78dcfd34993fb97e4145a72
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/policyagentapi/PolicyAgentApiImplTest.java
+SPDXID: SPDXRef-item9443422
+FileChecksum: SHA1: 9e91b402beffa2ec3dadc9a4ccae9b8390a41974
+FileChecksum: MD5: a57bd86208acf18996a1082913ccb38a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/config/PolicyControllerMockConfiguration.java
+SPDXID: SPDXRef-item9443426
+FileChecksum: SHA1: cea690a0c0124cb997f23df07dfa24bce8871544
+FileChecksum: MD5: 51ce9c89f0c94e22ad6114876a4a6114
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/config/WebSecurityMockConfiguration.java
+SPDXID: SPDXRef-item9443425
+FileChecksum: SHA1: 8b21169d65a909fb21b01b274e29e6030ef4300d
+FileChecksum: MD5: 351a62ac206749d66a72c9e7ac61c07f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/ControlPanelTestServer.java
+SPDXID: SPDXRef-item9443427
+FileChecksum: SHA1: 1260f5f003a618dc61fae8d8dc947d8b7fbc7327
+FileChecksum: MD5: da6cd62df8c11df013841bf4984def1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/util/AsyncRestClientTest.java
+SPDXID: SPDXRef-item9443431
+FileChecksum: SHA1: d217781eeec13cf754e5413c887cface92b5f648
+FileChecksum: MD5: daea0bc410338e396fc340d5301782f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalAuthManagerTest.java
+SPDXID: SPDXRef-item9443429
+FileChecksum: SHA1: ed3b3c54eaa95baca4bfca0d527a71cddbf9027f
+FileChecksum: MD5: addf1ea342684e1d4680e5d5a15a18f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/config/portal.properties.template
+SPDXID: SPDXRef-item9443492
+FileChecksum: SHA1: 5608fc22b1f56dc51a3ee228ac40400dd37fea4f
+FileChecksum: MD5: ed3cb905dd06d9382e79da3d23632383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/portal.properties
+SPDXID: SPDXRef-item9443435
+FileChecksum: SHA1: 5608fc22b1f56dc51a3ee228ac40400dd37fea4f
+FileChecksum: MD5: ed3cb905dd06d9382e79da3d23632383
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/java/org/oransc/portal/nonrtric/controlpanel/ControlPanelUserManagerTest.java
+SPDXID: SPDXRef-item9443432
+FileChecksum: SHA1: 3c63e317282208229e51574dde8912b2cb450228
+FileChecksum: MD5: 6c5b1b3de78ec331e6a0f5973967b575
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/application.properties
+SPDXID: SPDXRef-item9443436
+FileChecksum: SHA1: 63e287038f7d2119125d2f1787d78cbf4a1d5856
+FileChecksum: MD5: 088dca9a9a8942a847d8749bb0d2d3cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/dmaap/DmaapMessageConsumer.java
+SPDXID: SPDXRef-item9442962
+FileChecksum: SHA1: d43e58a641f4717f220da51e0afb99d9753e68a1
+FileChecksum: MD5: 1b81c5a47252a330b9a46ab11ba6ee11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/exceptions/ServiceException.java
+SPDXID: SPDXRef-item9442966
+FileChecksum: SHA1: a1632d1dba6d3879f40a45435ead6cd696b9167e
+FileChecksum: MD5: a4d872c2771d2de2ab31dd450a2c3af3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/PolicyType.java
+SPDXID: SPDXRef-item9442968
+FileChecksum: SHA1: ddc011919eb628c499b4f876008a7bad834b6655
+FileChecksum: MD5: 3a59544864bbd23747ca9de03436602c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/exceptions/EnvironmentLoaderException.java
+SPDXID: SPDXRef-item9442965
+FileChecksum: SHA1: 2dc4a048308b5d44ff03db929730bc330cc09ac1
+FileChecksum: MD5: 83a38664d48c99d1aa4631f52d8e8a68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Lock.java
+SPDXID: SPDXRef-item9442970
+FileChecksum: SHA1: 9ee3c1c85005c3dfa80e7a8492dffedd38fdc339
+FileChecksum: MD5: f641bd4fb9f80d088933e0abeb3e864a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/PolicyTypes.java
+SPDXID: SPDXRef-item9442969
+FileChecksum: SHA1: b3e0f269843e5ac3a020cbbfd021c5fc1bbc264a
+FileChecksum: MD5: 5d47e1a73f6244b7ffd81db12692a838
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Policies.java
+SPDXID: SPDXRef-item9442971
+FileChecksum: SHA1: c76e0e8fa47c0bee6525a4da51d302f9f2960a84
+FileChecksum: MD5: 3c43ec595132d96ee035e33c9fb5d274
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Ric.java
+SPDXID: SPDXRef-item9442972
+FileChecksum: SHA1: 1a3f5c42ac51847ecb4fe7b5b2859c01b346c0b5
+FileChecksum: MD5: 3f44e00659516443a77350b17abb34f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Rics.java
+SPDXID: SPDXRef-item9442973
+FileChecksum: SHA1: d56da93af3a90414673ac0994f76c46f6e397b78
+FileChecksum: MD5: 3d44e25fba640ce40a926d69dae5d73c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Policy.java
+SPDXID: SPDXRef-item9442975
+FileChecksum: SHA1: 6a23e3285e8437cd2bb0585a1d4eecaacfbd0f79
+FileChecksum: MD5: 6fba5c2dd0c190db884fc684c4717e80
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Services.java
+SPDXID: SPDXRef-item9442974
+FileChecksum: SHA1: a779bcbe8ee3d348002b4f5af571ce4668ac95fe
+FileChecksum: MD5: 9813da42cfdd80b544cc691d34c169ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/repository/Service.java
+SPDXID: SPDXRef-item9442976
+FileChecksum: SHA1: c5c0b74f6f642256dc615870696b7c119325512d
+FileChecksum: MD5: ca11fe367fa9d2c540e50e0605329953
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/A1Client.java
+SPDXID: SPDXRef-item9442978
+FileChecksum: SHA1: 9d2cee561cecc99606715d60d90206840ae7fba8
+FileChecksum: MD5: 305cb84a8c4ae388c915331949d40fdf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/OscA1Client.java
+SPDXID: SPDXRef-item9442979
+FileChecksum: SHA1: addc1deb822fc1a758316c6c55891a0a6bb0caba
+FileChecksum: MD5: bdfe733feee994435871c22a1a0e09d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/A1ClientFactory.java
+SPDXID: SPDXRef-item9442980
+FileChecksum: SHA1: 12a5d7523ae1062b8762047efb4710ce1631a558
+FileChecksum: MD5: d2edcba48e0bdd1d38ea00972481cc9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/SdncOscA1Client.java
+SPDXID: SPDXRef-item9442981
+FileChecksum: SHA1: 65354a96d909ec2bf8b94da29a727afc94d57e6e
+FileChecksum: MD5: d87eab003798336a424ea9e753013b52
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/SdncJsonHelper.java
+SPDXID: SPDXRef-item9442985
+FileChecksum: SHA1: 8be63515f1962229f1dabffde95bbafb8e8fc8fc
+FileChecksum: MD5: 79086b9c8071fe6424559b648caea284
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/A1UriBuilder.java
+SPDXID: SPDXRef-item9442982
+FileChecksum: SHA1: 4b28ebeab79d1503e5060cbd906a97f6fd6e5ad4
+FileChecksum: MD5: 983bbdf543c79dab450afe4fd6631f84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/SdncOnapA1Client.java
+SPDXID: SPDXRef-item9442984
+FileChecksum: SHA1: 3d3355b647c54c52e30f1683724223110183a378
+FileChecksum: MD5: 40431c6911a78725d0786687928fba5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/StdA1ClientVersion1.java
+SPDXID: SPDXRef-item9442983
+FileChecksum: SHA1: 04f17ad9e520c0a6dcff33629060c3a69e540a79
+FileChecksum: MD5: 146af24ea1a1b86d1d9e619b82649ae1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/clients/AsyncRestClient.java
+SPDXID: SPDXRef-item9442986
+FileChecksum: SHA1: 49395aa4daa19a9cb2fc2f46eec0a660df798f8a
+FileChecksum: MD5: 9aabc46e3bfad5fc3eab271ab06699ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/ServiceRegistrationInfo.java
+SPDXID: SPDXRef-item9442988
+FileChecksum: SHA1: c4fd96e62f1b42588b7fcf6e5a3588ae7390d632
+FileChecksum: MD5: 3e4723d4dc6447d54d1d231e8ce361f2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/RicInfo.java
+SPDXID: SPDXRef-item9442991
+FileChecksum: SHA1: f03cef4888524532f5648b5345a63ad8f1795f3b
+FileChecksum: MD5: dae934b55b3d7f255c08fc48d62c9abf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/RicRepositoryController.java
+SPDXID: SPDXRef-item9442990
+FileChecksum: SHA1: ea162a2346b94d1cdebfa7b482649204b3b4825b
+FileChecksum: MD5: b16ba513d1f9826585458fdc8d8de6b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/PolicyController.java
+SPDXID: SPDXRef-item9442989
+FileChecksum: SHA1: 3070bcebd8b30b812524ae07df117104cef97335
+FileChecksum: MD5: e4d8ff503615f2c48aead8ac496863d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/PolicyInfo.java
+SPDXID: SPDXRef-item9442995
+FileChecksum: SHA1: 7a94f21be3b1c194bbcb6bbc5f4fdf2cab904983
+FileChecksum: MD5: a6a1978c5cdedd75206bed8b1d4800d6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/ServiceStatus.java
+SPDXID: SPDXRef-item9442993
+FileChecksum: SHA1: a50a49664fa3ebcc66d012d0eac5054649732e2e
+FileChecksum: MD5: 357e683fe3b4b50321844ec2eb331315
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/StatusController.java
+SPDXID: SPDXRef-item9442994
+FileChecksum: SHA1: 1e6a7f9c80e4c48a6decc1fef42dca7aa508c616
+FileChecksum: MD5: c046fe5561e99915e34d059963539be5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/java/org/oransc/policyagent/controllers/ServiceController.java
+SPDXID: SPDXRef-item9442992
+FileChecksum: SHA1: 8a2996ccee72fe282a16e88a6643b93f74605a06
+FileChecksum: MD5: 44087043847c10c6382efd0e71f9c91f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/eclipse-formatter.xml
+SPDXID: SPDXRef-item9442999
+FileChecksum: SHA1: 308e69377d1080202559b5e7cf6467821b594029
+FileChecksum: MD5: a1196d75245fe73637fb295a7c252edc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/eclipse-formatter.xml
+SPDXID: SPDXRef-item9443493
+FileChecksum: SHA1: 308e69377d1080202559b5e7cf6467821b594029
+FileChecksum: MD5: a1196d75245fe73637fb295a7c252edc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/pom.xml
+SPDXID: SPDXRef-item9443003
+FileChecksum: SHA1: 0f967c3bade36ea8aea9d2541efd70b663dfbc65
+FileChecksum: MD5: 1d929bc75bed1beebbf44fabbd22021f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/Dockerfile
+SPDXID: SPDXRef-item9443004
+FileChecksum: SHA1: 550d9ea911db45ebdf1ad2bde291a1e954101813
+FileChecksum: MD5: daa88b8de16059720ac06a9f7acd00dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sim-monitor-start.sh
+SPDXID: SPDXRef-item9443007
+FileChecksum: SHA1: 2a6ec55ffafd7fadd2e1e9c7dc8b100ec0768c8d
+FileChecksum: MD5: e06c3002435a9ec7146c225dc36b71a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sdnc_onap/docker-compose.yml
+SPDXID: SPDXRef-item9443010
+FileChecksum: SHA1: bd5a66bcc15229259b43e8fef11e76e525279dae
+FileChecksum: MD5: d314959f43c82e4b1d9a3a8524cd71da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/control_panel/docker-compose.yml
+SPDXID: SPDXRef-item9443013
+FileChecksum: SHA1: 6b7899c3580d6ee4a84c90164a338987f8f6697f
+FileChecksum: MD5: dde55574ef3e4e306c6cf8d6c8debb4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/mr/docker-compose.yml
+SPDXID: SPDXRef-item9443020
+FileChecksum: SHA1: b298daedf1d8f6a5252ebf1872cedcdb6e8898ab
+FileChecksum: MD5: 3f67721acb1cccdf0a24ffdda837caa2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/certificate/generate_cert_and_key.sh
+SPDXID: SPDXRef-item9443051
+FileChecksum: SHA1: e375fe37eb6c59507b72f55c1a74e174a8250d4f
+FileChecksum: MD5: d689ffea9d28f58464b3813518338bec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/cert/generate_cert_and_key.sh
+SPDXID: SPDXRef-item9443026
+FileChecksum: SHA1: e375fe37eb6c59507b72f55c1a74e174a8250d4f
+FileChecksum: MD5: d689ffea9d28f58464b3813518338bec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/prepareConsul.py
+SPDXID: SPDXRef-item9443022
+FileChecksum: SHA1: 4c7db04be037280b02802fac62483ea63827aa79
+FileChecksum: MD5: dc2246162718e11c06eb1eecfd6e69e3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/docker-compose.yml
+SPDXID: SPDXRef-item9443030
+FileChecksum: SHA1: 3fb1b906b96ce031090c5036be6cc1d17616e165
+FileChecksum: MD5: 907f8998907a690b8295bfb06f5787f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sim-monitor.js
+SPDXID: SPDXRef-item9443031
+FileChecksum: SHA1: 58807ddc283e71ef797f19f0856fa9a3edf1e1d6
+FileChecksum: MD5: 3e8ac02bc20f5c7d3073ae4f9a9763ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/cleanConsul.py
+SPDXID: SPDXRef-item9443028
+FileChecksum: SHA1: 200e4da32f7fc20ac67ffe3402b84040ae9f1987
+FileChecksum: MD5: 2392658f3358a4b138cc6b7b5d557d8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/policy_agent/docker-compose.yml
+SPDXID: SPDXRef-item9443034
+FileChecksum: SHA1: 5575d495840f5d98e68353959eebf3110f53acdd
+FileChecksum: MD5: 75c1ef9e8b1699a7b072926cf782b540
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sdnc/docker-compose.yml
+SPDXID: SPDXRef-item9443037
+FileChecksum: SHA1: a25961c15c49662110ffddf880ef194d48cacbbd
+FileChecksum: MD5: 16d40e506005a001ca695ba5f3b785c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/consul_cbs/consul/cbs_config.hcl
+SPDXID: SPDXRef-item9443044
+FileChecksum: SHA1: 26dd812cdb6bd079ab5d145297f5631ccb2cc0a0
+FileChecksum: MD5: c502e703d0027d2dc74a26425f1e5f1d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/cr/docker-compose.yml
+SPDXID: SPDXRef-item9443041
+FileChecksum: SHA1: 842b667907e982eade9001233e0321a7cc510ef0
+FileChecksum: MD5: ce9a48da498a863cb443b7aa3098e60d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/consul_cbs/docker-compose.yml
+SPDXID: SPDXRef-item9443047
+FileChecksum: SHA1: fc47ca40bea1587f0f8c01ea73d5d80a5161a8ff
+FileChecksum: MD5: 5ffd4a2df81b21dda45a14b49031b62b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/consul_cbs/consul/cbs_localhost_config.hcl
+SPDXID: SPDXRef-item9443045
+FileChecksum: SHA1: 55ba03f62de1ed7e667df44ed21ad4ca374f7518
+FileChecksum: MD5: e1f662f485258b00fe079730a9d9e29b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC110.sh
+SPDXID: SPDXRef-item9443055
+FileChecksum: SHA1: 381d8088da25d0d08b90ef2e975abfee44f030b7
+FileChecksum: MD5: fa609bb1cc10987a983472d3bb81ce44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/consul_cbs/start.sh
+SPDXID: SPDXRef-item9443048
+FileChecksum: SHA1: 86f5ef38efec70cbd26101187d4a1607c42cb2b3
+FileChecksum: MD5: 2acd7e07730e47c40107ebb2d7a82292
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/utils/pa-logviewer.sh
+SPDXID: SPDXRef-item9443058
+FileChecksum: SHA1: f4f0068318addaca11b370c7806d2c142d2d0bc7
+FileChecksum: MD5: 514ef893b2e1341444e1a8a5e4c7ff22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC810.sh
+SPDXID: SPDXRef-item9443059
+FileChecksum: SHA1: 9201cd6a78a9d65384fb977e4440d86c70c8bd79
+FileChecksum: MD5: 3c559cd4e76e50d0cdc964f7bdf31386
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC1.sh
+SPDXID: SPDXRef-item9443060
+FileChecksum: SHA1: 46dc5296549bf29a2a70a57d1770c6798a9b9699
+FileChecksum: MD5: cac183a4340b9931fd24315f47312340
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC150.sh
+SPDXID: SPDXRef-item9443074
+FileChecksum: SHA1: fcd68022613ffc4b3c655397aeb14aaa8a744884
+FileChecksum: MD5: fd4718a5dfbc11a62cbf2bafc2d51e83
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC900.sh
+SPDXID: SPDXRef-item9443075
+FileChecksum: SHA1: c078ebefa652530f48acf59e8e7fc6f4ca516464
+FileChecksum: MD5: 8572f2028737b085a5218b3eeb89d51d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC10.sh
+SPDXID: SPDXRef-item9443076
+FileChecksum: SHA1: 466b53192424660800a4b4994178e5b4de90134f
+FileChecksum: MD5: ad3fcb1299cd7eef637106239f3adb41
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC310.sh
+SPDXID: SPDXRef-item9443077
+FileChecksum: SHA1: 6544f6b19a74bd12f4d7718ba09ffc6c70383e2d
+FileChecksum: MD5: 8e747211cb7ea832d7617e26778980c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC100.sh
+SPDXID: SPDXRef-item9443078
+FileChecksum: SHA1: a601c81161ad924a296baaae8e6499b8e6c42bbc
+FileChecksum: MD5: db5ebd84d2d08d88a652aef77b4ef453
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC300.sh
+SPDXID: SPDXRef-item9443082
+FileChecksum: SHA1: 4ca032a01004bdd70a588139bd1889b9c6739d84
+FileChecksum: MD5: 6328f1e71d0f0f6fe22f3a8ca182d099
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC800.sh
+SPDXID: SPDXRef-item9443081
+FileChecksum: SHA1: fde2a4196d4f8e7a94fb796211478f91cb3bce0a
+FileChecksum: MD5: b89126b9765611c7262b84eca96959ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/FTC301.sh
+SPDXID: SPDXRef-item9443080
+FileChecksum: SHA1: d6169d87ef04415235a64cb875ef3d0fb7f23dff
+FileChecksum: MD5: 0939ee68175ad83a061e22923446ae7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/do_curl_function.sh
+SPDXID: SPDXRef-item9443085
+FileChecksum: SHA1: 5824bbcad60938f7a375da0332d0c3e1ee429f27
+FileChecksum: MD5: 5028dffd26ea73c6e1fb4250405c83ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/extract_sdnc_reply.py
+SPDXID: SPDXRef-item9443084
+FileChecksum: SHA1: 993e2154397fe1ab500654fb6aac63f0f54b78e6
+FileChecksum: MD5: 07cd4858f0236a0dc326398ecab8195f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/test_env.sh
+SPDXID: SPDXRef-item9443089
+FileChecksum: SHA1: 0da448b3081e98730f881ad706f306b61970a88b
+FileChecksum: MD5: 6fc6ae556dcc8baf86a6a26e70ce52fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/agent_api_functions.sh
+SPDXID: SPDXRef-item9443087
+FileChecksum: SHA1: d065f95248b0bf3ed190f8780f3073d00c950fa2
+FileChecksum: MD5: 2af4c1f7a790a1efd4d17ff588b35c19
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/create_rics_json.py
+SPDXID: SPDXRef-item9443088
+FileChecksum: SHA1: 90bdb0b1c371658863f9e6d348f4d3ebccf156f2
+FileChecksum: MD5: 39ee2e67a65e74c2118ea843b0327896
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/testsuite_common.sh
+SPDXID: SPDXRef-item9443090
+FileChecksum: SHA1: d98bbec68f92bddd00094117417f7469c00910f8
+FileChecksum: MD5: 1622e02f625cfa30a3b5423d62b27a54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/controller_api_functions.sh
+SPDXID: SPDXRef-item9443091
+FileChecksum: SHA1: 8c1564d38b69f84dd8604e3bdfedd943ff5d4823
+FileChecksum: MD5: 5068d17bbafe11bf0a20daa92a7f0d40
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/ricsimulator_api_functions.sh
+SPDXID: SPDXRef-item9443095
+FileChecksum: SHA1: 62268d7273ed2c40594dd139ef0bec8ebb2cdc86
+FileChecksum: MD5: 425a4287704e992ff6b631982950d02a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/count_json_elements.py
+SPDXID: SPDXRef-item9443093
+FileChecksum: SHA1: d69c428de3cb4f21350e92c0c02e80b008261c85
+FileChecksum: MD5: 224d0f5e96e69d774cd51e0e726ef9ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/testcase_common.sh
+SPDXID: SPDXRef-item9443094
+FileChecksum: SHA1: 93ec95983a075143ecf5fedf8027363c7d9553cf
+FileChecksum: MD5: 8c91153cd96eb728eb5fc14ee39bfbe0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/usecases/healthcheck/src/main.py
+SPDXID: SPDXRef-item9443099
+FileChecksum: SHA1: 0792de799c0b85590afeb0ae22b3e8409425ce74
+FileChecksum: MD5: 0bb0f3aa6a5928c0c06b6ee6fc32741f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/common/compare_json.py
+SPDXID: SPDXRef-item9443092
+FileChecksum: SHA1: b8a05efb264044b4c1bc42e16be35a3224572eb0
+FileChecksum: MD5: 5d087e59dc09505a6ab5177bdc158617
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/mrstub-build-start.sh
+SPDXID: SPDXRef-item9443106
+FileChecksum: SHA1: 4214883f55016bc3b36ee9f81c8c572f5823ca84
+FileChecksum: MD5: 55f0fa5478adde8338a85ab2dadabb0a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/app/main.py
+SPDXID: SPDXRef-item9443108
+FileChecksum: SHA1: 787f8926766fa2f527acc13adc70d928350e552b
+FileChecksum: MD5: 5b2ba56801265748cc086e80564c3346
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/app/start.sh
+SPDXID: SPDXRef-item9443111
+FileChecksum: SHA1: ce1eba71c4e4c5258e46e5996193054e4ca41ff3
+FileChecksum: MD5: 762d916fb77db932a8e4464ca384ac8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/basic_test.sh
+SPDXID: SPDXRef-item9443113
+FileChecksum: SHA1: 1fcd5f89564206a4684f472b14a98f859e0b6a22
+FileChecksum: MD5: f5fadf55c4e3e8de38cc033a4d2db3bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/Dockerfile
+SPDXID: SPDXRef-item9443114
+FileChecksum: SHA1: 975517f28b7526f80b8ec85e7d115b6906e1cc87
+FileChecksum: MD5: 35dee1fd33da49ea1523b5f92fc31ebf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/cr/cr-build-start.sh
+SPDXID: SPDXRef-item9443119
+FileChecksum: SHA1: 18083b4169e2e30eaf655d99f79d1c0e9fb412f5
+FileChecksum: MD5: 0744059b034d4a937243197b63323965
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/cr/basic_test.sh
+SPDXID: SPDXRef-item9443123
+FileChecksum: SHA1: 35907e9701a0c1cb92b613cc417a96a7b25148d8
+FileChecksum: MD5: d1f327d1c5ea7230eb373a1f7da534c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/cr/cr.py
+SPDXID: SPDXRef-item9443121
+FileChecksum: SHA1: 76087faacd023bac5cfd985cb7f3b0f871f0155d
+FileChecksum: MD5: 9943402854e8d2fbf057ce1f3879e101
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/test/cr/Dockerfile
+SPDXID: SPDXRef-item9443124
+FileChecksum: SHA1: c57d1572be43b10f37d7e2eecda8c6c7f4850192
+FileChecksum: MD5: ef62412780d92b17196e6d4b9dc9ad6d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/tox.ini
+SPDXID: SPDXRef-item9443129
+FileChecksum: SHA1: 473f0a421787befa7d809067305ec68387801ee2
+FileChecksum: MD5: 4494ec000a68f29397d4477424578fd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/tox.ini
+SPDXID: SPDXRef-item9443398
+FileChecksum: SHA1: 473f0a421787befa7d809067305ec68387801ee2
+FileChecksum: MD5: 4494ec000a68f29397d4477424578fd8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/installer/pom.xml
+SPDXID: SPDXRef-item9443161
+FileChecksum: SHA1: 1f723a59d26242917f98367f030471684099dd65
+FileChecksum: MD5: 212a408f50661f2613cf974a06bc0c69
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/resources/org/opendaylight/blueprint/nonrt-ric-api-blueprint.xml
+SPDXID: SPDXRef-item9443180
+FileChecksum: SHA1: fcce1d78a01ae3601e38c366ada39f4172741f97
+FileChecksum: MD5: 5b8d1146c09cd327de73b45e38010c68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/resources/OSGI-INF/blueprint/nonrt-ric-api-blueprint.xml
+SPDXID: SPDXRef-item9443183
+FileChecksum: SHA1: fcce1d78a01ae3601e38c366ada39f4172741f97
+FileChecksum: MD5: 5b8d1146c09cd327de73b45e38010c68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/test/java/org/o_ran_sc/nonrtric/sdnc_a1/northbound/provider/NonrtRicApiProviderTest.java
+SPDXID: SPDXRef-item9443172
+FileChecksum: SHA1: c900a3b28887a322e5b61b266018e2c260389d01
+FileChecksum: MD5: cc0596c45f4c6a62649d404704b76ad7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/test/java/org/o_ran_sc/nonrtric/sdnc_a1/northbound/restadapter/RestAdapterImplTest.java
+SPDXID: SPDXRef-item9443174
+FileChecksum: SHA1: ae8f33b53059b4a767d11e3cf2caa41e5b757385
+FileChecksum: MD5: c3bfa01dcd8d94dadbdab6bebed53d4e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/java/org/o_ran_sc/nonrtric/sdnc_a1/northbound/provider/NonrtRicApiProvider.java
+SPDXID: SPDXRef-item9443192
+FileChecksum: SHA1: ce0241766593463443426b7338ec686fd11a49a0
+FileChecksum: MD5: 35137472b1bf3fd0cdb2fd2a0d968cb3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/resources/nonrt-ric-api-provider.properties
+SPDXID: SPDXRef-item9443184
+FileChecksum: SHA1: 61f57725d1b0c7d6c119beca61a10977f2844aa3
+FileChecksum: MD5: b9a442859ba7866701f7252ed5c41cad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/java/org/o_ran_sc/nonrtric/sdnc_a1/northbound/restadapter/RestAdapter.java
+SPDXID: SPDXRef-item9443195
+FileChecksum: SHA1: 3662a194c3630b12aa47de09e20ab8d47e97735c
+FileChecksum: MD5: 69caef1b9e977411fc0bccdae12dcb74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/pom.xml
+SPDXID: SPDXRef-item9443196
+FileChecksum: SHA1: a59403638c4638a56a9d7ac5dd6082af06c48212
+FileChecksum: MD5: 3cf0df0b406b107c68565cb9842b2869
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/features/features-nonrt-ric-api/pom.xml
+SPDXID: SPDXRef-item9443199
+FileChecksum: SHA1: 27208dc4efba59b0be17bf7bb6c0d21efbb67e1b
+FileChecksum: MD5: 50a82413e625692c12886b653bfea792
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/features/sdnc-nonrt-ric-api/pom.xml
+SPDXID: SPDXRef-item9443201
+FileChecksum: SHA1: b4866403a0949da17f886ce121d811c03ab68230
+FileChecksum: MD5: 9fbd07530c4e24f7c03133b35c7d3c44
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/features/pom.xml
+SPDXID: SPDXRef-item9443202
+FileChecksum: SHA1: 7be106fa3b959e2b3a6881acd9c2d8d1e6f9a724
+FileChecksum: MD5: 4ec15715c04dfa0be8d40f4a5fdc0ec6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/provider/src/main/java/org/o_ran_sc/nonrtric/sdnc_a1/northbound/restadapter/RestAdapterImpl.java
+SPDXID: SPDXRef-item9443194
+FileChecksum: SHA1: 7fe47ac6dd97dd082b4f1e4da26d5bbc10b9b344
+FileChecksum: MD5: 4f585a1740cdc5fecf4caae52d18190f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/model/pom.xml
+SPDXID: SPDXRef-item9443213
+FileChecksum: SHA1: 1e3cc0c77248b55b8145ddf4c468bfa6d8da75fb
+FileChecksum: MD5: 031878f09c460d06b556d1ebc851f6d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/pom.xml
+SPDXID: SPDXRef-item9443204
+FileChecksum: SHA1: 9d375c3f85b6dbc87776b1c2ebb6609873c13b63
+FileChecksum: MD5: 5b67077508fef9a01591deb4fab6e6fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/pom.xml
+SPDXID: SPDXRef-item9443215
+FileChecksum: SHA1: 476af3ebd0a37e36d6fc01f60fee2feea8a63545
+FileChecksum: MD5: 0a0056ec2ca7c0602292c113d8fa4d56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/model/scripts/python/yang2props.py
+SPDXID: SPDXRef-item9443212
+FileChecksum: SHA1: 740ef8cd5a579ca4d4ddb9bd2b1bd33bbcd9f210
+FileChecksum: MD5: 0bdbe156b1aa4f570fc91c98ca664393
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/model/src/main/yang/NONRT-RIC-API.yang
+SPDXID: SPDXRef-item9443209
+FileChecksum: SHA1: 0fd7102b4f5c1a38fa2f91d6f0cdb6db18293ab0
+FileChecksum: MD5: 5c3e35628d53f9babd054b68711bcaa5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/scripts/installSdncDb.sh
+SPDXID: SPDXRef-item9443242
+FileChecksum: SHA1: b573ff3cb1cfcd56ad19bf2f0d36ca8a0be65c8d
+FileChecksum: MD5: 7215f88b7a38acef7d0a8093b6fd1ada
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/src/main/yaml/docker-compose.yml
+SPDXID: SPDXRef-item9443224
+FileChecksum: SHA1: 2c57abce03e9259d8672a7621cdad9998fab4af3
+FileChecksum: MD5: 49372bf0591f6384274d1dfce82d8108
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/scripts/startODL.sh
+SPDXID: SPDXRef-item9443243
+FileChecksum: SHA1: 12542a1d2d02b7ad1a7588ce574969ca4c95bf89
+FileChecksum: MD5: 91e25b53467a5da0fefa26770cbaf74b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/pom.xml
+SPDXID: SPDXRef-item9443244
+FileChecksum: SHA1: c1d3fc747222f8b3fc3bf24ac9330a2083b41ab3
+FileChecksum: MD5: 4523a6cb751166cc1f6728305a5f7be0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/pom.xml
+SPDXID: SPDXRef-item9443245
+FileChecksum: SHA1: 9938cdf0057ef8da9f2146c8e65fdbff663e4030
+FileChecksum: MD5: 2cbc70879d4004093a7617b8532d83fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/pom.xml
+SPDXID: SPDXRef-item9443247
+FileChecksum: SHA1: 56fdcc1aef69bc691ada3e31587034f51d2e7039
+FileChecksum: MD5: b40f836ee490810d810b571d814ce185
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/installer/pom.xml
+SPDXID: SPDXRef-item9443258
+FileChecksum: SHA1: c02c01a10a203ff3f9d0387666aaba10a2828baf
+FileChecksum: MD5: 9c8ad489e7c581c9d7c58f6b18f1f54f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/pom.xml
+SPDXID: SPDXRef-item9443260
+FileChecksum: SHA1: 0a85e97fc0f95a91a8e65fe9f993d5b775eb5cfb
+FileChecksum: MD5: f8c7d9e7a9382c4d573f8cfadace25bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/TagVersion.groovy
+SPDXID: SPDXRef-item9443231
+FileChecksum: SHA1: dc48545c3b8f47115447fbfddb17ab5a6be4aeaa
+FileChecksum: MD5: 7baa28d38268c5a5a8a95ee0f2044e09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2017 AT&T Intellectual Property. All rights reserved. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/setup/pom.xml
+SPDXID: SPDXRef-item9443262
+FileChecksum: SHA1: 720e110c7289cf3a10519c2412b7e4be5219e745
+FileChecksum: MD5: a06ea5654a68a57a814477b23a4686f5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/pom.xml
+SPDXID: SPDXRef-item9443265
+FileChecksum: SHA1: cebd2b4eca4a82bc567397cfe52ab3a06b260781
+FileChecksum: MD5: 428e3be003cf0daeb89ddc9adbac32b1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/scripts/healthcheck.py
+SPDXID: SPDXRef-item9443241
+FileChecksum: SHA1: 03285bc4fe7eaa2ce310a807ef626acb55cb9da9
+FileChecksum: MD5: d728e038d4088b3fe96a06063d003e03
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: nonrtric/pom.xml
+SPDXID: SPDXRef-item9443285
+FileChecksum: SHA1: a90238785b2184d49af81f4775f02bfe7585961f
+FileChecksum: MD5: 7b18dd872e4acf49ccca4fbc57e1e57e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2020 Nordix Foundation. </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/README.md
+SPDXID: SPDXRef-item9443291
+FileChecksum: SHA1: 1399bc7af471a2cf2a7f04d0b399ef4b3674d0a2
+FileChecksum: MD5: 47af8060860ff9fe209e3a9c323d84d1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property. All rights reserved.
+Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/environments/environment.ts
+SPDXID: SPDXRef-item9443296
+FileChecksum: SHA1: 8a0ffb47721d8c1d8b7c947f323157997546e32d
+FileChecksum: MD5: 022db674b1a850d09e99f36e324406c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/environments/environment.prod.ts
+SPDXID: SPDXRef-item9443297
+FileChecksum: SHA1: 4ba221075b1457bf750488688c6b9c3a524f5b2a
+FileChecksum: MD5: fb491ec6fc09859a3f38957f93328fcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/test.ts
+SPDXID: SPDXRef-item9443304
+FileChecksum: SHA1: c61019f0cb2fb06c1d327d058297a9c568d9bfc4
+FileChecksum: MD5: 1d72869c2a28d495c5e00c628125783f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/index.html
+SPDXID: SPDXRef-item9443306
+FileChecksum: SHA1: 0f0a8124f2932eefc4e536fd3270a49ad5507f7d
+FileChecksum: MD5: fda1d0eada6bed16ed4584774a46d2ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/karma.conf.js
+SPDXID: SPDXRef-item9443303
+FileChecksum: SHA1: dc6de98d0e97bdb37125cbbfd68f34feeead4a4e
+FileChecksum: MD5: ea76c0af7e06977422354be572677593
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/styles.scss
+SPDXID: SPDXRef-item9443302
+FileChecksum: SHA1: d9d16c8764af5858d7fec153d526dfa468247733
+FileChecksum: MD5: b272012b40178f4156c2b8b8bbb114c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/policy-card/policy-card.component.ts
+SPDXID: SPDXRef-item9443310
+FileChecksum: SHA1: 1d95dbd6f84afa4c709fb8185d63dcf957c5a304
+FileChecksum: MD5: 7b4704834033f66b07b4b78412fe2eb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/error-dialog/error-dialog.component.html
+SPDXID: SPDXRef-item9443315
+FileChecksum: SHA1: 859f0b4bdef40f23788415256e18399614b7b9d0
+FileChecksum: MD5: edff4c53f92b11d3c03c957f58939905
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/error-dialog/error-dialog.component.ts
+SPDXID: SPDXRef-item9443316
+FileChecksum: SHA1: 22f9f1d0c8b3bc264d4e6d5809c6b68cda27ee2e
+FileChecksum: MD5: ce1281394e206a439f92bae9d524d466
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/policy-card/policy-card.component.scss
+SPDXID: SPDXRef-item9443312
+FileChecksum: SHA1: 510c6710dcf1e61e49a32f9919c5c0dd22de0c7f
+FileChecksum: MD5: d7ce5015c65e450e6ce2bb457c158cec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/error-dialog/error-dialog.component.scss
+SPDXID: SPDXRef-item9443317
+FileChecksum: SHA1: 1d3a739e89388f0ea87c78b015ce77e960232845
+FileChecksum: MD5: e23ad516865ab81af7c970cd3380b840
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/confirm-dialog/confirm-dialog.component.ts
+SPDXID: SPDXRef-item9443319
+FileChecksum: SHA1: 59c34137d9033d4a987de6f16c2024d99d019f6b
+FileChecksum: MD5: b0d60aed8da5915c1b031e9f659e199e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/confirm-dialog/confirm-dialog.component.spec.ts
+SPDXID: SPDXRef-item9443321
+FileChecksum: SHA1: 00ca6ea325b7da8070a215a8be80c40d8870cde9
+FileChecksum: MD5: c7592bd3e0a431d3b6fabc8ee705b803
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/ui/confirm-dialog/confirm-dialog.component.html
+SPDXID: SPDXRef-item9443320
+FileChecksum: SHA1: b4fea70dbb824df659c09a8fe2bd316d7879e070
+FileChecksum: MD5: fb78d3421e6ae385fa778c971174ea53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel.module.ts
+SPDXID: SPDXRef-item9443323
+FileChecksum: SHA1: 0a856d6f56a7b31be216238563c7124dd0f399fc
+FileChecksum: MD5: 437d370339bfa71396838161f071522d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel.component.scss
+SPDXID: SPDXRef-item9443322
+FileChecksum: SHA1: 0fc715e26b4460b9a3a9b004c6fd2a18f7a3e3e9
+FileChecksum: MD5: 216a5384271e6191bafaa3e550dcbe9b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/controlpanel.component.html
+SPDXID: SPDXRef-item9443324
+FileChecksum: SHA1: c8b64253d53f20f407ebf4315b430dfbbed1364f
+FileChecksum: MD5: 0ea0b1ddd9a121a93d55dd507bec1c10
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance.component.html
+SPDXID: SPDXRef-item9443327
+FileChecksum: SHA1: be3d886cae076494373b17c27da5e772c75b7874
+FileChecksum: MD5: 1c6893b7a30c7add3ad5386df0494427
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance.component.ts
+SPDXID: SPDXRef-item9443326
+FileChecksum: SHA1: 972c2bdabc5db52070f6ac8d6e9ac641616d643e
+FileChecksum: MD5: 555532dd4ba5256b3dbc487d183f5c2c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/no-type-policy-instance-dialog.component.scss
+SPDXID: SPDXRef-item9443328
+FileChecksum: SHA1: f41f629cb32f30f99685e7d843c5d9235ae197b3
+FileChecksum: MD5: 63ac71c52f591c74630a674eb4af3fca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance.datasource.ts
+SPDXID: SPDXRef-item9443329
+FileChecksum: SHA1: 9d13a65146fe17d9d97c9a714533b9bd63f51f48
+FileChecksum: MD5: 3aaf419b924b07fa4e25ed95a7800390
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-control.component.html
+SPDXID: SPDXRef-item9443332
+FileChecksum: SHA1: 5640f046c1107298ad6f7acf61770a990a791ca9
+FileChecksum: MD5: 81b98e49d6c02e5f1cef5c1df9f138b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance-dialog.component.scss
+SPDXID: SPDXRef-item9443331
+FileChecksum: SHA1: 4930c611acb3748a2fc57ac1c00b4c63a74a02cd
+FileChecksum: MD5: 416cfc34b46ba5d66f202588cc87427a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance-dialog.component.html
+SPDXID: SPDXRef-item9443330
+FileChecksum: SHA1: 1c77b78651f4a23b356890a124687c3492fd48c2
+FileChecksum: MD5: ea8c272ad22ac1f7106dcfef843f28f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-control.component.ts
+SPDXID: SPDXRef-item9443335
+FileChecksum: SHA1: 2da3c96c18ab2f183ec95d3cac8f7f6bcd81534e
+FileChecksum: MD5: 8a1e7711ae444d750ed6e2701f2e47a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/no-type-policy-instance-dialog.component.html
+SPDXID: SPDXRef-item9443334
+FileChecksum: SHA1: 925fd6dcfb5429250cb6ea964f443ac4fbd717fc
+FileChecksum: MD5: 60e87e6175a3ce3f3ce39b4f8ab0ea17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance.component.scss
+SPDXID: SPDXRef-item9443336
+FileChecksum: SHA1: 6905d4a4ea38d2873fa6a551ded0637483a2c6cd
+FileChecksum: MD5: 1fad49e03bb618a7d610b13ac9ab9b3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-type.datasource.ts
+SPDXID: SPDXRef-item9443339
+FileChecksum: SHA1: 48b70e7265d34f10aa636940034328b741c4288f
+FileChecksum: MD5: 2aa975a08e1fba6cd1d712e5137f3914
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/app/policy-control/policy-instance-dialog.component.ts
+SPDXID: SPDXRef-item9443338
+FileChecksum: SHA1: 89466795a78bce9c60e374c3744301975c3cf231
+FileChecksum: MD5: 0f3147e2970030fc6c694e0a69e65c8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/static/error.html
+SPDXID: SPDXRef-item9443441
+FileChecksum: SHA1: 504f14f04985fefeaa17ca9ddb8cd49249f09fb9
+FileChecksum: MD5: 36e1c920c71e49241c070fd105d5ab36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/logback.xml
+SPDXID: SPDXRef-item9443442
+FileChecksum: SHA1: fd99872476b07da5ea58c3d5ba18d01676f58500
+FileChecksum: MD5: 1de323e84d7a31239311190575905ff1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/validation.properties
+SPDXID: SPDXRef-item9443438
+FileChecksum: SHA1: f8e6ded6c61bdf0c8db214930d18757f4b44ef68
+FileChecksum: MD5: 466ee639322653d7faba5b531d105ca5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/ESAPI.properties
+SPDXID: SPDXRef-item9443437
+FileChecksum: SHA1: d699bde9a8b059d5fa068d77976d99f5e993b426
+FileChecksum: MD5: 68de7acbd17a0e28ae16b43d7b9c229c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/controller/PolicyController.java
+SPDXID: SPDXRef-item9443452
+FileChecksum: SHA1: fb14d327943a2997da218a6deb6b2fa8e53b9802
+FileChecksum: MD5: 83c3876eb4fb563f2ee8a1c5186d18b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/controller/Html5PathsController.java
+SPDXID: SPDXRef-item9443454
+FileChecksum: SHA1: c600176451e64d26ee4ca4cc99a961904e237b8c
+FileChecksum: MD5: aae63c88d49e573fe901aa1fcb5fa3b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/controller/CustomResponseEntityExceptionHandler.java
+SPDXID: SPDXRef-item9443453
+FileChecksum: SHA1: 3bfd4a13126765c4511df7e6d0a7b9592ae6b752
+FileChecksum: MD5: 08d9f4a9a59a2f8d95f605d3233ee346
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/controller/SimpleErrorController.java
+SPDXID: SPDXRef-item9443451
+FileChecksum: SHA1: 8034926d7c17c71922ee6e8863aef54904f4b940
+FileChecksum: MD5: d3022df039f72ae99d701ab1782db13c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/policyagentapi/PolicyAgentApi.java
+SPDXID: SPDXRef-item9443456
+FileChecksum: SHA1: 6095f232e10e7b35fec723d3a6c2bcc38091e6ca
+FileChecksum: MD5: 22ef5a363efe8bc84ed4e72a6a8487f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/policyagentapi/PolicyAgentApiImpl.java
+SPDXID: SPDXRef-item9443457
+FileChecksum: SHA1: 58d25c82ff3170dab73471aaa6475a5562519ed0
+FileChecksum: MD5: c62b0879678296d0604640e8691358ec
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/k8sapi/SimpleKubernetesClient.java
+SPDXID: SPDXRef-item9443459
+FileChecksum: SHA1: 8dc1df4e4dea17907b8088abf614e893a3c3c51e
+FileChecksum: MD5: 92affade6d45e11e2325bd4de4f92201
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/SwaggerConfiguration.java
+SPDXID: SPDXRef-item9443461
+FileChecksum: SHA1: 1d1505a7d1eaab4eada572116f7422333f589a25
+FileChecksum: MD5: f8d573ba0b2e3ab44237e0b9c378d18c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/PortalApiConfiguration.java
+SPDXID: SPDXRef-item9443463
+FileChecksum: SHA1: fdb5629fe748de9c18f99d8a1f76ea7fb46d7f86
+FileChecksum: MD5: c1d102a1f474047e2d97dd91e557c7d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/WebSecurityConfiguration.java
+SPDXID: SPDXRef-item9443462
+FileChecksum: SHA1: ebb92e659113e40006e5da480f565e1ef73701f4
+FileChecksum: MD5: 8770f4efa1789efba61dc16825ecff13
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/TomcatWebServerConfiguration.java
+SPDXID: SPDXRef-item9443464
+FileChecksum: SHA1: 75f697d052004a89c15d92ea63e396e36e84d738
+FileChecksum: MD5: 2ed9cf2b1e132222bd454a897e9ed5b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/AdminConfiguration.java
+SPDXID: SPDXRef-item9443465
+FileChecksum: SHA1: 380b3742d19bfae68729af9a0248dce4834012c6
+FileChecksum: MD5: 98aa22ad0783264c5979370b7e8cbff3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/config/SpringContextCache.java
+SPDXID: SPDXRef-item9443466
+FileChecksum: SHA1: 5db15c74758e7b07dcbb34b546c422cd46a7f2ed
+FileChecksum: MD5: b2857b09e8ae793c412a1c294d910033
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalAuthenticationFilter.java
+SPDXID: SPDXRef-item9443468
+FileChecksum: SHA1: 7f4e840e46af9173229a6285ee6cc09be288aff6
+FileChecksum: MD5: 66de0d20996cc73faebd7db4f88fb7fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/IPortalSdkDecryptor.java
+SPDXID: SPDXRef-item9443469
+FileChecksum: SHA1: 01b4325cd7fca6aac58c6d36506a8c5038f1f663
+FileChecksum: MD5: 2608964a992c3f1c39046e238ca68cb5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalSdkDecryptorPkc.java
+SPDXID: SPDXRef-item9443471
+FileChecksum: SHA1: d3b3b736e3830a5f9f64618c46430895d38fb2b8
+FileChecksum: MD5: b1dcf950fcc708e1ea8036b54bc6fd37
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalRestCentralServiceImpl.java
+SPDXID: SPDXRef-item9443470
+FileChecksum: SHA1: 370d8c94de8a732145b8bcca8e92075b95a2fb2f
+FileChecksum: MD5: 8656d6e141466e384d3dd4d7e6057eac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalAuthManager.java
+SPDXID: SPDXRef-item9443472
+FileChecksum: SHA1: 559471af0ef5cd53ec3f319d16fce869bcefaa9b
+FileChecksum: MD5: f502673d18fb7e068934dc9d57d2f855
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/portalapi/PortalSdkDecryptorAes.java
+SPDXID: SPDXRef-item9443473
+FileChecksum: SHA1: 4fa66f8cc5d127889842fb132a9bc3c24b33fb77
+FileChecksum: MD5: 039f5a533736e95ba54fa07858f28070
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/util/HttpsURLConnectionUtils.java
+SPDXID: SPDXRef-item9443475
+FileChecksum: SHA1: cd0316b9fa27c69f0fe5294bb50e41dc873b3176
+FileChecksum: MD5: 87eec05537e132d8bde484185181af17
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/ControlPanelApplication.java
+SPDXID: SPDXRef-item9443478
+FileChecksum: SHA1: 44f9ae42b9be3fa8e217c1435aae1fc1f297d953
+FileChecksum: MD5: 83a964b5ff1709dfa38dee628499af28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/util/AsyncRestClient.java
+SPDXID: SPDXRef-item9443476
+FileChecksum: SHA1: 529d76aedef9fdf8fffb689580bb02fab55d9ad5
+FileChecksum: MD5: daa500eb076d640b6d35ec637390827f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/ControlPanelUserManager.java
+SPDXID: SPDXRef-item9443477
+FileChecksum: SHA1: ab43addb873933c09b2dea757788594ec456dc42
+FileChecksum: MD5: 3e6f951532f340acc117a34df798964b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/PolicyType.java
+SPDXID: SPDXRef-item9443480
+FileChecksum: SHA1: cb42742c2a447c270af7985fa6ac8395ec3e8cac
+FileChecksum: MD5: eb98503bda7464ebf21b7843ef9c55c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/PolicyTypes.java
+SPDXID: SPDXRef-item9443481
+FileChecksum: SHA1: a2be3e55f735017ef372cce6d129f1dbb4ab30a0
+FileChecksum: MD5: 6690ecbd8fbfa6045fa428001c04f01a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/PolicyInstances.java
+SPDXID: SPDXRef-item9443482
+FileChecksum: SHA1: 1a5cd81e764f4e93e2519aae10e81e2c33c86e4c
+FileChecksum: MD5: bc1a4a2ceb378cbec29433ce24f514da
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/EcompUserDetails.java
+SPDXID: SPDXRef-item9443485
+FileChecksum: SHA1: 96efadf46848e6d1ff84e5cc1aba9811addf8257
+FileChecksum: MD5: e4ed312d1f810a03f8cb8605b5cd69e4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/SuccessTransport.java
+SPDXID: SPDXRef-item9443483
+FileChecksum: SHA1: 1c6cc7c462af48004bca8fea04f645d559747fb6
+FileChecksum: MD5: 0e1e81b51d20ceac619c2635b0ac6679
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/IControlPanelResponse.java
+SPDXID: SPDXRef-item9443484
+FileChecksum: SHA1: 6da90b69c4607659f71e10aad1d44862c05cd699
+FileChecksum: MD5: 54db3fd5d8ead74483b4b9919a66f092
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/PolicyInfo.java
+SPDXID: SPDXRef-item9443487
+FileChecksum: SHA1: 63731fc4afec0a15b6dfbe615a1114fcf45e7c6f
+FileChecksum: MD5: 8391adc6f2535b9ab12a6b5d0ad1ffea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Nordix Foundation
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/model/ErrorTransport.java
+SPDXID: SPDXRef-item9443486
+FileChecksum: SHA1: 09f4f0ac9a720de3381638191db2d79e499b24b8
+FileChecksum: MD5: 0e8a6fb089bd1488457fb6b46f207fce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/pom.xml
+SPDXID: SPDXRef-item9443495
+FileChecksum: SHA1: 4484f9869d829b535b53f3d317d4eaaf08b812b1
+FileChecksum: MD5: fc5f712d1d62fe61baa309b10e7d8863
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/config/key.properties.template
+SPDXID: SPDXRef-item9443490
+FileChecksum: SHA1: fecf1bb738a222c23be3397ccefec8be2373c6b3
+FileChecksum: MD5: ce2f70753c06fb48b721a85629a04afa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/java/org/oransc/portal/nonrtric/controlpanel/ControlPanelConstants.java
+SPDXID: SPDXRef-item9443488
+FileChecksum: SHA1: ebee8a2c2c707a350e840f1f4384cc59da91260b
+FileChecksum: MD5: 01693b068592b847d0b9fcdd170bceff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/pom.xml
+SPDXID: SPDXRef-item9443514
+FileChecksum: SHA1: 1fdbd2799fd6134732f4d96bf100304a875427dc
+FileChecksum: MD5: 46334cb636475fb616c64a006d01ef07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property
+Copyright (C) 2020 Nordix Foundation </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/ng
+SPDXID: SPDXRef-item9443289
+FileChecksum: SHA1: d1eb2489a7f80546694df5d3f7790334f1deddef
+FileChecksum: MD5: 0de40f52f27c8d407088519e084941bc
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2010-2019 Google LLC. </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/npm
+SPDXID: SPDXRef-item9443393
+FileChecksum: SHA1: dced8518b2d7f976b33ccc2bfa53429d2d9ddc27
+FileChecksum: MD5: 1f4eefb8b6ac14d3be2b088765d1cb95
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2010-2019 Google LLC. </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/LICENSES.txt
+SPDXID: SPDXRef-item9443497
+FileChecksum: SHA1: 65062a33168e78b2e15a74c5a7b40a37d1a834f4
+FileChecksum: MD5: 7a79695a7d4bc0a9b6ca3f74ae755c2e
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/index.rst
+SPDXID: SPDXRef-item9443268
+FileChecksum: SHA1: e9eb7ed2cf82549c2be44128871d4e6a6c3e73aa
+FileChecksum: MD5: 809fd0a6d7267b814b86692365c08985
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/developer-guide.rst
+SPDXID: SPDXRef-item9443277
+FileChecksum: SHA1: 334b2f6a9a35adce96bd837383add976238a7ae9
+FileChecksum: MD5: e43ac152ecc459d6ac3865db4d3dece3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/overview.rst
+SPDXID: SPDXRef-item9443276
+FileChecksum: SHA1: ae24029f003d0aa8c86d0d8a52c9a0b2e970ce81
+FileChecksum: MD5: 79bfe99d14b509b5b921c0220f37c3e5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/index.rst
+SPDXID: SPDXRef-item9443500
+FileChecksum: SHA1: a9a13e9c1d875fa72d5e5c7a886114e6650802bd
+FileChecksum: MD5: e147f93d0b8295ca19d28033dd4a18eb
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/developer-guide.rst
+SPDXID: SPDXRef-item9443509
+FileChecksum: SHA1: 815bbcf2e22a133aa991b20c1d705ed040681cea
+FileChecksum: MD5: e7e7060db5545da74e5eef8ab9b5752e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/overview.rst
+SPDXID: SPDXRef-item9443508
+FileChecksum: SHA1: befdf88f0096d7def495165d634d2509215775fd
+FileChecksum: MD5: 88825eb9652d0ad78757cd57802393df
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/release-notes.rst
+SPDXID: SPDXRef-item9443270
+FileChecksum: SHA1: 99dc481681befac77c63f6bbdd1577a7236e4e90
+FileChecksum: MD5: a66e0b844944a379e546d2a8f732b793
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/sdnc-a1-controller-api.rst
+SPDXID: SPDXRef-item9443275
+FileChecksum: SHA1: a2c05068e353d4af1aaf945cf69b66f7261c5e2d
+FileChecksum: MD5: a215b56db672882f6227e2b4d8c90563
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/policy-agent-api.rst
+SPDXID: SPDXRef-item9443278
+FileChecksum: SHA1: aab8af716210cd440de359339f8751dca9e93454
+FileChecksum: MD5: 8f0079479c77bf1e6eaad108ebdd5a21
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/api-docs.rst
+SPDXID: SPDXRef-item9443283
+FileChecksum: SHA1: 8f7f20b4846ff23286dc0cc22caa80ffa167f7cd
+FileChecksum: MD5: f74b6abead91a0e0f3473319156e0330
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/docs/installation-guide.rst
+SPDXID: SPDXRef-item9443284
+FileChecksum: SHA1: 333ffcc2a8f736221b3ead6ccc45965debbe2789
+FileChecksum: MD5: fc8b9681d6e13fb0186092799c681324
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/release-notes.rst
+SPDXID: SPDXRef-item9443502
+FileChecksum: SHA1: 9de6f01662fc2446bf2bfa9b378fcef97e4f9259
+FileChecksum: MD5: 5e4668ba586eab904403a83e3bf7870f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/installation-guide.rst
+SPDXID: SPDXRef-item9443513
+FileChecksum: SHA1: e577a48fdf6edfc401efc15a5ab62263f7cbe1cc
+FileChecksum: MD5: a54b9c5915c27ae8c29201ff4091f111
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2020 Nordix </text>
+ 
+
+##File
+
+FileName: nonrtric/INFO.yaml
+SPDXID: SPDXRef-item9442884
+FileChecksum: SHA1: 629a207684c6bfb59fc5e3265874383553459a44
+FileChecksum: MD5: b7e75435da1e2e5637cd20577790baad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/.gitreview
+SPDXID: SPDXRef-item9442885
+FileChecksum: SHA1: 31a2417c78374b0b1998c18bb06c0d46129041d5
+FileChecksum: MD5: 1b49b871d2532e851333b60d6f746e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/dpo/blueprints/k8s-policy-agent.yaml
+SPDXID: SPDXRef-item9442889
+FileChecksum: SHA1: 554b1747b76658432f59b5f0ff670d3807a3fa2c
+FileChecksum: MD5: 3bd75e4381aad384db627b40c5f2580a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/test_application_configuration_with_dmaap_config.json
+SPDXID: SPDXRef-item9442894
+FileChecksum: SHA1: 4a97888cfd1fb9c2274ce53cc13eeb010aed4dae
+FileChecksum: MD5: 6cbc90d6999f6359ebe528e177a35fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/test_application_configuration.json
+SPDXID: SPDXRef-item9442895
+FileChecksum: SHA1: 4a7855ee8b5df291c3b2f1343def7dfad5fe59fd
+FileChecksum: MD5: b5f85dff013c8b712c9e1e5194e26a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/policy_types/demo-policy-schema-2.json
+SPDXID: SPDXRef-item9442897
+FileChecksum: SHA1: 77be4cbdc48c3da71d1e4ee944f0a76c00d82326
+FileChecksum: MD5: 9c22c8683a306e6e88980b3a52a41e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/policy_types/demo-policy-schema-1.json
+SPDXID: SPDXRef-item9442898
+FileChecksum: SHA1: 827178f1782e36c308000e6eb087df83acd711bf
+FileChecksum: MD5: b7e6c204c09a68abe8457578eb6bc569
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/policy_types/demo-policy-schema-3.json
+SPDXID: SPDXRef-item9442899
+FileChecksum: SHA1: 3451eb69c445bc749ba69cd50a28e5dea865c18d
+FileChecksum: MD5: 027fc1b3b8dbd5dd290eef12ffb0ec7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/test/resources/test_osc_get_schema_response.json
+SPDXID: SPDXRef-item9442900
+FileChecksum: SHA1: d8a2eae7fc03a0f7bd92132e190404866ed94912
+FileChecksum: MD5: 125b750ab8bd5885aa07b486464919cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/src/main/resources/keystore.jks
+SPDXID: SPDXRef-item9442936
+FileChecksum: SHA1: 87f15dd05f79b842fc9dace661ea8ad8ea456655
+FileChecksum: MD5: e3229848f31881878c839157c6c746fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/config/application.yaml
+SPDXID: SPDXRef-item9442997
+FileChecksum: SHA1: 4d3898aedeac19e376f7d82dfe42ead832d4162f
+FileChecksum: MD5: 88ae15e36a2cc3e55479e2f9dc1891bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/config/application_configuration.json_example
+SPDXID: SPDXRef-item9442998
+FileChecksum: SHA1: 7dc36128e83d507f39bc5f71cd958d99d395c926
+FileChecksum: MD5: 280fe51f60e410c5f8841974cf26f7bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/.gitignore
+SPDXID: SPDXRef-item9443000
+FileChecksum: SHA1: 3eb89a71d193fa388372cb5e20555de89d96797a
+FileChecksum: MD5: aae5ad58915fa7394b7a6ae5dea4cbd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/policy-agent/docs/api.yaml
+SPDXID: SPDXRef-item9443002
+FileChecksum: SHA1: 0b8a50a77b8588305e36609259b561769ec362d7
+FileChecksum: MD5: e5d5b4970cda219be9d1b5513238c343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sdnc_onap/.gitignore
+SPDXID: SPDXRef-item9443009
+FileChecksum: SHA1: 0cd7e9d043e62694041f1e669447cb9ad5c6e952
+FileChecksum: MD5: 3141945a6c5b2d733429a34553871c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/control_panel/.gitignore
+SPDXID: SPDXRef-item9443012
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/mr/cert/pass
+SPDXID: SPDXRef-item9443016
+FileChecksum: SHA1: a94a8fe5ccb19ba61c4c0873d391e987982fbbd3
+FileChecksum: MD5: 098f6bcd4621d373cade4e832627b4f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/mr/cert/key.crt
+SPDXID: SPDXRef-item9443017
+FileChecksum: SHA1: 97f6cd207ca4d2f582923d510b0b4cccb6daad4d
+FileChecksum: MD5: 731cab2937aabd5baac89583b241e56e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/mr/cert/cert.crt
+SPDXID: SPDXRef-item9443018
+FileChecksum: SHA1: 423c47616d760aad91394ef2931486e64e839723
+FileChecksum: MD5: eb229b29de6a507c09d43b61b49021bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/mr/.gitignore
+SPDXID: SPDXRef-item9443019
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/cert/pass
+SPDXID: SPDXRef-item9443024
+FileChecksum: SHA1: a94a8fe5ccb19ba61c4c0873d391e987982fbbd3
+FileChecksum: MD5: 098f6bcd4621d373cade4e832627b4f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/cert/key.crt
+SPDXID: SPDXRef-item9443025
+FileChecksum: SHA1: 2a8769ec764062a6462aa42e47f792e79acfeaef
+FileChecksum: MD5: a441192032f0998d1bc2c372a547399a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/cert/cert.crt
+SPDXID: SPDXRef-item9443027
+FileChecksum: SHA1: bdc64e835d25cd908a30abcf665caf1a1445efcc
+FileChecksum: MD5: a7a746aac713fd3075f94f65ab4ee6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/ric/.gitignore
+SPDXID: SPDXRef-item9443029
+FileChecksum: SHA1: 77fd4597be133134b5a5c7b6b384cb78ca5635d9
+FileChecksum: MD5: d98ac2b13747c3d6cf48a0a77d0d4f39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/policy_agent/.gitignore
+SPDXID: SPDXRef-item9443033
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/sdnc/.gitignore
+SPDXID: SPDXRef-item9443036
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/.gitignore
+SPDXID: SPDXRef-item9443038
+FileChecksum: SHA1: 46fc35e2cee7bc1a3d2269a0bd8c3b64390a3db5
+FileChecksum: MD5: 5a01c99dbca9fb1698106d15e108254b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/cr/.gitignore
+SPDXID: SPDXRef-item9443040
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/simulator-group/consul_cbs/.gitignore
+SPDXID: SPDXRef-item9443046
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/certificate/key.crt
+SPDXID: SPDXRef-item9443050
+FileChecksum: SHA1: 2a8769ec764062a6462aa42e47f792e79acfeaef
+FileChecksum: MD5: a441192032f0998d1bc2c372a547399a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/certificate/cert.crt
+SPDXID: SPDXRef-item9443052
+FileChecksum: SHA1: bdc64e835d25cd908a30abcf665caf1a1445efcc
+FileChecksum: MD5: a7a746aac713fd3075f94f65ab4ee6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/Suite-interfaces.sh
+SPDXID: SPDXRef-item9443054
+FileChecksum: SHA1: 2371f0926981e948b3ee31415f16bdc835c5b2bf
+FileChecksum: MD5: 1f9aafcc0a570779d380da4d278dd04a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/README.md
+SPDXID: SPDXRef-item9443056
+FileChecksum: SHA1: 5f0d3713323ac8fc68a499963e9cab22ae63d2b0
+FileChecksum: MD5: e806054241918e0c81e441acb1b420a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/pi2_template.json
+SPDXID: SPDXRef-item9443063
+FileChecksum: SHA1: 646c4a2c2934f1a63a2ea18f963612f207583644
+FileChecksum: MD5: daa0567cf74f6e8101f5d1e008759cfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/2-agent-modified.json
+SPDXID: SPDXRef-item9443064
+FileChecksum: SHA1: 9be6a78038da333c4cd40ee6a37d13086f4f75b3
+FileChecksum: MD5: cf04ba5a2dd6f63a2938660d230faaf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/pi1_template.json
+SPDXID: SPDXRef-item9443065
+FileChecksum: SHA1: ccc4dd4b2f70a1ab631dc01e829b1488b9bef2ee
+FileChecksum: MD5: 0d12a02c0056de3f9c734f4fbbc8a48a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/1-agent-modified.json
+SPDXID: SPDXRef-item9443066
+FileChecksum: SHA1: 3d71fa00e7dadc9801248fdc6d0327ad199c6f4b
+FileChecksum: MD5: ff3361b37b4c0dc9e814f910f2fc8184
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/sim_2.json
+SPDXID: SPDXRef-item9443067
+FileChecksum: SHA1: 1bba257eb8c7e01a1f27b0a8bff8b863dfa11c2b
+FileChecksum: MD5: acc13be8de0e9b418494de400bda2b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/1.json
+SPDXID: SPDXRef-item9443068
+FileChecksum: SHA1: e8e13d85fe8998afd0036dab4c1da040d0f0069e
+FileChecksum: MD5: 07c8e203862516d0542806dc0cb1ea36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/2.json
+SPDXID: SPDXRef-item9443069
+FileChecksum: SHA1: b543c03d5a070cc6132c747bd6a9e3d19964fa6d
+FileChecksum: MD5: 5cbe0df1a85e61577be34df694c7da51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/OSC/sim_1.json
+SPDXID: SPDXRef-item9443070
+FileChecksum: SHA1: d8a2eae7fc03a0f7bd92132e190404866ed94912
+FileChecksum: MD5: 125b750ab8bd5885aa07b486464919cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/STD/pi1_template.json
+SPDXID: SPDXRef-item9443072
+FileChecksum: SHA1: a11ede64a11a9e1cdfab77f9b31905df1d2823e1
+FileChecksum: MD5: e0d73028dd3e51db945ad8bd73bd9e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/testdata/STD/EMPTYTYPE.json
+SPDXID: SPDXRef-item9443073
+FileChecksum: SHA1: bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
+FileChecksum: MD5: 99914b932bd37a50b983c5e7c90ae93b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/auto-test/.gitignore
+SPDXID: SPDXRef-item9443079
+FileChecksum: SHA1: 0b7e2abed81b2ae4a9866e7cbaf966f9d01216ba
+FileChecksum: MD5: 66c596b6bfff6b1fe9ec3b2d7efd7545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/common/README.md
+SPDXID: SPDXRef-item9443086
+FileChecksum: SHA1: 8ec762307cb759a97af07b754bf923cc5e4eef75
+FileChecksum: MD5: 5affd82084b36c1d944f2e4267b3ef25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/README.md
+SPDXID: SPDXRef-item9443101
+FileChecksum: SHA1: 9408c6d90fd822155786d5fbf00b95d0d52e4077
+FileChecksum: MD5: 513aaa4ebc9bba4396658f52adf9caea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/cert/pass
+SPDXID: SPDXRef-item9443103
+FileChecksum: SHA1: a94a8fe5ccb19ba61c4c0873d391e987982fbbd3
+FileChecksum: MD5: 098f6bcd4621d373cade4e832627b4f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/cert/key.crt
+SPDXID: SPDXRef-item9443104
+FileChecksum: SHA1: 97f6cd207ca4d2f582923d510b0b4cccb6daad4d
+FileChecksum: MD5: 731cab2937aabd5baac89583b241e56e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/cert/cert.crt
+SPDXID: SPDXRef-item9443105
+FileChecksum: SHA1: 423c47616d760aad91394ef2931486e64e839723
+FileChecksum: MD5: eb229b29de6a507c09d43b61b49021bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/app/requirements.txt
+SPDXID: SPDXRef-item9443109
+FileChecksum: SHA1: 8b3bacaa84df62966636b4f937eaea6ab79fc3c5
+FileChecksum: MD5: 1fe9804dc5da31999b349401410d2c00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/app/nginx.conf
+SPDXID: SPDXRef-item9443110
+FileChecksum: SHA1: 243549d5f773314da55a9ad85515d1e18bd449eb
+FileChecksum: MD5: a8bdfb9bca8ca697f3f5bfc5471ceebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/mrstub/.gitignore
+SPDXID: SPDXRef-item9443112
+FileChecksum: SHA1: 050aaae1c38148b99ee5f5668229baef20c01285
+FileChecksum: MD5: f1574093962015dd5e6a987c1eb7db8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/.gitignore
+SPDXID: SPDXRef-item9443116
+FileChecksum: SHA1: 019bdc9584f34a59be5d232c4f618f637d40d08b
+FileChecksum: MD5: 7a3dcf6101fd1ac0602e3902193d2e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/cr/README.md
+SPDXID: SPDXRef-item9443118
+FileChecksum: SHA1: 57f4dfbe3cc3915c7f7772241b03b7d6de4b0e7c
+FileChecksum: MD5: 2db0ca4398d9e8620aad6beb6bdbc440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/cr/requirements.txt
+SPDXID: SPDXRef-item9443120
+FileChecksum: SHA1: 11b0726c1b96c6666b4ef34bf1a9a93085cdd353
+FileChecksum: MD5: 1860ced38555b5ce902f255d55883c09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/test/cr/.gitignore
+SPDXID: SPDXRef-item9443122
+FileChecksum: SHA1: a1572e00f2b0591af27b4947beeb187fb423c427
+FileChecksum: MD5: b874ca1c8b6d1606f0cdd653137e09bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/.releases/container-release-nonrtric-a1-controller.yaml
+SPDXID: SPDXRef-item9443126
+FileChecksum: SHA1: 0df89923f56bb48d63ebc9887af37fce0b21d5a9
+FileChecksum: MD5: 5437f0b4bb11c18c782577add7640b5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/.releases/container-release-nonrtric-policy-agent.yaml
+SPDXID: SPDXRef-item9443127
+FileChecksum: SHA1: 16929367b5a88c969ddaa2e4eec32fddc1993a6e
+FileChecksum: MD5: d3b2b7d82f4b9e0411edc970011763f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/.readthedocs.yaml
+SPDXID: SPDXRef-item9443130
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/.gitreview
+SPDXID: SPDXRef-item9443134
+FileChecksum: SHA1: d6424950aae8f49c1062af3f26fd85b58b37b4c9
+FileChecksum: MD5: 6cdfdc3b2086648a71127622daf60790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/features-sdnc-a1-northbound/pom.xml
+SPDXID: SPDXRef-item9443137
+FileChecksum: SHA1: 80316cf763aba841a561df4b249b06aaa8f1ff1d
+FileChecksum: MD5: efe07d537443ed7655ee6551ddb3466e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/installer/src/assembly/assemble_mvnrepo_zip.xml
+SPDXID: SPDXRef-item9443141
+FileChecksum: SHA1: fea17bf15f0e50e4ea261a16fa10a28803c52650
+FileChecksum: MD5: 8e11b8b1b467ce5dfe50fe5c2affbdcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/installer/src/assembly/assemble_installer_zip.xml
+SPDXID: SPDXRef-item9443142
+FileChecksum: SHA1: dfc54f613bf874c1593bdf334c70e3ab8baa0f12
+FileChecksum: MD5: 822b43a23e047a4013798e8230a23a6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/installer/src/main/resources/scripts/install-feature.sh
+SPDXID: SPDXRef-item9443146
+FileChecksum: SHA1: f8622069e9c37a1634482a26bf71b9976afbce82
+FileChecksum: MD5: 9dc167103af74a8260988926c1c7bcd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/installer/pom.xml
+SPDXID: SPDXRef-item9443147
+FileChecksum: SHA1: c1bfa6e106b44c0d85ae442ea62c51b8ebf524f1
+FileChecksum: MD5: 61b2903b6dc6bd253490a65c3bfe7bd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/sdnc-a1-northbound-all/pom.xml
+SPDXID: SPDXRef-item9443149
+FileChecksum: SHA1: b4ae503241783c4f652c0a878ee6c762ea9cc044
+FileChecksum: MD5: ddbf35063121ae3f64aaf1efef864562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/features/pom.xml
+SPDXID: SPDXRef-item9443150
+FileChecksum: SHA1: 927c7182b0e0bdd05d2a7331bc3784a904f273d5
+FileChecksum: MD5: d063f9feb896cb1bfc69593af1893e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/nonrt-ric-api/.gitignore
+SPDXID: SPDXRef-item9443203
+FileChecksum: SHA1: 3b47442b649cab51ce3e63463b7f1cf065e56af3
+FileChecksum: MD5: 19aafa0222e12175f1b77e0efd88f70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/northbound/.gitignore
+SPDXID: SPDXRef-item9443214
+FileChecksum: SHA1: 6ed4ff165d53cc2e0663048327b62c509583d7ee
+FileChecksum: MD5: b4fb8a9ac6b8b9920de5f95fc285f2a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/.gitreview
+SPDXID: SPDXRef-item9443219
+FileChecksum: SHA1: 99824a444414bbbc846305b142c3d46e35a973da
+FileChecksum: MD5: 082e7607f7d99f3bc1d0101753753aad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/docker/standalone.Dockerfile
+SPDXID: SPDXRef-item9443236
+FileChecksum: SHA1: 9910b0967b24111e33cb9d656022e4bac4306ae9
+FileChecksum: MD5: 2e1d6a9dfc20873bca49441a2df6508c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/resources/sdnctl.dump
+SPDXID: SPDXRef-item9443238
+FileChecksum: SHA1: 032f12366ecbf84ed537453e731159bb01c76904
+FileChecksum: MD5: d570ad8e75a94398d7e86007d484e3eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/installation/sdnc-a1/src/main/resources/keystore.jks
+SPDXID: SPDXRef-item9443239
+FileChecksum: SHA1: 5ba61a6608e8c483efb33009014a414b1d0b38a7
+FileChecksum: MD5: 721d984cb1f2c8f869c87e2bd6a5969f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/.gitignore
+SPDXID: SPDXRef-item9443246
+FileChecksum: SHA1: 3c480600084b345c33d597b6b5fc0f7ca1f41570
+FileChecksum: MD5: 5c147c1d653d87ae44a97902cd069cd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/src/main/scripts/updatePackages.sh
+SPDXID: SPDXRef-item9443252
+FileChecksum: SHA1: 4ffd23d49a574ffe56930dbfb891c5274af9e52f
+FileChecksum: MD5: 969d1261583a0ea79cf370d3f2959722
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/src/main/scripts/updateDgNamespace.sh
+SPDXID: SPDXRef-item9443253
+FileChecksum: SHA1: acdfc377d69032581c95d530218da402e9994358
+FileChecksum: MD5: 2658877f5a46005f21f3078643e11e83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/oam/platform-logic/.gitignore
+SPDXID: SPDXRef-item9443259
+FileChecksum: SHA1: bf0e04fdac58f2bb787e5d76d911413f2e74e5a5
+FileChecksum: MD5: 30c8e98226369e129218c865aed3b824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/sdnc-a1-controller/.gitignore
+SPDXID: SPDXRef-item9443264
+FileChecksum: SHA1: 9f2bd6d55d5ada33094d6e391588700f78b2d451
+FileChecksum: MD5: 20598eab060c44b926942a71abcd2244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/.gitignore
+SPDXID: SPDXRef-item9443266
+FileChecksum: SHA1: 24ee2f6cce123a06810f5b63311240d10f9d4e58
+FileChecksum: MD5: 1ab9c46a59420fefe34553a83accf652
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/requirements-docs.txt
+SPDXID: SPDXRef-item9443269
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/conf.yaml
+SPDXID: SPDXRef-item9443271
+FileChecksum: SHA1: 49b280f0897b3536c94e120fc64ee1a9025b4d21
+FileChecksum: MD5: ea427073d57beb63dfb4bc4903a3c1e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/conf.py
+SPDXID: SPDXRef-item9443272
+FileChecksum: SHA1: 8948ced480df5d854a699b4baab92b43508a2443
+FileChecksum: MD5: 59dbbc0bb7684417afb69a89773d12be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/images/NonRtRicComponents.png
+SPDXID: SPDXRef-item9443274
+FileChecksum: SHA1: e18d80347d81f723d74f4c54e9db75a4d3f9d079
+FileChecksum: MD5: 57158beb8186d5449d98ac0a5e936cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/.project
+SPDXID: SPDXRef-item9443279
+FileChecksum: SHA1: f7c8ea4e5f849d037be4a704987d7d242fc098ae
+FileChecksum: MD5: fd9a3ee22d540bb30e6c028ff2f472e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/favicon.ico
+SPDXID: SPDXRef-item9443280
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: nonrtric/docs/_static/logo.png
+SPDXID: SPDXRef-item9443282
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/tslint.json
+SPDXID: SPDXRef-item9443288
+FileChecksum: SHA1: 84913ee29b500b8fd83ddbd340ec8ac7ed1d0c4c
+FileChecksum: MD5: 38c9d8d3ead45f39f11e85c0942042c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/tsconfig.json
+SPDXID: SPDXRef-item9443290
+FileChecksum: SHA1: 9b24df70aab6d836ea44a651aaf6420887d5a84a
+FileChecksum: MD5: 35cca65b2dcd830407692e43da0b5fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/browserslist
+SPDXID: SPDXRef-item9443292
+FileChecksum: SHA1: 06bf6c3fd035260fa32219f087962d111cf8714c
+FileChecksum: MD5: 6e5482ba62579c4c074668da7c07b630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/tslint.json
+SPDXID: SPDXRef-item9443294
+FileChecksum: SHA1: 711ddeb858720c83b30061a2e57720d82744d972
+FileChecksum: MD5: 6c451406ff7bb06f12582c0afbe89067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/assets/profile_default.png
+SPDXID: SPDXRef-item9443299
+FileChecksum: SHA1: 5d3c50f6e4684b0087d4ff170b752299ee5b6bd9
+FileChecksum: MD5: 7d72bfabbcba6546e11efb96275505c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/assets/policy.png
+SPDXID: SPDXRef-item9443300
+FileChecksum: SHA1: ffb7a5b4a78ffaf7332a8724ed4ecf3b1d674505
+FileChecksum: MD5: 5dce3e01f3c23152d0d246d27a19801c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/assets/oran-logo.png
+SPDXID: SPDXRef-item9443301
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/favicon.ico
+SPDXID: SPDXRef-item9443305
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/tsconfig.app.json
+SPDXID: SPDXRef-item9443381
+FileChecksum: SHA1: 7907204836147c8d6fe29f22f2e6ffa48cc490dc
+FileChecksum: MD5: 7b28dcba28159a67908d09a08e201c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/src/tsconfig.spec.json
+SPDXID: SPDXRef-item9443382
+FileChecksum: SHA1: a6e2ca8e67ebbe71e18fa4ed384a81a188ed7794
+FileChecksum: MD5: 4709c740bba06f6a698d53b256b4fca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/proxy.conf.json
+SPDXID: SPDXRef-item9443383
+FileChecksum: SHA1: 6bc90b8726b08f8d5ef05a30839502e3c80ca3c0
+FileChecksum: MD5: a78fbf4072ebbf4ac4533f146c4648d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/e2e/tsconfig.e2e.json
+SPDXID: SPDXRef-item9443385
+FileChecksum: SHA1: cbf3a879d23f9eb6a9f05382ea6680548cfda5d6
+FileChecksum: MD5: 75fe943f8d0d56f383f7166f3de48700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/package.json
+SPDXID: SPDXRef-item9443390
+FileChecksum: SHA1: c78976353bd37a8942182b48bcf79f19acadeb4a
+FileChecksum: MD5: f09c041e7307bb0678744894e8035e1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/.gitignore
+SPDXID: SPDXRef-item9443391
+FileChecksum: SHA1: 6632923db473be93a08f026dd7e1a6438ad55f05
+FileChecksum: MD5: 09e177b12079c5012459219a58acc5f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-frontend/angular.json
+SPDXID: SPDXRef-item9443394
+FileChecksum: SHA1: 031692a07b54802294bb2452ad8154d377e3cbf2
+FileChecksum: MD5: 9d14fad3fca9a6199a8b2ef13440f6e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/INFO.yaml
+SPDXID: SPDXRef-item9443396
+FileChecksum: SHA1: 37ad6abdccb68cb24730763f9174afea9b77f18c
+FileChecksum: MD5: f25a51bdcf8927c45311ec7a2f38b50e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/.gitreview
+SPDXID: SPDXRef-item9443397
+FileChecksum: SHA1: 679631dd1b16f987b30515ba35c1327593905687
+FileChecksum: MD5: 0ca55d0889fb48827dd244d9d9b50ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/demo-policy-schema-2.json
+SPDXID: SPDXRef-item9443405
+FileChecksum: SHA1: 77be4cbdc48c3da71d1e4ee944f0a76c00d82326
+FileChecksum: MD5: 9c22c8683a306e6e88980b3a52a41e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/demo-policy-schema-1.json
+SPDXID: SPDXRef-item9443406
+FileChecksum: SHA1: a03e124eeb9115cb281e84ed862b377e6c83a07a
+FileChecksum: MD5: bde3578000d622d4d732b77cf62ae06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/caas-ingress-ricaux-pods.json
+SPDXID: SPDXRef-item9443407
+FileChecksum: SHA1: f05f14ea3eae5ea5f47bed267d1201a43c367d86
+FileChecksum: MD5: feb5fb8115950492c0774239b932d539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/demo-policy-schema-3.json
+SPDXID: SPDXRef-item9443408
+FileChecksum: SHA1: de697684cbffbfb86bca6d9ace4c1fb62fa2f52c
+FileChecksum: MD5: 8bb44202e7e8acef2d23b67ae4753f27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/test/resources/caas-ingress-ricplt-pods.json
+SPDXID: SPDXRef-item9443409
+FileChecksum: SHA1: c7a212892a1b67461886b99a62f17f97f0b4d3e0
+FileChecksum: MD5: 20ee5c37659e5e59e9273ef6e51d0df6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/src/main/resources/keystore.jks
+SPDXID: SPDXRef-item9443439
+FileChecksum: SHA1: 8e1f4415718f6f6c5518e08a89f44c664b0a0b7d
+FileChecksum: MD5: 94720f34c9b0572a22f8674ae4883c49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/config/.gitignore
+SPDXID: SPDXRef-item9443491
+FileChecksum: SHA1: 5611b5f98ebfd3dbcc28e564234ce915c8eb48e9
+FileChecksum: MD5: 4c84ad6fcbb6306825165918a12ba129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/webapp-backend/.gitignore
+SPDXID: SPDXRef-item9443494
+FileChecksum: SHA1: 6ec281c61fa31bf84000773dbd5afb1eca327921
+FileChecksum: MD5: d83220085f79f19bbc558ec6d0e44031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/.readthedocs.yaml
+SPDXID: SPDXRef-item9443496
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/.gitignore
+SPDXID: SPDXRef-item9443498
+FileChecksum: SHA1: e50acb26e919eb281cb0d6fa54fe1e3dd3e5aeb0
+FileChecksum: MD5: 85a9419052756842a0b78f428bbd6c7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/requirements-docs.txt
+SPDXID: SPDXRef-item9443501
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/conf.yaml
+SPDXID: SPDXRef-item9443503
+FileChecksum: SHA1: d235f5621112ba5dfd17684d555216cf2fbb292d
+FileChecksum: MD5: a9e6f46ac38a2f90ef9c603c267269fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/conf.py
+SPDXID: SPDXRef-item9443504
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/images/non-RT_RIC_controlpanel.png
+SPDXID: SPDXRef-item9443506
+FileChecksum: SHA1: f5deb5ba6f4f13f0b5edc855aadaad4dccdb6b89
+FileChecksum: MD5: 247221d193c9bbdffabc4685181ab0ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/images/architecture.png
+SPDXID: SPDXRef-item9443507
+FileChecksum: SHA1: b5322e731bc86927a1f28b923e7b1896c0b60abb
+FileChecksum: MD5: 9c385d8b7543d6bd86bbc1320b618a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/favicon.ico
+SPDXID: SPDXRef-item9443510
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: portal-nonrtric-controlpanel/docs/_static/logo.png
+SPDXID: SPDXRef-item9443512
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
