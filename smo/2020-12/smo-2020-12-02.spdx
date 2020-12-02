@@ -1,0 +1,598 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_smo-2020-12-02.zip_1606927625.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-12-02T16:47:05Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: smo-2020-12-02.zip
+PackageFileName: smo-2020-12-02.zip
+SPDXID: SPDXRef-upload3112
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: d7bc217163ce44e6f105b0b81ea40a15861d516a
+PackageChecksum: SHA1: f6f947f4a0e68d87904a0f19322f7ceef6160e05
+PackageChecksum: MD5: 82837b402d42b5193e0cc45a79ed8a88
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3112
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: smo/.gitreview
+SPDXID: SPDXRef-item12297841
+FileChecksum: SHA1: 6e183189b54af17bdf96f6a590379c0ff3219e5a
+FileChecksum: MD5: d28ecc397aaf35a1f7738d1e6deba549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-o1/INFO.yaml
+SPDXID: SPDXRef-item12297843
+FileChecksum: SHA1: 9af96ce46578f55117c8346acc3380fc8bacc7ba
+FileChecksum: MD5: 7a1bfd28a4a7c8c46613ecbe8bc30328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-o1/.gitreview
+SPDXID: SPDXRef-item12297844
+FileChecksum: SHA1: c4f1a5838576312316f1d4d3ba2aa9ef314e62e4
+FileChecksum: MD5: cea14a38f7a303445842ef62410829ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-o1/scripts/postman/O-RAN Collection.postman_collection.json
+SPDXID: SPDXRef-item12297847
+FileChecksum: SHA1: 782af05a4cc80ca04dc8996964c93f3915f4b549
+FileChecksum: MD5: c638290ccad8f011eeeae4db366524c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-a1/.gitreview
+SPDXID: SPDXRef-item12297849
+FileChecksum: SHA1: 69855837f943478f34b4f8f433638fdb8e434aa2
+FileChecksum: MD5: 31ac4d8ed6363144bf6a6fc074b22c0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-o2/.gitreview
+SPDXID: SPDXRef-item12297851
+FileChecksum: SHA1: b28fa0eba8eebca6c5b1a5ed5f7f4bd450beadc7
+FileChecksum: MD5: fd503bb67c095365d3cdaf8a406c8272
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/.gitreview
+SPDXID: SPDXRef-item12297853
+FileChecksum: SHA1: dfbc2fb20cd0307efc329afd158f9270e0e01658
+FileChecksum: MD5: 69e34b819a45edadee297f28566f34c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/README
+SPDXID: SPDXRef-item12297856
+FileChecksum: SHA1: 9fdd68100acd2df286b788b49ede5227cba7eb3d
+FileChecksum: MD5: a210aea2c5116a27652c69158f672080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/main.py
+SPDXID: SPDXRef-item12297857
+FileChecksum: SHA1: b5310093899cbeaeaf38f0bf34397095658dd841
+FileChecksum: MD5: 159d3995dd7c61fc2ff15c69ff86aed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/toscameta.py
+SPDXID: SPDXRef-item12297858
+FileChecksum: SHA1: 2ec3c1ea8645f270f279729f4c12f6a7a7997822
+FileChecksum: MD5: 85a4358f5b8bdd1d3fbef9d0d9c7754d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/unit-test/Tosca-error.sh
+SPDXID: SPDXRef-item12297860
+FileChecksum: SHA1: dfea53fca63ca57edf413b7b95d8141eec1c9bfc
+FileChecksum: MD5: 7a5242d23c5115fce7b36ebd21760901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/unit-test/validate.sh
+SPDXID: SPDXRef-item12297861
+FileChecksum: SHA1: d5f034da7f74e282d77f7d00e7b1ae49e89f47aa
+FileChecksum: MD5: f45cb116c52868095b7e40fb203a7d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/unit-test/yaml-error.sh
+SPDXID: SPDXRef-item12297862
+FileChecksum: SHA1: 1bebb5a9f3034b6086d8ef19989ffd4263a84a78
+FileChecksum: MD5: 204ddda8c1add452efd25e4a43ab2866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/requirements.txt
+SPDXID: SPDXRef-item12297863
+FileChecksum: SHA1: 1542338345efa823b06a4479b98cf019b1827ead
+FileChecksum: MD5: c99406f26fda02a61cdcb95c5e40a268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/vsn.yaml
+SPDXID: SPDXRef-item12297868
+FileChecksum: SHA1: 7e642704f3da737057716c15188150dfc21dd464
+FileChecksum: MD5: 7f674ebe4c6d9107ca96a9a850fa82c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/type_definition.yaml
+SPDXID: SPDXRef-item12297870
+FileChecksum: SHA1: 5b242f8ef5a3e6b4f77892567b312688d31613c8
+FileChecksum: MD5: 02e9b94e0432872f257af9626218d06e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297872
+FileChecksum: SHA1: 0d67458f48163d458aaf9ec9e510f9ed393ec481
+FileChecksum: MD5: 0e1f0f9f86e17ce8a3f3ffb1ef32015c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item12297877
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297878
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/images/ubuntu_16.04
+SPDXID: SPDXRef-item12297881
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/authorized_keys
+SPDXID: SPDXRef-item12297883
+FileChecksum: SHA1: b7a0a31e34300f4cd6975beda1a39b447c63946d
+FileChecksum: MD5: 2cdee3a9cc1e96b7e725c5e743cb514f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/id_rsa.pub
+SPDXID: SPDXRef-item12297884
+FileChecksum: SHA1: b7a0a31e34300f4cd6975beda1a39b447c63946d
+FileChecksum: MD5: 2cdee3a9cc1e96b7e725c5e743cb514f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/id_rsa
+SPDXID: SPDXRef-item12297885
+FileChecksum: SHA1: d9a470faffc08f2989558c844722c0a459605c80
+FileChecksum: MD5: d6fb1e4ed9dfb754408ebbd646349665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297886
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297888
+FileChecksum: SHA1: c62b5bdc08af6777bbc98ce50847bceb451367a3
+FileChecksum: MD5: fc71db6f97ca38c52456e128f2dfcee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item12297889
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item12297894
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/Definitions/MainServiceTemplate.txt
+SPDXID: SPDXRef-item12297895
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297899
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297901
+FileChecksum: SHA1: 7ff7b93ea7fb6ea35db1dd6cd2b69981dd3af713
+FileChecksum: MD5: be1ec6861fe980623be2b9a72896eac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item12297902
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item12297907
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297908
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297912
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297914
+FileChecksum: SHA1: 71daaca0e8075b099a4bb6ac2ef3278c3ec3714a
+FileChecksum: MD5: b094bc9e2ead6ed255d6efbe4d5460dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item12297915
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item12297920
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297921
+FileChecksum: SHA1: 54924cb02b095f0bc87f26e73ce81a3acdd73192
+FileChecksum: MD5: 36c2269946ce93c0c6c69eb54e27a9e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297925
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297927
+FileChecksum: SHA1: 7ff7b93ea7fb6ea35db1dd6cd2b69981dd3af713
+FileChecksum: MD5: be1ec6861fe980623be2b9a72896eac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item12297928
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item12297933
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297934
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item12297938
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item12297940
+FileChecksum: SHA1: d2832072f13573bd3e99a7356b6524344a72c738
+FileChecksum: MD5: c2ff7c38379f4c28e40114c3aec33a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item12297941
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/csar.py
+SPDXID: SPDXRef-item12297942
+FileChecksum: SHA1: 2171d3700fba127fb958f91a9be8498f6c6381cc
+FileChecksum: MD5: 432953e1927c9dac7e96964eeb1c700a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-app/tools/oran-pkg-validation/utils.py
+SPDXID: SPDXRef-item12297943
+FileChecksum: SHA1: 408186e523e5fd0d7c8e23b107bc8342865cb8d2
+FileChecksum: MD5: dce622534e2b253a3c99c8b564c3e0db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-ves/.gitreview
+SPDXID: SPDXRef-item12297945
+FileChecksum: SHA1: 1f58c27e9f1df21374882fc68888dbb3d13ef821
+FileChecksum: MD5: dcc6542cecd88c2ed8a8a3e97ab2cefe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
