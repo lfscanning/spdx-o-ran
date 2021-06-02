@@ -1,0 +1,147 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_aal-2021-05-25.zip_1622644129.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-06-02T14:28:49Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: aal-2021-05-25.zip
+PackageFileName: aal-2021-05-25.zip
+SPDXID: SPDXRef-upload3688
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: bdde4bc2757a8aae76f36494c973a8e300d0db57
+PackageChecksum: SHA1: a4ef459da959c12cfb579758f711a7e43fabc6ad
+PackageChecksum: MD5: 88b66d193e99481b78634938badc64c2
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3688
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: aal-logic/INFO.yaml
+SPDXID: SPDXRef-item14275824
+FileChecksum: SHA1: c4bce79d126cc3041de0940cea0cdd3a0e34a444
+FileChecksum: MD5: ecd46ca5e7331e829009fe490be924a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-logic/.gitreview
+SPDXID: SPDXRef-item14275825
+FileChecksum: SHA1: 2d8a8743460faa86963b8aebea5ffcb214a3d49d
+FileChecksum: MD5: 4b3e3dbcc4ffaf7956948d39ed69fef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-virt/INFO.yaml
+SPDXID: SPDXRef-item14275827
+FileChecksum: SHA1: d59db9d208614fe4a07f189355b499412d84085b
+FileChecksum: MD5: 1662c5b40ffbe61ae4d57b2a066a8d1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-virt/.gitreview
+SPDXID: SPDXRef-item14275828
+FileChecksum: SHA1: defe47627b35d6a596971f2d1c74c6c12b6f01e2
+FileChecksum: MD5: 46d1b9cd8c72e6cd69cb77bc0f6cbee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-lib/INFO.yaml
+SPDXID: SPDXRef-item14275830
+FileChecksum: SHA1: 72e8949552e82945a47b49d32f51a770570b04c1
+FileChecksum: MD5: 98487ca95f2046b1883d16da487934fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-lib/.gitreview
+SPDXID: SPDXRef-item14275831
+FileChecksum: SHA1: e09d59f8666987adb05e74dfad0b42428184c7e0
+FileChecksum: MD5: 432e5d3a39b806c8f1d5b5d4b476b4e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-mgmt/INFO.yaml
+SPDXID: SPDXRef-item14275833
+FileChecksum: SHA1: 4baaa35053a60c619ad729ab65c0a403d4cf29d3
+FileChecksum: MD5: d6b6135efba2fba269a03d59fd52ebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aal-mgmt/.gitreview
+SPDXID: SPDXRef-item14275834
+FileChecksum: SHA1: a98b0b5044ee56a099cd8eca8006c23319cbbb2b
+FileChecksum: MD5: 4d88fc13a1d1f72b373440b25a5a8f9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
