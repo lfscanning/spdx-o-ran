@@ -1,0 +1,684 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_smo-2021-12-02.zip_1638524939.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-12-03T09:48:59Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: smo-2021-12-02.zip
+PackageFileName: smo-2021-12-02.zip
+SPDXID: SPDXRef-upload212
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 5ba8b7444f1e5e090ec7f87b9083ea404dedfa5c
+PackageChecksum: SHA1: 42277bece178502c4540ec8917e16872f41a76ad
+PackageChecksum: SHA256: 4128ac9f385ed9835bbd2d4fd5574f48576c633227323e8c94c7e3dca18df206
+PackageChecksum: MD5: e317b43587dcae02b890b39f4b0d0f71
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload212
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/docs/att_interface_definition/CommonEventFormat-v7-2-2.json
+SPDXID: SPDXRef-item899750
+FileChecksum: SHA1: 05d90adc25b7c926c05794f97eaa7a9c8a9178df
+FileChecksum: SHA256: 5821e3bc187dc49bd4c2f08ba5a2d4406af27bd79eb6ff55fbf6b7a172192501
+FileChecksum: MD5: 8c281230e6b76a71652ca7410059f0c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> CopyrightNotice": {
+Copyright (c) 2020, AT&T Intellectual Property. All rights reserved. Modification Copyright (c) 2021, Nokia Solutions and Networks.", type": "object", properties": { apacheLicense2.0": { description": "Licensed under the Apache License, Version 2.0 (the 'License'); you may not use this file except in compliance with the License. You may obtain a copy of the License at:", type": "string" </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/.env
+SPDXID: SPDXRef-item899682
+FileChecksum: SHA1: 3d4196b31790c228aaecc8b31b937efc86ed5643
+FileChecksum: SHA256: c3525279c4873559223a32e902cd1ddc94e4f0142ee9c6214c6206df786a7def
+FileChecksum: MD5: 41ff939927b090a125abc7eed75a8724
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 highstreet technologies and others </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/docker-compose.yml
+SPDXID: SPDXRef-item899697
+FileChecksum: SHA1: 4b5c58ea1dfe242634d9c0054bcda964e47c07af
+FileChecksum: SHA256: 32154fbc92bc46693ec0482f89c595632c749b7a095a96c21b771554cfa429f2
+FileChecksum: MD5: b2581800b734d7d6becb31a97e88f243
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 highstreet technologies and others </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/3rd_party/collectd-ves-app/ves_app/normalizer.py
+SPDXID: SPDXRef-item899716
+FileChecksum: SHA1: 5860a24f6a84ebd80c95c897af12f1fd6c313812
+FileChecksum: SHA256: 2fb1ea2cff7b3e0d208a1d5cc065d1222991519fd265812c6b32f598b8b3aea5
+FileChecksum: MD5: 5817c0cf6d7056c4146b5d186a546223
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright(c) 2017 Intel Corporation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/LICENSE
+SPDXID: SPDXRef-item899711
+FileChecksum: SHA1: 23324424173efc7b3f972fd920977401560b5249
+FileChecksum: SHA256: 74e167363a630b86382e90a63b8e0dd73c1f3856c4de4387c7e39dba5d950934
+FileChecksum: MD5: 1cb25d84a9dca6fcf1ce952a492be9c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 Open Platform for NFV Project, Inc. and its contributors
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/3rd_party/collectd-ves-app/LICENSE
+SPDXID: SPDXRef-item899714
+FileChecksum: SHA1: a4de76bfb742da6571e38f7fba174dc482ef2905
+FileChecksum: SHA256: ccc7114b7761c6d544950396e823fd6dc9e7ef9d2594040a0e852ae897fa28fe
+FileChecksum: MD5: 34d48230777cfb4b702897e97924017d
+LicenseConcluded: Apache-2.0 AND LicenseRef-Dual-license AND LicenseRef-Meta-Incomplete AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2016-2017 Intel Corporation
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/kafka/start.sh
+SPDXID: SPDXRef-item899725
+FileChecksum: SHA1: 201e3489c06598a7f4374d703578749322c52d19
+FileChecksum: SHA256: 459814c47a6265a90aa3b2b715fe707dc4c69c5aa273369a6e0c49ba2fc7753d
+FileChecksum: MD5: 4136a989eb46002577d7b7d10a19a157
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/3rd_party/collectd-ves-app/ves_app/ves_app.py
+SPDXID: SPDXRef-item899717
+FileChecksum: SHA1: 4063be829f2c7685ed74a40d15e564aa1f916d77
+FileChecksum: SHA256: a6174aa0a57cb4cbea3aed48341b5dd7fab2d552abc33cf0dfa963cd29072f84
+FileChecksum: MD5: a16ebf7155b5ab35110516653fec6131
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright(c) 2017-2019 Intel Corporation and OPNFV. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/start.sh
+SPDXID: SPDXRef-item899708
+FileChecksum: SHA1: c37b07f395134e3e1a63a43766075696085c35e9
+FileChecksum: SHA256: 8dd3d4a09c66cff7f98e411516d4e5084f1bbc28bdc22674304b6f0fe276a70d
+FileChecksum: MD5: df0b204d0d02e0976391c049af0caf05
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/Makefile
+SPDXID: SPDXRef-item899707
+FileChecksum: SHA1: 44dff01cc72fed809f9aa7d8aaf8e70fa159b979
+FileChecksum: SHA256: 89c31e786f55f3eed3bc8098f17d398810de5f9865cc493468139344610292e4
+FileChecksum: MD5: 45d5683a1646b5df421523b2ec93f522
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/Makefile
+SPDXID: SPDXRef-item899722
+FileChecksum: SHA1: 26ebbf854c3c5d1c8cfb22d2e1035bc0e3a64e15
+FileChecksum: SHA256: 177a4685b3c1a4f7879a9c4e32c2b76ac9a314ebe073b2d3efa72d940732d9a6
+FileChecksum: MD5: 551846b4390ebb0cc00cdd4d1ea2bd0c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/kafka/Makefile
+SPDXID: SPDXRef-item899724
+FileChecksum: SHA1: 0e5b55b00505145ae0bf1796859a1abcbf69e8f0
+FileChecksum: SHA256: c0e906c6ad1f2762134e0bd403a09e073af71a23826eca0aa1a39ff2e7667171
+FileChecksum: MD5: 0a6ba1a281c24b69bcf81495f278050c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/Dockerfile
+SPDXID: SPDXRef-item899709
+FileChecksum: SHA1: 7c9a572e0b77d15fcf8f409478192539ca520c0f
+FileChecksum: SHA256: 34719aa95b63d83347330f4f02a127509bfbcfe79b53182620adfd68acb27e98
+FileChecksum: MD5: 4c581cbad386d335cd307e397ef6db07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/start.sh
+SPDXID: SPDXRef-item899730
+FileChecksum: SHA1: 194e0f65a14000dc9ed859c89039013d673d3cff
+FileChecksum: SHA256: f6623b1ab75b1d4081b3add17ae63232ec5be4a8eab7e27a66a227d8d090d5c7
+FileChecksum: MD5: 85b4b885aa076747cfd6995e2842d330
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/Makefile
+SPDXID: SPDXRef-item899729
+FileChecksum: SHA1: ceaf5b012d76eb727caff31cfce4a20bfcb4b87c
+FileChecksum: SHA256: 503b75dc75b2ebaca606a7e610952d97045db266ea3e0f5e480fac445820269f
+FileChecksum: MD5: 5f0d3cd76e77bdb03df249f77b5e610e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/Dockerfile
+SPDXID: SPDXRef-item899731
+FileChecksum: SHA1: 3e091104846dfd56c93d00b51fd5ddafbc1363a0
+FileChecksum: SHA256: fd93aa871f4483e02b764afc23835b68244397c68cef292b99ae13d99a581552
+FileChecksum: MD5: 818793292ee86dd0b0873d3bc551904a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/kafka/Dockerfile
+SPDXID: SPDXRef-item899726
+FileChecksum: SHA1: d3a0b74d6747d43df930085a31d4348f502e1464
+FileChecksum: SHA256: 4c8413f95f24eb9944d897f8fd63e39b7c38bffbd99dd976ff764e4f04b31e62
+FileChecksum: MD5: e2a47cfb79a01008e21f0c8855a517ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/adapter/LICENSE.md
+SPDXID: SPDXRef-item899733
+FileChecksum: SHA1: 405a7fee1921a3fbbc87148b0f69720f99308e75
+FileChecksum: SHA256: 8e31ffcc297c001d1d7073c2b0c55e35dcba11738277d90b9c593f0d6b0848d4
+FileChecksum: MD5: 2d7221c049fbe7e7912a7e774f519093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/adapter/code/dmaap_adapter.py
+SPDXID: SPDXRef-item899737
+FileChecksum: SHA1: 3bc963dcc68db7e4b284f26a63a48da32585d72c
+FileChecksum: SHA256: 8ed3c572a048cc541d55f250209b92a1d4cbf445930f149097675045521b15e8
+FileChecksum: MD5: ad55139ae822c94f10caa98424642daa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/adapter/code/consumer.py
+SPDXID: SPDXRef-item899738
+FileChecksum: SHA1: 889c9a3e5a6cacfba43a153c1b4a3dc455af0350
+FileChecksum: SHA256: 58444d26fb5505f3ed3e3ae04ff0ff889587022354fb40d113f0eb25a924d418
+FileChecksum: MD5: 740803b847a80e603edb2e90f36fa494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/adapter/code/app_config.py
+SPDXID: SPDXRef-item899739
+FileChecksum: SHA1: 87cc0dcde79ed4c0e239c98046918f8f9dbabbe9
+FileChecksum: SHA256: 2893e9c85e14419ef377859c623aa9d06cf126b1ed78922a514246356a3388af
+FileChecksum: MD5: 77e01db59b6642a28ff344e35cef3954
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/start.sh
+SPDXID: SPDXRef-item899745
+FileChecksum: SHA1: e9ee5ee5a15305336997aa1f154a544e0bf94b22
+FileChecksum: SHA256: 984e0f4491e3908501e3d6769e66f2c7435001d9952e6cf0a3f85b427cf7f49e
+FileChecksum: MD5: ed81787ac69b9a684600d937871da7d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property, Inc </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/Makefile
+SPDXID: SPDXRef-item899743
+FileChecksum: SHA1: e04bd35ff5e6ffac98d792bae32325384660c629
+FileChecksum: SHA256: 3a5b4fcd43e15a889f3b698052a5bd641de5e2ca9193b30b54999d34fb2d61ef
+FileChecksum: MD5: a0226ccb842302c747cf94b14a24cb22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/code/collector/monitor.py
+SPDXID: SPDXRef-item899758
+FileChecksum: SHA1: d3c7b4b9558c85697f41018ca95ae0e80e996bd7
+FileChecksum: SHA256: 376b235e5b2c753a625f023ede8942c6cd6475bcfadac42cdaeb1daf3ba09420
+FileChecksum: MD5: d471e5a5eb2c7598b2d578480ab61b0f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation
+Copyright 2015 Metaswitch Networks Ltd. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/docker-compose.yaml
+SPDXID: SPDXRef-item899741
+FileChecksum: SHA1: c198d7303f52cfe7a78ddcc25260e5d87596158d
+FileChecksum: SHA256: cd88f673aa22311db707568ad1ccf65beff959ee6b96d3b8a4f5b1731bc82c06
+FileChecksum: MD5: 182c844a23bd4ef91293dd6376281fb2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/Dockerfile
+SPDXID: SPDXRef-item899760
+FileChecksum: SHA1: 96588dcaad66470fa82b1647863153ab61474687
+FileChecksum: SHA256: 368b28af5d0ffa024b93543c38bb45cc82ce9e7f4120eedb1871db45c8d0fc1c
+FileChecksum: MD5: d4d8f30193aaa1446e130ca81dcd2b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/code/collector/rest_dispatcher.py
+SPDXID: SPDXRef-item899756
+FileChecksum: SHA1: f528a25c404479d6b38b0eac0ae139971a27c582
+FileChecksum: SHA256: 27c48895ffa51e50a41b5a50b21535cc73accf760dbdc847cb3465ea13271487
+FileChecksum: MD5: 85b027686374c292e422bfc682e705d8
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright(c) <2016>, AT&T Intellectual Property. All other rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/code/collector/test_control.py
+SPDXID: SPDXRef-item899757
+FileChecksum: SHA1: 2ab60f809d162160e273eac7d1f57a6b10bd4b6d
+FileChecksum: SHA256: 024260f07b0e1c1cc9cd4542d67396ebbf152495b80c1805a319b6dc7f771e23
+FileChecksum: MD5: 7a35e535ef3dba25b27fc51c4b577481
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright(c) <2016>, AT&T Intellectual Property. All other rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/LICENSE.md
+SPDXID: SPDXRef-item899747
+FileChecksum: SHA1: 9740f583b89aa229233f7f59e62af49f0ab93ddc
+FileChecksum: SHA256: 1b0bc611a270c1d0a31953ca5aa5f9d594e2b85fca6d9c532940c2c1e41c673b
+FileChecksum: MD5: 3d3bddf73f8004804f4d865de676b787
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright (c) 2016, AT&T Intellectual Property. All other rights reserved.
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/tests/.env
+SPDXID: SPDXRef-item899684
+FileChecksum: SHA1: 3e24219a62764aa847f60eaa3c5fedae5ab208a8
+FileChecksum: SHA256: 4d5f497f87c7f37a6d20785df296aa574749bb6c1acf19370ce06e458a8b6861
+FileChecksum: MD5: 14da0bda72c8716a11d275d787f24917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/tests/docker-compose.yml
+SPDXID: SPDXRef-item899685
+FileChecksum: SHA1: 8f6b727920020be3ab17fc5e7bb8586f2a7f50f8
+FileChecksum: SHA256: a7c53b7f94421bb30cbcab27758350cd06ae084b1e3b21706c86dcfc64163ab6
+FileChecksum: MD5: b0a35854e0fc8b32395fecd5989d329c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/sdnr/certs/certs.properties
+SPDXID: SPDXRef-item899688
+FileChecksum: SHA1: 15aaa5f4f30438041891a782aedc801d5dcbfe51
+FileChecksum: SHA256: 01c6e676481e4b0cd4fbbcaacccc3cf9f4c1e00d0a6643ca55af57a116914ac5
+FileChecksum: MD5: e7d05397132eea403997b2bc5ed23fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/client.key
+SPDXID: SPDXRef-item899693
+FileChecksum: SHA1: afcdafe54208145132f23233cd8808e0f98c0a48
+FileChecksum: SHA256: db94f90408d40434d33f9c9301982319a34c57a00f6c4169022d076e4e1630b5
+FileChecksum: MD5: 7ca6f9447fbd590043102855a95ca814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/client.crt
+SPDXID: SPDXRef-item899694
+FileChecksum: SHA1: feede090b416b6982a80070a9b8b89a1ef0ba6f3
+FileChecksum: SHA256: 91cf18b89492d0c572b86c12b9d795bacfe81ca550ea77980b85ee1f53b63d4d
+FileChecksum: MD5: 8fa111e08b5d196d5b045bb1933bf96e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/trustedCertificates.crt
+SPDXID: SPDXRef-item899695
+FileChecksum: SHA1: 19b51445fc2c24c8479fa0dfeaa58191f37f312d
+FileChecksum: SHA256: 9b7fa4b979cb3023605ea95f55f313400165d56b84e83c640724a99eb3abb543
+FileChecksum: MD5: a84a2729e5ce60e64412a82d4fb9f053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/client/README.md
+SPDXID: SPDXRef-item899696
+FileChecksum: SHA1: d6b17afeb2a94c214994f24b41aa3f5d33166ab4
+FileChecksum: SHA256: 53d6595487456cbd61254f9960f6278ec41b5aa4e5fa7945dacb1fd2eac6e525
+FileChecksum: MD5: 76656df61386fda4ae15dc3ec37f84a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/INFO.yaml
+SPDXID: SPDXRef-item899698
+FileChecksum: SHA1: 9af96ce46578f55117c8346acc3380fc8bacc7ba
+FileChecksum: SHA256: 6df0264006f52064405ef3421965423eeb3883c8aac726cb60beb6e80976f519
+FileChecksum: MD5: 7a1bfd28a4a7c8c46613ecbe8bc30328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/run_tests.sh
+SPDXID: SPDXRef-item899699
+FileChecksum: SHA1: 4e3c754d3a537a3522116624db2bd07a32d95f39
+FileChecksum: SHA256: 2292d40b07afd6bc09e1d0336e8712cfb1f3b4b7330a760a8bca6d3747728d39
+FileChecksum: MD5: d6c11b96f55048a6633c4bb207c33893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/scripts/postman/O-RAN Collection.postman_collection.json
+SPDXID: SPDXRef-item899702
+FileChecksum: SHA1: 782af05a4cc80ca04dc8996964c93f3915f4b549
+FileChecksum: SHA256: 65ad548637cf92492a9df53a3d181797993c5fa5f03762f887b2027c67840c05
+FileChecksum: MD5: c638290ccad8f011eeeae4db366524c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/README.md
+SPDXID: SPDXRef-item899703
+FileChecksum: SHA1: 8540f77d8b5ddc7fe7680dc838ff61aa1dd46c68
+FileChecksum: SHA256: d8621594b4199e0bb3d747f5b41f6b87a2d5f17cce752f39834f56dc1dfb2323
+FileChecksum: MD5: 60c8dbab654b96d45f057f8e60906376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-o1/.gitreview
+SPDXID: SPDXRef-item899704
+FileChecksum: SHA1: c4f1a5838576312316f1d4d3ba2aa9ef314e62e4
+FileChecksum: SHA256: 58be0e7b4db0d8203207fd0047f64a3cd1543a04732bc330e1c2a2a334c4dc51
+FileChecksum: MD5: cea14a38f7a303445842ef62410829ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/3rd_party/collectd-ves-app/ves_app/yaml/host.yaml
+SPDXID: SPDXRef-item899719
+FileChecksum: SHA1: 2b2d49d8f010b736d0cc09db874cc5ae8750cf9e
+FileChecksum: SHA256: 18990d6219521f7a3f4dde9a952cbdfcfa6e774f24214a1c4fc7e94e3ddbc8c4
+FileChecksum: MD5: a34a860dbe16baf8fbe346e435f7ce37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/agent/barometer/3rd_party/collectd-ves-app/ves_app/config/ves_app_config.conf
+SPDXID: SPDXRef-item899721
+FileChecksum: SHA1: 15a5b1a892e360ca21601f7055bc27fc6b2baba2
+FileChecksum: SHA256: 44110fa7a66f764ef974619961923dae2ca7c8a3880e44ec575755505535b8ae
+FileChecksum: MD5: e19c2a2fdfaf426c00d1d074f79dd58d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/README
+SPDXID: SPDXRef-item899727
+FileChecksum: SHA1: 582b8d279b263219b458850831d6dcd01ac716f8
+FileChecksum: SHA256: 8500661f10c335a6dbc924182f342079d3cc1d166154b41e8070b3e101ec12ea
+FileChecksum: MD5: 2969ada0c90024d9c53b2f032231f527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/dmaapadapter/adapter/config/adapter.conf
+SPDXID: SPDXRef-item899735
+FileChecksum: SHA1: 9e8b11f863740b8c75ee73b4e44fe32045a67165
+FileChecksum: SHA256: f6f2f84083658b551e681efaf930af1c50d9dcc33ba8428e2680630b6d8145ce
+FileChecksum: MD5: 8b88932fe7c4b1b1755064606329d612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/.gitreview
+SPDXID: SPDXRef-item899740
+FileChecksum: SHA1: 1f58c27e9f1df21374882fc68888dbb3d13ef821
+FileChecksum: SHA256: 668a6c0602e40787477b773bba874eacefaa2521bfe4de882cdd20c1c3be1ea0
+FileChecksum: MD5: dcc6542cecd88c2ed8a8a3e97ab2cefe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/Dashboard.json
+SPDXID: SPDXRef-item899744
+FileChecksum: SHA1: f7e7535c62af818b0c79c6edcdb063aea36d5c24
+FileChecksum: SHA256: 97976c5975ec520541040e7617b9e280d074bb4b4e46166401276c9fe55b93a3
+FileChecksum: MD5: 423b7c3148d2b63e1ff4fa723e7573d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/docs/att_interface_definition/README.md
+SPDXID: SPDXRef-item899751
+FileChecksum: SHA1: 78fd2beaad80685954f10fddde559b5e1f8a3214
+FileChecksum: SHA256: 866c32c39516af9a9d68f619390f1b456678263a61db7073eaa977aec04e1c68
+FileChecksum: MD5: 4c5ce837099d0c1a6b087dca73713b37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/evel-test-collector/config/collector.conf
+SPDXID: SPDXRef-item899753
+FileChecksum: SHA1: d76c88030a1495d3276852a1252b30bb889dd23f
+FileChecksum: SHA256: c7312adbc7a750941d50ae299908dac90d8d88e6c18dcaa11c9c6101dd2ffb06
+FileChecksum: MD5: 54ee1f5d56a33764ae75e852735b0c9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2021-12-02.zip/smo-ves/collector/datasource.json
+SPDXID: SPDXRef-item899759
+FileChecksum: SHA1: 2f8ebc3996b2be41d699777023606e27de008d3d
+FileChecksum: SHA256: 09c7fad00722ff32a1ff23445f45dbc59ce40c0f94e870068f9e838c264c1df5
+FileChecksum: MD5: f66dfe7573f4cacd3de5f3cc75ced024
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Meta-Incomplete
+LicenseName: Meta-Incomplete
+ExtractedText: <text> Meta flag: Indicates an incomplete license text or notice (e.g., only containing the first part of a license text). </text>
+
+LicenseID: LicenseRef-Meta-Project-License-Mismatch
+LicenseName: Meta-Project-License-Mismatch
+ExtractedText: <text> Meta flag: Indicates a repo license that is a mismatch from the project's designated license. </text>
+
