@@ -1,0 +1,2245 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_smo-2022-06-28.zip_1656484681.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-06-29T06:38:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: smo-2022-06-28.zip
+PackageFileName: smo-2022-06-28.zip
+SPDXID: SPDXRef-upload505
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 7ebf564acaed185fb71d7b65e44375f823d948ae
+PackageChecksum: SHA1: 9c089cced7eb33bed932c36ccca777e00a33b90b
+PackageChecksum: SHA256: fcd9ea2fcf8092f90114ef999043c6238d467467d044b5912f8790317482a6d8
+PackageChecksum: MD5: 660159a756e8548def70c8e1438edda2
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload505
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/docs/att_interface_definition/CommonEventFormat-v7-2-2.json
+SPDXID: SPDXRef-item2256231
+FileChecksum: SHA1: 05d90adc25b7c926c05794f97eaa7a9c8a9178df
+FileChecksum: SHA256: 5821e3bc187dc49bd4c2f08ba5a2d4406af27bd79eb6ff55fbf6b7a172192501
+FileChecksum: MD5: 8c281230e6b76a71652ca7410059f0c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> CopyrightNotice": {
+Copyright (c) 2020, AT&T Intellectual Property. All rights reserved. Modification Copyright (c) 2021, Nokia Solutions and Networks.", type": "object", properties": { apacheLicense2.0": { description": "Licensed under the Apache License, Version 2.0 (the 'License'); you may not use this file except in compliance with the License. You may obtain a copy of the License at:", type": "string" </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/index.rst
+SPDXID: SPDXRef-item2256117
+FileChecksum: SHA1: eaa2f917b38a0d5b7c2e8ee1eb1a86ea54ce6960
+FileChecksum: SHA256: e9de9338086844ca3dd2164cb760bd47884082d3d52847ba6bf7b839aec34460
+FileChecksum: MD5: fd801f5589268674df8504ddae13f1bd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/overview.rst
+SPDXID: SPDXRef-item2256118
+FileChecksum: SHA1: 1d028ea5fe1e380f73383e9b805040556be13e7b
+FileChecksum: SHA256: ec9a5ed6dce87f84efed296fa25d489a817c4ac94461ad2ab5c7d27fb56a9571
+FileChecksum: MD5: 172c051d2e156fa4a117b7de008ad1c3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/overview.rst
+SPDXID: SPDXRef-item2256176
+FileChecksum: SHA1: 1171fd6b936ecde9e48e6146e5a5c27090e620b7
+FileChecksum: SHA256: 62db113348728d907fb9a946d393f1f8229cdd3604e084fd80d0bb74bd8032b9
+FileChecksum: MD5: fc9260d61af4f1a48d6070041f496da9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/index.rst
+SPDXID: SPDXRef-item2256175
+FileChecksum: SHA1: 0afd086838b2640fca742c0b3d5688955cb8ef64
+FileChecksum: SHA256: 5c7a796bf03f9013c1082ec4aeb8906ffd3dd426333acd98e2e26c3127bfbc89
+FileChecksum: MD5: f051408231ded21dbec67190894c9b15
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/overview.rst
+SPDXID: SPDXRef-item2256369
+FileChecksum: SHA1: 5e144d7f1c8a2a7d1e56d512e4098670b863182d
+FileChecksum: SHA256: 56bd7e5f78917957b92688cf775c419baee940cecc138d6432c7322f18bf181d
+FileChecksum: MD5: 8a0312617c2bbe437bc4c6c6c3fc4e32
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/index.rst
+SPDXID: SPDXRef-item2256368
+FileChecksum: SHA1: b8622db5a118521e69bef4af2872390a4cf1ac8d
+FileChecksum: SHA256: 9abdd8518d17745060723eeb8eb5e7950515d1919cd24430b429f94986805dd0
+FileChecksum: MD5: 804288d99a14991ee53cd0fcba2fa628
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/user-guide.rst
+SPDXID: SPDXRef-item2256116
+FileChecksum: SHA1: 2821167e6387ac1ac8cf6db1d9327631f18d8aac
+FileChecksum: SHA256: e8e2d69b3038145596369e8b9bd7c2f8b724a0f36c895b303002122c6ab0c409
+FileChecksum: MD5: 99cb3f60f6d51f63f91acdef0989907a
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/api-docs.rst
+SPDXID: SPDXRef-item2256120
+FileChecksum: SHA1: 52c3b3c0e13300a1cb742e3c081bd323e725b308
+FileChecksum: SHA256: 2a1a66277f233c8ae740b09f48b85c8af14ed637e364ab89d5c30bbbf05a2162
+FileChecksum: MD5: 487f36553326849c22fa0c6a5bc5dae0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/api-docs.rst
+SPDXID: SPDXRef-item2256178
+FileChecksum: SHA1: 52c3b3c0e13300a1cb742e3c081bd323e725b308
+FileChecksum: SHA256: 2a1a66277f233c8ae740b09f48b85c8af14ed637e364ab89d5c30bbbf05a2162
+FileChecksum: MD5: 487f36553326849c22fa0c6a5bc5dae0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/installation-guide.rst
+SPDXID: SPDXRef-item2256119
+FileChecksum: SHA1: 45694b1baaf9612323a6e573e851f45839c46649
+FileChecksum: SHA256: 7d57a2e88405cf096413f972d99d7263cc85ee2cecc1f91baa10ca71a68ed818
+FileChecksum: MD5: f4c53edc4e0593dde74095e001977650
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/developer-guide.rst
+SPDXID: SPDXRef-item2256122
+FileChecksum: SHA1: 33bdc93ad806c0a9f1eb9006478e6f76be8054ae
+FileChecksum: SHA256: a7b865c0f2150bb9f67dd82ae5ffd1862671bdb8399a952727ff83e2e5ffa719
+FileChecksum: MD5: 6649987e1ad58e5d4ea8a1085580b0aa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/developer-guide.rst
+SPDXID: SPDXRef-item2256180
+FileChecksum: SHA1: 33bdc93ad806c0a9f1eb9006478e6f76be8054ae
+FileChecksum: SHA256: a7b865c0f2150bb9f67dd82ae5ffd1862671bdb8399a952727ff83e2e5ffa719
+FileChecksum: MD5: 6649987e1ad58e5d4ea8a1085580b0aa
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/release-notes.rst
+SPDXID: SPDXRef-item2256121
+FileChecksum: SHA1: b22033d0ffbe07a9abc9985ceaf3cfe881c73656
+FileChecksum: SHA256: ccadd2d86fef0329b204da81221e77c394da1a7baa84c115c2e00dff7e998ede
+FileChecksum: MD5: 6b2e11675008fdf98a15811f3b48769d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/user-guide.rst
+SPDXID: SPDXRef-item2256174
+FileChecksum: SHA1: 754f6f5f41de30b0a5d305b19088d3adb7675671
+FileChecksum: SHA256: b55649157a87eac9ab6cb58fe5334cccac7c31aa4f86a77a830a96f506d813b1
+FileChecksum: MD5: 4d004284cf4593be86fd568f7bc4637b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/installation-guide.rst
+SPDXID: SPDXRef-item2256177
+FileChecksum: SHA1: 522df3bbe45ff5be7a97201f15d5aca74ab6c32a
+FileChecksum: SHA256: 40c30830ba97a23b12856427455ac27b8fb40af44fb35e6a2783d9e09dbde66c
+FileChecksum: MD5: 4c20b53732d51f332dc9b866379f1fe9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/release-notes.rst
+SPDXID: SPDXRef-item2256179
+FileChecksum: SHA1: 7868940f7af450d7f351fab2565a8b2350d69b95
+FileChecksum: SHA256: 61ed0d511115e718dabf874c09068fa553ac358dad243ee18d9c5fc598ace797
+FileChecksum: MD5: 3f199acbf95bf9fd4dcb93d3eeec4d95
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/user-guide.rst
+SPDXID: SPDXRef-item2256367
+FileChecksum: SHA1: 7fe1f8149eaf6be5473be4079c31e42127576384
+FileChecksum: SHA256: 3660dc50cafa9566a16240be07c517a984d899be3074c51ba489ed3598d2e4b1
+FileChecksum: MD5: b77201a250845afe52c527f82b129310
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/api-docs.rst
+SPDXID: SPDXRef-item2256371
+FileChecksum: SHA1: 380749a0f63267cb122ecd5f81c993f614c20d9f
+FileChecksum: SHA256: 894a0cd225c38c096c7c58117772b6c7700e4be92fcbe7d0b8e744476e667197
+FileChecksum: MD5: d427107614a9bae46e8a99624157d209
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/tacker/api-docs.rst
+SPDXID: SPDXRef-item2256375
+FileChecksum: SHA1: f5787d3ddf9873fe706c03eaa32184941bf2bc61
+FileChecksum: SHA256: efde946d8c2a9c2a51aa066f0b4fab0cfd492e30631c9c54024bf1c2fcc71714
+FileChecksum: MD5: f53aa9824e9629869427595ba093587f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/installation-guide.rst
+SPDXID: SPDXRef-item2256370
+FileChecksum: SHA1: 71fbdbb9eba6c1615d5d8c378631a2e642776958
+FileChecksum: SHA256: 737cdbd6db30c1929e6c369aa9769b244e6db654c19c6b8378077f58d7b1553f
+FileChecksum: MD5: 159b09262772241a27dd754f2f392c01
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/release-notes.rst
+SPDXID: SPDXRef-item2256372
+FileChecksum: SHA1: 36c244fe9f32b32fa632743e402738217b2a7a61
+FileChecksum: SHA256: 7cc841a9010b4465abf94722de45e0668b1bd7d8e5e0b0aa73cd0ef7b8bcaaa6
+FileChecksum: MD5: 65c74be64973827e8b2540637e7cf22c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/developer-guide.rst
+SPDXID: SPDXRef-item2256376
+FileChecksum: SHA1: e395e6ee9c2f2b45e6aed9c6307bfd35a02fad93
+FileChecksum: SHA256: aa2ea9f580c99dc412353fe4cbfb5d4cf8d64cea8121868de45de521a70aed25
+FileChecksum: MD5: 409f078e34a69b3bc6d247ec01ec73ad
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/tacker/installation-guide.rst
+SPDXID: SPDXRef-item2256374
+FileChecksum: SHA1: 2ce9df5780c08ba89b75e135d4a120ca9256b966
+FileChecksum: SHA256: e8850b1270d098d028cef4584b3fa3c47a9b0ccbac01a5f63835957d5da50c3d
+FileChecksum: MD5: f6d5909b1a2c246221b82eca7ffb3eb9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/LICENSE
+SPDXID: SPDXRef-item2256162
+FileChecksum: SHA1: 23324424173efc7b3f972fd920977401560b5249
+FileChecksum: SHA256: 74e167363a630b86382e90a63b8e0dd73c1f3856c4de4387c7e39dba5d950934
+FileChecksum: MD5: 1cb25d84a9dca6fcf1ce952a492be9c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2015 Open Platform for NFV Project, Inc. and its contributors
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/3rd_party/collectd-agent-app/agent_app/normalizer.py
+SPDXID: SPDXRef-item2256168
+FileChecksum: SHA1: 5860a24f6a84ebd80c95c897af12f1fd6c313812
+FileChecksum: SHA256: 2fb1ea2cff7b3e0d208a1d5cc065d1222991519fd265812c6b32f598b8b3aea5
+FileChecksum: MD5: 5817c0cf6d7056c4146b5d186a546223
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright(c) 2017 Intel Corporation. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/3rd_party/collectd-agent-app/LICENSE
+SPDXID: SPDXRef-item2256165
+FileChecksum: SHA1: a4de76bfb742da6571e38f7fba174dc482ef2905
+FileChecksum: SHA256: ccc7114b7761c6d544950396e823fd6dc9e7ef9d2594040a0e852ae897fa28fe
+FileChecksum: MD5: 34d48230777cfb4b702897e97924017d
+LicenseConcluded: Apache-2.0 AND LicenseRef-Dual-license AND LicenseRef-Meta-Incomplete AND MIT
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2016-2017 Intel Corporation
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/unit-test/yaml-error.sh
+SPDXID: SPDXRef-item2256278
+FileChecksum: SHA1: 37f110fcf34bda033ff5aa816444af0093313b6f
+FileChecksum: SHA256: 1899a0bcbaa0378c050d9a8292088ec322e9106e2b8cf5e7375268a6e51bc1a0
+FileChecksum: MD5: 95f51254b4367fcae001e4b35ae601f3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2020 Aarna Networks, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/LICENSES.txt
+SPDXID: SPDXRef-item2256343
+FileChecksum: SHA1: b79cce4763a74cb7313f3d5837f71bb3966b1f59
+FileChecksum: SHA256: 786940a5d08f90fe0d8cce3816b0c0a892b35a007696115905dbcdb56cd8890e
+FileChecksum: MD5: 0eb5a3832257666e64c6bdda270da64d
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/unit-test/LICENSES.txt
+SPDXID: SPDXRef-item2256280
+FileChecksum: SHA1: b79cce4763a74cb7313f3d5837f71bb3966b1f59
+FileChecksum: SHA256: 786940a5d08f90fe0d8cce3816b0c0a892b35a007696115905dbcdb56cd8890e
+FileChecksum: MD5: 0eb5a3832257666e64c6bdda270da64d
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/LICENSES.txt
+SPDXID: SPDXRef-item2256363
+FileChecksum: SHA1: b79cce4763a74cb7313f3d5837f71bb3966b1f59
+FileChecksum: SHA256: 786940a5d08f90fe0d8cce3816b0c0a892b35a007696115905dbcdb56cd8890e
+FileChecksum: MD5: 0eb5a3832257666e64c6bdda270da64d
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/LICENSES.txt
+SPDXID: SPDXRef-item2256272
+FileChecksum: SHA1: b79cce4763a74cb7313f3d5837f71bb3966b1f59
+FileChecksum: SHA256: 786940a5d08f90fe0d8cce3816b0c0a892b35a007696115905dbcdb56cd8890e
+FileChecksum: MD5: 0eb5a3832257666e64c6bdda270da64d
+LicenseConcluded: Apache-2.0 OR CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/unit-test/Tosca-error.sh
+SPDXID: SPDXRef-item2256281
+FileChecksum: SHA1: 4f8f4b7596f1b14ca909f79968ac05edc6ccf80f
+FileChecksum: SHA256: 2b8e69211fa5b876c49934484b08a2876dfb5b43dc2d79f361f1efbbebb9b5a2
+FileChecksum: MD5: 2e9a9a54b95527bc8f23d0ea2ae14a11
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2020 Aarna Networks, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/unit-test/validate.sh
+SPDXID: SPDXRef-item2256279
+FileChecksum: SHA1: 4319bbc1614074427c2061fbba9dad05cec5b896
+FileChecksum: SHA256: 986c3d3f3ebe5e3849de7638e937a2be888aea547ecb94c4aa96a4ea10e7240e
+FileChecksum: MD5: a6c0518635052715e2aaad6f834f5b7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright © 2020 Aarna Networks, Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/utils.py
+SPDXID: SPDXRef-item2256364
+FileChecksum: SHA1: 6178d7e906f89e8cd33e2ad1fb4962103034eca5
+FileChecksum: SHA256: 477b20e38a1ef3c101a1cd79baa1fcc67cd74817165f9c8b8b80edf8b48a38dd
+FileChecksum: MD5: 6b58d20fe982d314d7236179438d003a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2018 Intel Corp Inc. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/LICENSE.md
+SPDXID: SPDXRef-item2256198
+FileChecksum: SHA1: 405a7fee1921a3fbbc87148b0f69720f99308e75
+FileChecksum: SHA256: 8e31ffcc297c001d1d7073c2b0c55e35dcba11738277d90b9c593f0d6b0848d4
+FileChecksum: MD5: 2d7221c049fbe7e7912a7e774f519093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/LICENSE.md
+SPDXID: SPDXRef-item2256252
+FileChecksum: SHA1: 405a7fee1921a3fbbc87148b0f69720f99308e75
+FileChecksum: SHA256: 8e31ffcc297c001d1d7073c2b0c55e35dcba11738277d90b9c593f0d6b0848d4
+FileChecksum: MD5: 2d7221c049fbe7e7912a7e774f519093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/.env
+SPDXID: SPDXRef-item2256130
+FileChecksum: SHA1: 12cd08546f913f50e21aa0780f992b1464406fcc
+FileChecksum: SHA256: 9816c547a4c1509584d59e113a0fad51690fe357eb3d17842a5361a364d8db5c
+FileChecksum: MD5: c840e5a6a03abf04c0fb0d6cd527fd30
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 highstreet technologies and others </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/Makefile
+SPDXID: SPDXRef-item2256158
+FileChecksum: SHA1: 0b452aec83ca362e2ecc92bb9623768d074b5b71
+FileChecksum: SHA256: 95f556f38d776a03e589b3d31ba9f1ab2045914df541c4dd8f617426092a4feb
+FileChecksum: MD5: d9a63fd4c51124875e2127e927b56ccc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/start.sh
+SPDXID: SPDXRef-item2256159
+FileChecksum: SHA1: b64858efc5795628d3494a40a72160ddccaf6d27
+FileChecksum: SHA256: 35b4bd2cac4afe1096955747ed673afde1d4617e50d71131f00087c77e758ed7
+FileChecksum: MD5: c912ad3519bb98fdf510965960bfb417
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/Dockerfile
+SPDXID: SPDXRef-item2256160
+FileChecksum: SHA1: 2ec724aafc9b03f365637259b1105e78504624af
+FileChecksum: SHA256: e135dba5790d78bc3de8eaeb86cc71a296a4887950e7adfdff50c7080dc5eac2
+FileChecksum: MD5: 62a1ab481261b66b2eb519bbbc1de639
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/3rd_party/collectd-agent-app/agent_app/agent_app.py
+SPDXID: SPDXRef-item2256167
+FileChecksum: SHA1: 0ab7d4a24f0df13d01d153fce00576e9e7f8393d
+FileChecksum: SHA256: ecd34162cc964b9752a764e345b785bf35aa6cc59b74344188c4e7b3cda3d77a
+FileChecksum: MD5: 046dcf76cb7358801c6627e2020dafba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright(c) 2017-2019 Intel Corporation and OPNFV. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/docker-compose.yml
+SPDXID: SPDXRef-item2256146
+FileChecksum: SHA1: f4f83dc81c6052f9e1a627f8158f7cdb64a6e551
+FileChecksum: SHA256: 5a48a6ebe54d6b849f88b2ac643d616b7971ee045bba663639e8a8f1a1644f66
+FileChecksum: MD5: baee431de57572e8c900aa0fcabda060
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 highstreet technologies and others </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/Makefile
+SPDXID: SPDXRef-item2256187
+FileChecksum: SHA1: a3844f31ead9dc256c6050c33ddff59f7656ec9f
+FileChecksum: SHA256: 4f0416fccb5ce3c87e4c0184763b9350a53c7b8cccf68c018b346de4c8e6c28e
+FileChecksum: MD5: 69ca40884c696eb543df1790863768a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/kafka/Makefile
+SPDXID: SPDXRef-item2256189
+FileChecksum: SHA1: b7fa3dc36647a33adee58f205496aa931604a3b7
+FileChecksum: SHA256: d281346035711b0cd71d08ed8728382584cf27fabb656254bfa5b211ceef368d
+FileChecksum: MD5: 3f45e29d2114ee8962ac52331fe4163e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/kafka/start.sh
+SPDXID: SPDXRef-item2256190
+FileChecksum: SHA1: 027f7dd46ba34c4c5d59d079dbcb2b2f595c08f9
+FileChecksum: SHA256: 1e0dbcb8aedd9f4601a5ba925c6d5b1192bfd5909469bd15d961707529f73fa2
+FileChecksum: MD5: 800317fc62a4f56db777f5a7b40482f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/start.sh
+SPDXID: SPDXRef-item2256194
+FileChecksum: SHA1: 472f63d8806158440c55c1b83a797eaec397a854
+FileChecksum: SHA256: 51ca481a1cb81d48974e352740f500926bd71eebe6ac7063659730ccf3ae07aa
+FileChecksum: MD5: 628621c8ebcaf1ad9fe43112db39264d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/Makefile
+SPDXID: SPDXRef-item2256193
+FileChecksum: SHA1: bafbfb2f03520c3b2b49c47f292e292b58b9cb6d
+FileChecksum: SHA256: 06452d68fef3e4bb7124b41bd3cf2d415b5d599e47fd924dfe705fb4a4f73126
+FileChecksum: MD5: 728a2df3872ad6e9e648d105467a85ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/kafka/Dockerfile
+SPDXID: SPDXRef-item2256191
+FileChecksum: SHA1: 4bd880c78a9c62749ed57747b08b9d9ef379297e
+FileChecksum: SHA256: a72272b237ed5df9413fbd56e8ff276745d94ef869e04c87988ed7077f2a3c10
+FileChecksum: MD5: 0327b482aeacc8aa23c8ea89d409fdb1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/Dockerfile
+SPDXID: SPDXRef-item2256196
+FileChecksum: SHA1: af0f1513abbe381f35f9ba9dbbca6c9c32b8277a
+FileChecksum: SHA256: e6b6b5d082acc08b01b36bdfda3c78ecd9aabf832f29ade511b2cb06cc5c5d2f
+FileChecksum: MD5: c117a29fa330e20b6e5149c90f80c97c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/test/test_dmaap_adapter.py
+SPDXID: SPDXRef-item2256200
+FileChecksum: SHA1: 1687e5ea622e5e9c46c7c0be9b7e2be1fc18b895
+FileChecksum: SHA256: 2186d15265cd1541e82547a44dcbae85f6ca4852b540bd993866b20a181567e3
+FileChecksum: MD5: c921eb84dcb9dca44cdffad6ab6f11bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/test/test_prepare_response.py
+SPDXID: SPDXRef-item2256203
+FileChecksum: SHA1: 4a92bf286b6c8d6289f543087fe945216c2ee2d6
+FileChecksum: SHA256: 7aad42bb60c0807bc3e86558635c43010cf817c7391939e5667c93b4f4890557
+FileChecksum: MD5: d29cb7b8df6519a452ca725a37d3cf25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/code/consumer.py
+SPDXID: SPDXRef-item2256209
+FileChecksum: SHA1: 8ab8372f6f7457d1c3ddaddab548c219cb9c4038
+FileChecksum: SHA256: a11a2a066c547f1c7e0dc5e5af7c559464116f78bde057ef3af46f5d08b0055a
+FileChecksum: MD5: 1e60dc540fb92cc97a6888db49d6a106
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/code/dmaap_adapter.py
+SPDXID: SPDXRef-item2256208
+FileChecksum: SHA1: 3456446f17e373544a757e96f46b3f442e6cd735
+FileChecksum: SHA256: 059c0e6dcd9d5da183512efc0db3e3386803cec54b9b838ab4e7acd01ecf52ac
+FileChecksum: MD5: 915ce58b2c9928d179277815d7a79874
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/code/prepare_response.py
+SPDXID: SPDXRef-item2256210
+FileChecksum: SHA1: 4a9b40f5f904c8d7bfaf880479a86a877636f4c0
+FileChecksum: SHA256: c63320887bf17d562d8453901bc56fc29035488dfd900001be6168e0fdbdfa41
+FileChecksum: MD5: c7a6f898fcca5c4821bb731aa8fa8eb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/code/app_config.py
+SPDXID: SPDXRef-item2256211
+FileChecksum: SHA1: 4b80a7cdc47321719ddd40083b28444c68bd2da0
+FileChecksum: SHA256: e651fc618d6bcbbd2386e2f610ebbaa5402f26096e327c86290e3b2d4ba3b090
+FileChecksum: MD5: b2aed51eafb205207cd01875c1da5791
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/functionaltest/test_positive_testsuit.py
+SPDXID: SPDXRef-item2256215
+FileChecksum: SHA1: 2375a49f5c1c50a8ae1e77fd6aa3336f2eea67d7
+FileChecksum: SHA256: 36a21a908113129bc6c59dedba8096aa04815fa33c088ab13b075c81dbaed6cb
+FileChecksum: MD5: 916e2adde5f263f2ce891b4202c28fba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/functionaltest/test_negative_testsuit.py
+SPDXID: SPDXRef-item2256216
+FileChecksum: SHA1: ebca5d7e42a089daf0d4d5ee9d0a63c80df13b18
+FileChecksum: SHA256: 22b3b52fe002368a3e90fb8a6086da9582ba409737c6f0e37620103dcbce99ed
+FileChecksum: MD5: 69cccb9c3484dd776d7d74df0433efad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/start.sh
+SPDXID: SPDXRef-item2256225
+FileChecksum: SHA1: 35f7f300784f91d49aea485b26abc915ad765e1a
+FileChecksum: SHA256: 9486d843da78265f783369e2b80a00db45ff1039e8e14e7b071803338ec3fdf3
+FileChecksum: MD5: 2f4f75a47f356924430cc8c45452559f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property, Inc </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/Makefile
+SPDXID: SPDXRef-item2256224
+FileChecksum: SHA1: d11c45c68a831136d9e33927e6a85d2994ecc6f5
+FileChecksum: SHA256: 4af9724ab6ceb181ff39eea6e94713aa273533bac6bc2181ec1fb7ffe764cc41
+FileChecksum: MD5: de13b6243f747f0292b8eea18957eccb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docker-compose.yaml
+SPDXID: SPDXRef-item2256222
+FileChecksum: SHA1: 781435e33720904e3d844dcac4e40506419fb2fe
+FileChecksum: SHA256: 1fdb16b9f06a0f3325f470f5ce13f9651fe473a18a48387d12f19daa2ed1c211
+FileChecksum: MD5: aa809c57019c3b4c7d982e75ab415de6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/code/collector/monitor.py
+SPDXID: SPDXRef-item2256244
+FileChecksum: SHA1: 6f08fef17eafce3612680e727ba2a5abc58d6ef2
+FileChecksum: SHA256: f86483a3bdff2a91f7b96a136ff46fd393b7b945c1fffd2833af2260c0fe1437
+FileChecksum: MD5: 86fae5eef57223f0971c1cecb7352f9d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2016-2017 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation
+Copyright 2015 Metaswitch Networks Ltd. All rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/Dockerfile
+SPDXID: SPDXRef-item2256245
+FileChecksum: SHA1: f0df7444862999443b92b5e52de30e75d13f26ce
+FileChecksum: SHA256: cd9322d4b2f1525a6862d944d70eb6d7624a20f3cd932d279a9659a60e7fc9ed
+FileChecksum: MD5: 62271647f2837d2b849b96f5c1915325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2017-2018 AT&T Intellectual Property, Inc
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/test/test_influxdb_connector.py
+SPDXID: SPDXRef-item2256254
+FileChecksum: SHA1: 863d356cbd3acfde56308337ec307a0b602d76cd
+FileChecksum: SHA256: aa4a803d52be1f94836da73a58eb6f67b78ee8fdaf897bdaf249fbee8c4c5c6e
+FileChecksum: MD5: 0a8ce3f962006d07a1b89cfaec04cffb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/test/test_influxdb_events.py
+SPDXID: SPDXRef-item2256255
+FileChecksum: SHA1: 491ca616f026607d9d7b2bf26029b2d17d962117
+FileChecksum: SHA256: d012d6af577fdfc8d9d7ee438613c0e902eb3a7ffe43b1313127855db8e6100f
+FileChecksum: MD5: 5a3a1310d11425a04e30e878f09cd707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/start.sh
+SPDXID: SPDXRef-item2256248
+FileChecksum: SHA1: e567cf936df34d0cb5351a084f8150b3d84733e9
+FileChecksum: SHA256: 180f8bda018d69a7f2d11c9ed1bb470cdc9c7f36a680acd6d882e0c4cab2d83e
+FileChecksum: MD5: c1b7456ced84c7b96c4844efb6973526
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/Dockerfile
+SPDXID: SPDXRef-item2256250
+FileChecksum: SHA1: ddffd0ef8cd0f6c6eaffc67135b2f07c6a11e727
+FileChecksum: SHA256: ed4873b1135a1c839970e92e2f4557fd11c8ef1584fbb4ca6017fb965fcba5fa
+FileChecksum: MD5: eba6f0fef2a4f929bcd5612a9b5f8bc6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/code/influxdb_connector.py
+SPDXID: SPDXRef-item2256261
+FileChecksum: SHA1: 2956d5172613abbee35fbe1268930e74861c613d
+FileChecksum: SHA256: e7dc2a642c07f23630206d8feabbdc26a68f7f3c0eef276c21432e228322bbed
+FileChecksum: MD5: 895887e7f23c8a79ff1d0767fdd3e764
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/Makefile
+SPDXID: SPDXRef-item2256263
+FileChecksum: SHA1: d77ac244c4e7edccc9c9127c2b1ee329863c1797
+FileChecksum: SHA256: 89a02eef8ada62eb7ff1c0472465ec958eb9e04b483edae5dbc828e6abd433c6
+FileChecksum: MD5: 0a126a64207c53be06afeb03f7fbc1ac
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/start.sh
+SPDXID: SPDXRef-item2256264
+FileChecksum: SHA1: ad07046b4dcfe597b9cdf05828bdd7ab419a41c1
+FileChecksum: SHA256: 30b40da2fad3ceffca53eede6cd3374cea65b46b0f020bb231e15f14df4935c3
+FileChecksum: MD5: 6a34d88510288620bfca3dd57e9a6095
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/Dockerfile
+SPDXID: SPDXRef-item2256269
+FileChecksum: SHA1: a05e8bd28ffdf8886b6c57d369ecc58d9a53889d
+FileChecksum: SHA256: f2dde32ea3c776b7e7b52d2ac2ee0c9d4e5b7f613abc094ee6d4e4b6b8663ed5
+FileChecksum: MD5: 880a1c2f2e053cf2b6eeb894e5d12668
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/csar.py
+SPDXID: SPDXRef-item2256274
+FileChecksum: SHA1: 2e69c12c51bc80f347c00a605e2ecb1563cee6ae
+FileChecksum: SHA256: 5737dd63c8e2c3615e2aad534f204e5d74572122184b3474dd1f906a8507843e
+FileChecksum: MD5: aca91ee2d8d01b037ca906dca9ca31ff
+LicenseConcluded: Apache-2.0 OR LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-Elasticsearch-Header-1
+FileCopyrightText: <text> copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/toscameta.py
+SPDXID: SPDXRef-item2256275
+FileChecksum: SHA1: 9ce1ec7571b1240cd23214dc560d0c30c425c198
+FileChecksum: SHA256: 26568e43d44f66e9f502868cac7f8966bdd8e5b114de7db35b267ce1744e52fd
+FileChecksum: MD5: a10c4852092d2fc0eeadf29cb2694c04
+LicenseConcluded: Apache-2.0 OR LicenseRef-Apache-2.0-ASF-Header-1
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-2.0-Elasticsearch-Header-1
+FileCopyrightText: <text> Copyright (c) 2019 Intel Corp. All rights reserved.
+copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/code/collector/rest_dispatcher.py
+SPDXID: SPDXRef-item2256242
+FileChecksum: SHA1: f528a25c404479d6b38b0eac0ae139971a27c582
+FileChecksum: SHA256: 27c48895ffa51e50a41b5a50b21535cc73accf760dbdc847cb3465ea13271487
+FileChecksum: MD5: 85b027686374c292e422bfc682e705d8
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright(c) <2016>, AT&T Intellectual Property. All other rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/code/collector/test_control.py
+SPDXID: SPDXRef-item2256243
+FileChecksum: SHA1: 2ab60f809d162160e273eac7d1f57a6b10bd4b6d
+FileChecksum: SHA256: 024260f07b0e1c1cc9cd4542d67396ebbf152495b80c1805a319b6dc7f771e23
+FileChecksum: MD5: 7a35e535ef3dba25b27fc51c4b577481
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright(c) <2016>, AT&T Intellectual Property. All other rights reserved. </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/LICENSE.md
+SPDXID: SPDXRef-item2256228
+FileChecksum: SHA1: 9740f583b89aa229233f7f59e62af49f0ab93ddc
+FileChecksum: SHA256: 1b0bc611a270c1d0a31953ca5aa5f9d594e2b85fca6d9c532940c2c1e41c673b
+FileChecksum: MD5: 3d3bddf73f8004804f4d865de676b787
+LicenseConcluded: BSD-4-Clause OR LicenseRef-Meta-Project-License-Mismatch
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: <text> Copyright (c) 2016, AT&T Intellectual Property. All other rights reserved.
+Copyright 2021 Xoriant Corporation </text>
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/requirements-docs.txt
+SPDXID: SPDXRef-item2256123
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/_static/logo.png
+SPDXID: SPDXRef-item2256125
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/favicon.ico
+SPDXID: SPDXRef-item2256126
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/conf.py
+SPDXID: SPDXRef-item2256127
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/docs/conf.yaml
+SPDXID: SPDXRef-item2256128
+FileChecksum: SHA1: a3595bf8e5a8e527723320389fce4fdbba76ea2e
+FileChecksum: SHA256: 80593470060e1a1907c168024a055ce65f99952e547ff00b360e6c43782414cf
+FileChecksum: MD5: e3bfbdeb0663bbdf2c4d882a0e7aca16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/tests/.env
+SPDXID: SPDXRef-item2256132
+FileChecksum: SHA1: 33879060c40c2ee18257ba0496d192f4620c507c
+FileChecksum: SHA256: 6d2a6ddd6cc48ca0fe67eb9ea6ac035030180a1ce5d5d661404ee1ed3c82f907
+FileChecksum: MD5: 353189ac913072f9a034be94c9fe3949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/tests/docker-compose.yml
+SPDXID: SPDXRef-item2256133
+FileChecksum: SHA1: 8f6b727920020be3ab17fc5e7bb8586f2a7f50f8
+FileChecksum: SHA256: a7c53b7f94421bb30cbcab27758350cd06ae084b1e3b21706c86dcfc64163ab6
+FileChecksum: MD5: b0a35854e0fc8b32395fecd5989d329c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/sdnr/certs/certs.properties
+SPDXID: SPDXRef-item2256136
+FileChecksum: SHA1: 15aaa5f4f30438041891a782aedc801d5dcbfe51
+FileChecksum: SHA256: 01c6e676481e4b0cd4fbbcaacccc3cf9f4c1e00d0a6643ca55af57a116914ac5
+FileChecksum: MD5: e7d05397132eea403997b2bc5ed23fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/client.key
+SPDXID: SPDXRef-item2256141
+FileChecksum: SHA1: afcdafe54208145132f23233cd8808e0f98c0a48
+FileChecksum: SHA256: db94f90408d40434d33f9c9301982319a34c57a00f6c4169022d076e4e1630b5
+FileChecksum: MD5: 7ca6f9447fbd590043102855a95ca814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/client.crt
+SPDXID: SPDXRef-item2256142
+FileChecksum: SHA1: feede090b416b6982a80070a9b8b89a1ef0ba6f3
+FileChecksum: SHA256: 91cf18b89492d0c572b86c12b9d795bacfe81ca550ea77980b85ee1f53b63d4d
+FileChecksum: MD5: 8fa111e08b5d196d5b045bb1933bf96e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/sdnr/certs/keys0.zip/keys0/trustedCertificates.crt
+SPDXID: SPDXRef-item2256143
+FileChecksum: SHA1: 19b51445fc2c24c8479fa0dfeaa58191f37f312d
+FileChecksum: SHA256: 9b7fa4b979cb3023605ea95f55f313400165d56b84e83c640724a99eb3abb543
+FileChecksum: MD5: a84a2729e5ce60e64412a82d4fb9f053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/sdnr/logo.gif
+SPDXID: SPDXRef-item2256144
+FileChecksum: SHA1: 8a30c15f5c60e6f06a684bb94ca457dddfe5a3f6
+FileChecksum: SHA256: 09ccba949006d5d58bc09b2672171fabdb6c0832fae67e41bf2d976f95a7cfc4
+FileChecksum: MD5: 117b7636f51d12b40adfd4234cb6cd6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/client/README.md
+SPDXID: SPDXRef-item2256145
+FileChecksum: SHA1: d6b17afeb2a94c214994f24b41aa3f5d33166ab4
+FileChecksum: SHA256: 53d6595487456cbd61254f9960f6278ec41b5aa4e5fa7945dacb1fd2eac6e525
+FileChecksum: MD5: 76656df61386fda4ae15dc3ec37f84a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/tox.ini
+SPDXID: SPDXRef-item2256147
+FileChecksum: SHA1: 64484df3e1dfcd97bd55af0ab309cbd5da0bae6f
+FileChecksum: SHA256: 863199e390fe9e8e6dfe8c40d56912920ce64a928c77dcd4bcbe966a587625e9
+FileChecksum: MD5: 6f98d04b95b9cd89ea9b77fdcdbf3318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/INFO.yaml
+SPDXID: SPDXRef-item2256148
+FileChecksum: SHA1: 9af96ce46578f55117c8346acc3380fc8bacc7ba
+FileChecksum: SHA256: 6df0264006f52064405ef3421965423eeb3883c8aac726cb60beb6e80976f519
+FileChecksum: MD5: 7a1bfd28a4a7c8c46613ecbe8bc30328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/run_tests.sh
+SPDXID: SPDXRef-item2256149
+FileChecksum: SHA1: 4e3c754d3a537a3522116624db2bd07a32d95f39
+FileChecksum: SHA256: 2292d40b07afd6bc09e1d0336e8712cfb1f3b4b7330a760a8bca6d3747728d39
+FileChecksum: MD5: d6c11b96f55048a6633c4bb207c33893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/scripts/postman/O-RAN Collection.postman_collection.json
+SPDXID: SPDXRef-item2256152
+FileChecksum: SHA1: 782af05a4cc80ca04dc8996964c93f3915f4b549
+FileChecksum: SHA256: 65ad548637cf92492a9df53a3d181797993c5fa5f03762f887b2027c67840c05
+FileChecksum: MD5: c638290ccad8f011eeeae4db366524c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/.readthedocs.yaml
+SPDXID: SPDXRef-item2256153
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: SHA256: 7a0d2870bf223541911fc960c7811b340209a99c552c4a1d98a571153701d106
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/README.md
+SPDXID: SPDXRef-item2256154
+FileChecksum: SHA1: 8540f77d8b5ddc7fe7680dc838ff61aa1dd46c68
+FileChecksum: SHA256: d8621594b4199e0bb3d747f5b41f6b87a2d5f17cce752f39834f56dc1dfb2323
+FileChecksum: MD5: 60c8dbab654b96d45f057f8e60906376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o1/.gitreview
+SPDXID: SPDXRef-item2256155
+FileChecksum: SHA1: c4f1a5838576312316f1d4d3ba2aa9ef314e62e4
+FileChecksum: SHA256: 58be0e7b4db0d8203207fd0047f64a3cd1543a04732bc330e1c2a2a334c4dc51
+FileChecksum: MD5: cea14a38f7a303445842ef62410829ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/3rd_party/collectd-agent-app/agent_app/yaml/host.yaml
+SPDXID: SPDXRef-item2256170
+FileChecksum: SHA1: 2b2d49d8f010b736d0cc09db874cc5ae8750cf9e
+FileChecksum: SHA256: 18990d6219521f7a3f4dde9a952cbdfcfa6e774f24214a1c4fc7e94e3ddbc8c4
+FileChecksum: MD5: a34a860dbe16baf8fbe346e435f7ce37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/agent/barometer/3rd_party/collectd-agent-app/agent_app/config/agent_app_config.conf
+SPDXID: SPDXRef-item2256172
+FileChecksum: SHA1: 3cbf2770333233cb69ceb5ea6294e88786bd39ea
+FileChecksum: SHA256: 9ff2c763e66ef8e82bb403789d8849c4b6b38d058e68ce1db64fe02acee5c3c8
+FileChecksum: MD5: dc881c487e42d2159d23cf42e34e5524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/requirements-docs.txt
+SPDXID: SPDXRef-item2256181
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/_static/logo.png
+SPDXID: SPDXRef-item2256183
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/favicon.ico
+SPDXID: SPDXRef-item2256184
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/conf.py
+SPDXID: SPDXRef-item2256185
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/docs/conf.yaml
+SPDXID: SPDXRef-item2256186
+FileChecksum: SHA1: ece4fe09f2cb06531e572d0f5304fce9dc19c91f
+FileChecksum: SHA256: 9f22205c069bee1079e24af0a438c3343572642202cb3ed36df58de80c0aa088
+FileChecksum: MD5: a1b28998e537b13ba31e0e8051cc6eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/container-tag.yaml
+SPDXID: SPDXRef-item2256195
+FileChecksum: SHA1: 8d8d8a48347ac423298e9d09d46555e79f970580
+FileChecksum: SHA256: 58b0a50d6eec7d3bff663b42f546c62632a3b1a0cb8e89e4699f681d254f57b7
+FileChecksum: MD5: 027b15bf1331058c79df16d1af839e4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/test/test_consumer.py
+SPDXID: SPDXRef-item2256201
+FileChecksum: SHA1: 82a69d7ef43420dd8546d7970d183ee8c17f344b
+FileChecksum: SHA256: 42a86ca585dcfcd92e114b1d5006d651f626ef00312fec03ad10738b84e259ab
+FileChecksum: MD5: 17aef011bb3694ddbc2ec14437250978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/test/__init__.py
+SPDXID: SPDXRef-item2256202
+FileChecksum: SHA1: 121574c84a99ac08af719c303b28211e6a10d38b
+FileChecksum: SHA256: 5aacfb4435f38f5f92b1c6564668d02f285f712b878a9c3a8d3c4c5397cec7f9
+FileChecksum: MD5: d51bf36d86c7d9d6057eabf745198b6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/test/test_appConfig.py
+SPDXID: SPDXRef-item2256204
+FileChecksum: SHA1: d527b574bfe937138e69f245f48478aa5ee16841
+FileChecksum: SHA256: 08de86900a2f792c805a587a278d35049a8e58ece6bab69d5b45c8b404934823
+FileChecksum: MD5: 09ab6afc4c7c2ff6798eaa185d326a0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/dmaapadapter/adapter/config/adapter.conf
+SPDXID: SPDXRef-item2256206
+FileChecksum: SHA1: 79043510318aa7736fbe81ea248b3ab93cc54fb6
+FileChecksum: SHA256: 23782ce54b27ec769453b26e2dfba4c1a2ff6306c66ad7590779d90736d9a65f
+FileChecksum: MD5: a17d0835d532c269cb661ec657816f94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/tox.ini
+SPDXID: SPDXRef-item2256212
+FileChecksum: SHA1: f759116f5a39e05bca8c2c6f6346a41f53740f9a
+FileChecksum: SHA256: 35b269e1ef42871656d0255ee366d0d570428d51a20ecc2ed472ee44bfee37c8
+FileChecksum: MD5: 1465991d190c0f78011a7cf12654ea4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/INFO.yaml
+SPDXID: SPDXRef-item2256213
+FileChecksum: SHA1: 76e526629d05aabcfc8ca81775f565cd8c8d1c77
+FileChecksum: SHA256: 76ac5e1db8c9c0adc6e230a502e8d355b8c814a9e68535bdff8278434a193c9a
+FileChecksum: MD5: 7b419d21e188176cd05a80eba9461ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/releases/container-release-smo-ves.yaml
+SPDXID: SPDXRef-item2256218
+FileChecksum: SHA1: 7d5e10d524623c7795152e833f985e1617369645
+FileChecksum: SHA256: a5bb307bcaee3610d21b5d7a8162e67d8c62df88c4b4d23c0aaac7d32c58ac2a
+FileChecksum: MD5: 37a9a05f3e05e22890e1f4a0274b0db9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/.readthedocs.yaml
+SPDXID: SPDXRef-item2256219
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: SHA256: 7a0d2870bf223541911fc960c7811b340209a99c552c4a1d98a571153701d106
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/README.md
+SPDXID: SPDXRef-item2256220
+FileChecksum: SHA1: 939d90ca6ac178841b3775608e99dfa312630a6b
+FileChecksum: SHA256: 8fe82f3959cde37abfb40148ff9271a81b635321a564d0168bb16735a17ab589
+FileChecksum: MD5: 875fe981e55ff5b8bd10cf20ce9f2a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/.gitreview
+SPDXID: SPDXRef-item2256221
+FileChecksum: SHA1: 1f58c27e9f1df21374882fc68888dbb3d13ef821
+FileChecksum: SHA256: 668a6c0602e40787477b773bba874eacefaa2521bfe4de882cdd20c1c3be1ea0
+FileChecksum: MD5: dcc6542cecd88c2ed8a8a3e97ab2cefe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/container-tag.yaml
+SPDXID: SPDXRef-item2256226
+FileChecksum: SHA1: 8d8d8a48347ac423298e9d09d46555e79f970580
+FileChecksum: SHA256: 58b0a50d6eec7d3bff663b42f546c62632a3b1a0cb8e89e4699f681d254f57b7
+FileChecksum: MD5: 027b15bf1331058c79df16d1af839e4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/docs/att_interface_definition/README.md
+SPDXID: SPDXRef-item2256232
+FileChecksum: SHA1: 78fd2beaad80685954f10fddde559b5e1f8a3214
+FileChecksum: SHA256: 866c32c39516af9a9d68f619390f1b456678263a61db7073eaa977aec04e1c68
+FileChecksum: MD5: 4c5ce837099d0c1a6b087dca73713b37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/test/test_monitor.py
+SPDXID: SPDXRef-item2256234
+FileChecksum: SHA1: 0002fdd0fc2368edd8f55ab0b63741d993bf03b4
+FileChecksum: SHA256: 925923d4bd714f9322f5290769482424ee426fb3c21dfa7d8cfd9e2200b2f17f
+FileChecksum: MD5: 6ade76f421e8186419d614ed7c24713c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/test/pytest.ini
+SPDXID: SPDXRef-item2256235
+FileChecksum: SHA1: 0ad3f4bc06d407b498c0a5da5ceafbd7f9121305
+FileChecksum: SHA256: 7535612d4b3f374c821c78390312069218689a3ba80b473ec21a09f1863f6b97
+FileChecksum: MD5: 1c75ce33affd0b431f22a3b298d81408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/test/test_collector.conf
+SPDXID: SPDXRef-item2256236
+FileChecksum: SHA1: 79eada0ec14a491e3ed67a463a5bbc3ef885a104
+FileChecksum: SHA256: dcf7beb98d5c5daee43c1c227c83256f0ae00bcb0e347e5547ccc952cf119b30
+FileChecksum: MD5: 2e7713bd5fb82444f594b16a5f321143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/test/__init__.py
+SPDXID: SPDXRef-item2256237
+FileChecksum: SHA1: c7cc1df5ace1d4cbc531cd74ec6ae38843cdce93
+FileChecksum: SHA256: b81b58918d6c8b96f69720c777b45a8988cd896fb68be526a6e8f95862be1aca
+FileChecksum: MD5: 91d83b90020b713a52e2c8fc2cabb196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/collector/evel-test-collector/config/collector.conf
+SPDXID: SPDXRef-item2256239
+FileChecksum: SHA1: 290a747ef6140f1b6169dbc357b940aa85e1fa2b
+FileChecksum: SHA256: ebe715292b930e7fa5862a2b3530c374657c12c1e88686f2c0f63ec384570bf4
+FileChecksum: MD5: 3602d0995b36dd006716974dc417da8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/Makefile
+SPDXID: SPDXRef-item2256247
+FileChecksum: SHA1: 29b110749cd35646880594996635dae2268ad21e
+FileChecksum: SHA256: 7056f75e9d52d710595fff2c695e72ccde37c1675cf45bf239e5e8afa71d44d9
+FileChecksum: MD5: 955d1495dbcdd4f2f4e19a5ba4c6aafe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/container-tag.yaml
+SPDXID: SPDXRef-item2256249
+FileChecksum: SHA1: 8d8d8a48347ac423298e9d09d46555e79f970580
+FileChecksum: SHA256: 58b0a50d6eec7d3bff663b42f546c62632a3b1a0cb8e89e4699f681d254f57b7
+FileChecksum: MD5: 027b15bf1331058c79df16d1af839e4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/test/__init__.py
+SPDXID: SPDXRef-item2256256
+FileChecksum: SHA1: 121574c84a99ac08af719c303b28211e6a10d38b
+FileChecksum: SHA256: 5aacfb4435f38f5f92b1c6564668d02f285f712b878a9c3a8d3c4c5397cec7f9
+FileChecksum: MD5: d51bf36d86c7d9d6057eabf745198b6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/test/events.txt
+SPDXID: SPDXRef-item2256257
+FileChecksum: SHA1: d91bba8e883a74fbb34fa06f896d9f26cfaf27ef
+FileChecksum: SHA256: 35e0c6ecf72fe856991669c6c551a128d1ea0a68e9f24effa426a69970a95623
+FileChecksum: MD5: 83b29e0660efca003071b9b4b5148de8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/influxdb-connector/influxdb-connector/config/influxdb_connector.conf
+SPDXID: SPDXRef-item2256259
+FileChecksum: SHA1: 05e70d56d1e9cb6773fa2481c826f81ef7a2f085
+FileChecksum: SHA256: 3d30ea781474af37e9a74871622e8cb846b8a5e98c28caf3e7b6f19e849063ec
+FileChecksum: MD5: 226717dd462c6197bc291648413da981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/grafana/datasource.json
+SPDXID: SPDXRef-item2256266
+FileChecksum: SHA1: 867ade938c59e4acf18b1f49c10d21e75787e959
+FileChecksum: SHA256: 0c672ef7a3a8879a47bbc3f28755cca46d64becf72b05f4ea7c9d3522726c795
+FileChecksum: MD5: 69d5a473c2f3c62f0b0fa8458de894f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/grafana/dashboard.json
+SPDXID: SPDXRef-item2256267
+FileChecksum: SHA1: fd69fb58c86b6e672fee8c6e711acec655669d53
+FileChecksum: SHA256: b2346866737218b4ee9d803e941d04e24661508901fc96b4656a776ec8cf29aa
+FileChecksum: MD5: 622a65c80a4ed4bddac5eb328dddb349
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-ves/postconfig/container-tag.yaml
+SPDXID: SPDXRef-item2256268
+FileChecksum: SHA1: 8d8d8a48347ac423298e9d09d46555e79f970580
+FileChecksum: SHA256: 58b0a50d6eec7d3bff663b42f546c62632a3b1a0cb8e89e4699f681d254f57b7
+FileChecksum: MD5: 027b15bf1331058c79df16d1af839e4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/README
+SPDXID: SPDXRef-item2256276
+FileChecksum: SHA1: 9fdd68100acd2df286b788b49ede5227cba7eb3d
+FileChecksum: SHA256: 8ef261c31b64355e4321ab2ec2b757dd55644af4c0343506d467935943e43361
+FileChecksum: MD5: a210aea2c5116a27652c69158f672080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/type_definition.yaml
+SPDXID: SPDXRef-item2256286
+FileChecksum: SHA1: 5b242f8ef5a3e6b4f77892567b312688d31613c8
+FileChecksum: SHA256: ea5d1088c60f6d4d859201b018ec980027df8d98c58c2ad1380260fad01756e3
+FileChecksum: MD5: 02e9b94e0432872f257af9626218d06e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256289
+FileChecksum: SHA1: 0d67458f48163d458aaf9ec9e510f9ed393ec481
+FileChecksum: SHA256: 37fa3e2a3fbb70255d6ddbd4fcda7aac3db4b75f5e00e95e9cb7a6bbfc6d3fe8
+FileChecksum: MD5: 0e1f0f9f86e17ce8a3f3ffb1ef32015c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/ns-vsn.csar/vsn.yaml
+SPDXID: SPDXRef-item2256290
+FileChecksum: SHA1: 7e642704f3da737057716c15188150dfc21dd464
+FileChecksum: SHA256: 8187e7df9a4720580b05ffa6f22a099fec02f77b82a3b24518a40cd2585c0d51
+FileChecksum: MD5: 7f674ebe4c6d9107ca96a9a850fa82c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256295
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item2256296
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: SHA256: 036f4abdb47c6b34bb825b4e4a7f63bde10a3c3b6440d93d1794191778ebe90c
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256300
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256302
+FileChecksum: SHA1: 71daaca0e8075b099a4bb6ac2ef3278c3ec3714a
+FileChecksum: SHA256: ac9130b5d05163436feee6a6fe34fda5a59d652b150f9c68642ca06eb1e530fa
+FileChecksum: MD5: b094bc9e2ead6ed255d6efbe4d5460dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-ver-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item2256303
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: SHA256: 4808fd4fee57273ec363fc338bafb57cf41a0f63f0acfa91b11605bbf563ac58
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256308
+FileChecksum: SHA1: 54924cb02b095f0bc87f26e73ce81a3acdd73192
+FileChecksum: SHA256: 857ce69f475f0a93c818cc8f78a0b4d338e4ce3aac83d6d912c9af488c61efdd
+FileChecksum: MD5: 36c2269946ce93c0c6c69eb54e27a9e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item2256309
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: SHA256: 036f4abdb47c6b34bb825b4e4a7f63bde10a3c3b6440d93d1794191778ebe90c
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256313
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256315
+FileChecksum: SHA1: 7ff7b93ea7fb6ea35db1dd6cd2b69981dd3af713
+FileChecksum: SHA256: 1ed9e1f8232a2a43fa617b4e7e490bfc8ebc9b7de2156aec7f7d461c9c7cfe3d
+FileChecksum: MD5: be1ec6861fe980623be2b9a72896eac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-error-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item2256316
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: SHA256: 4808fd4fee57273ec363fc338bafb57cf41a0f63f0acfa91b11605bbf563ac58
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256321
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item2256322
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: SHA256: 036f4abdb47c6b34bb825b4e4a7f63bde10a3c3b6440d93d1794191778ebe90c
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256326
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256328
+FileChecksum: SHA1: d2832072f13573bd3e99a7356b6524344a72c738
+FileChecksum: SHA256: fbddb6ef66ddbdc4d2c55d8aa91a7a4ba17e1cbdb87200412e169942f37a215d
+FileChecksum: MD5: c2ff7c38379f4c28e40114c3aec33a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/Tosca-csar-ver-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item2256329
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: SHA256: 4808fd4fee57273ec363fc338bafb57cf41a0f63f0acfa91b11605bbf563ac58
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/Definitions/MainServiceTemplate.txt
+SPDXID: SPDXRef-item2256334
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item2256335
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: SHA256: 036f4abdb47c6b34bb825b4e4a7f63bde10a3c3b6440d93d1794191778ebe90c
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256339
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256341
+FileChecksum: SHA1: 7ff7b93ea7fb6ea35db1dd6cd2b69981dd3af713
+FileChecksum: SHA256: 1ed9e1f8232a2a43fa617b4e7e490bfc8ebc9b7de2156aec7f7d461c9c7cfe3d
+FileChecksum: MD5: be1ec6861fe980623be2b9a72896eac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/yaml-file-error-vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item2256342
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: SHA256: 4808fd4fee57273ec363fc338bafb57cf41a0f63f0acfa91b11605bbf563ac58
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Definitions/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256348
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Definitions/onap_dm.yaml
+SPDXID: SPDXRef-item2256349
+FileChecksum: SHA1: 640cde04315bfd8023172e6c6f9a23ac9aa9f3c4
+FileChecksum: SHA256: 036f4abdb47c6b34bb825b4e4a7f63bde10a3c3b6440d93d1794191778ebe90c
+FileChecksum: MD5: 8fd8f8f091018410ef369cd7b5260845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/images/ubuntu_16.04
+SPDXID: SPDXRef-item2256352
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/id_rsa.pub
+SPDXID: SPDXRef-item2256354
+FileChecksum: SHA1: b7a0a31e34300f4cd6975beda1a39b447c63946d
+FileChecksum: SHA256: 49e6f4223df8c13574cf4a3a5da4384dd0a01498a225dfadf12c97a758e3b3f7
+FileChecksum: MD5: 2cdee3a9cc1e96b7e725c5e743cb514f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/id_rsa
+SPDXID: SPDXRef-item2256355
+FileChecksum: SHA1: d9a470faffc08f2989558c844722c0a459605c80
+FileChecksum: SHA256: eaf9f0c3774406807cbcf6ce5133c1df0266bb37ddf644e57dabe724b132050f
+FileChecksum: MD5: d6fb1e4ed9dfb754408ebbd646349665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/Artifacts/keys/authorized_keys
+SPDXID: SPDXRef-item2256356
+FileChecksum: SHA1: b7a0a31e34300f4cd6975beda1a39b447c63946d
+FileChecksum: SHA256: 49e6f4223df8c13574cf4a3a5da4384dd0a01498a225dfadf12c97a758e3b3f7
+FileChecksum: MD5: 2cdee3a9cc1e96b7e725c5e743cb514f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/MainServiceTemplate.yaml
+SPDXID: SPDXRef-item2256357
+FileChecksum: SHA1: 21a22ecbb2147e91e59f2c2e39e5e279ccdf1ebd
+FileChecksum: SHA256: b3ee34eb43b860514740442686936bea0a4e8bede7893c8f33f88f734bd5d4a2
+FileChecksum: MD5: 7b0141f42af51141f6b06b684dd5fef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/TOSCA-Metadata/TOSCA.meta
+SPDXID: SPDXRef-item2256359
+FileChecksum: SHA1: c62b5bdc08af6777bbc98ce50847bceb451367a3
+FileChecksum: SHA256: 61e2110e331d2cd2c70d05b998a7ad1ff31e27f60574b723b5fa459670142c13
+FileChecksum: MD5: fc71db6f97ca38c52456e128f2dfcee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/CSAR-dest/vnf-vsn.csar/MainServiceTemplate.mf
+SPDXID: SPDXRef-item2256360
+FileChecksum: SHA1: eb789ec4c461482f87153828bc767c8f88e2e413
+FileChecksum: SHA256: 4808fd4fee57273ec363fc338bafb57cf41a0f63f0acfa91b11605bbf563ac58
+FileChecksum: MD5: 55c0906db4dda0da556847036c588318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/requirements.txt
+SPDXID: SPDXRef-item2256361
+FileChecksum: SHA1: 1542338345efa823b06a4479b98cf019b1827ead
+FileChecksum: SHA256: 09d1f30629323c254b926077a5e81ca2947dd5afd8b5231c307f96bdfda18f58
+FileChecksum: MD5: c99406f26fda02a61cdcb95c5e40a268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-pkg/tools/oran-pkg-validation/main.py
+SPDXID: SPDXRef-item2256362
+FileChecksum: SHA1: b5310093899cbeaeaf38f0bf34397095658dd841
+FileChecksum: SHA256: f7e309442d418cf3e7a754b9a5f2d77fa9b5d5f1af40ad603d76ad45635b5e18
+FileChecksum: MD5: 159d3995dd7c61fc2ff15c69ff86aed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/requirements-docs.txt
+SPDXID: SPDXRef-item2256377
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/_static/logo.png
+SPDXID: SPDXRef-item2256379
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/favicon.ico
+SPDXID: SPDXRef-item2256380
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/conf.py
+SPDXID: SPDXRef-item2256381
+FileChecksum: SHA1: 38aa253ebb5ccfa507cbf4485709a32fa357dda6
+FileChecksum: SHA256: 2563b6f40cff76eacecf4faca1cad32fdfed12f27e82e4ddbb7a6a07442b1653
+FileChecksum: MD5: ebddded8664f801da5a38ed6803fe030
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/docs/conf.yaml
+SPDXID: SPDXRef-item2256382
+FileChecksum: SHA1: e0624eac6ef58c349d5b2ff60d0e7a7c07ccb52a
+FileChecksum: SHA256: 801ed18d7bbcd56e39876cb15c263d9337dfdd4d47e1e5e4c8f0e2e2dfcbff9a
+FileChecksum: MD5: b17cad29deb0c2cb5e56ca76b9f84321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/tox.ini
+SPDXID: SPDXRef-item2256383
+FileChecksum: SHA1: 0fcbdada158c0068a8638e9153c05bab39397f29
+FileChecksum: SHA256: 8d0cf12585eee498fae6f9f3cb6a2527dd812eb254b03c860215465c16414b58
+FileChecksum: MD5: 9c2a58d9222226341fb784333b9b7775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/INFO.yaml
+SPDXID: SPDXRef-item2256384
+FileChecksum: SHA1: a7e3be8521a6eda12dc839c2f09ba22deaa79d16
+FileChecksum: SHA256: 3b30ee59d764493a6e8671d3ae700a0c18ec7a2a42aa3485c53a49e10db41fa9
+FileChecksum: MD5: f54702c3339028aff46e7a2ceab9a39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/.gitignore
+SPDXID: SPDXRef-item2256385
+FileChecksum: SHA1: e3b2cee88d1831c5961ca3ca21d9dacfe9192b84
+FileChecksum: SHA256: 78d0f6473fe8fab5c51e95fd4b20ee87b7f12de8aa4d2d4b50ed6b11aa2c1c8d
+FileChecksum: MD5: 327e127d349f7f9c8205dc4b32dfcb32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/tacker/.placeholder
+SPDXID: SPDXRef-item2256387
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: SHA256: 01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/tacker/scripts/install.sh
+SPDXID: SPDXRef-item2256389
+FileChecksum: SHA1: 461f5b2dd6c23cf6b3285560f09cbb6215a04cc1
+FileChecksum: SHA256: ec8ae5ef08f70a6cdbbea9227a634b6a56d29f9a36bbb82fbda28a2955e05a81
+FileChecksum: MD5: f5a371dc7f2f0a0a2844855535b75027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/.readthedocs.yaml
+SPDXID: SPDXRef-item2256390
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: SHA256: 63fd9427a14b972a9e4e82e17ce52dad6903fa0615cd89b995a585dbb6da8be9
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: smo-2022-06-28.zip/smo-o2/.gitreview
+SPDXID: SPDXRef-item2256391
+FileChecksum: SHA1: b28fa0eba8eebca6c5b1a5ed5f7f4bd450beadc7
+FileChecksum: SHA256: 655f54b3f17cd380469e25459af32caffa37fc3ae553d10b9138f4c08a2a74f7
+FileChecksum: MD5: fd503bb67c095365d3cdaf8a406c8272
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache-2.0-Elasticsearch-Header-1
+LicenseName: Apache-2.0 (Elasticsearch header)
+ExtractedText: <text> * Licensed to Elasticsearch B.V. under one or more contributor
+* license agreements. See the NOTICE file distributed with
+* this work for additional information regarding copyright
+* ownership. Elasticsearch B.V. licenses this file to you under
+* the Apache License, Version 2.0 (the "License"); you may
+* not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing,
+* software distributed under the License is distributed on an
+* "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+* KIND, either express or implied. See the License for the
+* specific language governing permissions and limitations
+* under the License. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Meta-Incomplete
+LicenseName: Meta-Incomplete
+ExtractedText: <text> Meta flag: Indicates an incomplete license text or notice (e.g., only containing the first part of a license text). </text>
+
+LicenseID: LicenseRef-Apache-2.0-ASF-Header-1
+LicenseName: Apache-2.0 (ASF Header)
+ExtractedText: <text> Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements. See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership. The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the
+specific language governing permissions and limitations
+under the License. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Meta-Project-License-Mismatch
+LicenseName: Meta-Project-License-Mismatch
+ExtractedText: <text> Meta flag: Indicates a repo license that is a mismatch from the project's designated license. </text>
+
