@@ -1,0 +1,576 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_doc-2022-06-28.zip_1656484585.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-06-29T06:36:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: doc-2022-06-28.zip
+PackageFileName: doc-2022-06-28.zip
+SPDXID: SPDXRef-upload495
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: a8309fc9bb6f36a5bd0a05a5974e5fa309e2cb3d
+PackageChecksum: SHA1: b966c3463e20194d50be4ac0e39da6e8725e9037
+PackageChecksum: SHA256: 7d8c6aa825f3ec91c74cb81b7725007b772c2e4fad40df6d4ed6f001507f13b1
+PackageChecksum: MD5: e2c08e6ac98ee49427fde4c0e267ae65
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload495
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/license.rst
+SPDXID: SPDXRef-item2224751
+FileChecksum: SHA1: a7676eee3fe6657191220dc3ad5cdbe6b4899356
+FileChecksum: SHA256: 2daa9c74af2e4cbff9d51d7d03bf02fc99ee77bfa746cd43fd4c1f3039a9104d
+FileChecksum: MD5: 9c613f685b17e8d19c03037425e953b7
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0 AND LicenseRef-Dual-license AND LicenseRef-O-RAN-Software-1.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/api-docs.rst
+SPDXID: SPDXRef-item2224752
+FileChecksum: SHA1: 1ebcc0830f495583772c81bb93c560e180b8db30
+FileChecksum: SHA256: e61470c120e819df4f3b6ffea8a09b21b2fbb113322ef50f6472f6dd5ecb606c
+FileChecksum: MD5: 37e2933c0afd7bb8dd8ed008320fb3a8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/architecture/architecture.rst
+SPDXID: SPDXRef-item2224748
+FileChecksum: SHA1: dc049a7622d99f07d24c303a69482e357fe0de57
+FileChecksum: SHA256: ed4ed76d092a4477c32e7bb5cf6e4149104f8e32c00adccb3e90ee83591b31a3
+FileChecksum: MD5: 3213467ee96ae8fcfd538e4abcaa054e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/user-guide.rst
+SPDXID: SPDXRef-item2224761
+FileChecksum: SHA1: 18513f56fd7885463eeadb48830bf3b62f397372
+FileChecksum: SHA256: 54f9c7956f302137eafb3a948ae585f21cfdc4af93dd976c85b6681d33c3a9bf
+FileChecksum: MD5: b3a2025bfd1b1cc90d4e59b294f0969b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/overview.rst
+SPDXID: SPDXRef-item2224766
+FileChecksum: SHA1: d9abf3585bc1fea8818a8cedc3cd7cccb1c4c409
+FileChecksum: SHA256: 5a70882fd2fec2310900fa544bfe005b5aaa42b454b1af3c22add6e3beaa70f3
+FileChecksum: MD5: 2ee66e32df49aa0cd3206b92134dce02
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/index.rst
+SPDXID: SPDXRef-item2224765
+FileChecksum: SHA1: a4436265e9cc9f5db66784d1e7c0094baf37e73e
+FileChecksum: SHA256: 39555ec5db972ed9c17aa1d4cb395a05d1e378d3863ac2c79b11265711b9c6a6
+FileChecksum: MD5: d6d0659be37b8691e10bf759ddfce3de
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/api-docs.rst
+SPDXID: SPDXRef-item2224768
+FileChecksum: SHA1: 34780add673015f00065be5494ec65b5440351fe
+FileChecksum: SHA256: 942b4807bcd7c7d0213f5b36bc2cf73196c86a953250e9968ff9eff37e3723ef
+FileChecksum: MD5: 6d673be9bddeb49660d6380c8807dcb5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/installation-guide.rst
+SPDXID: SPDXRef-item2224767
+FileChecksum: SHA1: d1fc6cbcab708e09c29318ee13e3930f5a346662
+FileChecksum: SHA256: 1caf017190b443759809ab90b7ede01c98f7930ba194a512b3e7e81781b05761
+FileChecksum: MD5: 1bac6baeb36306b2f502ccf43effeee0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/release-notes.rst
+SPDXID: SPDXRef-item2224769
+FileChecksum: SHA1: 645110e25918b64ea4d7cff4d1cd9824b1c7acf9
+FileChecksum: SHA256: 10ee53b9808d70851cfa92c208a566a1fed918300a9b11163ab2ce633e88c6ad
+FileChecksum: MD5: 68d92095664696ea1492419a3888b213
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/developer-guide.rst
+SPDXID: SPDXRef-item2224771
+FileChecksum: SHA1: 9507cb385d15b65315aaca0769e0a5f024bfcb17
+FileChecksum: SHA256: cf9e9510c5cc494ae48586f50f7a7c06d7076bcd505d9c976c373f2e121ed969
+FileChecksum: MD5: 6a3d24078f412af737f9de2d0c81fd84
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/projects.rst
+SPDXID: SPDXRef-item2224745
+FileChecksum: SHA1: e4ea76dd1555606bef5fbb46fb3ea3979f6fd565
+FileChecksum: SHA256: 0cd411d9704358e99c3bfbd06be28a722eb6db477bd6c5d39571e34840efbd6a
+FileChecksum: MD5: d9fc5c33d92466756f5721ebe36b9dbe
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/index.rst
+SPDXID: SPDXRef-item2224746
+FileChecksum: SHA1: bca2585bfc31052b3ee386e5037d18da8b07e709
+FileChecksum: SHA256: c2f2ca1da6c58c2fb2e87a391bcfb0c5b200d1a698c241006681cb6044a05240
+FileChecksum: MD5: 5541cbf2081a903783b597546ffd25b0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/release-notes.rst
+SPDXID: SPDXRef-item2224753
+FileChecksum: SHA1: db0b45e22affd1d0fa4d26d35491f32410eae954
+FileChecksum: SHA256: 056da6e3d714aadcdc7806024b392b846a09fd2bafff08152384a29dc1b40ece
+FileChecksum: MD5: 5243e865932c53d8e546f9c32e28e6da
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/architecture/media/o-ran-architecture.png
+SPDXID: SPDXRef-item2224750
+FileChecksum: SHA1: 8d55c78b600d3b0da7d0852fc9ef2c1f979f4d5d
+FileChecksum: SHA256: 737b1b00eaaae758c8675e54a3826b672d17f8abf3215ae5290b6204750d5708
+FileChecksum: MD5: 08f019027ee2fe7183161ad79439048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/requirements-docs.txt
+SPDXID: SPDXRef-item2224754
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/_static/logo.png
+SPDXID: SPDXRef-item2224756
+FileChecksum: SHA1: 3abed52bc8da06daa43c8d793c28b9b9c2c933d2
+FileChecksum: SHA256: 6d11e54c28a4f0e5d79f2f5368f2517e9d12d3a20dea20e922e5898f31d05a35
+FileChecksum: MD5: 62d24e35f862761092c5feaf45c07702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/favicon.ico
+SPDXID: SPDXRef-item2224757
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/conf.py
+SPDXID: SPDXRef-item2224758
+FileChecksum: SHA1: 9fb5fd54e194d1b4029d04325d416bae5a11b300
+FileChecksum: SHA256: 8f6d6ebeeeb5901d281a8f35ae906eb90addcd5ed6d2cb4f9089dd15c10ae931
+FileChecksum: MD5: cdf4cd610303c08a35124fe77e6a15aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/docs/conf.yaml
+SPDXID: SPDXRef-item2224759
+FileChecksum: SHA1: 1e45a8f3fba53377c38869044b4e727c97c8fe8c
+FileChecksum: SHA256: 727e30f4cdb8c5445cccf8b565d19ef6af65c313b28708a3e20bcd6566fbc452
+FileChecksum: MD5: a812c762d85f53135141e06f5cb7eb9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/repo-root-dir-files/tox.ini
+SPDXID: SPDXRef-item2224763
+FileChecksum: SHA1: f87e4071ea0fa3d475121276dc7a78298a055c19
+FileChecksum: SHA256: 216a45430ad8c1925ed2cc758ae17bc26d591904c8f653aed09f897421ffc5ad
+FileChecksum: MD5: 6019e4e32c1469b22ff5ef773adca5e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/repo-root-dir-files/.readthedocs.yaml
+SPDXID: SPDXRef-item2224764
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: SHA256: 63fd9427a14b972a9e4e82e17ce52dad6903fa0615cd89b995a585dbb6da8be9
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/REAMDME.txt
+SPDXID: SPDXRef-item2224770
+FileChecksum: SHA1: 9bbbb16149032f8716daf945242a34b0b82c180d
+FileChecksum: SHA256: 34c877989cc89edd528e1c1ac0e78df92aa7da748c69588af74b071126945022
+FileChecksum: MD5: 56792522825d3b7a47d1c4bb2c5a7108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/requirements-docs.txt
+SPDXID: SPDXRef-item2224772
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/_static/logo.png
+SPDXID: SPDXRef-item2224774
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/favicon.ico
+SPDXID: SPDXRef-item2224775
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/conf.py
+SPDXID: SPDXRef-item2224776
+FileChecksum: SHA1: 5291f5cdf28320a29b374257cbac9e246d9a250d
+FileChecksum: SHA256: ce1b01ea2e8226340f8ede3346413192c3d4a9b648cb39dc1a94a47b17e24e70
+FileChecksum: MD5: 9caacae06baece2eb17014e7f9047afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/doc-templates/conf.yaml
+SPDXID: SPDXRef-item2224777
+FileChecksum: SHA1: 0df4127cdf67dcea53aac56c39d68c3f05319749
+FileChecksum: SHA256: eb3b296d78df3cf86b2f2667a03205da21a7171878e5df299c1905c8a95048d6
+FileChecksum: MD5: f5b37ee0e831985193fbff3141af3874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/tox.ini
+SPDXID: SPDXRef-item2224778
+FileChecksum: SHA1: 0fcbdada158c0068a8638e9153c05bab39397f29
+FileChecksum: SHA256: 8d0cf12585eee498fae6f9f3cb6a2527dd812eb254b03c860215465c16414b58
+FileChecksum: MD5: 9c2a58d9222226341fb784333b9b7775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/INFO.yaml
+SPDXID: SPDXRef-item2224779
+FileChecksum: SHA1: 78ee5311e1e8b0d57b7ffbf34d8c7515a9734b0e
+FileChecksum: SHA256: a5a2e2e94fe63a1d910e18bdcd0e5ff7b9925900eda02bb9b0969bd928bdfc4f
+FileChecksum: MD5: f4c4473b85aa6513d50bcfdf6436393c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/.gitignore
+SPDXID: SPDXRef-item2224780
+FileChecksum: SHA1: e3b2cee88d1831c5961ca3ca21d9dacfe9192b84
+FileChecksum: SHA256: 78d0f6473fe8fab5c51e95fd4b20ee87b7f12de8aa4d2d4b50ed6b11aa2c1c8d
+FileChecksum: MD5: 327e127d349f7f9c8205dc4b32dfcb32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/.readthedocs.yaml
+SPDXID: SPDXRef-item2224781
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: SHA256: 63fd9427a14b972a9e4e82e17ce52dad6903fa0615cd89b995a585dbb6da8be9
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: doc-2022-06-28.zip/doc/.gitreview
+SPDXID: SPDXRef-item2224782
+FileChecksum: SHA1: acee2e86ceceb60aafc4ea95c9c8cce75e5e41c9
+FileChecksum: SHA256: 1122de882e86ed2c306938eb56a06b1f298fa65cbf612760ed19ed47c665d03b
+FileChecksum: MD5: 077866139d94677a15b8168a8add607f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-O-RAN-Software-1.0
+LicenseName: O-RAN Software License v1.0
+ExtractedText: <text> O-RAN Software License v1.0
+
+1. Definitions
+
+1.1 “Contribution” means any work of authorship, documentation, protocol, design, software code, or methodology, or any portion thereof that is submitted for inclusion in and incorporated into the Work and intended for publication, in whole or in part, by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner, or is incorporated, or otherwise made available, or received and accepted under the terms of this License. For the purposes of this definition, “submitted” means any form of electronic, or written communication, or oral communication sent to the O-RAN Specification Code Project or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the O-RAN Alliance for creating, discussing and improving the Work.
+
+1.2 “Contributor” means any individual or Legal Entity on behalf of whom a Contribution has been received by and accepted by the O-RAN Specification Code Project or its representatives, and subsequently incorporated within the Work.
+
+1.3 “Derivative Works” means any work, whether in Source or Object form, that is directly derived from and substantially corresponds to and uses the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+1.4 “Essential Patent” means an issued patent having a claim: (i) that is essential and mandatory to a normative section of a final specification promulgated by an SSO; and (ii) to the extent the patent claim is practiced in a context where it is subject to a commitment under the intellectual property or patent rights policy of an SSO to make a license available on FRAND terms.
+
+1.5 “FRAND” means either: fair, reasonable and non-discriminatory; or reasonable and non- discriminatory.
+
+1.6 “License” means this agreement.
+
+1.7 "Licensable" means having the right to grant, whether at the time of the initial grant or
+subsequently acquired, any and all of the licensing rights conveyed herein.
+
+1.8 “Legal Entity” means the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+1.9 “Non-Essential Patent” means an issued patent having a claim to the extent it is not a claim of an Essential Patent . Further, a Non-Essential Patent means an issued patent having: (i) a claim to the extent it is being practiced by an enabling, peripheral, complementary or other technology which may be related to, but is not a part of a normative section of a final SSO specification; or (ii) a claim which embodies a normative section of a final SSO specification but to the extent it is not being practiced in a context where the patent claim is subject to a commitment under the intellectual property and patent rights policy of the SSO to make a license available on FRAND terms.
+
+1.10 “Object” form means any form of code resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+1.11 “O-RAN Alliance” means the Open RAN Alliance organization founded in February 2018 with members and contributors who are committed to evolving radio access networks around the world with RANs built on a foundation of virtualized network elements, white-box hardware and standardized interfaces that fully embrace O-RAN’s core principles of intelligence and openness.
+
+1.12 “Research Purposes” means study, testing, developmental, experimental, proof of concept and research purposes by You for non-commercial use, non-production implementation with respect to the Work, Contributions, Derivative Work, or portions thereof including without limitation in order to improve, modify, advance or add to the Work, Contributions, Derivative Work or portions thereof.
+
+1.13 “Source” form means the preferred form of code for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+1.14 “SSO” means the O-RAN Alliance or an Organizational Partner of 3GPP (e.g., ARIB, ATIS, CCSA, ETSI, TTA, TTC, TSDSI) that promulgates radio access network standards.
+
+1.15 “Work” means all or any portion of the work of authorship, whether in Source or Object form, made available under this License by the O-RAN Alliance or its representatives, concerning or related to a final specification approved and released by the O-RAN Alliance or 3GPP.
+
+1.16 “You” (or “Your”) means an individual or Legal Entity exercising rights under, and complying with terms of, or exercising permissions granted by this License.
+
+2. Grant of Copyright License.
+
+Subject to the terms and conditions of this License, each Contributor having Licensable rights hereby grants to You immediately upon You receiving a copy of the Work a perpetual and irrevocable, worldwide, non-exclusive, no-charge and royalty-free copyright license to use, reproduce, modify, prepare Derivative Works of, publicly display, publicly perform, sublicense, distribute, and implement the Work and such Derivative Works in Source or Object form without accounting to any Contributor. The license granted in this section is effective on the date Contributor first distributes.
+
+3. Grants of Patent License.
+
+3.1 Patent Rights for Essential Patents
+
+The Work, Contributions, Derivative Works, or portions thereof are developed under the guidance of the O-RAN Alliance in conjunction with the development of O-RAN specifications and 3GPP standards specifications which are subject to the intellectual property or patent rights policies of each respective SSO. Recipients or users of the Work, Contributions, Derivative Works, or portions thereof are advised to consult those respective policies for information on the requirements for obtaining rights to Essential Patents. Except as explicitly provided in this Section 3, no rights to an Essential Patent are granted in this License.
+
+3.2 Grant of Patent License for Essential Patents/Non-Essential Patents for Research Purposes:
+
+Subject to the terms and conditions of this License, each Contributor, having Licensable rights to an Essential Patent and a Non-Essential Patent, hereby grants to You immediately upon You receiving a copy of the Work, a Contribution, or portions thereof, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under any such Essential Patent and Non-Essential Patent to make, have made, use (without a fee), solely for Research Purposes without accounting to such Contributor, where such license applies only to those claims of an Essential Patent or a Non-Essential Patent which are licensable by such Contributor that are necessarily infringed by (i) their Contribution(s) alone; or (iii) by combination of their Contribution(s) with the Work at the time of their Contribution.
+
+3.3 Grant of Patent License for Non-Essential Patent by SSO Contributors:
+
+Subject to the terms and conditions of this License, each Contributor that is an SSO member having Licensable rights to a Non-Essential Patent hereby grants to You immediately upon You receiving a copy of the Work, a Contribution, or portions thereof, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under any such Non-Essential Patent to make, have made, use, offer to sell, sell, import, export and otherwise transfer the Work, Contribution, or Derivative Work, or a portion thereof for any purpose without accounting to such Contributor, where such license applies only to those claims of a Non-Essential Patent licensable by such Contributor that are necessarily infringed by (i) their Contribution(s) alone; or (ii) by combination of their Contribution(s) with the Work at the time of their contribution.
+
+3.4 Grant of Patent License for Essential Patent/Non-Essential Patent by non-SSO Contributors:
+
+Subject to the terms and conditions of this License, each Contributor that is not an SSO member, and has Licensable rights to an Essential Patent or a Non-Essential Patent, hereby grants to You immediately upon You receiving a copy of the Work, a Contribution, or portions thereof, a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license under any such Essential Patent and Non- Essential Patent to make, have made, use, offer to sell, sell, import, export and otherwise transfer the Work or a Contribution, Derivative Work, or a portion thereof for any purpose without accounting to such Contributor, where such license applies only to those claims of an Essential Patent or a Non- Essential Patent licensable by such Contributor that are necessarily infringed by (i) their Contribution(s) alone; or (ii) by combination of their Contribution(s) with the Work at the time of their contribution.
+
+3.5 Grant of Patent License for Essential Patent/Non-Essential Patent by You:
+
+Subject to the terms and conditions of this License and your acceptance of this License as evidenced by your receipt of the Work, Contribution, or portions thereof, and, if You are not an SSO member and You have made no Contribution to the Work, and You have Licensable rights to any Essential Patent or Non- Essential Patent, You hereby, immediately upon receiving a copy of the Work, a Contribution, or portions thereof, grant to each Contributor and each O-RAN Alliance member a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable license for any such Essential Patent or Non-Essential Patent, that is necessarily infringed by the Work, a Contribution, Derivative Work, or portions thereof, to make, have made, use, and otherwise transfer the Work, a Contribution, Derivative Work, or a portion thereof for any purpose without accounting to You.
+
+3.6 No waiver:
+
+Except as expressly granted in this License, no other express or implied patent, trademark, copyright or other intellectual property rights are granted, including by implication, waiver, or estoppel by a Contributor or its affiliates.
+
+4. Distribution
+
+Subject to terms and conditions set forth in sections 2 and 3, You may reproduce and distribute copies of the Work, Contributions, Derivative Works, or portions thereof in any medium, with or without modifications, and in Source or Object form, if You meet the following conditions:
+
+(a) You must give any other recipients of the Work, Contributions, or Derivative Works, or portions thereof a copy of this License and demonstrably show acceptance of this License; and
+
+(b) You must cause any modified files by You to carry prominent notices stating that You changed the files; and
+
+(c) You must retain, in the Source form of any Derivative Works that You distribute, all attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+
+(d) If the Work or Contribution includes a “NOTICE” text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file in at least one of the following places: within a NOTICE text file; within the Source form or documentation; or, within a display generated by the Derivative Works. The following example may be used as the Copyright notice and License terms:
+
+Copyright 20xx [name of copyright owner]
+Licensed under the terms and conditions of the O-RAN Software License v.1.0 (“License’); You may not use this code and documentation except in compliance with the License available at: https://www.o-ran.org/o-ranlicense {place holder}.
+
+(e) You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with all terms and conditions stated in this License.
+
+5. Submission of Contributions.
+
+Nothing herein shall supersede or modify the terms of any separate license agreement such as the Contributor License Agreement, or membership agreement to an open source development community that You may have executed regarding such Contributions, or any upstream open source licenses any Contribution is subject to regarding code ingested into the Contribution (so long it is compatible with this License).
+
+6. Termination.
+
+6.1. This License and the rights granted hereunder will terminate automatically if You fail to comply with terms herein and fail to cure such breach within 30 days of becoming aware of the breach. Provisions which, by their nature, must remain in effect beyond the termination of this License shall survive.
+
+6.2. If You institute a patent infringement lawsuit (including a cross-claim or counterclaim lawsuit but excluding declaratory judgment actions) against a Contributor alleging that any of its Contributions incorporated within the Work constitutes a direct or contributory infringement of any of Your patents, then any patent licenses granted to You directly or indirectly under Section 3.2, 3.3, or 3.4 of this License for all Contributions made by such Contributor shall terminate as of the date such litigation is filed.
+
+7. Trademarks.
+
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Contributor, except as required for reasonable and customary use in describing the origin of the Contribution or Work and reproducing the content of the NOTICE file.
+
+8. Disclaimer of Warranty.
+
+THE WORK, ANY CONTRIBUTION, OR ANY PORTIONS THEREOF SHALL NOT BE CONSTRUED TO BE COMPLIANT WITH THE FINAL O-RAN SPECIFICATION OR THE FINAL 3GPP STANDARDS SPECIFICATION OR THAT IT INFRINGES AN ESSENTIAL PATENT CLAIM. RECIPIENTS AND END USERS OF THIS WORK, ANY CONTRIBUTION, OR PORTIONS THEREOF ARE ADVISED TO CONSULT THE INTELLECTUAL PROPERTY POLICIES FOR INFORMATION REGARDING PATENT MATTERS RELATED TO FINAL O-RAN SPECIFICATIONS OR FINAL 3GPP STANDARDS SPECIFICATIONS. Unless required by applicable law or agreed to in writing, each Contributor provides its Contributions or portions of the Work or the Work on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of the permissions granted to You under this License.
+
+9. Limitation of Liability.
+
+In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor, as such, be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of Your use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. IN NO EVENT SHALL THE O-RAN ALLIANCE OR ITS REPRESENTATIVES OR THE COPYRIGHT OR PATENT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK.
+
+10. Accepting Warranty or Additional Liability.
+
+While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor and/or the O-RAN Alliance or its representatives, and only if You agree to indemnify, defend, and hold each Contributor and/or the O- RAN Alliance or its representatives harmless for any liability incurred by, or claims asserted against, such Contributor and/or O-RAN Alliance or its representatives by reason of Your accepting any such warranty or additional liability.
+
+11. Applicable law.
+
+This License represents the complete agreement concerning subject matter hereof. This License shall be governed by the law of the United States, State of New York, excluding such jurisdiction's conflict-of-law provisions.
+
+12. Severability.
+
+All terms and provisions of this License shall, if possible, be construed in a manner which makes them valid, but in the event any term or provision of this License is found by a court of competent jurisdiction to be illegal or unenforceable, the validity or enforceability of the remainder of this License shall not be affected.
+
+END OF TERMS AND CONDITIONS </text>
+
