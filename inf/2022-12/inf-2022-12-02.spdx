@@ -1,0 +1,3821 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_inf-2022-12-02.zip_1670058505.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-12-03T09:08:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: inf-2022-12-02.zip
+PackageFileName: inf-2022-12-02.zip
+SPDXID: SPDXRef-upload672
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4368d35703d423137196f4fb570a6b0480086628
+PackageChecksum: SHA1: 5367458e6992d46af65b9a7328fc75874f6d98e8
+PackageChecksum: SHA256: 0a4acc401a0f06b2cae91889cf9c9bb9ac3c7ba0ec24c94d38bbc37ab69636a2
+PackageChecksum: MD5: 7616b5d87d593d7dad7e854a547cc952
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload672
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/setup.py
+SPDXID: SPDXRef-item3361588
+FileChecksum: SHA1: e9476cf54b1b04293a148aa6f9ccce144e5945a3
+FileChecksum: SHA256: 64c8e04e7ba1d613b8adaf63ed3fa5e7bc23e94743f8dff69542b3c2159e9826
+FileChecksum: MD5: dfd8273f68fbb318d3f2503b361f9902
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/index.rst
+SPDXID: SPDXRef-item3361488
+FileChecksum: SHA1: 8f3169065cc9ebe43540b9ce0f4207fdcb9b7015
+FileChecksum: SHA256: 1d137e750dff911b820c8e1228ec86faf1aae7d8bab32566149b8f462c1b1557
+FileChecksum: MD5: 78777d411b00bfcec3f5727274dcbb98
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. INF documentation master </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/developer-guide.rst
+SPDXID: SPDXRef-item3361492
+FileChecksum: SHA1: c41be7a133c55b1a7f09ead560df641daf246364
+FileChecksum: SHA256: 4cd44d89ebb987fb8ddba94eedd7eb3de80d4cf0ae8c86c553a19cbe477ac133
+FileChecksum: MD5: 60d5618e4d1f8e631a8fbb5fe6240f42
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/release-notes.rst
+SPDXID: SPDXRef-item3361491
+FileChecksum: SHA1: 1a5be74d5bebb184cd40a57051f82e559a168a91
+FileChecksum: SHA256: ccf71cddd865f5c50402a422137253616eac8619bc77d35459aa36fd40c38473
+FileChecksum: MD5: 0bbbf54863101de1224007578f4d1a70
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/overview.rst
+SPDXID: SPDXRef-item3361489
+FileChecksum: SHA1: ac0bf75a135e4911bbc9721867bbb95bd65161d5
+FileChecksum: SHA256: 72b2bbfc34597279d8e55a700576595b0158926393a92cf44f269aa1ad69a05e
+FileChecksum: MD5: d857da5a71e0619ea3c9f52332485b98
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/user-guide.rst
+SPDXID: SPDXRef-item3361487
+FileChecksum: SHA1: 712204707712819d501cd190b2b87ca8f3a5b1cf
+FileChecksum: SHA256: 131f2cdeda7c88877e32d46ed776fe8c5d889c30feb3f0a98bad4ccf33519572
+FileChecksum: MD5: 3dbc6a9a98ebc716afb84c3ca0f51986
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/api.rst
+SPDXID: SPDXRef-item3361494
+FileChecksum: SHA1: b4431974782f4ade2e660861cb8b1c91960bf91d
+FileChecksum: SHA256: 854032a186b9f5d191258099a116d184f82a4f675b19ba82943823a5ffcdbf99
+FileChecksum: MD5: 698050247590068e6362391a45d3b61d
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/index.rst
+SPDXID: SPDXRef-item3361383
+FileChecksum: SHA1: d9cd763c78d02dc8ee26bf43d46a9425b389a4bc
+FileChecksum: SHA256: c3352f11acc3fd1530fd7f82a4949cb283472298ee44dee52b87cdccdc246551
+FileChecksum: MD5: 53f81a879a2e098ef06cc00ed7df9ea5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. rtp documentation master </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/overview.rst
+SPDXID: SPDXRef-item3361384
+FileChecksum: SHA1: 29957aba1588c8cd100d4a82cf88b22ec30f1d79
+FileChecksum: SHA256: bd105bf1253e725ecfd9de209c33699b24e91c6ed4c0387942999edf0e733c35
+FileChecksum: MD5: af089ecf77d281bd87a2a663c552a665
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/release-notes.rst
+SPDXID: SPDXRef-item3361388
+FileChecksum: SHA1: ec8e0429870287c02e8af79a0178542a84783626
+FileChecksum: SHA256: 59b318dee7daaca2a4d4bdc346ed60a9c95660ee6639162df01063634cc34b47
+FileChecksum: MD5: 2c458dd36f73f8b44996533ddda75347
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 - 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/installation-guide.rst
+SPDXID: SPDXRef-item3361385
+FileChecksum: SHA1: eda4a51da410a787d39f0e2c3438a0590932eae5
+FileChecksum: SHA256: 15401eee782a9fde33aa16e1ce749a3832ddc0a5ea5dabf9549da864c54aaf96
+FileChecksum: MD5: 4d3c2ed9e60db00c8022abe49eac31e2
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/developer-guide.rst
+SPDXID: SPDXRef-item3361389
+FileChecksum: SHA1: 0bdc8d0053b32eb48d948fbcb6f4038010724d63
+FileChecksum: SHA256: c1a0991d9821a276b9f493a24382c89249dccf6bc6fe27c48409e6f8e16d43c8
+FileChecksum: MD5: 6623776f189058fc4ba62a4df74aafd6
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/installation-guide.rst
+SPDXID: SPDXRef-item3361490
+FileChecksum: SHA1: f9910adf36589a1f42e6a45aa766f2d254b6bd9a
+FileChecksum: SHA256: a8df46aa0d6e6166e468b8353c6b5b9b431d5600dee9a2981ee2bc010f0718ae
+FileChecksum: MD5: d196e695fb2b4489f656c23dac223539
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/configs/events.yaml
+SPDXID: SPDXRef-item3361739
+FileChecksum: SHA1: 9d7db439dc95e58f716df6a70956e3478f2a8a4b
+FileChecksum: SHA256: 1bd2f556ca0103e1a99aa3b74fb1b1848c532c447c0be969410739ec938bed51
+FileChecksum: MD5: 68f8216b0ae9c4cd6b687a1348e5ed76
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2013-2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/LICENSE
+SPDXID: SPDXRef-item3361500
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/LICENSE
+SPDXID: SPDXRef-item3361396
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/conf/layer.conf
+SPDXID: SPDXRef-item3361356
+FileChecksum: SHA1: 5bab6ae282ea5c6c0447d9c558601ecfcbe7a357
+FileChecksum: SHA256: 183d4e9e2568f6e8868daf9d31e5848e59a16e98812003d5582a1bf7e51f6e8c
+FileChecksum: MD5: 38a0cbed1ccc139ce651d3861cc5482a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/LICENSE
+SPDXID: SPDXRef-item3361352
+FileChecksum: SHA1: 1ba64565dfb5edb4c1a943beac23fb42dfd7b791
+FileChecksum: SHA256: 6eba6ee11d06b3e7dbb33a3b2130cd21f0a3d126328afc4a9ed98e6042edc367
+FileChecksum: MD5: ad5658beaa763fbc9cfd7ebc3760064b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc.
+copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-anaconda/iso-codes/iso-codes_%.bbappend
+SPDXID: SPDXRef-item3361359
+FileChecksum: SHA1: 44a469445163aa98a6fefb9f5f34cbd5c8b06daa
+FileChecksum: SHA256: c4ba6cfabb2e08a30a5c21fdc499bd1c5c674464ef413197d59aed1d22cc1967
+FileChecksum: MD5: 04406a25e53ebc731f4b89c57bd3f0c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-kernel/linux/kernel-devsrc.bb
+SPDXID: SPDXRef-item3361362
+FileChecksum: SHA1: def873ec4407e3b0eaaaebe3ec5a772f37525cbd
+FileChecksum: SHA256: 56cc118a09d6a494bdde1930baa979c20336ae89b3c71bdc708c07a3be080a00
+FileChecksum: MD5: b87cc9b5e522483ead9e42d3ace7443e
+LicenseConcluded: Apache-2.0 AND GPL-2.0 AND LicenseRef-Dual-license AND LicenseRef-Meta-Recipe
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: <text> Copyright (C) 2019-2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/unit_of_work.py
+SPDXID: SPDXRef-item3361542
+FileChecksum: SHA1: 720cb8f1c3a279b542818ae2a63a600035fa9394
+FileChecksum: SHA256: 6f0fd506aef04af6651389632e6c34b293759d8d06879a37a9a7b3a407723f7e
+FileChecksum: MD5: 8589a9a8ea972071b6fdcdebdcfce15e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/stx_repository.py
+SPDXID: SPDXRef-item3361621
+FileChecksum: SHA1: 17a657b73f3ec6f87bd2b7c0c8947d1b49660380
+FileChecksum: SHA256: 48a15714ab0b8757427c6f2e61623c3b8c8ad7352c76e551a1d8c2c4bc7be859
+FileChecksum: MD5: 1903c4e41e6a430220e96c1101ad7d6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/conf/distro/poky-stx-oran.conf
+SPDXID: SPDXRef-item3361355
+FileChecksum: SHA1: 0dc8de39c802396f87f83bb8cd5e2b4b46858f3e
+FileChecksum: SHA256: 14bc157e97e6828cb54252fe51d025c0d830a3a74a9c0248bf118b6edd7ceb45
+FileChecksum: MD5: 9a5d1916082b4404984e25a184170915
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/configmap.yaml
+SPDXID: SPDXRef-item3361728
+FileChecksum: SHA1: 039388891808e4ade127780ef8f31995c0f321f9
+FileChecksum: SHA256: b925ff472447611c9a9b21da4672a94cf7b69c0051244d293675112029f650bb
+FileChecksum: MD5: ace3e1635882040e8dc8bd8856cd0113
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/_helpers.tpl
+SPDXID: SPDXRef-item3361734
+FileChecksum: SHA1: 5bc76584eeb14421c739d153b20d79020c13049c
+FileChecksum: SHA256: a7817ce25e3e0f4e3e4548de88cdc15d64b096b2c3b3459ece4a87064d2db26e
+FileChecksum: MD5: ab3af98f26c3be9c1b198ca764a361dc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Vim
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-core/base-files/base-files_%.bbappend
+SPDXID: SPDXRef-item3361365
+FileChecksum: SHA1: 4d93f0a7f117a26d77f4b14c5d2d026d36c4bc98
+FileChecksum: SHA256: 43fccc997e6faea8522bc799dc6bf3b6c680ef73ebf28c7802d993dbfdb43c68
+FileChecksum: MD5: 35b3850441b61116243b3c4ebc946448
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/find_rpm_path.sh
+SPDXID: SPDXRef-item3361418
+FileChecksum: SHA1: f197bb934c295deedb81088ccbe61250bd7c923d
+FileChecksum: SHA256: e336cdd040f0e70a0636baf0add28b4c0d0500e869e26b1736729beeebc60b47
+FileChecksum: MD5: d1e3074b496f80a71359866488c26719
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/mock_smo/entrypoints/mock_smo.py
+SPDXID: SPDXRef-item3361442
+FileChecksum: SHA1: 04e6fc45580ce948647aa7a5f01c0aa5c6c3bca7
+FileChecksum: SHA256: 0ec0e793d7380e26e0aff66c6acfdcea19072594d42e5c451b5140fa0a010364
+FileChecksum: MD5: 771b0f07a51c77afbe963b351662f42b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/mock_smo/config.py
+SPDXID: SPDXRef-item3361444
+FileChecksum: SHA1: 044eea7446f5561a79e924249116a6591bb27a4e
+FileChecksum: SHA256: 306ab4868921c3c8bf9c6c0e08e4a18c97fe331531df5f7358c0d61aa0c6b427
+FileChecksum: MD5: 0b5c9c1a69067f4595fd1349a3766f7f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/README.md
+SPDXID: SPDXRef-item3361435
+FileChecksum: SHA1: 4cd264a56ec0667f2548b5afaeec833f6ad38a54
+FileChecksum: SHA256: 2615fdf56f5b5d34a8bb74375ad001f277c57758077a908c2fa34aea5a4af286
+FileChecksum: MD5: c588cffbcf9216574ce9d63de494a11f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/mock_smo/logging.py
+SPDXID: SPDXRef-item3361446
+FileChecksum: SHA1: 1bb09a95c18779f74d9f4733b4c2469d291feb3f
+FileChecksum: SHA256: 4ccf2a999eed2adc48fdd2edb2bc0556f7aa431a326f0766c3045570dab366fe
+FileChecksum: MD5: 165e677ce555e6220fcc447936b35490
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/mock_smo/entrypoints/__init__.py
+SPDXID: SPDXRef-item3361443
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/mock_smo/__init__.py
+SPDXID: SPDXRef-item3361445
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/adapter/__init__.py
+SPDXID: SPDXRef-item3361697
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/entrypoints/__init__.py
+SPDXID: SPDXRef-item3361692
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/service/__init__.py
+SPDXID: SPDXRef-item3361701
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/__init__.py
+SPDXID: SPDXRef-item3361695
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/adapter/__init__.py
+SPDXID: SPDXRef-item3361526
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/__init__.py
+SPDXID: SPDXRef-item3361514
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/client/__init__.py
+SPDXID: SPDXRef-item3361539
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/watcher/__init__.py
+SPDXID: SPDXRef-item3361544
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/__init__.py
+SPDXID: SPDXRef-item3361541
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/__init__.py
+SPDXID: SPDXRef-item3361509
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/adapter/__init__.py
+SPDXID: SPDXRef-item3361582
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/__init__.py
+SPDXID: SPDXRef-item3361563
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/service/__init__.py
+SPDXID: SPDXRef-item3361586
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/__init__.py
+SPDXID: SPDXRef-item3361559
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/__init__.py
+SPDXID: SPDXRef-item3361629
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/__init__.py
+SPDXID: SPDXRef-item3361622
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/__init__.py
+SPDXID: SPDXRef-item3361604
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/__init__.py
+SPDXID: SPDXRef-item3361661
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/command/__init__.py
+SPDXID: SPDXRef-item3361636
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/__init__.py
+SPDXID: SPDXRef-item3361644
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/__init__.py
+SPDXID: SPDXRef-item3361679
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/__init__.py
+SPDXID: SPDXRef-item3361665
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/e2e/__init__.py
+SPDXID: SPDXRef-item3361477
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration/__init__.py
+SPDXID: SPDXRef-item3361460
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration-ocloud/__init__.py
+SPDXID: SPDXRef-item3361483
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/unit/__init__.py
+SPDXID: SPDXRef-item3361467
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/__init__.py
+SPDXID: SPDXRef-item3361475
+FileChecksum: SHA1: 95834db403d6fde4a24673c1723f9f07ec80ed0f
+FileChecksum: SHA256: 6f3d0d9b5ddd618a8b5ab2ca7c779330e6484a12372d2a0d08fd4805156b2a68
+FileChecksum: MD5: 606b75f0d33d64febe6164a7da72aeda
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/mock_smo/subscription.py
+SPDXID: SPDXRef-item3361455
+FileChecksum: SHA1: d385fd19fecca5dde222252424c4ff9cfb389990
+FileChecksum: SHA256: d8d101b7de43b7abb40a6fea90c19f009eb792780516e14bc32a3f4073c13684
+FileChecksum: MD5: 43590c430c7d17e099b20952b17a31c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration/test_clientdriver_fake_stx_sa.py
+SPDXID: SPDXRef-item3361457
+FileChecksum: SHA1: 5fd3fe1f57f4096a54f0b910b494a3cfd1b67b5e
+FileChecksum: SHA256: e82248c83bbef66b37cfa085cbe4df179011317c946e1a3c8f4083bc76452860
+FileChecksum: MD5: f16200ee4fa8fa8e66cfd406971f44b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration/test_ocloud_route.py
+SPDXID: SPDXRef-item3361459
+FileChecksum: SHA1: 0be9f94595615e11e7a6f15c27f048dacd1e7e03
+FileChecksum: SHA256: 96e55fc0bf2136518edad699cc5485e3ec8f872da2bbb9af3b2b47f8c93067b1
+FileChecksum: MD5: ab8cbae6f5e2a9db37a0f854d5c46990
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration/test_ocloud_view.py
+SPDXID: SPDXRef-item3361461
+FileChecksum: SHA1: 2f6fe1feccf82baed56951171e2bf736487fa13a
+FileChecksum: SHA256: a104c5101959e9048c45d3fb9e3b9930f63f21c62929e4667891e7f42c40bdd9
+FileChecksum: MD5: 728f837beccd85f6a6fb92809cf4f526
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/etc/log.yaml
+SPDXID: SPDXRef-item3361452
+FileChecksum: SHA1: d28a0c5c5c9e0ef119fa7c8281021112064e877c
+FileChecksum: SHA256: 4d09705677837c5c0cbe50ad5bd7a456c77d698132a8a5e5e99fdbaad62a9a39
+FileChecksum: MD5: d28507cc5442aadea8ce78a9077c1196
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration/test_ocloud_repository.py
+SPDXID: SPDXRef-item3361458
+FileChecksum: SHA1: 11813315a7bee5b1b3584e6d44a816302b86d37a
+FileChecksum: SHA256: af3df5590066252296d652624b33a73183ca968ffe4abbcfa2414a924ce0ba74
+FileChecksum: MD5: 1a58f0a90c1a5679cc20172d006b6fbb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/locust/ocloud.py
+SPDXID: SPDXRef-item3361473
+FileChecksum: SHA1: 87a4dd734657f9100cde34ffba1755ad16330e2f
+FileChecksum: SHA256: d09e55d26a5be6102571148084e21e5c8bde4dceac932aa7c0533658dc4c5271
+FileChecksum: MD5: 6dae6d204a1d1652d7546197ab484fd9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration-ocloud/test_clientdriver_stx_sa.py
+SPDXID: SPDXRef-item3361480
+FileChecksum: SHA1: 2d60c752f8dff9c80a62f9f249b64730d4ae41a8
+FileChecksum: SHA256: 7ac176e51b7a1bcc3f21a684902317f45ff204cd38a7207fb911f8448a0a6bc2
+FileChecksum: MD5: f7502f7b2ebcb469c163cb47be010e42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration-ocloud/test_watcher_w_stx_sa.py
+SPDXID: SPDXRef-item3361481
+FileChecksum: SHA1: 6139fccb6ad6637ee3e68f58470047b33c04d937
+FileChecksum: SHA256: c201d939427db35e3aadc6daa99bb9273c63960a18aa56260bcbb833f6b702d9
+FileChecksum: MD5: 0fe6ff05b881b53e5d4e6d8a18170381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/commands.py
+SPDXID: SPDXRef-item3361511
+FileChecksum: SHA1: fef96a8a4d4009c38fe00ebc7b32f66b67c640b2
+FileChecksum: SHA256: b884f8dfe34bf41240ba037e4906fdf4d7582b4dbab2be83087f8f3e22f0a9d6
+FileChecksum: MD5: 02ea76d3221ec07993f1fa98f63d8e51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/tags.py
+SPDXID: SPDXRef-item3361513
+FileChecksum: SHA1: cdd47f13fec39dc8a388f92082f7908ca4069400
+FileChecksum: SHA256: 80a2769640bbfcdde870f09a15330bc57881d434e62cb0462533537483ba541a
+FileChecksum: MD5: 37f6fcbe08b64338c95a4d51adb3b4ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/events.py
+SPDXID: SPDXRef-item3361517
+FileChecksum: SHA1: 922f2dc27de310e03a57e079adfcefc4a031fa1f
+FileChecksum: SHA256: e84a248ed4a28e82790d87b8c0b922a10d4185f4c76ebd800dda03939b2ebd8d
+FileChecksum: MD5: bd4b00732a29c9ce3335b71ced462fc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/exceptions.py
+SPDXID: SPDXRef-item3361516
+FileChecksum: SHA1: e22222ec06a4760d2de61ba9dec18026f9645270
+FileChecksum: SHA256: 0f65a15df44f73bb14eca27ba8be0b627789a12e0d2775925712a3f2b1e891ad
+FileChecksum: MD5: 2722f23fd9cb4f60e69a7de02819d1c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/adapter/redis_eventpublisher.py
+SPDXID: SPDXRef-item3361528
+FileChecksum: SHA1: e763c6b407d90db5bf52cddad93e40d91348cf0a
+FileChecksum: SHA256: dc7d8f0a7da39d61abfb4b59b7c63f0b55df19eba70b7e9872d2fa81a93cabe8
+FileChecksum: MD5: 6a1373542fb77125ee7438bb9310f5b9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/client/base_client.py
+SPDXID: SPDXRef-item3361538
+FileChecksum: SHA1: 5972ab92ce7e783e9668a7c561173b01f4ac3190
+FileChecksum: SHA256: 7720a4c70339cd9b61fe5fa37836d915b78443f28c9bf85dbc2e20cf39ed2147
+FileChecksum: MD5: 4e82398a3d889e263dd12f2eea172ec5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/tests/__init__.py
+SPDXID: SPDXRef-item3361551
+FileChecksum: SHA1: c724fa74d861d24dde27242d8fe141bf1283b589
+FileChecksum: SHA256: 0935090c7b0607c1a5ee45de047973ca6d3cf97656d7f1633301c90291048cbb
+FileChecksum: MD5: 22a653fd09b4e4320d24faf40caf41b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/messagebus.py
+SPDXID: SPDXRef-item3361540
+FileChecksum: SHA1: 2e023dffdc1aa388f461150a083c429c983e056e
+FileChecksum: SHA256: 22662bb7c1061028ba456daf2ba0c7454bbece6fc7836829973e9023d21181d5
+FileChecksum: MD5: f85fdafb32f75b12d377e9cf44c56e1e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/tests/test_utils.py
+SPDXID: SPDXRef-item3361550
+FileChecksum: SHA1: 808407d9bad53706a6e0cf7b4e4ca2a773c67df2
+FileChecksum: SHA256: 05fdd64f7d1bd6ae3789bd31f3d07bcd01c2d0a82d6a7415bb77a40292876cce
+FileChecksum: MD5: bfc69fbf318984c587b6bd9dc14e56c6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/__init__.py
+SPDXID: SPDXRef-item3361554
+FileChecksum: SHA1: f800766162e45c19476a9830dfe23cbf4b411774
+FileChecksum: SHA256: 7365f4e6f53f131b8b3d83b4f0ad47793666237871e9a25140dad9e1a0d3789e
+FileChecksum: MD5: 0f517f37deb7cf7ba12f1808ed5c59ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/tests/test_sdk.py
+SPDXID: SPDXRef-item3361552
+FileChecksum: SHA1: e39e58ffc15de4fc8aca9842f1baefc62247673b
+FileChecksum: SHA256: 20e64ebd21bbc037cb5633d6a95a2079e2753604d433bb9de14f9588e75f99e9
+FileChecksum: MD5: f64054b04ce1ffedd1c670ea4a192808
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/exceptions.py
+SPDXID: SPDXRef-item3361556
+FileChecksum: SHA1: 56ec87d393c246d24316b9eba7db9f1ea866507d
+FileChecksum: SHA256: 4b9d8f8774171a05f3f85ecd8356478ad8698897a632eac9834365bf0d14bab6
+FileChecksum: MD5: 74adb5ecfbebc3144d29e25a8afa7c07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/filters.py
+SPDXID: SPDXRef-item3361555
+FileChecksum: SHA1: d980c82e22bc097470a2f3583296c65fd80df9d7
+FileChecksum: SHA256: de66153ab653c4d9046018645aea19734ffd1fac6e5a518d27d59737aef71113
+FileChecksum: MD5: 8a98632664407ab4cfbb30769001e7ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2016-2020 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/_compat.py
+SPDXID: SPDXRef-item3361553
+FileChecksum: SHA1: 83dd02e2554527f97269d608e95d3841c056f789
+FileChecksum: SHA256: 2b7e093e7d2ef76169639821de4bd14e3b2d076d1e0402fdde3393d2bd126df5
+FileChecksum: MD5: 85f6021e3285591aab4d1e5d83942a49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/commands.py
+SPDXID: SPDXRef-item3361561
+FileChecksum: SHA1: 727e6f1a50d744e18cd0cd2db0e21160f0aec487
+FileChecksum: SHA256: 7aec39ace099315b14ed230d969d6b8c2328725e96c5625f87ea9bd5930ba34c
+FileChecksum: MD5: efdb14767bd7550425f34461aae6280b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/helm_sdk/utils.py
+SPDXID: SPDXRef-item3361557
+FileChecksum: SHA1: fc5b0607d814317e3deb1a2110dc6f090d2b03fe
+FileChecksum: SHA256: 15f07b8ec3edc2c9d0867ace0b7421177e2c8c48a28af5026a302653d962e5c5
+FileChecksum: MD5: 1375f21391be0d0dd74c2d12dba613cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Cloudify Platform Ltd. All rights reserved </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/dms_repo.py
+SPDXID: SPDXRef-item3361564
+FileChecksum: SHA1: 7b6a2e8d4c5d13ac4a6a029eb9164aa98ada5db3
+FileChecksum: SHA256: 720d35ef6c860237d2f1f30bf2ecd7c697d298a506cfb7ac62788ff81c6f2909
+FileChecksum: MD5: 5637353597bee2ced36009b470614e59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/dms.py
+SPDXID: SPDXRef-item3361562
+FileChecksum: SHA1: b7f7ee74a9c46a335e2f3fa6e0197e1d268467c2
+FileChecksum: SHA256: 324c75692a5c004128053213f90a607b36087b1cea36d54b0fe39bb8768f9c09
+FileChecksum: MD5: b9a4cf75bfc77daa12f09d2c98c9298b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/exceptions.py
+SPDXID: SPDXRef-item3361566
+FileChecksum: SHA1: 988955e8a564e8911ecb7e7451ae5a3ecd80b534
+FileChecksum: SHA256: 3b8708d42e4435f145f08cc57a515ce456d5cc91f6e76e19ac9bfa420718b4f1
+FileChecksum: MD5: c6e304d9b77586ae718f7fc97191478b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/events.py
+SPDXID: SPDXRef-item3361567
+FileChecksum: SHA1: 8fb26059d4fcbf08948333abf8d14cf292739567
+FileChecksum: SHA256: 593c44b13cf4d136464e4ea7e2a3c80cde1ba7ba93bf93945a7256781ac9ac87
+FileChecksum: MD5: c76966dc8d0dfb89116315c5815c5e07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/domain/states.py
+SPDXID: SPDXRef-item3361565
+FileChecksum: SHA1: 743fd5a056d35098b5cc1e60e4397166541ebf35
+FileChecksum: SHA256: c4f69c492b8207b86baa090117376c4120ddaba807bbaf0b33760509c4e9402d
+FileChecksum: MD5: f998088a8fdc4d5cbe59aeb96e6ce261
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_lcm_nfdeployment.py
+SPDXID: SPDXRef-item3361569
+FileChecksum: SHA1: 41d00ae285c3048127bc6df97191dbc57dc5f471
+FileChecksum: SHA256: 225a465cfad4259f39a67b5a1798f036bb61781ab017ea28a82c378432715c92
+FileChecksum: MD5: 3663b13ab8945762c9595062954b5564
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/nfdeployment_desc_route.py
+SPDXID: SPDXRef-item3361570
+FileChecksum: SHA1: 79f8f6e9e038beef72e88c136e91b195ccd745e2
+FileChecksum: SHA256: 25a5e762515f24db4bb66c57d3d23369b9dc8192003d8e4c2d95c490fc50cbad
+FileChecksum: MD5: 035b09ae40b551768ba458303e62ab48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_lcm_nfdeployment_vres.py
+SPDXID: SPDXRef-item3361572
+FileChecksum: SHA1: e384b3e2d1ae2e40e9835867674c6fb6cb19742c
+FileChecksum: SHA256: a22e8cf8ecabc38af3683ff796fe80b4ae61f12c799c71b8853f5f03bb569456
+FileChecksum: MD5: 00682f0458694f64b8a58a35f886f298
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_dto.py
+SPDXID: SPDXRef-item3361573
+FileChecksum: SHA1: dde702a42f1bf32d1f4c810bade8b0a0c1dda5c7
+FileChecksum: SHA256: 264e83a7a9fa6b12e4953098e85352ce1dd2eda4feaa6b9d06f8aeca58ef1bff
+FileChecksum: MD5: b65bf78d55bc5a61b95fb69780f98a00
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_lcm_nfdeploymentdesc.py
+SPDXID: SPDXRef-item3361574
+FileChecksum: SHA1: fdd307a612220f6786de7be576388bf0b3b98f50
+FileChecksum: SHA256: 215dfdf83a1373bb82d2a3a78ad07c9b70fb3a24e6dc83df2cafaab28ad9ed2f
+FileChecksum: MD5: 715f8e16248c368a60cf3764fc119181
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/nfdeployment_route.py
+SPDXID: SPDXRef-item3361575
+FileChecksum: SHA1: 293bc1b2ecc1fbd8bcea7543018eb745efdc2c86
+FileChecksum: SHA256: 8d6d9ba36e0e49c9ea1f871ff603b95330dc88410bd0b5ef0669f09b8c948c18
+FileChecksum: MD5: 703d78a0f9edfc17a40e439a97e3da62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/ocloud_vresource_route.py
+SPDXID: SPDXRef-item3361576
+FileChecksum: SHA1: 483dda6b77f659fefe791065dacfdee7ad2031f3
+FileChecksum: SHA256: c8904bd7ff5db0e87527914ed90ca4602cce01754416a4851dded6ff11fe93f9
+FileChecksum: MD5: f2c6d2bf0673ffafc382b85d10ada94a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/__init__.py
+SPDXID: SPDXRef-item3361577
+FileChecksum: SHA1: e3ae93a4bb06439498f470e90220fc819980c6f7
+FileChecksum: SHA256: 651f4268e33ec337ca190bd109d2d6aa2fa5b0216486797c7fef73e9aad3ae7d
+FileChecksum: MD5: 366c0b8f17ea13d2c8c8143c0a635707
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/adapter/dms_repository.py
+SPDXID: SPDXRef-item3361581
+FileChecksum: SHA1: 1e532a8afa3ebbebb1d66ddbc88a812912d48ea6
+FileChecksum: SHA256: 430ca581248a176b62ae23130e784f27494efccf52c103aa50d2a00373454007
+FileChecksum: MD5: ad862361d5ea70cdfe1e3857011f3d3f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/adapter/orm.py
+SPDXID: SPDXRef-item3361583
+FileChecksum: SHA1: 54df5ce9e0c36b1791e8b5b31e170b0aa7f49ebd
+FileChecksum: SHA256: f5a96e5b49d13ea68f9c2e9fdae2dfa426605b5d05c5cc09fdb076a64b8f9d1a
+FileChecksum: MD5: b876fdbca5f7f9d57737db80e155bb7e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/service/nfdeployment_handler.py
+SPDXID: SPDXRef-item3361585
+FileChecksum: SHA1: 9dc0bfe4ef286bf2d17511daab9dde6676566283
+FileChecksum: SHA256: 1cecf9376fdd067038fb76be3697aab42d1dd7f1e8d160783c9609c6691520c6
+FileChecksum: MD5: 0c6a94f8e1ec936b878fe08841768f79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/orm_stx.py
+SPDXID: SPDXRef-item3361631
+FileChecksum: SHA1: 1276851f5181073ede52e26eaa13192ed8a1daa1
+FileChecksum: SHA256: 85f7610128c9dea1744ae2af846a23c524e973bd252aa10f8cda182d7cbd37ca
+FileChecksum: MD5: c06c7bb0b8e246f9913caed3514b8da9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/stx_repo.py
+SPDXID: SPDXRef-item3361599
+FileChecksum: SHA1: 8097e8897a9bc29754e77779e025d298760398ab
+FileChecksum: SHA256: dd413dd62a32d3379199f89cfb67a99b3305706381343b58d3852da99cfe97f3
+FileChecksum: MD5: 2be616ad3a8409f2d5bd503637a52ac0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/ocloud_sa_client.py
+SPDXID: SPDXRef-item3361626
+FileChecksum: SHA1: f0a2b8e6fc395a6999e1a57172c71ae5eb27aa6e
+FileChecksum: SHA256: 6936b85bd130de9ff2f0e2b9f7ceb0a4b538fc1fd0f68300c57a619ddbc66890
+FileChecksum: MD5: 71d55550f875d4ae60d104ab22159ba5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_mem_watcher.py
+SPDXID: SPDXRef-item3361667
+FileChecksum: SHA1: 4c72e63019a4817bf96c01de5c3d312a0550033e
+FileChecksum: SHA256: 80261ac0c24983c9e0b16543a980de8c0c654af45300590df8725af3c190b164
+FileChecksum: MD5: d4f3411015d9edcd9eef449c352cc051
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/resource_watcher.py
+SPDXID: SPDXRef-item3361670
+FileChecksum: SHA1: 947c77cabba5c2103e7ea115a41439bc83189dd5
+FileChecksum: SHA256: 736aea062683312b75b44ba7ceb94d9d6bb490224d3adced22fd265cf65e50d4
+FileChecksum: MD5: 9efbca6d2da545b14d40ea1343abec9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_eth_watcher.py
+SPDXID: SPDXRef-item3361675
+FileChecksum: SHA1: 00a76012d8b80515280045b759b391610dffbd46
+FileChecksum: SHA256: c84f7d49491d12cb2a06cf754c2f03c3d69d2ed5f5b40d53ec6d7ebe92f9ccc5
+FileChecksum: MD5: 71cd212366286df7d759f9770d3b45c8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/ocloud_watcher.py
+SPDXID: SPDXRef-item3361676
+FileChecksum: SHA1: e2f28adf4a71a0442c20cf8712be9c43f0c5461f
+FileChecksum: SHA256: 968ed1e9f7b655ffa7ca9c3a62631b0976e4fc6895fce28a4666265351a0be9d
+FileChecksum: MD5: 96a6d14f82beff5d45fcde73446d31ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_port_watcher.py
+SPDXID: SPDXRef-item3361678
+FileChecksum: SHA1: 586b5ed83dae6be01cb3b2b3a556fb54a54c6eaf
+FileChecksum: SHA256: da18f57bc30ee935d3d0db71019433be41e4c2e635b7346f11473274b00b2a9b
+FileChecksum: MD5: 5b238f922eda69589a35a5e83a0ed1cf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_watcher.py
+SPDXID: SPDXRef-item3361674
+FileChecksum: SHA1: 1e4e333e11fea478f254c1bb9a0745b5761339a6
+FileChecksum: SHA256: 162d2f3c40934bfe43bb273d560b612fa1c56b6fdc8ac2fb6a2e9e9276002310
+FileChecksum: MD5: 9849c624866405f7cf03ac310adadc9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_if_watcher.py
+SPDXID: SPDXRef-item3361680
+FileChecksum: SHA1: 6d87f772d7d3864fac6c39e121eaed262108d374
+FileChecksum: SHA256: 2be92a5119aa7e1076bf4b6bd3c8255c6c8dd2b1b55024fee65288ad130971e0
+FileChecksum: MD5: 9d4386a1378182dd1293f7332e880ffb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/resourcepool_watcher.py
+SPDXID: SPDXRef-item3361683
+FileChecksum: SHA1: 9e317a067aa76871b1df50796f1b95d4d9db00fc
+FileChecksum: SHA256: fe0c1ab22096d1a58be2679eaeeb09f8ab696a5f2c0cd0a5d4c6b8d3c5c966f3
+FileChecksum: MD5: 4451fc1ee1681c3a68f5274f8c88bd48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_cpu_watcher.py
+SPDXID: SPDXRef-item3361681
+FileChecksum: SHA1: b8c2986f5c2b40fb7650eb566130eee76624a660
+FileChecksum: SHA256: 2401737d86a0efd503107dcdf4c8878cac9529ae0722db0f35929cdec30bf4d9
+FileChecksum: MD5: fc4530d4d56b5e309ea7a22dd105be1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_route.py
+SPDXID: SPDXRef-item3361571
+FileChecksum: SHA1: fd9aa0161dba0dc176b351c84ada28bbd843f90d
+FileChecksum: SHA256: a83400497b000790c070a23f99d735d4819e7110a5402a04a9942e89f6d950e9
+FileChecksum: MD5: 810fb154b2aac648df2fb00be5a54d1b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/resources/scripts/init/postgres_start.sh
+SPDXID: SPDXRef-item3361719
+FileChecksum: SHA1: bcb728b8dcd4b50a2af1b3a3167c10fc1904000e
+FileChecksum: SHA256: ecab834380ff87684c7ee791af9c8af7aca19b7f7c8085d041e84db0ec674ae7
+FileChecksum: MD5: 6f0b11d2b587d142ae1419ac6d75be2b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_lcm_view.py
+SPDXID: SPDXRef-item3361578
+FileChecksum: SHA1: eb4587b8cd3ca9399042dd54a931ba78206a032d
+FileChecksum: SHA256: 80d4404ac40ada79b29789684e2cbd3ad3f864dfcdfbacebde79cd60c89b1c62
+FileChecksum: MD5: c640bc6de5df6f49f8995bb6e90e1dc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/cgts-client.bbappend
+SPDXID: SPDXRef-item3361380
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/distributedcloud_git.bbappend
+SPDXID: SPDXRef-item3361374
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-aodhclient_git.bbappend
+SPDXID: SPDXRef-item3361377
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-barbican_git.bbappend
+SPDXID: SPDXRef-item3361370
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-keystone_git.bbappend
+SPDXID: SPDXRef-item3361379
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-keystoneclient_git.bbappend
+SPDXID: SPDXRef-item3361368
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-keystonemiddleware_git.bbappend
+SPDXID: SPDXRef-item3361372
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-neutronclient_git.bbappend
+SPDXID: SPDXRef-item3361378
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-openstackclient_git.bbappend
+SPDXID: SPDXRef-item3361375
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-oslo.messaging_git.bbappend
+SPDXID: SPDXRef-item3361376
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-oslo.versionedobjects_git.bbappend
+SPDXID: SPDXRef-item3361371
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/python-osprofiler_git.bbappend
+SPDXID: SPDXRef-item3361373
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/meta-stx-oran/recipes-devtools/python/sysinv.bbappend
+SPDXID: SPDXRef-item3361369
+FileChecksum: SHA1: 182aabd8082562087f47faca1d48f7f7726c2a5a
+FileChecksum: SHA256: ec708e61bcefd645c085ba985e162828cd020bc44f12d4cce7acdb9d26e019c0
+FileChecksum: MD5: d92ded2e0ce9d96c5f02c4ff1221b0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_debian/build_inf_debian.sh
+SPDXID: SPDXRef-item3361406
+FileChecksum: SHA1: 5fdc1073c761566fe2094923bc9afe744f379e4f
+FileChecksum: SHA256: 77ab880b572be041796bc7e98b424e74324064a55f522fd84fe28a0da61e4e18
+FileChecksum: MD5: 99174e3fd5f78c9dc8ad1fbfceca8365
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_debian/build_inf_prepare_jenkins.sh
+SPDXID: SPDXRef-item3361407
+FileChecksum: SHA1: 262cdec3cc5b3188a513000fe98523add4358371
+FileChecksum: SHA256: f6230002a2a3b94c05808556b4b3156d7c7b47f6d113dcd5fceae29bca053f41
+FileChecksum: MD5: afecf36964e99413634d8100a6d02291
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/build_inf_yocto.sh
+SPDXID: SPDXRef-item3361419
+FileChecksum: SHA1: d9697201ec0c45ef0dd16f821054f943f3232ec5
+FileChecksum: SHA256: 1ab673145f160f302cb461c6afed4247ed8b419a7d978d28b2e36e3cf95ee75b
+FileChecksum: MD5: d269e8fdd0bd0a1620437d4e32512c0b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_centos/build_inf_centos.sh
+SPDXID: SPDXRef-item3361431
+FileChecksum: SHA1: 13fb0f19a1ad7df72dd7a1ab496696d9a28ed217
+FileChecksum: SHA256: 73fbe23f850a9ee03d61726a908775558d670928a5fa4d922fff94b5451801ef
+FileChecksum: MD5: 091824bd5ef83981744abb951d3ed40c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_centos/build_inf_prepare_jenkins.sh
+SPDXID: SPDXRef-item3361432
+FileChecksum: SHA1: 69da00330aa3e770869e96c6b0e5a7d230abb4a4
+FileChecksum: SHA256: edb7a02eaebc0076e99354f181132fe67f66fa7e92f3294a768c0e0d1e619f06
+FileChecksum: MD5: 299044ab91202b30a7e6a6cffd0024e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf.sh
+SPDXID: SPDXRef-item3361433
+FileChecksum: SHA1: 09ae612875a6cae6ec5ed2ee3702dca95d4db0df
+FileChecksum: SHA256: 5935095089e4c62096f646ff1649bb09afab1e955f4a40df162843d06610e4c7
+FileChecksum: MD5: 9c995a5b7f70d3f9d99fa3bc19b30824
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/unit/test_ocloud.py
+SPDXID: SPDXRef-item3361466
+FileChecksum: SHA1: 96aa9d05bfd556743a5ef5c10803ca8ae65e9e23
+FileChecksum: SHA256: c2b0721965bbd768d54dba884e82d3079d7249e9254d46b8f9c633e49396e3ad
+FileChecksum: MD5: 2ca69cda02ed151fbc498a53cb7e6fc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/unit/test_watcher.py
+SPDXID: SPDXRef-item3361468
+FileChecksum: SHA1: 718359407f738c540efd0d24c5ae8c75b086808d
+FileChecksum: SHA256: 84016fa82e86f4bf115f8842bbdb8fa65e05c7bf80a790a5c1a3ee0a942c3b98
+FileChecksum: MD5: 013cd68d6954d584ccb0200ee70cbe08
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/unit/test_alarm.py
+SPDXID: SPDXRef-item3361465
+FileChecksum: SHA1: ca7234da87686ef61c65ecebf20ae70b3f182de1
+FileChecksum: SHA256: 93ffed8ac9e2d34d3abfb232229eecad4dbe2d2177c6735e399ffdeff9bb96d9
+FileChecksum: MD5: 42d7af921f1a9d7731e0bf463754a1aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/conftest.py
+SPDXID: SPDXRef-item3361471
+FileChecksum: SHA1: 6a269232652a353307f86a17c87b4bea2a92e2e7
+FileChecksum: SHA256: b89acd8a798754ac06bf9eabdf691e18331be9a8988d1d6f158f98655e0a6921
+FileChecksum: MD5: 63e8a1c0f6deb7266e85939ad28f6e1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration-ocloud/test_clientdriver_stx.py
+SPDXID: SPDXRef-item3361484
+FileChecksum: SHA1: a40ce1e55502fda8fdcec7fc8502dbc8eb387524
+FileChecksum: SHA256: c0b8f20e90f001512fa49813a66952dd51de2ffa1e2696b1c9875179f4fd1087
+FileChecksum: MD5: 56f4186c35d90a8b7ae09f9c9464030d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/integration-ocloud/test_clientdriver_stx_fault.py
+SPDXID: SPDXRef-item3361482
+FileChecksum: SHA1: b8c9fc935b91392907eeb7775c2b8f44b0ee1425
+FileChecksum: SHA256: 7b599841e75fe7a29e421e566e4e719d88515155230762392d926aa4c1c17ede
+FileChecksum: MD5: 45329c9e2634abd38e9d3dbcf6a4cb01
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/authmw/authmiddleware.py
+SPDXID: SPDXRef-item3361503
+FileChecksum: SHA1: 617a9911378b0c2cd0bddbb62c1d15fa49627cb3
+FileChecksum: SHA256: 93b4b73f00ca1f46fe76fd347917abec614451497c0a25614d0d7bbd5cdb1852
+FileChecksum: MD5: 53584967c6cec28cbc510146b15020c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/authmw/__init__.py
+SPDXID: SPDXRef-item3361504
+FileChecksum: SHA1: 8df90ebd5abb3d6de2c7024e8cb4be3ccfbab7ba
+FileChecksum: SHA256: 7c2edc9835621426b95d5f84a55e8844d2bfb0dcd463c912a1d5a06ea56f9214
+FileChecksum: MD5: e483829097f17ad8b2b07aab32a38987
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/command/__init__.py
+SPDXID: SPDXRef-item3361536
+FileChecksum: SHA1: 8df90ebd5abb3d6de2c7024e8cb4be3ccfbab7ba
+FileChecksum: SHA256: 7c2edc9835621426b95d5f84a55e8844d2bfb0dcd463c912a1d5a06ea56f9214
+FileChecksum: MD5: e483829097f17ad8b2b07aab32a38987
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/helper/o2logging.py
+SPDXID: SPDXRef-item3361507
+FileChecksum: SHA1: 9b2005897938124243f36033d8cca7757e9b051a
+FileChecksum: SHA256: 7768852b48e748c4b597906135fcec24ade201858479c6db869bb58ba1329f2c
+FileChecksum: MD5: ac535dafef6ae7e0d718ab2e9fc289f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/helper/__init__.py
+SPDXID: SPDXRef-item3361508
+FileChecksum: SHA1: 85297b89f2e2933a8540bfc5756e191b1a2712ee
+FileChecksum: SHA256: 86eccf1ad2005d7c579032a33ec5cd7063639d828ad3a781898204f2b106663a
+FileChecksum: MD5: 9a94041b606889ebee2fcccdde083949
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/authmw/authprov.py
+SPDXID: SPDXRef-item3361505
+FileChecksum: SHA1: 042ba2ea10b35b9f46004d501e0288292dc8f473
+FileChecksum: SHA256: 575f535ea676af2c82f6064f7648c6ee7b8b02188e8135d045b9411aa97b4f81
+FileChecksum: MD5: a84ca1453f312f382b2c76f0f12e29e7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/filter.py
+SPDXID: SPDXRef-item3361512
+FileChecksum: SHA1: b5b81ab738c0b4e9cef8797bcfe65c8c0c9e1de6
+FileChecksum: SHA256: 12ba4b37043f3b8c515b38a942913268ad2af2045436bcc6b996e15c29c55fce
+FileChecksum: MD5: 2e247033d6930c4060eea4cd49200801
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/domain/base.py
+SPDXID: SPDXRef-item3361515
+FileChecksum: SHA1: f9ef28a799292069ce8613389afe6d28906b18d0
+FileChecksum: SHA256: f0879fc8e4c262c65c55bb033a6c4d7a60cdbb639b7fab5ba37cf16550f85acb
+FileChecksum: MD5: a3605ffe4d86a20f1a0efc03ecf0719d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/view.py
+SPDXID: SPDXRef-item3361519
+FileChecksum: SHA1: 74714a9d970e4e0b052d59028b17c5a11be7e511
+FileChecksum: SHA256: 0a2157e3540cbc0dcf609b8c1b981c7b5d122a4d67e9ca6f584068bf14af333c
+FileChecksum: MD5: c23ddeac580a697c205d162f056975f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/route_exception.py
+SPDXID: SPDXRef-item3361520
+FileChecksum: SHA1: d487e73510abc0effda4bc5b170a25bbf37d676f
+FileChecksum: SHA256: 14e285a8c9b8aa2a6dc2f6d799d23cafe60ddca59304d47bd8b4a7082842632c
+FileChecksum: MD5: 4f87e36a424a1efb8a10e5c9e66559d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/pagination_view.py
+SPDXID: SPDXRef-item3361521
+FileChecksum: SHA1: cc266962b160abadc7f16ddcbe0abb6f6f4e85c7
+FileChecksum: SHA256: a271d9ce6b8e60716c8bf197a478ecad7e48d2d04dfe1729b231e2ce9e12e56f
+FileChecksum: MD5: a28de83dcf79c6ac525d0b33ec7aee64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/route.py
+SPDXID: SPDXRef-item3361522
+FileChecksum: SHA1: 204f3fa0a5a6183460a6c5481187116a50f5e347
+FileChecksum: SHA256: 87808ec9e3100c323f80f301f24c275d656ca8ce40633919606ce844f15ceb90
+FileChecksum: MD5: 36502ab2d47701f1866c3ef3a0be2d3a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/pagination_route.py
+SPDXID: SPDXRef-item3361523
+FileChecksum: SHA1: 8984c29e9a5f5fde83e709ea675927c389e24aa1
+FileChecksum: SHA256: 6250353f5b19b396089e02ebe93e92ed2dc57d587107f9f00cfaa3e6d254f3a6
+FileChecksum: MD5: 09586be3deca1cf38804ed072b949c07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/views/flask_restx_fields.py
+SPDXID: SPDXRef-item3361524
+FileChecksum: SHA1: 7ad74489b5ba038e53361eb82797dedaf543a77f
+FileChecksum: SHA256: f07e1b361714c290b77c51818e9a89e80e68cf9c4a4b9aeb61d44f1a1d98c937
+FileChecksum: MD5: 09ddc2b5bf047e33c4d34aa3b8c76416
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/config/base.py
+SPDXID: SPDXRef-item3361532
+FileChecksum: SHA1: 2b0ab56963b687883bdc2a48c3cdf2c3971d7a65
+FileChecksum: SHA256: 1684f30230fc27f69ddb88f1a5235f05a6b4b496f3415dfb142251d0a40dd81e
+FileChecksum: MD5: 30a7ac7ee526cc77182290123b409626
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/config/__init__.py
+SPDXID: SPDXRef-item3361531
+FileChecksum: SHA1: 8d2beac609615b04aeb768a1c01bf6a7a5c0f3be
+FileChecksum: SHA256: 6c55d066520e10d704a24da2105be6e79e2c8002c64f9113a80c62d8ce4987ea
+FileChecksum: MD5: fbf9cb4e17d1c2444e8203bd8f9a3d5c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/config/config.py
+SPDXID: SPDXRef-item3361530
+FileChecksum: SHA1: c9f653caa5ee3b706cd8257b89c236e25c4c34be
+FileChecksum: SHA256: 2416543fc3cb07b1b71a58a6a782861796634bc58db59237d45c8412e5a52f28
+FileChecksum: MD5: 9c17df2912ccdff7784e1858ee424947
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/command/handler.py
+SPDXID: SPDXRef-item3361535
+FileChecksum: SHA1: edf5277f1c5419920fb0dd71d47b51667683d2c3
+FileChecksum: SHA256: f460f702b8e8cb4c6a3b59daf5ae18466602ab5d7eb3851d0a8b95d3242009d9
+FileChecksum: MD5: 3e62317af879ec9b4c05a51483a0ae23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/watcher/worker.py
+SPDXID: SPDXRef-item3361545
+FileChecksum: SHA1: 27f70c8d5384633bef719221e186d8cf96f6902b
+FileChecksum: SHA256: d9aff60fc8c55e50bf95b890d0a2256b827d4a9b652ea5672bb19ee815426ceb
+FileChecksum: MD5: ebaeb700f48fefdc271199eceb9fea25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/service/watcher/base.py
+SPDXID: SPDXRef-item3361546
+FileChecksum: SHA1: bf2644846f10a483d0cf954effd67b76dfc7f3a7
+FileChecksum: SHA256: 3264eb53514ba62fa782bc3126d3d2f5161a1e7ecb83ddab4b477acea455a539
+FileChecksum: MD5: 6beeb8047c2cf8b8dba27d6b574d175f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/commands.py
+SPDXID: SPDXRef-item3361596
+FileChecksum: SHA1: 7a0134ce68b6bf6782277d97a1358aa8c66aa404
+FileChecksum: SHA256: 805c0dfdbfc8eb599e4ba13af9f9ac62c318b9c0505dd52384f2ef32ddc1d2c2
+FileChecksum: MD5: fc3608623d5a7fd9ad5beb19228e779a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/__init__.py
+SPDXID: SPDXRef-item3361594
+FileChecksum: SHA1: 9c5f2772f8de4395b66ed120bc4a70421deeab6d
+FileChecksum: SHA256: 0db74b0c5880f6f4b0909de20a8cacbdd1b3d7dfca70455cb1b07fa32e138960
+FileChecksum: MD5: a5b82654da47f97af1ddd39b41f44ee2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/subscription_obj.py
+SPDXID: SPDXRef-item3361598
+FileChecksum: SHA1: be8f411b7b0767fe688033496e48c80e31231599
+FileChecksum: SHA256: be08ef46da29652316b0453d0dd25f9ea856a26309cdb414f25fb42422da986e
+FileChecksum: MD5: 6027bae823e9bbac6ac7883a59ea5f42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/alarm_repo.py
+SPDXID: SPDXRef-item3361597
+FileChecksum: SHA1: 54638e093ffb8dc70964f19e0bbbdc1ff54330d9
+FileChecksum: SHA256: 8ecfa5d9274530434e70bbf65b0d2ebb340e54147a0e67d32f37510939f112ad
+FileChecksum: MD5: 4ad75def6895c26f66121a15b8a4e510
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/alarm_obj.py
+SPDXID: SPDXRef-item3361601
+FileChecksum: SHA1: dba1e37a3cbbc53bdb37d9552a8c4c538ec64d0b
+FileChecksum: SHA256: c1a9a5d2b02e62ac03ea1ea6669c20084f0917548a221f5b6d3dde767f9b192d
+FileChecksum: MD5: f8fc1e8962ffb6a76ed1ea732a102f61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/ocloud.py
+SPDXID: SPDXRef-item3361602
+FileChecksum: SHA1: 228a996f13f3cacb1725da6bf22df59eb536b628
+FileChecksum: SHA256: 402a6fba93e778cc9509403b075d003e422908de6a70e3663c3334d5c6129b19
+FileChecksum: MD5: b5b0ddb294d3a5ef33bd115354437d20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/ocloud_repo.py
+SPDXID: SPDXRef-item3361603
+FileChecksum: SHA1: 4a366e635ddda2cf0412338392b8a22f814d0f34
+FileChecksum: SHA256: ac85d6f294ac98c040fbb80f5e41a8dfa09b15f999194f0d63b7a1d3bf096b1b
+FileChecksum: MD5: f31c683730126e420c87efabba6f2046
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/subscription_repo.py
+SPDXID: SPDXRef-item3361605
+FileChecksum: SHA1: 4fa752543f184f3756b5548fb77e9843375fd5d9
+FileChecksum: SHA256: 5fb3e2a22cb0648658766ad8ccf4e418204999f6c7f49384dbe1c8093a232df3
+FileChecksum: MD5: 071a326a0ea8915dc982457dd01d9fe1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/stx_object.py
+SPDXID: SPDXRef-item3361606
+FileChecksum: SHA1: 0512686797c84f0539e26d24d2daa1c070246877
+FileChecksum: SHA256: f58147df7270ed934f646afda91e4bd8f80522d2ba233bd48bdf662181b2805e
+FileChecksum: MD5: 8caac7c60db8cffc7b695983077c5ec7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/events.py
+SPDXID: SPDXRef-item3361607
+FileChecksum: SHA1: 44a7baed0e702c4eaced31a5237ac2f28ace788f
+FileChecksum: SHA256: f180e52339ffbf604bd13acd44c300efa0924361a59939794f38cb15b1135ead
+FileChecksum: MD5: db16254833d2ed314df61fd571594a23
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/alarm_dto.py
+SPDXID: SPDXRef-item3361609
+FileChecksum: SHA1: c95b85265abc5ba1097bfbf0b8880dccfb4c62aa
+FileChecksum: SHA256: f5833319510f946826040a13b38de44dab93b71c201f8f8d09d2664f3e60c043
+FileChecksum: MD5: e24446d3ea5d7bc35598f600fa5dc6bb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/alarm_view.py
+SPDXID: SPDXRef-item3361611
+FileChecksum: SHA1: 6ff68697740294dfa8ce33b30116c69bbf41fe68
+FileChecksum: SHA256: f4011a5eee3d5622303414c7c2c7c2f3856add8eb0a0125a5b471bed2746e3fe
+FileChecksum: MD5: 5dee901c910021759409e1eec42e4749
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/ocloud_route.py
+SPDXID: SPDXRef-item3361610
+FileChecksum: SHA1: 36fba822b153795514c5a559ca49664f2bed523d
+FileChecksum: SHA256: 5504ce7609fdd76556c463d30aaea2d36a0caedfd9ba5091c5e73887a5104136
+FileChecksum: MD5: 501c7a918f40a7d64864018f36a48b2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/ocloud_view.py
+SPDXID: SPDXRef-item3361612
+FileChecksum: SHA1: 0a9925bd9fef314093fd1d7b65f10f7fead99922
+FileChecksum: SHA256: d85e564ce3f586a1fdd42cfa6f8b8503614b4413863b4732d91e7d7e3deb1f41
+FileChecksum: MD5: 082f08791246f4bf1d688268cc53e834
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/api_ns.py
+SPDXID: SPDXRef-item3361613
+FileChecksum: SHA1: 6c7c15ffac74196f6af9138bd118878ab6d5441a
+FileChecksum: SHA256: 710372d6d94dd948ef6cf615a60b32fe4b4e1dc77dabf9a5ab9787e62a4c0db4
+FileChecksum: MD5: 87956bd88ca839d69f5c27e913b850a6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/__init__.py
+SPDXID: SPDXRef-item3361614
+FileChecksum: SHA1: d057b4db0d9c401efdbeafd0ed215174cd102147
+FileChecksum: SHA256: c9ab77555c8f99562f863b397acd1127f6dee76bf1c9775b8d49271d98206bdb
+FileChecksum: MD5: 6d9fc3f65852728743853c5449d95522
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/alarm_route.py
+SPDXID: SPDXRef-item3361615
+FileChecksum: SHA1: 01d9af9a5c1ba67b6e8d70d9a04ae08f8ae4cfb0
+FileChecksum: SHA256: 130e9f5cced89cc53bf846a537b9732d76ba01f645d6a8621e71e938faff287b
+FileChecksum: MD5: 69b2541c47fb4910369da31386dd9d20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/views/ocloud_dto.py
+SPDXID: SPDXRef-item3361616
+FileChecksum: SHA1: 9fc4cade1093d18e266e34fda7825cea995cdcc0
+FileChecksum: SHA256: 66436bc6ff8296ea4046a013865dd93f8091a2dfa0872b16d0806635086643bb
+FileChecksum: MD5: 6d639c81a9ebda0605ef8daeb9d804aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/alarm_loader.py
+SPDXID: SPDXRef-item3361618
+FileChecksum: SHA1: bdd8461dedfff5b0add866e53df74af5302e29a3
+FileChecksum: SHA256: 7fcefb194ae3f28045ce09722b2a91758d0d2edbfa85f7e18f97bcaa3c46816b
+FileChecksum: MD5: 5441dc0388d06c46f97ed1fe87b8fbc0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/ocloud_repository.py
+SPDXID: SPDXRef-item3361620
+FileChecksum: SHA1: baccd20b904c0d44b89b741cb16e11305e3d0596
+FileChecksum: SHA256: e2bf08d3e5e3d35df0952e4cb00358a1e48bea36f452264cd2bf384db081e096
+FileChecksum: MD5: f9194acb11bf85d7d847762062605fa3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/alarm_repository.py
+SPDXID: SPDXRef-item3361619
+FileChecksum: SHA1: d805a2341bf160818652d47877a8d6fadef8525a
+FileChecksum: SHA256: 0ec85d7dce8a7bb8c66f19543d0ad755984b7e4e07b5f8dfe4e8df44792ac373
+FileChecksum: MD5: 169baf4f15aab57fa99a0efaafd792cc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/orm.py
+SPDXID: SPDXRef-item3361623
+FileChecksum: SHA1: 64dbd3c39ab6f6b11dafd22bfef0cc267f66a062
+FileChecksum: SHA256: 7fe976f8f08160694f7a0a7b841937309e183093f0327d80d074df85c6db9442
+FileChecksum: MD5: d2728d21146469bd4568f87413d1fcb7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/aggregate_client.py
+SPDXID: SPDXRef-item3361625
+FileChecksum: SHA1: 3a7ee69924a18274bd14be2b694226f1ca2071c1
+FileChecksum: SHA256: 953aac9b95967e10febeaf92bf98ec50cd6a2a74285c3bbf13adf0dc13e48d9b
+FileChecksum: MD5: 44eeee0e426a3bdbddbd92146e210fdb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/alarm_dict_client.py
+SPDXID: SPDXRef-item3361627
+FileChecksum: SHA1: 7803518010dff9cb09c7b33574f86248ba53035d
+FileChecksum: SHA256: bdc0f2fafe0e0cfdeec17908f9d28c2cdf628ee4e566bf1722f72598ac9f8bb8
+FileChecksum: MD5: 014016a4fbc40a5817a86a25035b6325
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/ocloud_client.py
+SPDXID: SPDXRef-item3361628
+FileChecksum: SHA1: 9cdd70fc4f09ebc7e5c8c767658cf4e6c425ef9c
+FileChecksum: SHA256: bd8ccad825c751eb131215b107615e47c18c4e75ad9eebe16c7e823c694845a5
+FileChecksum: MD5: 9a0f8a755e77bcd4713ffc4058ded57f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/adapter/clients/fault_client.py
+SPDXID: SPDXRef-item3361630
+FileChecksum: SHA1: 8a3e9696b53cff2043560c53e76d319eb329fa81
+FileChecksum: SHA256: 154554daf73ac6472bac36615639e85e44e09b864273ed89239429c3d82ea98c
+FileChecksum: MD5: c164a717c1bb261929eb73ae6e7ac22e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/command/registration_handler.py
+SPDXID: SPDXRef-item3361634
+FileChecksum: SHA1: 4df104f867279d28e5aa3f42d2a4b865bd52ec1e
+FileChecksum: SHA256: df063fb9b05bb0317c9b250f995eb059337bc36951f13fdd808d1fc76e130984
+FileChecksum: MD5: b16712f597d12dc772232803bdf64a71
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/command/notify_alarm_handler.py
+SPDXID: SPDXRef-item3361635
+FileChecksum: SHA1: d06467b8b1ceeada9c1d0d7cf784241420684e72
+FileChecksum: SHA256: 3687b8a73d8068fd4e50d7e707df735f45339e74649d3522b3394993740d99a2
+FileChecksum: MD5: 4849a9ee7db4c9aa9498fb80c96e13a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/resource_event.py
+SPDXID: SPDXRef-item3361640
+FileChecksum: SHA1: 079b4d70744a785ea809b1cef41a5cc60eaaeb63
+FileChecksum: SHA256: 72b34fc929a9d98f2bb8da5e41494a776a5f41f5fb41e25d83b45afe427428dc
+FileChecksum: MD5: 1b40232afc56faa0cab9e829908a321a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/resource_pool_event.py
+SPDXID: SPDXRef-item3361639
+FileChecksum: SHA1: 272032a718f4f6d1b54f9d7ee642b5acdc593ed5
+FileChecksum: SHA256: c1707d780784f44c69ab5456cca0055842519b4d10c0c744aca2e94b206d5cc2
+FileChecksum: MD5: e7858d97967c1fb62d62f729808a53b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/command/notify_handler.py
+SPDXID: SPDXRef-item3361637
+FileChecksum: SHA1: d2a3a3f70cc23b68bb17c176561c34e14c089588
+FileChecksum: SHA256: 047e22c7f2a768e446d1a9f76238c2361d034ac05da0bb532a0c838c3fd343bf
+FileChecksum: MD5: 331673d9e1edc53f388d4290160d7490
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/ocloud_event.py
+SPDXID: SPDXRef-item3361641
+FileChecksum: SHA1: 5afe5e9e9d61378ab91701ed338483f241209884
+FileChecksum: SHA256: 5474b0f771812ca5781ce143a90d9b3088b1c25d78811294ef9e20739ef27b52
+FileChecksum: MD5: 5324506d37f76fdf4e5dd38ee854ff6b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/dms_event.py
+SPDXID: SPDXRef-item3361642
+FileChecksum: SHA1: 057086bfcbbb25ddf17791806c2b5a54f8f86929
+FileChecksum: SHA256: bbc26a78ec1ab537d12b86e8aa9a8305c1389c6ddea3529b567a967cf7b5877d
+FileChecksum: MD5: 87141c0c355937b720323cdc5cbc29fb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/alarm_event.py
+SPDXID: SPDXRef-item3361643
+FileChecksum: SHA1: d70c8c5564d26fa08caaa8f2d252a3dc66eee428
+FileChecksum: SHA256: f0a06e71148446aa87d40a4efed77605d58cc0dfe074f63a6254543d99164d59
+FileChecksum: MD5: 14d4436eefeaa98e75403ad836692b8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/event/resource_type_event.py
+SPDXID: SPDXRef-item3361645
+FileChecksum: SHA1: 40bc2777ddf51401730f513ed11139afe81ba908
+FileChecksum: SHA256: 21db185cf567615a536e15f2f81cf68a9d8b9f12bce00ef539106816beabbd84
+FileChecksum: MD5: 03c3dfd017c490e104fcf73f8f125d33
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_port_handler.py
+SPDXID: SPDXRef-item3361648
+FileChecksum: SHA1: 70a05b78b49e7e9a9ed2c9fff84d99e833aacddc
+FileChecksum: SHA256: 518df93692810671e0da16c017eb536f54ae568b7723d1d25239d73365347058
+FileChecksum: MD5: 488185edc414794d50ea5648e97327d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_if_handler.py
+SPDXID: SPDXRef-item3361649
+FileChecksum: SHA1: c82b3d28a25ebf6d42ac6604af0fcd5c07be4361
+FileChecksum: SHA256: a9f3938ebad7408c9be5259fa0b3c6db71c392bb41d3fbb2a481ab10521df8ad
+FileChecksum: MD5: f913eed21d18678792c8d1a770d27170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/agg_network_handler.py
+SPDXID: SPDXRef-item3361647
+FileChecksum: SHA1: 878d29f00ededcce554ae75871eccb623007abf5
+FileChecksum: SHA256: 1c48392add1d79b3bac34a37eeb2ec5ef5bac78de3baaba9d8039839e901c57c
+FileChecksum: MD5: 31b376c4bda2b3cc42cb449f0d01305e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_handler.py
+SPDXID: SPDXRef-item3361650
+FileChecksum: SHA1: b143887378d50a9a50f2bac89ec95a5d6d967618
+FileChecksum: SHA256: b462decb8353b764d68afaf74dacdb7febe5339bbcd63fb83b1d6252f0605be4
+FileChecksum: MD5: 00d8700d547ffada2b39ec80a1d75c1a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_cpu_handler.py
+SPDXID: SPDXRef-item3361651
+FileChecksum: SHA1: 17b27c6ce61ee0c706372ea686d0792e11aa4006
+FileChecksum: SHA256: 16e9ba23e33238bd2c2893216c6a62083438233e65b4acd12a5c8058dc1be2e3
+FileChecksum: MD5: fb4f8ab070814daeeede37436b05a2f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/alarm_handler.py
+SPDXID: SPDXRef-item3361652
+FileChecksum: SHA1: a0830db2ac169df411c5ae5cf2bd47c72a10ca8a
+FileChecksum: SHA256: babe1c4b153f08b1b39aa92c8e1d32fa20740cf46fbbbb6e96799695d9255fc6
+FileChecksum: MD5: 3f513c5603959a6f2bd568cd1ace4e73
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/dms_handler.py
+SPDXID: SPDXRef-item3361654
+FileChecksum: SHA1: 89b3d7c693f85a6dc44d8b3f3503fd018d96e425
+FileChecksum: SHA256: 92108979a6101d3f663ec963d3b02dc6f9e0a7b77bbee5d565954c199cfb2110
+FileChecksum: MD5: 9c7b4202fbff6919dbe20f88bf5ab8f9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/resourcepool_handler.py
+SPDXID: SPDXRef-item3361653
+FileChecksum: SHA1: 60dbf5bcea8661c5e8d7983b0b85267f5a78aecf
+FileChecksum: SHA256: 76e0b7d65bd356d87867b82d8a40d2e674db3f01d8886f47c91f5c22c732dcf7
+FileChecksum: MD5: 724dcebdeedb50340e32760412af6586
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_dev_handler.py
+SPDXID: SPDXRef-item3361655
+FileChecksum: SHA1: a0b98165509289c4abb58e45d3be1d5f3da81929
+FileChecksum: SHA256: 40cd73db79d03e2a848c6db6f8bb5c98f61661a8000402dee82e0eee8d74d1fc
+FileChecksum: MD5: f7b9eeb2f1b93c8d6565260e92330778
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/agg_compute_handler.py
+SPDXID: SPDXRef-item3361656
+FileChecksum: SHA1: 96313233304ed890ac419092634078ca642ad477
+FileChecksum: SHA256: a2997c5f0397d60310bd5bf2fa2c518ca737444d7080991d7f8294dec277a94c
+FileChecksum: MD5: bbe5ae457c6102963e4e300eddff8e66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/agg_undefined_handler.py
+SPDXID: SPDXRef-item3361657
+FileChecksum: SHA1: d6a17f3aa15a3d7cfd6145919309e077f02cb51c
+FileChecksum: SHA256: 60fc44f389893718604dd8fd23778e80b7f2c41be7487ee57fe5da4aed84c6fe
+FileChecksum: MD5: 1bd52e25c710b3518744b10b271f4d56
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/ocloud_handler.py
+SPDXID: SPDXRef-item3361658
+FileChecksum: SHA1: 52e71b00f8a526bacac984b056af3736111403b7
+FileChecksum: SHA256: 2deb56f864c4f1d264ca5af17bee41858b272f83ac117d96b96115914cab6ca9
+FileChecksum: MD5: 50639a3b902f2b2d5b103e4f4df81077
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_eth_handler.py
+SPDXID: SPDXRef-item3361659
+FileChecksum: SHA1: bd158a5372bb70b50ecc112f16d5f868c85fffca
+FileChecksum: SHA256: b023267f2f825024367ff39993f980bd3194f737a41fe5c4d98d432b7d4ed938
+FileChecksum: MD5: 06d286c6985d6c0bcec0ebda14b86420
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_res_handler.py
+SPDXID: SPDXRef-item3361660
+FileChecksum: SHA1: d5f6e0508e501ec45b8b8d8e5dbe549367553a3f
+FileChecksum: SHA256: 34628a498cd4cdb03dbf4ecc9c2c55955036052ae26d7af19d80c336fa3f79c8
+FileChecksum: MD5: 4922903352d541608975debd4c70335c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_mem_handler.py
+SPDXID: SPDXRef-item3361662
+FileChecksum: SHA1: 8d7911fdcff72714e5447c8eaafef3112faeeabf
+FileChecksum: SHA256: 11ba991a4a8a32068942adef121b63b46ab07ba22d9e0af250c55615b439ce90
+FileChecksum: MD5: 0f46ef219ecb50616a5b9b98f169ed07
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/agg_storage_handler.py
+SPDXID: SPDXRef-item3361663
+FileChecksum: SHA1: 0d97b31a7a3c6d557ecdcc50e275bc1c23633efd
+FileChecksum: SHA256: 2f6e6945a58135b71d40d81270303aa5333dcc16bc6a1803f53bdd783deacdb2
+FileChecksum: MD5: 4ceb04087db01f5240776db56d21ef79
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/auditor/pserver_acc_handler.py
+SPDXID: SPDXRef-item3361664
+FileChecksum: SHA1: 200af6a579b158946bb6eb40cc619872abe692df
+FileChecksum: SHA256: 99e53432049a152c50d129b595eb325c2f0d755a4b640dead812b29de4f5da90
+FileChecksum: MD5: 0a1ddb221eadee531129b307756e432f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/agg_undefined_watcher.py
+SPDXID: SPDXRef-item3361668
+FileChecksum: SHA1: 9d1a0e3c3ee65e4ff12f23ba5861e231f5973455
+FileChecksum: SHA256: 5212344179804634a35437137b3159cc9be47da92a8a6f8a9f267153981f8939
+FileChecksum: MD5: 19ec8962c98f305db008a6eb45b35722
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/alarm_watcher.py
+SPDXID: SPDXRef-item3361669
+FileChecksum: SHA1: 50349e4fe5233a5944bbc3a5fcb4bb83bcb78bf8
+FileChecksum: SHA256: f78587eed236d70af3d94d2a8562150d0ae833244b817c222f196f230321debf
+FileChecksum: MD5: 18b84556a5423363a26eae7e6ad7964e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/agg_storage_watcher.py
+SPDXID: SPDXRef-item3361673
+FileChecksum: SHA1: 1d375537928e77c4010d8763e9525d16c59f9b47
+FileChecksum: SHA256: e2bc800bab6a45d6a7bf3787dc7c42ce6e9979a05ebc6d91d4a73b543252fe45
+FileChecksum: MD5: 74b9884893a935fd744bb06b9363ec3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/aggregate_watcher.py
+SPDXID: SPDXRef-item3361672
+FileChecksum: SHA1: d1ee99d4993c4eb2aa17d8527cdcdfd7678891ef
+FileChecksum: SHA256: 34485c1ec0a368b5fd4130b8ba3fce612fadd53d9c15339db2bc71607dba4d34
+FileChecksum: MD5: 720f443d3db800404f0e571e53d6ef5b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/agg_compute_watcher.py
+SPDXID: SPDXRef-item3361671
+FileChecksum: SHA1: ecaa8c6b12a81b1c68b366c74aa5b7647c168a0b
+FileChecksum: SHA256: 303651c63790ba0746cd63f968d9c66b27ea3a26f087af14322c04c660e3fde5
+FileChecksum: MD5: c15c7328ac2fc96af3874290750dc936
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_dev_watcher.py
+SPDXID: SPDXRef-item3361677
+FileChecksum: SHA1: 08acfa23ad3529ca9b8a5747caf8ff3d99568587
+FileChecksum: SHA256: 46968a9272c1d43078fc96e558c02d49e9e0c06f708613ac8d54fcba13a7c55e
+FileChecksum: MD5: e63a2d5c474aa6cbf2f74e669a2c82be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/agg_network_watcher.py
+SPDXID: SPDXRef-item3361682
+FileChecksum: SHA1: 8ea1b32ce5c78ec1bf5f3f60e353a74848ded097
+FileChecksum: SHA256: 96ea340d471716692d2c7bfc20054a7b9fccfa9cb5fea76d38d7f9de01ddb52f
+FileChecksum: MD5: 6ecbf84c43ea7ebc217e183a31542fce
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/service/watcher/pserver_acc_watcher.py
+SPDXID: SPDXRef-item3361684
+FileChecksum: SHA1: 9bf72ece69be2b79a754913c0b5d085e92e1995a
+FileChecksum: SHA256: 9ab43ffae7e06dea36675a7c21340cf67a4cbc55baa9a17135d6b21538ff667a
+FileChecksum: MD5: d5f22c227c503d0c58f5fb2d892568d8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/entrypoints/resource_watcher.py
+SPDXID: SPDXRef-item3361690
+FileChecksum: SHA1: bf0c2867783937b6e7a779940f4f3cf1dd607cba
+FileChecksum: SHA256: 62d827c46d1ced78f07afc4f4da91f5922cb46ed3ea32ade01f87fac293a3951
+FileChecksum: MD5: b3b2a6720508a5d05c3f8f36c1a67be5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/entrypoints/redis_eventconsumer.py
+SPDXID: SPDXRef-item3361691
+FileChecksum: SHA1: 6cafc0c0f022105dfa20841e0e4d7ecf4a055192
+FileChecksum: SHA256: ff48e79eb08073b8072bd6986ffa71c30879efaea29b527712730ea5be99a6e7
+FileChecksum: MD5: f932aff11add637eaa701456bc924ea6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/entrypoints/flask_application.py
+SPDXID: SPDXRef-item3361693
+FileChecksum: SHA1: 5acb72506f51abec3a6469b288cd6fea8e6ddea6
+FileChecksum: SHA256: 7570cc14ae31081c9f9488aa51a5a9600033361602bf158340f978dc3fedb629
+FileChecksum: MD5: 9d8828a05ebc89b70c85ba1f8b9a5bcd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/bootstrap.py
+SPDXID: SPDXRef-item3361694
+FileChecksum: SHA1: 624d84997eaeee8e5cd904bd7499fb3f4ee50e06
+FileChecksum: SHA256: 1a902d6e09924533b7ea8b73951cdb664d814701261988925a5de77f5ae94a8b
+FileChecksum: MD5: 51ad3834802d6167762c6e4971a13119
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/adapter/unit_of_work.py
+SPDXID: SPDXRef-item3361698
+FileChecksum: SHA1: f9bdc1a30ba26ab9a48004acbb7e6ab923ffbc17
+FileChecksum: SHA256: 3d0889a461f9c7c0cbeb2152c5649a383ab857d05bafd3f8969ac768f1e52927
+FileChecksum: MD5: c78b7df384a142e26c3b46d8caea0b46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2app/service/handlers.py
+SPDXID: SPDXRef-item3361700
+FileChecksum: SHA1: ca171247eaa26bda6a97f700de9ac08242400f0f
+FileChecksum: SHA256: b8a1feac140b0c34eda87c53b967032994827c7a73835a2423ab9beb78d2d1d1
+FileChecksum: MD5: 6afb6c75319c6a9e99ef962b3bfc1c7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/values.yaml
+SPDXID: SPDXRef-item3361715
+FileChecksum: SHA1: 10d6201f5477850fdc3bc5b7b3ba6b4bc878796a
+FileChecksum: SHA256: 16fd5d4fdf2b5502faed70bdd767fa4e93d08a579ba29fb5c976dc1947a64839
+FileChecksum: MD5: d3bc372426793ded9ee40448d50b6529
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/resources/scripts/init/o2watcher_start.sh
+SPDXID: SPDXRef-item3361720
+FileChecksum: SHA1: 08d07f4b4c9d690869f0e3836fa3cd5af5f1c2cd
+FileChecksum: SHA256: 422586e9fa619d8e2fa7b33d3be0f0cc6f991f7a2f7ce1cc92d346764772b80d
+FileChecksum: MD5: 05738057482e0567c2beaba074bfff8f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/resources/scripts/init/o2_helmcli_start.sh
+SPDXID: SPDXRef-item3361721
+FileChecksum: SHA1: 55ea93f9e1aca474ef8461da845dc91344b2ab12
+FileChecksum: SHA256: 59190ff24ee647bdb7fb8b7494747394729c74642030fc7a479ca272069b79cb
+FileChecksum: MD5: 00213d42b8b0b51f4518e80d9f919a39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/resources/scripts/init/o2pubsub_start.sh
+SPDXID: SPDXRef-item3361722
+FileChecksum: SHA1: d5e5945ed729ff660a6d0b52de99097d63c983b1
+FileChecksum: SHA256: a9b4c9ffc7002816f5b83b046e49e63cb380bca8b4b9797936d9da0342abf2b4
+FileChecksum: MD5: 31cdd67011263cf985d21d8a6b11033a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/persistent_volume.yaml
+SPDXID: SPDXRef-item3361726
+FileChecksum: SHA1: ca04c42e9688e2bf9eb5785a4a9c2ef8f50a4f7b
+FileChecksum: SHA256: 7f0a833715039cd4486eec4723b62baaf6eabee9c16b54e72e9303283420cfe7
+FileChecksum: MD5: 5c42fcc4bdd8f0d48aede9776dd170f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/resources/scripts/init/o2api_start.sh
+SPDXID: SPDXRef-item3361723
+FileChecksum: SHA1: 6af750a7f03168ece72d8f1d65423cf03071ed1b
+FileChecksum: SHA256: 8c45f015ed8560182a2b301c0af2df7810fe0a03fa7603657ce1377824213cd3
+FileChecksum: MD5: 270ebdff12b5f924071c45e59caad52d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021-2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/service.yaml
+SPDXID: SPDXRef-item3361729
+FileChecksum: SHA1: 1cad67a341e9f16194a910cce340d5180d387bff
+FileChecksum: SHA256: 233c128fbe91fcc34c62895eee3f49bdf824eb40f0c3228eef6c1aee7c2b47c0
+FileChecksum: MD5: 1d98ef0b661874e02bab108bc4dae6f6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/deployment.yaml
+SPDXID: SPDXRef-item3361727
+FileChecksum: SHA1: d20480cb4b8ac0372fde8a6da70c24787da427fc
+FileChecksum: SHA256: 69a30c50d78d7e62f44c6c5eb99deaf97f44edc23b8961d07c868a28d7557fb9
+FileChecksum: MD5: 811423fb2f24e96f17e4a67626640570
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/servercrt.yaml
+SPDXID: SPDXRef-item3361731
+FileChecksum: SHA1: 3281168e1f55cff51817130c52702e095bac7057
+FileChecksum: SHA256: 0179e138ba66e9035e8db7ce7853b867833deef59392fa5c1a5201aa628ca811
+FileChecksum: MD5: cf304037a65d3ca4c7e6bda2de76aa25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/smocacrt.yaml
+SPDXID: SPDXRef-item3361732
+FileChecksum: SHA1: 6bf494cdcbae4450791cdf2bd7f0e75993542ffd
+FileChecksum: SHA256: 5f914c01a5750aa5702f107cafe2f2925c1e115379d46a75f32f706a47dc5018
+FileChecksum: MD5: 794485d5fbf1f652dd3440b806a4b37f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/application_config.yaml
+SPDXID: SPDXRef-item3361733
+FileChecksum: SHA1: 5fc3235611d4260c6f890f24616f1cfec72a72bb
+FileChecksum: SHA256: 217d823fd603cb44c980214abcd8d04018008a41c53ef6709a10a7ba826a430d
+FileChecksum: MD5: 0ace682744b9efbbf06ec7df0dd5395c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/serverkey.yaml
+SPDXID: SPDXRef-item3361735
+FileChecksum: SHA1: 29541e639f8770678b8efd1ddcb1a5e3a54a6388
+FileChecksum: SHA256: 915f2ac08e0add50d26abd6a0cb4364d30acecfaccbdaf939418cf56cbdab2a4
+FileChecksum: MD5: b78c15efade9a8b76b0ced38287eaf84
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/Chart.yaml
+SPDXID: SPDXRef-item3361736
+FileChecksum: SHA1: cf0e7831790599179f083784c5c28352a4093b40
+FileChecksum: SHA256: f171321c7a3435295a7f48d16c27eae254a687aacec34a477471840254bd442a
+FileChecksum: MD5: 68d8c3d8513b8a6f1347382d0758e9a2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/configs/alarm.yaml
+SPDXID: SPDXRef-item3361742
+FileChecksum: SHA1: 04d65225d06b266626b3f7853504c170fe384b38
+FileChecksum: SHA256: f74c7ef03eba1c1797edf2551337982a33c7bdc3e342f9b0ca61360d6ff355db
+FileChecksum: MD5: e4b9446d6a1d9f3793c03304caa96ac2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2022 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/configs/log.yaml
+SPDXID: SPDXRef-item3361743
+FileChecksum: SHA1: 32a19e0a229036675e46f85fe38e2a478198a300
+FileChecksum: SHA256: 347fc7e0e151110b2e9a7f4704b393fab5687654594924dd270c9400705380e1
+FileChecksum: MD5: 66a92008c16ff1cd090aa9eea6e0a79d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2021 Wind River Systems, Inc. </text>
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/k8s-plugins-deployments.md
+SPDXID: SPDXRef-item3361382
+FileChecksum: SHA1: 4f4b83fb9f0c01d7df361531e63825f5ef04a1d5
+FileChecksum: SHA256: 009517b1a6bd0425e6c48afc16807a3d9fc8a57b1a982fd22f6ce976976c5d38
+FileChecksum: MD5: 4659689464aa15018271116c2a241aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/tox.ini
+SPDXID: SPDXRef-item3361386
+FileChecksum: SHA1: 69e8aae13214e0693ff4175b9191dfff4db6d33e
+FileChecksum: SHA256: 897193fc5747d6735433a445e121acc3e9327b26df8967ab92956f672d7ebca4
+FileChecksum: MD5: 0fdaf79770045569ec9530cfbf5486de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/installation.md
+SPDXID: SPDXRef-item3361387
+FileChecksum: SHA1: 3cd8d543c4ced4538aab6d390b665077f3c8f215
+FileChecksum: SHA256: 9586ec688f1001d6267035907bb39f3380a4eed83d773abf7531cc29da353253
+FileChecksum: MD5: 5eead96194e3a306d50f6b5657428295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/requirements-docs.txt
+SPDXID: SPDXRef-item3361390
+FileChecksum: SHA1: dd682e123d1bba5c057d74f00ce3844c386ac117
+FileChecksum: SHA256: 363e6363d5d35fbcf130bd29ff4fc2de3410bda47df20f790c975a0076146fdf
+FileChecksum: MD5: f4f92630dc839c57bdeba679a450c9ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/_static/logo.png
+SPDXID: SPDXRef-item3361392
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/favicon.ico
+SPDXID: SPDXRef-item3361393
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/conf.py
+SPDXID: SPDXRef-item3361394
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/docs/conf.yaml
+SPDXID: SPDXRef-item3361395
+FileChecksum: SHA1: 74f307dd1705b5a59f31943c27e4ccbe9b7fdeaf
+FileChecksum: SHA256: 442e60fb0e27a5c7419f9e819d93d7cd3e2694abe29a0bc6c59d23b3c3d3d2b6
+FileChecksum: MD5: 2342f4a2736725b520b78789cf419fd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/tox.ini
+SPDXID: SPDXRef-item3361397
+FileChecksum: SHA1: f87e4071ea0fa3d475121276dc7a78298a055c19
+FileChecksum: SHA256: 216a45430ad8c1925ed2cc758ae17bc26d591904c8f653aed09f897421ffc5ad
+FileChecksum: MD5: 6019e4e32c1469b22ff5ef773adca5e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/INFO.yaml
+SPDXID: SPDXRef-item3361398
+FileChecksum: SHA1: eec047055e3f4271dd1446ba84b2f9588a1123ca
+FileChecksum: SHA256: 4a65f6b6945b1af23872a590de1635f5bb7568a5326d98c74f839098fa052183
+FileChecksum: MD5: e37404ca20d26bcc9fa6d861ba017341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/.gitignore
+SPDXID: SPDXRef-item3361399
+FileChecksum: SHA1: afe3d51aff13e6477d80371e76fc8be1c768ead6
+FileChecksum: SHA256: 86e99429523e8edcc7a1a131d4eedfe3e4dcba67b6db12ed1032a2226f5f388b
+FileChecksum: MD5: 6ba6450b1af2826b3d284ca6ea3adfe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/.gitattributes
+SPDXID: SPDXRef-item3361400
+FileChecksum: SHA1: 1fead8ae4a123d4c2526ba03777b256cb10f7a5a
+FileChecksum: SHA256: adf76173edd92955ec74e01d961f1c406175429500924f6c303bf19a456d3b1b
+FileChecksum: MD5: 635578d7546b35d97c384e8708b86a9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/releases/oran-shell-release.yaml
+SPDXID: SPDXRef-item3361402
+FileChecksum: SHA1: d8075d7d8b932c71b9ad9ceca45d99dc41c36908
+FileChecksum: SHA256: 1703132e05bf40f37a1bb24faea5a1343f372fa713fb7d1ff5e81c43895b964d
+FileChecksum: MD5: 8652c896f94e1895de404ced4c1df9e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/releases/README.md
+SPDXID: SPDXRef-item3361403
+FileChecksum: SHA1: 13b998646d472235b795dc2fafca30884e2ef62a
+FileChecksum: SHA256: 809eb7d78b6a54953f55418c7dbddc01ec7dbf2bffa8c4c36be6bbf4b2fa6e92
+FileChecksum: MD5: 403ec35c5f1b0bc3efd241bb94f7dd45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/meta-patches/nxp-lx2xxx/0001-Revert-nxp-lx2xxx-remove-preempt-rt-related-file.patch
+SPDXID: SPDXRef-item3361411
+FileChecksum: SHA1: 8308c970ebf56410a054926c4430a29356c40ec4
+FileChecksum: SHA256: 57de0df8c93b35b1df2917a6347f0a596229a45769e2497de36fabebf45b5076
+FileChecksum: MD5: 0923e5c10c0fa60d9a6034f39466916a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/meta-patches/src_stx/poky/0001-image-live.bbclass-work-around-for-large-image-size.patch
+SPDXID: SPDXRef-item3361414
+FileChecksum: SHA1: c3fda832b39f7cfd2e18b7b8733c9a072ae0d07c
+FileChecksum: SHA256: 050f8411f359d633d7741e30856c15f7ff9b28054c6c23bb1cd9cb8f51db994f
+FileChecksum: MD5: 7226610bdcd14c65e410660ada6ee695
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/meta-patches/src_stx/meta-cloud-services/0005-Fix-postinstall-scriptlets-to-ontarget.patch
+SPDXID: SPDXRef-item3361416
+FileChecksum: SHA1: 9a71e2cd0f9dca1c1e3c2fa4a3cf397554780309
+FileChecksum: SHA256: 5fee30346fcdba85bfae63322c66da32913911d4ac336aee35865e13d490da11
+FileChecksum: MD5: cfbb3fed94b246527f8e47f60a3e1c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/meta-patches/src_stx/meta-cloud-services/0004-Ceilometer-compute-is-not-build-nor-installed.patch
+SPDXID: SPDXRef-item3361417
+FileChecksum: SHA1: 4eb370dcbb00ae2a688a071d820a7422f7b4ff65
+FileChecksum: SHA256: 0449ff0469fbbe1fd7394cf138bdd516eae750f47b0fc209a566c80bd988c58a
+FileChecksum: MD5: 0e8bbc8461c4ae8eefaefcaf801ad494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/rpm_repo_list.txt
+SPDXID: SPDXRef-item3361420
+FileChecksum: SHA1: bd1b18434be878caad7b8311c14db98d519f55c1
+FileChecksum: SHA256: 2d2a388de6661fda7785b25b2d5db63a6b42d6b0ecb10d77a6a017877f2ac308
+FileChecksum: MD5: 344a7115c38986a768b2d335ed9e4887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/configs/local-anaconda.conf
+SPDXID: SPDXRef-item3361422
+FileChecksum: SHA1: 63308c7a2b65dce284a1f6303bab80cb9073d203
+FileChecksum: SHA256: d6c1ccd488da3a930edfdd2f71ab375f7ff5be7c6d3e083853dfc62e5191f6e3
+FileChecksum: MD5: ba6291d91b515d346e42eb479e8365c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/configs/local-stx.conf
+SPDXID: SPDXRef-item3361423
+FileChecksum: SHA1: ad9fb056fe994458536d09b23ac8f0a33f724329
+FileChecksum: SHA256: 8f027c38cf006c2f6f6613c249d462111322c9b25210f7c5f12910a59c6ab30f
+FileChecksum: MD5: 6df805b624cfed4e78df815ec266aafe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_yocto/configs/local-mirrors.conf
+SPDXID: SPDXRef-item3361424
+FileChecksum: SHA1: 1e614cb52f7ed85b5c147ca8727c644cef57fab4
+FileChecksum: SHA256: 759823f9ea674d237214ba3aacdff82dc515bb6d7462983783d150a807a715ea
+FileChecksum: MD5: 5ad13bdce0a12d8922c8e1d98afe2829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/scripts/build_inf_centos/meta-patches/cgcs-root/stx/integ/0001-python-kubernetes-fix-MANIFEST.patch
+SPDXID: SPDXRef-item3361430
+FileChecksum: SHA1: 743e05633b3383e6d1f89290fa148d02a9f356ef
+FileChecksum: SHA256: ded5088ca28f977c8aa46d943ea8a2e6f46f4f5ef986318a96da2fcae351c736
+FileChecksum: MD5: d9e2a787b9e6709ec528266bcddada07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/.readthedocs.yaml
+SPDXID: SPDXRef-item3361434
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: SHA256: 63fd9427a14b972a9e4e82e17ce52dad6903fa0615cd89b995a585dbb6da8be9
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-rtp/.gitreview
+SPDXID: SPDXRef-item3361436
+FileChecksum: SHA1: f40388e08c61394f1cd2d6848f703803be4efc83
+FileChecksum: SHA256: debd12f51d9605ed1d8302fac84ba8b5aaa0506e7144995e4832e1c6bbd6f3b5
+FileChecksum: MD5: e41b9bdd5b5963bb5838ed82f0ab3507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mypy.ini
+SPDXID: SPDXRef-item3361438
+FileChecksum: SHA1: edfb7342a948c43bd33a2ad1ff3ab7e5f996c87f
+FileChecksum: SHA256: 250460e8bba319fcea8427978dfcd34df04aceb86618fa4ce8840b056afd6dd8
+FileChecksum: MD5: f8e1387c752360b13663976928ed94a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/o2app-mock-smo.sh
+SPDXID: SPDXRef-item3361447
+FileChecksum: SHA1: a0e061180ff0b3b392239fa651a2729f5f8d66ce
+FileChecksum: SHA256: 8e8b42ce9d68e300f4d7a3d6a867fe07a4af6068cea70b31b96ccd038a90ecfb
+FileChecksum: MD5: 2a77810d2963479f6203bb1804d784be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/setup.py
+SPDXID: SPDXRef-item3361448
+FileChecksum: SHA1: b12491b90c559167b1e14bc9965bcefb46271d19
+FileChecksum: SHA256: 2529c4c94a3902bf997a86facc4b98e6afc18dad9b5a01169854aef4322a5614
+FileChecksum: MD5: 71f13c8e2f06f246c43690b37bf6c9c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/requirements.txt
+SPDXID: SPDXRef-item3361449
+FileChecksum: SHA1: 6647ee9dc843032c5531e8254b60a2bb18d3aca9
+FileChecksum: SHA256: fe19179b770ef1d0096df990865598de54a4cd412a656458a1decbcab9f169f1
+FileChecksum: MD5: 09b0b750ded7bc549911fc8e3072c026
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/mock_smo/Dockerfile
+SPDXID: SPDXRef-item3361450
+FileChecksum: SHA1: 25f319be54b15b73230fd6b82119afb27f0bbe15
+FileChecksum: SHA256: b1ac3188aec25d94a2b01f6e2abc8bf26e55c3eb927b5e7574e98356b25d390e
+FileChecksum: MD5: 6db790ccf35b42096a955cefa7ca66ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/o2app-watcher-entry.sh
+SPDXID: SPDXRef-item3361462
+FileChecksum: SHA1: 1d626dfa88372252d18ce73600201c398b4fd8b5
+FileChecksum: SHA256: 285b4d5521dd98a4d4e6bce6986bbd9a264864c9e801a8a73c262af770e237a7
+FileChecksum: MD5: 28680bda32309f62665cd187d02a5dc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/pytest.ini
+SPDXID: SPDXRef-item3361463
+FileChecksum: SHA1: fe87b900c467697bd23a221f840389d6c2be08a9
+FileChecksum: SHA256: 0d31f214080a4a40ae67220d1b14b8920246313560193de9ba59acc66cc504e5
+FileChecksum: MD5: 8312c60d2b67ffe23333381327067325
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/o2app-api-entry.sh
+SPDXID: SPDXRef-item3361469
+FileChecksum: SHA1: 11c80cc568320fbd92842790472ed86d5c9864a1
+FileChecksum: SHA256: d76f09a4eac6ae5595345c87c9735aadc94732e7f47d30903b6ffcca0048cf9e
+FileChecksum: MD5: 76f032c9d2fa8776dfbed862cc24ce54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/o2app-helmcli-entry.sh
+SPDXID: SPDXRef-item3361470
+FileChecksum: SHA1: ea4e4f4c0017d8738d868bdb0d1911d39375e3cc
+FileChecksum: SHA256: 0c47807b9357e85c0d6bb519c4d08f1350cafc8def246e034f7ffa5a034c5761
+FileChecksum: MD5: 2bb7c3f71ff7f1b007a399fc44e10836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/locust/README.md
+SPDXID: SPDXRef-item3361474
+FileChecksum: SHA1: 0872894a6d612e7220a0505eafb979536614547b
+FileChecksum: SHA256: 3cf808a1d50ffea20d08c771f151e7193e76bd0cf0303e77df11ad93001eb42d
+FileChecksum: MD5: 9ca7c010d2bfcaeeba27b1076681ab4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/o2app-redis-entry.sh
+SPDXID: SPDXRef-item3361478
+FileChecksum: SHA1: 1113d1b54e0ccee29dd988c25282284acdcf08ac
+FileChecksum: SHA256: 5eba2da3d71ce8fa889c833e1fec51224edb51dd34c33b391d771069d4b48993
+FileChecksum: MD5: f8185d83fc545fc66a5553fc454e16ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tests/o2app-api-entry2.sh
+SPDXID: SPDXRef-item3361485
+FileChecksum: SHA1: 2bca01374c660ff972983b1852f684258738add1
+FileChecksum: SHA256: 756cec104fa51a3cb0ee13a202e79331d8c6bd0ad26df2a71699e850bedf3a2a
+FileChecksum: MD5: 7bdfcaa40cbe8b0e5a4f4ba7c2f39491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/requirements-docs.txt
+SPDXID: SPDXRef-item3361493
+FileChecksum: SHA1: dd682e123d1bba5c057d74f00ce3844c386ac117
+FileChecksum: SHA256: 363e6363d5d35fbcf130bd29ff4fc2de3410bda47df20f790c975a0076146fdf
+FileChecksum: MD5: f4f92630dc839c57bdeba679a450c9ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/_static/logo.png
+SPDXID: SPDXRef-item3361496
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/favicon.ico
+SPDXID: SPDXRef-item3361497
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/conf.py
+SPDXID: SPDXRef-item3361498
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docs/conf.yaml
+SPDXID: SPDXRef-item3361499
+FileChecksum: SHA1: 8ca313d2af94d519d55f5b2b35f1c09bd1c98f03
+FileChecksum: SHA256: 6dd1a0dedb401ab35d8b37b33b0d0d74e76ab247e8fe26435949ff4444e4a0a3
+FileChecksum: MD5: f880e3bad40742f2684db802d71bc5cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2common/adapter/notifications.py
+SPDXID: SPDXRef-item3361527
+FileChecksum: SHA1: 3b75ae192089bddb7fdc9df1269af354b4c414e7
+FileChecksum: SHA256: 3432bf943d7d4f844e2faa48569a8fb9d52ad46bde77514eb22d9706bf2f3503
+FileChecksum: MD5: 3485d988f341bb537413b0af66d41d3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/README-docker-compose.md
+SPDXID: SPDXRef-item3361547
+FileChecksum: SHA1: 052656c0b3160eb337e9d33639a885a7dc68b246
+FileChecksum: SHA256: 9359b4908e765c595ab6d118eb656c4f0d140703e8385b0a68da733f7e164d28
+FileChecksum: MD5: 05fa091d1a9b6ff4b47843ce0520e254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2dms/api/dms_api_ns.py
+SPDXID: SPDXRef-item3361579
+FileChecksum: SHA1: 6cc490855a7d811856f157b3ee79973080899c04
+FileChecksum: SHA256: 69ddf5030025cdbe11fda65c1def1b4031cec5e3834369f997a298567bdb9622
+FileChecksum: MD5: 559e9ce9364ed67a165eee147c3be947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/Dockerfile.localtest
+SPDXID: SPDXRef-item3361587
+FileChecksum: SHA1: f1e2a11827af26108ee0e2592aeed2ed8a397107
+FileChecksum: SHA256: f7b777dad8acc711b914c69797922b7a43403322916bd3a4ef75e6a1722e6eae
+FileChecksum: MD5: 585348239fecaff74903e9bebfd52f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/tox.ini
+SPDXID: SPDXRef-item3361589
+FileChecksum: SHA1: ad4d1f4c7fba2ea37ae63246001cd327c641fa8b
+FileChecksum: SHA256: c2d457596783d4bc1c9d20c4f40de9e6a28721ec0aa8b58e88b4649521554ebc
+FileChecksum: MD5: 6a26f331924123add6a0366ea7eaa906
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/INFO.yaml
+SPDXID: SPDXRef-item3361590
+FileChecksum: SHA1: 19a78aea4462d2ac7a7d503d97ca2c5453f2e86c
+FileChecksum: SHA256: 9904a0fca21d94294d5c512e5868eaab5f546b321ffd802a1266ea73dce9cabb
+FileChecksum: MD5: 26ae355634f2520397c516bdb58cc88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/requirements-stx.txt
+SPDXID: SPDXRef-item3361591
+FileChecksum: SHA1: ec972c51b5ace650c294e2244a7d21abbf164415
+FileChecksum: SHA256: 5f7d36957335fffe7c05ff3606b53f4ccdbd54c918c3db417d03b09e3da4e66c
+FileChecksum: MD5: 8d2b93facacf5f6f8f4933e228d07b8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/.gitignore
+SPDXID: SPDXRef-item3361592
+FileChecksum: SHA1: 288ccf9b6c531f7671001fad85a4707f50983832
+FileChecksum: SHA256: cef28ebc167c5ca9aa06a77acb486b4b76ff2529bd0a28690e044ae7d154798d
+FileChecksum: MD5: b2e6bea5119a492d8e30958518d8d060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/o2ims/domain/resource_type.py
+SPDXID: SPDXRef-item3361600
+FileChecksum: SHA1: f842bb38297608077de002ea20ccccccfbca45ea
+FileChecksum: SHA256: 3c0db11887c2a03d72506591745c67988294a490a1b53309c2b5d012619206e7
+FileChecksum: MD5: f4a05f2713a1fba79ccbad7446cfdf64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/requirements-test.txt
+SPDXID: SPDXRef-item3361685
+FileChecksum: SHA1: 618dd130fd797cc881e90a80c30f5dd0409cee33
+FileChecksum: SHA256: 3947fef659fc12795d538acc99f4f701d40d8df2805e963df0159ae1198d0a14
+FileChecksum: MD5: 069b1b748895eb1385b7db78d6b294cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/requirements.txt
+SPDXID: SPDXRef-item3361686
+FileChecksum: SHA1: 40e9ba9bc757a1133d729d1d0e2294dcaa2d9e6b
+FileChecksum: SHA256: 2f253376c63368cf445b11015b962f0b483d2023224bb58a4735573fd099c96d
+FileChecksum: MD5: 07307d1c9ca0e323f75e235c30fa12d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/cgtsclient-insecure.patch
+SPDXID: SPDXRef-item3361687
+FileChecksum: SHA1: 68b1a2067a22ce60760ff7c100d62bf934024dd6
+FileChecksum: SHA256: 5572072e209c9facb1bf55b396b4e14ccf63c29ff96aa0f0eaaca612045b9084
+FileChecksum: MD5: eebb304175df0870f21b1ae7b15847c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/releases/release-2.0.0.yaml
+SPDXID: SPDXRef-item3361703
+FileChecksum: SHA1: 9d66925f2c7ee888e07e867efe138043cc037fac
+FileChecksum: SHA256: 61b63a159f323834ae859004383d04ebf4cf1c793d89313afd877928575ad8d6
+FileChecksum: MD5: cc228610657489ec073fec08e1b6a1a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/releases/release-1.0.0.yaml
+SPDXID: SPDXRef-item3361704
+FileChecksum: SHA1: de6f0b8102934e94ba5a750571c6350d000e77b5
+FileChecksum: SHA256: cf5857163ef87b2c4dda2945f967ebc038beaeecc99c3cfe189c3e275dc0b7e2
+FileChecksum: MD5: 61c8dc43f98f5a41c93689841e754d0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/Dockerfile
+SPDXID: SPDXRef-item3361705
+FileChecksum: SHA1: 8f3951fc838dc01c4a1ad9a82d4f731191a5274d
+FileChecksum: SHA256: 907204a2bb6d29f6f831b3ca0ef37c15a956a030076052535570ccfadb9b9de5
+FileChecksum: MD5: 46f1bbf85697609cb57863c99e4c38f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/.readthedocs.yaml
+SPDXID: SPDXRef-item3361706
+FileChecksum: SHA1: 3fd8f5601de1832298a9618443e8c29833e88fca
+FileChecksum: SHA256: 63fd9427a14b972a9e4e82e17ce52dad6903fa0615cd89b995a585dbb6da8be9
+FileChecksum: MD5: feae2d1ddb7bcb33e7e1a13b92898202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/stages/container-tag.yaml
+SPDXID: SPDXRef-item3361708
+FileChecksum: SHA1: a58b7977484add3723c84e61e7a5ebd619b3dae1
+FileChecksum: SHA256: ebdc5391743326507ccb9ae949f42ffdf4e8d7b7bdab545c6d437fbf6fb93f67
+FileChecksum: MD5: 886336bc05d9109f1a9ded64008f3bd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/README.md
+SPDXID: SPDXRef-item3361709
+FileChecksum: SHA1: e0ab831f2c58ffe3127ba129df4ea1a685792d26
+FileChecksum: SHA256: fa60fc0f3ec4fb38afe08baac6109883b3dfb863ebfb1b2af62fc5fea8b62b61
+FileChecksum: MD5: 9627fd9e8f176805a4efa93a5f3f1207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/docker-compose.yml
+SPDXID: SPDXRef-item3361710
+FileChecksum: SHA1: 47c3c8e0b33f95de2588a335d782b2fc0d93c1fe
+FileChecksum: SHA256: 20869c477b50dd79e8a622570e5d6b562594ae722e936cc4a67a2b2cde89ff7d
+FileChecksum: MD5: 2ccae9e6b3a16e892d2e0a0b25ab86cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/.gitreview
+SPDXID: SPDXRef-item3361711
+FileChecksum: SHA1: df8139a84f8376e6bd4b3e62cdb063358b49b418
+FileChecksum: SHA256: 43aa50021dd18cd2a462015c1865b10d702e2598973367e6b93a2d7c711645a7
+FileChecksum: MD5: 71aba3d5b66c8e76b85ba4989b6777ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/constraints.txt
+SPDXID: SPDXRef-item3361712
+FileChecksum: SHA1: 7be02672ac3153917f1522ecdf181935de4b0002
+FileChecksum: SHA256: 7156016ca1d6a113989d69b575fab8e264a75bdec770c798cbce5fab593194aa
+FileChecksum: MD5: bd5c5031d93f9b69ce2ead401a019512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/.helmignore
+SPDXID: SPDXRef-item3361714
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: SHA256: 6a475186ccbaa9a0a4de5e96a5cb6ddcf9fad0d76bc38e04470ac84445b21a16
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/.helmignore
+SPDXID: SPDXRef-item3361725
+FileChecksum: SHA1: ef7bf5df50e7e52a5ea2049a26f77aa240262db2
+FileChecksum: SHA256: 6a475186ccbaa9a0a4de5e96a5cb6ddcf9fad0d76bc38e04470ac84445b21a16
+FileChecksum: MD5: 9cf9eb7e2fd8ec7b4b73232d39532489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/charts/templates/serviceaccount.yaml
+SPDXID: SPDXRef-item3361730
+FileChecksum: SHA1: 2f8af06772584279ea3df0af053dc07aceebc355
+FileChecksum: SHA256: 47fb9a9703d79fa340f47bbe21a71d01131ea7ee912c89d87b1cd632fb78f2d2
+FileChecksum: MD5: b5c3a2aa73a5fd1debde3ea4cc2c034a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/README-o2imsbuilder.md
+SPDXID: SPDXRef-item3361737
+FileChecksum: SHA1: 11d3ec341628cf31d87eac11146fe94f71581f23
+FileChecksum: SHA256: 92309880ea63e220ef5fbaf48ff14f6024323203dfb91c9ace45aa706d8de105
+FileChecksum: MD5: a433f4674aa8f1409237fec9ca54b387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/configs/o2app.conf
+SPDXID: SPDXRef-item3361740
+FileChecksum: SHA1: 20aa1f6e2b725c28cc6767257c6304d20673bd12
+FileChecksum: SHA256: b276cd2250c2cbaea15bcad4270b81fddc55d6479babd0d88f79359a84ce561b
+FileChecksum: MD5: 1de4d0096b36b28c3e32200da5d17978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: inf-2022-12-02.zip/pti-o2/configs/config.yaml
+SPDXID: SPDXRef-item3361741
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-possibility
+LicenseName: MIT-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Meta-Recipe
+LicenseName: Meta flag: Recipe / patch
+ExtractedText: <text> Meta flag: Indicates a recipe to build, and/or a patch to, a separately-distributed third party component. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
