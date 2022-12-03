@@ -1,0 +1,2837 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_aimlfw-2022-12-02.zip_1670058479.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-12-03T09:08:00Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: aimlfw-2022-12-02.zip
+PackageFileName: aimlfw-2022-12-02.zip
+SPDXID: SPDXRef-upload669
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 4a53832d6f218b871d2625031bdf4548c0e46fae
+PackageChecksum: SHA1: 7dd3658b04d498f6b1d9eee6e4344a4bd60c1407
+PackageChecksum: SHA256: a95a85a6dd668da6f29a407ebf6a714840c3fb6968e9190f9d539c8ac723e425
+PackageChecksum: MD5: 650f4c1994504866a5c8dddf991d1ad9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload669
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/LICENSES.txt
+SPDXID: SPDXRef-item3360818
+FileChecksum: SHA1: 7a8a8e81b115d8152bcf0e2635190cadc905ba2b
+FileChecksum: SHA256: 27f6e6a65a410aa52c5b38e60b3c8f90e8c69375d3d4e8258af23e59ef28bae2
+FileChecksum: MD5: 02add29e530bc537619dd8f5bcb4c226
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/qoe-aiml-assist.go
+SPDXID: SPDXRef-item3360786
+FileChecksum: SHA1: d17740537fe75fe81adcc4e57f914d9ae2efec97
+FileChecksum: SHA256: 50519752bdd8cc8c55a9ea08a724a0b6ae544f1fa40efdbac51065ca5b275d95
+FileChecksum: MD5: 056ed061b2839550045b19a845ab5a18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/influx/influx_client.go
+SPDXID: SPDXRef-item3360790
+FileChecksum: SHA1: 7f1851097f4e54eb6238301652e14066bc8d151d
+FileChecksum: SHA256: 6587c1cf0ea845cb2063c4a7d9cb12d90d852f1b0612ee7666e8e44aff97caf8
+FileChecksum: MD5: 8ccc3e79cdb0803b89eb76e9792ac136
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/data/types.go
+SPDXID: SPDXRef-item3360788
+FileChecksum: SHA1: dac0bfb50a69a50af72e6e4a541a5df203f582b6
+FileChecksum: SHA256: 7039abf9550f22b7c479822f3a8846a881eac50eef0d775da80707be04ba8df5
+FileChecksum: MD5: 19748eb7a07d2acd89c87c1ed836ab90
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/Dockerfile
+SPDXID: SPDXRef-item3360793
+FileChecksum: SHA1: 27024ad2600927df776417aceb8af6f432fe92d4
+FileChecksum: SHA256: 394a2257b9df94e6f4d5d065f0d62775b44f7c02f0781024a4daaa4e23dad64c
+FileChecksum: MD5: b135ea28656178db5171c9a0961671ff
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/test_kfadapter_kfconnect.py
+SPDXID: SPDXRef-item3360808
+FileChecksum: SHA1: 34a45f4e255ed4d563ef8ee146be56801c043379
+FileChecksum: SHA256: 80a049df19b83a41a8f65bcc09bb1d1c0223576b4cd088fa40dd6ab9f9c7ac2f
+FileChecksum: MD5: 242e967a372a9b3ad104692a4d773f77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/test_tmgr_logger.py
+SPDXID: SPDXRef-item3360809
+FileChecksum: SHA1: b34b073ab040265c1834b09e77c2a6e668bddf5e
+FileChecksum: SHA256: 6ad52133d58d587b38c28e8553cfdb7ccef39ab7f256d822fdb7a3bf8b152f37
+FileChecksum: MD5: 6974e7417119180780f3168610f16356
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/container-tag.yaml
+SPDXID: SPDXRef-item3361019
+FileChecksum: SHA1: d90ba9136a404dba12c2808369e899a61cca2d73
+FileChecksum: SHA256: b20962799449e09ef02f3a559ba64d0bbda6aa57fe4785f9cff3489440ec2fb3
+FileChecksum: MD5: c5d625c779082cb32ed08bda532360b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/container-tag.yaml
+SPDXID: SPDXRef-item3360806
+FileChecksum: SHA1: d90ba9136a404dba12c2808369e899a61cca2d73
+FileChecksum: SHA256: b20962799449e09ef02f3a559ba64d0bbda6aa57fe4785f9cff3489440ec2fb3
+FileChecksum: MD5: c5d625c779082cb32ed08bda532360b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/container-tag.yaml
+SPDXID: SPDXRef-item3361087
+FileChecksum: SHA1: d90ba9136a404dba12c2808369e899a61cca2d73
+FileChecksum: SHA256: b20962799449e09ef02f3a559ba64d0bbda6aa57fe4785f9cff3489440ec2fb3
+FileChecksum: MD5: c5d625c779082cb32ed08bda532360b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/kf-pipelines/container-tag.yaml
+SPDXID: SPDXRef-item3360861
+FileChecksum: SHA1: d90ba9136a404dba12c2808369e899a61cca2d73
+FileChecksum: SHA256: b20962799449e09ef02f3a559ba64d0bbda6aa57fe4785f9cff3489440ec2fb3
+FileChecksum: MD5: c5d625c779082cb32ed08bda532360b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/container-tag.yaml
+SPDXID: SPDXRef-item3360865
+FileChecksum: SHA1: d90ba9136a404dba12c2808369e899a61cca2d73
+FileChecksum: SHA256: b20962799449e09ef02f3a559ba64d0bbda6aa57fe4785f9cff3489440ec2fb3
+FileChecksum: MD5: c5d625c779082cb32ed08bda532360b0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/fake_kfp.py
+SPDXID: SPDXRef-item3360810
+FileChecksum: SHA1: 2438b52904381b35fff5c9641005ece6410db885
+FileChecksum: SHA256: 732b683b85e66be048985560b4c0d27aa9f0e02118039f2730da64d3f4420753
+FileChecksum: MD5: 4862d86c070c5c6a5a57b794b4a6c575
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/test_kfadapter_conf.py
+SPDXID: SPDXRef-item3360811
+FileChecksum: SHA1: 77d752168ce489c846cf5ac9f39b32a064497dab
+FileChecksum: SHA256: d32428f076a78ce294acf92a82ad1a8813308607eb83265538316454b2252e06
+FileChecksum: MD5: 8b73dd3d89fbbf34049df80445b66055
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/control/control.go
+SPDXID: SPDXRef-item3360801
+FileChecksum: SHA1: 8fec9a42b9326b93fc69e8e2af3488be58632226
+FileChecksum: SHA256: 8643a1e2bc305234064922443c544179865dbb9436e81ca8a465f848974a5a3d
+FileChecksum: MD5: 04cb4f325a79477cd3343c3049b259fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/test_kfadapter_util.py
+SPDXID: SPDXRef-item3360813
+FileChecksum: SHA1: 8000072d06cd5a1f9dc89f08006ab05fca6e3e7e
+FileChecksum: SHA256: c0318c02c93f46461bfce7f002c22c337d4b2c6fb6b0e80b12e38d8315730da0
+FileChecksum: MD5: 8f2ee57481e28162bf4d8765bf77497d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/test_kfadapter_main.py
+SPDXID: SPDXRef-item3360812
+FileChecksum: SHA1: cd91d30611193855e6599215232ee33b1aaccb1a
+FileChecksum: SHA256: 1778a87cca15b39e155ca7452cb27d678fba66cfc954f540afd27633072ee1f1
+FileChecksum: MD5: 0594d9100f7b7645da6cfbda897c6ca2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/fake_kfconf.py
+SPDXID: SPDXRef-item3360816
+FileChecksum: SHA1: 7a2b3292e36e5a5464651c47b34f76613b8bd7c6
+FileChecksum: SHA256: acaabcd75fdca80acea47cacafbdaa0776c7f4deb5978b1f31838e9eb1f73d0b
+FileChecksum: MD5: 09951148bb1a0368ab0f9f4671ec3221
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/unit_test.sh
+SPDXID: SPDXRef-item3360814
+FileChecksum: SHA1: 225c188f384fa41bf11289f6a6074a92f9463242
+FileChecksum: SHA256: 9cd2949a1a61e2a0ed21a4f4a117e122bd57ef7e979853c7d07f6113662d98a3
+FileChecksum: MD5: cfc6b68cde3ddfd7ca61471e732d22b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/test/__init__.py
+SPDXID: SPDXRef-item3360815
+FileChecksum: SHA1: 516f67d58a939341b0b89261b4f6c5fc3046ddf7
+FileChecksum: SHA256: 757f46575dec19c08c59b20a7a9406fb20c5ab155dfb89fec170235f051d1d7e
+FileChecksum: MD5: e6acde357d925008cd40302a4d32da0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/Dockerfile
+SPDXID: SPDXRef-item3360819
+FileChecksum: SHA1: 66da26b51119e4b82f27230c62ea9c7ee337b017
+FileChecksum: SHA256: 7b7b9f744142a27e50dddfc099ea3ce0acc5249348091dea7d378d6a5dd462e7
+FileChecksum: MD5: 2f7b1891c21c189b57ecf3c49864adf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/kfadapter/kfadapter_main.py
+SPDXID: SPDXRef-item3360824
+FileChecksum: SHA1: 6a9fe46899573d26c76c79d9fd6643d0ab80740f
+FileChecksum: SHA256: d6ec03bbeb7319fecff7169b5b13f665a6e9128b0d6f73ef14d5438f9d556d33
+FileChecksum: MD5: 84d18fbfffc7acf76ee35b516dbd58e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/kfadapter/kfadapter_util.py
+SPDXID: SPDXRef-item3360825
+FileChecksum: SHA1: 516f7673a5e108ef914f65d8800a214093b8267d
+FileChecksum: SHA256: baad478af0d0ee9f8a21ef87f2de476b1baeb3f9749a86a4b8f0f621ce89d78d
+FileChecksum: MD5: 44b9ef673c257d5f977d68cb1a4db1db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/kfadapter/kfadapter_kfconnect.py
+SPDXID: SPDXRef-item3360826
+FileChecksum: SHA1: 4abc5ddbf2b460af33ddfebe1549e322955dea14
+FileChecksum: SHA256: cbfc9892e1136a37bb3673f23807ff44f1cd615ca3ec614e225858d011b89405
+FileChecksum: MD5: d88eceb9e312cafa46480de4f5805b36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/config/log_config.yaml
+SPDXID: SPDXRef-item3360822
+FileChecksum: SHA1: 0be66b2022ba9919feb0461e1d831115796f6b64
+FileChecksum: SHA256: e18ad5447bc3822452fffe2cd47c672876c8e9964bead7ae7b94478621bb99d5
+FileChecksum: MD5: a48b08d0def99d430ba21563bc396b97
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/kfadapter/kfadapter_conf.py
+SPDXID: SPDXRef-item3360828
+FileChecksum: SHA1: b0e23e340bcf3def658fffb4bc70c309487a5037
+FileChecksum: SHA256: 43a83beafb05b6656c9a4c5dbc259223545f64d32d44aaf118f04ee82e9bd2e0
+FileChecksum: MD5: e41e59681df0ecda36b9b61b67c9de66
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/kfadapter/tmgr_logger.py
+SPDXID: SPDXRef-item3360827
+FileChecksum: SHA1: aed8e6399532bf91ed76f141d321e06fdc6a30ac
+FileChecksum: SHA256: 31a87b865c94ab7d0fb3259df5c6c3100f737b762b4d4b41f1bb226a633e2b9c
+FileChecksum: MD5: ed0f03b7834bfa8fd8c273f2d96d1625
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/index.js
+SPDXID: SPDXRef-item3360832
+FileChecksum: SHA1: d310e8e7afbaf389205a95a14eabb1f87d0efc18
+FileChecksum: SHA256: c8a8b77c195911f1c19aa2e8925a376773dc07d20221dc0f1ac707bf0487d668
+FileChecksum: MD5: b945b6f115303a703581a1f86db8bc2f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/App.css
+SPDXID: SPDXRef-item3360833
+FileChecksum: SHA1: 91fde67d9ca5610fc0cae23f99be4adbe92e329a
+FileChecksum: SHA256: bee54c0084a539d12a66e494250fa600feb0fc5a7c3cba647beb9d80073d7d42
+FileChecksum: MD5: 8f4b7af111aa200e9493d8e85fad5d88
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/HomePage.js
+SPDXID: SPDXRef-item3360837
+FileChecksum: SHA1: 34e3e28d200fa51c8e4dccc5efe90d2df6d3d61c
+FileChecksum: SHA256: 17465aab36180664279a79dfff82bd28cc8ab46a3ce337dfa56c8c9284bba1d5
+FileChecksum: MD5: b3a999c02bfba67ba72b46939dc0cb42
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/index.css
+SPDXID: SPDXRef-item3360834
+FileChecksum: SHA1: cae8c825ce7c1fb312c28c4d7f405221ecb5d003
+FileChecksum: SHA256: 819fff624334decfd5dad45456ba28ddd2f7fee7815b72c27c779549a457d498
+FileChecksum: MD5: 7cdb669e2160bc6386408c73792409ae
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/create/CreateTrainingJob.js
+SPDXID: SPDXRef-item3360839
+FileChecksum: SHA1: 3fbd65ef9c0c2633d8de11e92279d109f40fbd86
+FileChecksum: SHA256: 6469f724adf91e7097af2e8c3567efb083c9de231dfff692ecf41dc3633647ea
+FileChecksum: MD5: 95ce0631f2d5fb5058a512fc66e4d1c0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/common/Constants.js
+SPDXID: SPDXRef-item3360841
+FileChecksum: SHA1: eaefb8c718b6bc4af50bd5de1ee2a86b37c43b31
+FileChecksum: SHA256: 1c49ba568808a8c7e6a25ecea37839cbc1a9882443f7e24d8fd628a7b259d777
+FileChecksum: MD5: 1904450c5bb6c0e0cdfdc8564134e7e0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/common/CommonMethods.js
+SPDXID: SPDXRef-item3360842
+FileChecksum: SHA1: f99abc29f927eed252b4bc1eb099c502934a3e4a
+FileChecksum: SHA256: 604b95e9db6c15fe7d145d2b89e7b105eaa0d5709cefe25e12f4d82afd7c24cc
+FileChecksum: MD5: 380374b356cc5e89de1a3c67ca70dcba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/navbar/NavbarComponent.css
+SPDXID: SPDXRef-item3360844
+FileChecksum: SHA1: 1a6fe59ba94e8261e6fcdb9e0a919165fac27d99
+FileChecksum: SHA256: d37b4c207c6c41efbba82276fcd96c88438fdd1f6f4368739ecaf1bb65a199a0
+FileChecksum: MD5: 9cee4d7ffb0c3e801606d7e3f9f6abbc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/navbar/NavbarComponent.js
+SPDXID: SPDXRef-item3360845
+FileChecksum: SHA1: c3a6b876de2d1f8302541b297bf62b2a4ea47bab
+FileChecksum: SHA256: ba066168fc52767f79ba707331148852c66f806ecc3ff1901b526d1a12aabcb6
+FileChecksum: MD5: b53a27f3b70c31f8ac6ff41e78e68726
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/pipelines/UploadPipeline.js
+SPDXID: SPDXRef-item3360847
+FileChecksum: SHA1: 1209957cb146bb21ae42891ed92a91330c0e804b
+FileChecksum: SHA256: 5021db8a42dc5e235890722946f2541e0bd0353c8d3ff0e9b4c6706e528ce9a2
+FileChecksum: MD5: d7698a77835681821bcad9f20469b4ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/form/CreateOrEditTrainingJobForm.css
+SPDXID: SPDXRef-item3360849
+FileChecksum: SHA1: 604dba4688fd324d21e072626507826c4e16ef9e
+FileChecksum: SHA256: f8d284127836dddfa7b425667eb166f816f5762ab98f08debadcbdfd1830fa75
+FileChecksum: MD5: 5e7447e2fd0eff82a67f1f8d49dc574d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/Checkbox.js
+SPDXID: SPDXRef-item3360852
+FileChecksum: SHA1: 61ad537e2df339fdca5c255279d8afa681556cbb
+FileChecksum: SHA256: 5cf7cbaec25b0091eca71c4e81e48b705bbb0c5f643a638db18fea54fdaebea3
+FileChecksum: MD5: ff1e29b97607cb6af1803e7a76d1f380
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/StepsState.css
+SPDXID: SPDXRef-item3360853
+FileChecksum: SHA1: 37ec04715db4456e8c2ee95ab02dcafdd7ea6ac8
+FileChecksum: SHA256: ca8bba23e890b37cfe7b55cb31691de9c2d5c8aea0d35bd9cd786e82d06c0b2a
+FileChecksum: MD5: 39b41f0a028e994dcc1412ef4e4aa240
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/form/CreateOrEditTrainingJobForm.js
+SPDXID: SPDXRef-item3360850
+FileChecksum: SHA1: 588cc341158973c6f730c73b8cc9a331b2b9c0a9
+FileChecksum: SHA256: 4fe55c2b896d93839befd2e67ddd7b563f9a703ae87ab6662d63729c42347854
+FileChecksum: MD5: 48b1fe5f944d1fd74125f4c7ab06f67f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/StepsState.js
+SPDXID: SPDXRef-item3360854
+FileChecksum: SHA1: 5daa1f60f9ad6967933ef86715272e7f40ab9c06
+FileChecksum: SHA256: bf99c342da9a1387c1583d7d6e0bc0c639e8a19f6b8fdbde66acc57421ad64a1
+FileChecksum: MD5: 4dd7dacadfe641394dd3317858d46bf3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/TrainingJobInfo.js
+SPDXID: SPDXRef-item3360855
+FileChecksum: SHA1: 3a0987688ab2fed4e3987a38a3db2ab595b7c7e2
+FileChecksum: SHA256: e372095e2f363f1e26d09f80f1e129e026d1e88023b9c2ba654754f7ba1c1e06
+FileChecksum: MD5: 29ec9680d245973adff7be1dd385a198
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/Popup.js
+SPDXID: SPDXRef-item3360857
+FileChecksum: SHA1: bcb287e2d326f90f801ebffd764ff0d0bd7e2408
+FileChecksum: SHA256: 67523c27f3d8ea15dd4287084aab7ea82bcb8c1aca0b8d748e1ba4651a8d1f46
+FileChecksum: MD5: 37e8df8ec6de7ea7356ee85d4060f0fd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/components/home/status/StatusPageRows.js
+SPDXID: SPDXRef-item3360856
+FileChecksum: SHA1: 6ce783ea4f5d8dc07d8e385b9f85cfa47b187dcd
+FileChecksum: SHA256: 887ad21070045f31012f6b1dce6e8330994d680dfc459099abcb627897444a99
+FileChecksum: MD5: b6b468b0e5f02d308ecb9f225247c7ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/src/App.js
+SPDXID: SPDXRef-item3360858
+FileChecksum: SHA1: 1ae6a0bb35e7d885666bbe27530148f7d442d11e
+FileChecksum: SHA256: 0dee1fc87fbf6cf194d1d91f898b7d857b72da006eb6035080cc4cf5b0ea5c1a
+FileChecksum: MD5: 5fa1bf05f845f7e719b9143545631faa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/kf-pipelines/Dockerfile.pipeline
+SPDXID: SPDXRef-item3360860
+FileChecksum: SHA1: ae1b8eb2c3f523da3f67141d1c482476a2fd7caa
+FileChecksum: SHA256: ca53a0be055ce01f30f00fb21e6fcd44138d88f6c95216cfadba1d83c2c0b74f
+FileChecksum: MD5: 22a7881572c5dbbdfb34b2c6ebd088b3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/kf-pipelines/Dockerfile
+SPDXID: SPDXRef-item3360863
+FileChecksum: SHA1: 06f45deddc0599d4a29ae510db2dff851e8c7068
+FileChecksum: SHA256: eeabe9224584fe4b3d2c5a92cf8b0e4e8cd7284c31c751f2407258bdefe96cfb
+FileChecksum: MD5: 1dd9d4a107910aeefbc5d460e7c70e8e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/Dockerfile
+SPDXID: SPDXRef-item3360867
+FileChecksum: SHA1: c6a3d4779e3af9e0bd0fcf7865bf029d74185811
+FileChecksum: SHA256: 9ec793340dcd5688de6bbba1cfbae4d8a0a23525ec639ac4c1224b1a79491342
+FileChecksum: MD5: 6a50521914ea7b018dc9ba993c7479c1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/docker_image_build_local.sh
+SPDXID: SPDXRef-item3360876
+FileChecksum: SHA1: 71e0322b51cb7dfe9ece7141acdbfc25dba21a69
+FileChecksum: SHA256: 53c0a35a080d64aa06e464a5855a62f522b47e06fee2d48d68a16bab043e30ce
+FileChecksum: MD5: 316ee49a529a257ec6881bfdf007b922
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/install_databases.sh
+SPDXID: SPDXRef-item3360878
+FileChecksum: SHA1: c475516ce802ba4f81b6fd7266f7cb9e5e05cf4b
+FileChecksum: SHA256: 68d305dbdf7829412eeccc288d17ed73cf0a835f9c7c8a1de127757d3757bb94
+FileChecksum: MD5: 18cfcb91c8a6e67b3c21d3a5767c55ad
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/install_common_templates_to_helm.sh
+SPDXID: SPDXRef-item3360880
+FileChecksum: SHA1: 26c855fd5cf0f34ab7b9cb6b65e98016976eda2a
+FileChecksum: SHA256: a47211a0702e5328c0a96569bf77f893b5ffde09d3ea7c8a7e0226c4186243e0
+FileChecksum: MD5: d1b725fefdcd4a3ad1cc6d64d240e413
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/install_rolebindings.sh
+SPDXID: SPDXRef-item3360879
+FileChecksum: SHA1: 3e3d5b49c9022524680ff5d2d315097e210a5121
+FileChecksum: SHA256: 9032cbbd42720d2d12fed7a344ef4c92bbc23ec7185ed73ec711bc1cf0392b03
+FileChecksum: MD5: edd5cddc00be04a7a4da578b9d7bb801
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/docker_images_delete_local.sh
+SPDXID: SPDXRef-item3360881
+FileChecksum: SHA1: 23c432980f693cb060c1c003e63aef304230e046
+FileChecksum: SHA256: aa6126e5769dc6fff78d6af207581f92ae0709635c4ae18eeec6e90321bde3d3
+FileChecksum: MD5: 893a94846f542ee87dbb58b9a5b69c1f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/uninstall.sh
+SPDXID: SPDXRef-item3360882
+FileChecksum: SHA1: 8c27d3e777e4e08be03c8ff7c0ec94a557a30007
+FileChecksum: SHA256: 0ca3fba6082c2a3394924b711d829b837baee31651b7f0f593682f36c13128f4
+FileChecksum: MD5: 70a8d088de1d12e945d471ce670e56a7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/uninstall_rolebindings.sh
+SPDXID: SPDXRef-item3360883
+FileChecksum: SHA1: 6d98eee922a7d51e133170dcf5758432d37415b9
+FileChecksum: SHA256: b7d111b509039c7ee21e7cc84b877c06db15aad18b660ebde22935cf25135559
+FileChecksum: MD5: 885e023c202d8e487bd5af8dd43caed1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/uninstall_databases.sh
+SPDXID: SPDXRef-item3360885
+FileChecksum: SHA1: feb5a6f4c1cd2c9ab0abbd6ec55c8808573c1f8d
+FileChecksum: SHA256: 8daaaec46c23411b49b76c5e2cba00eded4f3e7dbf04eb211298db3a7a1f8f1f
+FileChecksum: MD5: ff937fb6a5b86456eae8e879a764d1c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/install.sh
+SPDXID: SPDXRef-item3360886
+FileChecksum: SHA1: 54347817d2ec0fbf86de67f7cdbe8ec35f318acb
+FileChecksum: SHA256: fd7c683b82d38b55d52486b625577f7d89b6375b2bc4ff07bb7bcc3f121b0397
+FileChecksum: MD5: 6c56ceacd63a10722071764c991d58be
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/values.yaml
+SPDXID: SPDXRef-item3360889
+FileChecksum: SHA1: 0475234805b339d50175a16dea45c3ca0ee0d35f
+FileChecksum: SHA256: bf216ec83162ecc53542741ddf3a664f1907d55ca34276dd6478bfff2ea936d6
+FileChecksum: MD5: b1cfae87422fa166e75dcd49268e4381
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/requirements.yaml
+SPDXID: SPDXRef-item3360898
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-notebook/requirements.yaml
+SPDXID: SPDXRef-item3360906
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/requirements.yaml
+SPDXID: SPDXRef-item3360890
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/requirements.yaml
+SPDXID: SPDXRef-item3360928
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/leofs/requirements.yaml
+SPDXID: SPDXRef-item3360921
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/requirements.yaml
+SPDXID: SPDXRef-item3360913
+FileChecksum: SHA1: c7fc602d2ba3fecf83ab74f3af3e35126268c129
+FileChecksum: SHA256: 12b360a12e6eff3860aad952e396b6e2537614c7da435d3a5e070f5ff6dcf6dc
+FileChecksum: MD5: 2ad576ded273dbcd63c9ff9f6f24d802
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/templates/deployment.yaml
+SPDXID: SPDXRef-item3360892
+FileChecksum: SHA1: ca422582cb4577785694d099fbeeb5bb88004fa8
+FileChecksum: SHA256: 45a5672dbda87618c23d373b570b8a17b99d05862ba199971494af4f220d3692
+FileChecksum: MD5: 965fad4dc6634bc1a390be70c6bfe360
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/templates/configmap.yaml
+SPDXID: SPDXRef-item3360893
+FileChecksum: SHA1: d73a2ccfca2d46efcd6cd54cad3ba0645af1f8ac
+FileChecksum: SHA256: 93018a0561d60345242d93dd71ce7c2e6436593a5ce1c7feb14dbc649ce1f229
+FileChecksum: MD5: b163ae08c69d67f256115b75f31f53e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/Chart.yaml
+SPDXID: SPDXRef-item3360895
+FileChecksum: SHA1: a15d6637697f9890499f108ddde528ab8817263c
+FileChecksum: SHA256: 4c85253c21d7901e6e537cf5e340ad5a1ea169817743ad6938b76ef6426c316c
+FileChecksum: MD5: 1727c558aaba3c6689673810dc6c180c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/data-extraction/templates/service.yaml
+SPDXID: SPDXRef-item3360894
+FileChecksum: SHA1: c57cdbf5514008b3ca9a0b0627111433b3ecd3a2
+FileChecksum: SHA256: 5605c23df27180c9cb4e0e44faed45ab8b7920958e0e536391e2039b0ce8d9b7
+FileChecksum: MD5: 491cbfe2874fc16051a98b6e31c46100
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/values.yaml
+SPDXID: SPDXRef-item3360897
+FileChecksum: SHA1: bd9682ed3e0d18eeb416e965d287273fce49d502
+FileChecksum: SHA256: dd1569db4301445ebe464604696dbd9b4538c8e93613b9f6f063e59753abc0be
+FileChecksum: MD5: 50ab8c86e3bfacc7ad77edd08fa7bd8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/templates/configmap.yaml
+SPDXID: SPDXRef-item3360901
+FileChecksum: SHA1: 0ab83ca65e4924026bdf9c13757f0ba0d70300ce
+FileChecksum: SHA256: 4229b01ddd2fe7fa9d0ec2a2faef1a914824571e5fc29c502620b06e746d63b5
+FileChecksum: MD5: e1899c68bb68d4da3638f432a0f18b74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/templates/deployment.yaml
+SPDXID: SPDXRef-item3360900
+FileChecksum: SHA1: b72b543c60ed580eb3034b4d921bbc7b26d7dea2
+FileChecksum: SHA256: 69dabccf7c502f2e4fa5423217df7d4f0871d1517d3aa03a54272f0f1e76a141
+FileChecksum: MD5: a06c31ef7c74e866a8f0c7f34b5fea3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/templates/service.yaml
+SPDXID: SPDXRef-item3360902
+FileChecksum: SHA1: be6559b08845516288795334a3502a152e557691
+FileChecksum: SHA256: 0b5c164648561dee053066d56601a30e619ec3499f1aa2b59dad06aa2bc5a70b
+FileChecksum: MD5: 461d44b2bf3b9227353940d1cd736f8b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-dashboard/Chart.yaml
+SPDXID: SPDXRef-item3360903
+FileChecksum: SHA1: cda200bbb4f06491b21e65dc5158e9ab9737a879
+FileChecksum: SHA256: 2a84fb06974a4278958d34146b0f1a4ce8756167c3172c9400220936540e3580
+FileChecksum: MD5: ea0bd1255fc584627871030e5f194932
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-notebook/values.yaml
+SPDXID: SPDXRef-item3360905
+FileChecksum: SHA1: be85866931a5e14090667d931a0b5394b0013756
+FileChecksum: SHA256: 5e67f1917db63140ddce052219a57a8165e405ce3d4fcd212c15de075aa6cb84
+FileChecksum: MD5: 2e46d167f1b682fe27f9f61b24d1b85a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-notebook/templates/deployment.yaml
+SPDXID: SPDXRef-item3360908
+FileChecksum: SHA1: 511ebbe0568a8c6b7a2b1d0b972bdad4ce7b42fb
+FileChecksum: SHA256: 80eab73a2d18d8d3092840f968c6785b0be04bffdddb5e365dcaed92691d7e04
+FileChecksum: MD5: 22700956962737f10e6d14b9a7a334bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-notebook/templates/service.yaml
+SPDXID: SPDXRef-item3360909
+FileChecksum: SHA1: b1388cd52f9c7dbd6ad1fb6951a29f41ce22d19c
+FileChecksum: SHA256: 67a61a36f6bab4c6dcf964bc74fe50c4c7e80ae6769ea9adf3c330834544e912
+FileChecksum: MD5: eac4fe32719ef2899e32b8a6f4c6da61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/aiml-notebook/Chart.yaml
+SPDXID: SPDXRef-item3360910
+FileChecksum: SHA1: c70eaf8a7fa6d47927efc587cfb314bdd8d490c0
+FileChecksum: SHA256: e90db9ad4886f6407f55cd29e14398b3b317176b59fb8ea8f01da9d144375e5d
+FileChecksum: MD5: 3f14b4a56dfd77b12b8fefc45db0ee15
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/values.yaml
+SPDXID: SPDXRef-item3360912
+FileChecksum: SHA1: 3d2720a699c865813298d411d2d6bd1817a7d009
+FileChecksum: SHA256: 2f7e15dc1dc9d907d4a74021ebcefb80c9ecf49b6db82590df53c20a97f6f943
+FileChecksum: MD5: f07145bb039bdf4a8b7ebe949f3be19c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/templates/configmap.yaml
+SPDXID: SPDXRef-item3360916
+FileChecksum: SHA1: 546bfde491d9b4a12403d02ed19b332ac294ecc5
+FileChecksum: SHA256: d5625fcc55153d50d058f6b47bd1019bf936dd90f4d40072f9833e2ffbd5f8b9
+FileChecksum: MD5: 918fde2cdaa66a77c7c40589b50c35d9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/Chart.yaml
+SPDXID: SPDXRef-item3360918
+FileChecksum: SHA1: 5ab51da81d67451884858890736e3012bd34bfe0
+FileChecksum: SHA256: a6b82db9e89b452fc4f515835c9287907ceaab2cf94ddee969022f6ce29be521
+FileChecksum: MD5: 9290ba360cd7290b5cf259ffb3a99235
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/templates/service.yaml
+SPDXID: SPDXRef-item3360917
+FileChecksum: SHA1: b7b6dfe4d1a291fed96df6d540deb5a38c9bc482
+FileChecksum: SHA256: 8d6919e1b09c9a86fb7d403ee0ca7ccd829d869ea7246ffa4375ae196f297c7e
+FileChecksum: MD5: 4dd4adc1fa6c9f98f3534e1e0e543187
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/leofs/values.yaml
+SPDXID: SPDXRef-item3360920
+FileChecksum: SHA1: 51870a7b91401f7a3ef4d90d15ff74dfdef691c4
+FileChecksum: SHA256: b070d54acdd7708f4af2f821dbb1f1c4de7aa68009130f7288f8dd95d90c2888
+FileChecksum: MD5: edf768238f34c30ebd5a8a24509f8681
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/tm/templates/deployment.yaml
+SPDXID: SPDXRef-item3360915
+FileChecksum: SHA1: e6c1aa373f8636d7229fc40e13196804de126e92
+FileChecksum: SHA256: 1aec74215f631470cf5b0f9dfac52aa1cb5aef26b5535e702d078d26b067b066
+FileChecksum: MD5: 65cae07cfa2678bfddda6e448a488b9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/leofs/templates/deployment.yaml
+SPDXID: SPDXRef-item3360923
+FileChecksum: SHA1: 24a38cea0980115b33fe24a7324c696a1df48cc6
+FileChecksum: SHA256: 8ce72f710bdacf4b499ed8e18299af99cdf27c457f9c1ce5cd334f7ac761c5b3
+FileChecksum: MD5: 22449d64f0e5fba8c1460b9a65890d77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/leofs/templates/service.yaml
+SPDXID: SPDXRef-item3360924
+FileChecksum: SHA1: b24fe50a5d1b878d28339caf0a5a9dbe36759d05
+FileChecksum: SHA256: 4da7c70587aff6b6ee15b9852e9eda6bcce6c299850d8f906cd660e270321eba
+FileChecksum: MD5: 5a217d6a0de0ee53e3e7eb24f9a0b61e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/values.yaml
+SPDXID: SPDXRef-item3360927
+FileChecksum: SHA1: 427b8899081eb9767cb6989b7253a72d4fdbe430
+FileChecksum: SHA256: 2e13bcdac33945424ace7e7aadb0e96291eeb6c11383ce693d24733068ca7635
+FileChecksum: MD5: 941e2cf1774740408ec0dce814272245
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/leofs/Chart.yaml
+SPDXID: SPDXRef-item3360925
+FileChecksum: SHA1: 8b3ef5dcc05e1a22f0fea9a4bd35b24a5f1667aa
+FileChecksum: SHA256: 4d8bbe42bd98bc4161fc521321a8a038c67608a57414466a56d42306da3eb993
+FileChecksum: MD5: 51a6a52d1471cafdac545698fddd4739
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/templates/configmap.yaml
+SPDXID: SPDXRef-item3360931
+FileChecksum: SHA1: 7a80a5d3eb446a12e26b0682a9f2a35ff964e76c
+FileChecksum: SHA256: 200526e5dd1eb5812dc18c8c81b145e8c5ac937a78418b58a896d100856a977e
+FileChecksum: MD5: bf4379f3eb6be7afdc21123fde1981f0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/templates/deployment.yaml
+SPDXID: SPDXRef-item3360930
+FileChecksum: SHA1: 4ee6edf8338487e9d7ddd9cc04db97324680b384
+FileChecksum: SHA256: 5ff487e96904613845ca06de83774e5e958a14b3d2699bcfb28c2e8e7b322520
+FileChecksum: MD5: ddf83331b77bff2dc1299daa612e845a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/templates/service.yaml
+SPDXID: SPDXRef-item3360932
+FileChecksum: SHA1: e99536506217d9e6df3b320e725c06b34c3678ec
+FileChecksum: SHA256: 3748bab347479640d88c4f4f909c93d0a0d6d9715d801b49259e2b6f5c0a5410
+FileChecksum: MD5: d339fba378baccf881e635f1d795fc7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/helm/kfadapter/Chart.yaml
+SPDXID: SPDXRef-item3360933
+FileChecksum: SHA1: aa2cf8f86a1dd3b72ee67279b4a79b550aed6019
+FileChecksum: SHA256: a03290318184db62ca98b045d9082723ca1091ebcc94a6b23053d850e2ed82dc
+FileChecksum: MD5: dd1c611a4006698879211ad860cda466
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/bin/uninstall_kubeflow.sh
+SPDXID: SPDXRef-item3360938
+FileChecksum: SHA1: 62d8512d0e6aba479d2e12f58b43e189f6f3ae01
+FileChecksum: SHA256: 255ad8cb8a3940198f2a71d48eaadd979e9e8f65a856f7183b029c326a2a25c4
+FileChecksum: MD5: 5d0becd7373300fc0edfb6f147e211ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/bin/install_kubeflow.sh
+SPDXID: SPDXRef-item3360939
+FileChecksum: SHA1: 88716d486bbec63b48742773e77bd87fe6c7f627
+FileChecksum: SHA256: 227708f9d33f9bb320ff81f93fe3269086d8a5fd88b626235b3d493d9f5b8b97
+FileChecksum: MD5: 62f4d2679dc5241362bf4f19856ab70e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/Dockerfile.pipeline
+SPDXID: SPDXRef-item3360942
+FileChecksum: SHA1: f8349cda2fc05d35dc3ac1590842bed6002d3f9f
+FileChecksum: SHA256: 537435be52071ae81ae51263802a98826844945fbf166dba0306b85498196e3a
+FileChecksum: MD5: 8af756334b7e8d1f3f1c36d28ea0d697
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/mlpipeline-leofs-artifact-secret.yaml
+SPDXID: SPDXRef-item3360943
+FileChecksum: SHA1: 634ab350ac1b5a75071205f95ba4f1df12d9b8fe
+FileChecksum: SHA256: 80aac0b15524b40be471dc839ee45ebf905b498ac037338c9f8de969f091c909
+FileChecksum: MD5: 804e9895b5bc12ae482447c71a7102c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/leofs_env.sh
+SPDXID: SPDXRef-item3360946
+FileChecksum: SHA1: 1227e1ad43dccb7d29e9b74a4ff89b8c7fc511db
+FileChecksum: SHA256: bea4c11a974d499a29d8e3edfe4280ea97a6d078149a8e9c6e40aeb01b77ac4e
+FileChecksum: MD5: dd0963bbddca9e74f3aeb592e8edaed2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/helm/install_helm.sh
+SPDXID: SPDXRef-item3360948
+FileChecksum: SHA1: bc08c07d9f32a24ee47fba4f489da00b42629281
+FileChecksum: SHA256: bd07a524724fb8c5b25c5218bc5a44395572baef9029980e8d9dad97ff9a137a
+FileChecksum: MD5: b90d7cbf527e9b2306718325888bdffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/nfs/configure_nfs_server.sh
+SPDXID: SPDXRef-item3360950
+FileChecksum: SHA1: d69ffb2a8ba7de55864ce383f05d708e95ec757a
+FileChecksum: SHA256: 1a5f4318ca367454a3ab45f7bcdb9d8e22cfea3b8d649090ce507d7f84a1043d
+FileChecksum: MD5: 65aedf16460acab819fef86368e2b47c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/nfs/install_nfs_subdir_external_provisioner.sh
+SPDXID: SPDXRef-item3360951
+FileChecksum: SHA1: 293daa0d6788c6231764a3a62b1cba44c6f48c84
+FileChecksum: SHA256: 5300239b96ba33c9708081729be840a3fc0b750d109b263dbaabfbfd1c179d6a
+FileChecksum: MD5: cf1580cf42a47e1c72ac5aee362f441c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/nfs/delete_nfs_subdir_external_provisioner.sh
+SPDXID: SPDXRef-item3360952
+FileChecksum: SHA1: 899b36f3917df3c395cb42f3bd7e01cce73c860d
+FileChecksum: SHA256: 41cd9aec7efe8675ca305432f711dd14c7804e9833cb2a76da005662e5b5ba48
+FileChecksum: MD5: 12d419645ccfd5ec3343bd230c899c9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/leofs/bin/install_leofs.sh
+SPDXID: SPDXRef-item3360955
+FileChecksum: SHA1: 4a200e8069b886069c1d2d56b1ee93024f37fabc
+FileChecksum: SHA256: bf1f07347d9795b9a9fbdc4a164a65c5703a84b08af82cf98422ff5feb5e2908
+FileChecksum: MD5: b75e49aceceb08319e2a003f59f6aa61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/leofs/bin/uninstall_leofs.sh
+SPDXID: SPDXRef-item3360957
+FileChecksum: SHA1: b8b24f345622d2e20654dacfd28e32b918a53e3d
+FileChecksum: SHA256: 49d8378aabdef56af0a63cdf4722983075786aa35dbd348bd2c3231eb17cf4e3
+FileChecksum: MD5: d1c936da61a2f6f50e65222151f50977
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/leofs/bin/leofs_start.sh
+SPDXID: SPDXRef-item3360956
+FileChecksum: SHA1: 224754f34430bbce2736c0564eef4c566390eab5
+FileChecksum: SHA256: 78e8241ec57b219c6c6ee2cfd702c88ecf88eede849b6c0ad45d1f1458ee7633
+FileChecksum: MD5: a05aa87050911a7c5c3b855aae85653c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/leofs/Dockerfile.leofs
+SPDXID: SPDXRef-item3360958
+FileChecksum: SHA1: 14584f2f320e7c38338cd494b3a98856f8cfc022
+FileChecksum: SHA256: 0e2c7350d802364f9f39d1b2e054afe7f6a81b7b19066c3ce17fcebe2a9da1cf
+FileChecksum: MD5: 17e887e0204bbb848c424f96fe17b1ee
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubernetes/uninstall_k8s.sh
+SPDXID: SPDXRef-item3360960
+FileChecksum: SHA1: 6a3b2db605ed4b832c0049a9b654cf85d2943c84
+FileChecksum: SHA256: d6e70ac8271cd4001c976e8a809e0146a4e0b8ac824e68a2ad0ddb0e475ce153
+FileChecksum: MD5: c1f18466c9a4ea4434372f322df7952d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubernetes/install_k8s.sh
+SPDXID: SPDXRef-item3360961
+FileChecksum: SHA1: d0a2a5b2676f41c538e4944f0c20e31c1bc5df4d
+FileChecksum: SHA256: cbd391dd7ac6816106b23673461e53ab6967fe02cbebb0939cd6d129812fdca2
+FileChecksum: MD5: 402e305aa991477fa5e03b677aa78ac1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/RECIPE_EXAMPLE/example_recipe_nexus_images_oran_g_release.yaml
+SPDXID: SPDXRef-item3360963
+FileChecksum: SHA1: 9a98efe0a73c6b0793ebda7ca589f7f7e451d333
+FileChecksum: SHA256: 9a18c6104c15e64819be2344cd0e628c6e925a5b3af6551af06d77b30b1a31bd
+FileChecksum: MD5: 68540637f01a785ca02de71ae296e830
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/RECIPE_EXAMPLE/example_recipe_local_images_oran_g_release.yaml
+SPDXID: SPDXRef-item3360964
+FileChecksum: SHA1: 6ac0d618794d56d08d8207185412d83baf642526
+FileChecksum: SHA256: 7e1a2a11044a8e1811a6732d11acf73f95ac1149bcd0ead6075fa45e01545598
+FileChecksum: MD5: af368671c76a4c1ded8932ca4b519a20
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/values.yaml
+SPDXID: SPDXRef-item3360970
+FileChecksum: SHA1: f3c513e06bbf5b4b1774e5d97ed80f4558832843
+FileChecksum: SHA256: 69c63693a012a30c6ca20412d48e243587d87ca389daa70de7dfff1368454a20
+FileChecksum: MD5: 98178270f7043c2ca8ad43be0baa45d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_leofs.tpl
+SPDXID: SPDXRef-item3360972
+FileChecksum: SHA1: c01caf8c0ffedb4cabf63bd13f946687398dc245
+FileChecksum: SHA256: 001f581bec430cd02c84002b49b1889a2c16b60ee82f7aeb012e35c32902ce63
+FileChecksum: MD5: d7519f69fcd8ed07577fed0f2103e07c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_namespace.tpl
+SPDXID: SPDXRef-item3360973
+FileChecksum: SHA1: 03d2b2bb7f766eec83d637477cb5dfd31b244970
+FileChecksum: SHA256: dee88348d6f31f52d0cc7532c2ce9625c4996b9038574141ca5471f7bb94a4d8
+FileChecksum: MD5: d1d56bc682562ecbc6447ec9fec86e6d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_data-extraction.tpl
+SPDXID: SPDXRef-item3360974
+FileChecksum: SHA1: 8a2f85b8bb658df536815574dba01bc868eb4c64
+FileChecksum: SHA256: 990705fa7c9596fb7d89f102cb6b759e67b4d28745a38100883509409279475f
+FileChecksum: MD5: 4c3d92ae4d204ceedc4ac07a65841b78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_tm.tpl
+SPDXID: SPDXRef-item3360975
+FileChecksum: SHA1: 47d99d9fba6c4ba972f9c7f99d993bebf42d755a
+FileChecksum: SHA256: c41c7f700bab17d0088809d27fb9afc29702cdb3891dfff604dc990d27d6cb18
+FileChecksum: MD5: c4323dbb754a38551b21d5c04972685a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_aiml-dashboard.tpl
+SPDXID: SPDXRef-item3360976
+FileChecksum: SHA1: e9b89f3fdb4cf7dd9fdff7bcc58229cf51a53fc8
+FileChecksum: SHA256: 82449506aadf6a5564b2741aa700bf0cc411e81e79e97e6227fa178339f7c123
+FileChecksum: MD5: bc95df6188701563c7df92702c541a49
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_kfadapter.tpl
+SPDXID: SPDXRef-item3360977
+FileChecksum: SHA1: a3cb4a6f5f9fd1c24f917dff3ae0e29fea40a3a0
+FileChecksum: SHA256: d4dd5815a1482d378969b2d97a5d0ba0c7669e5c6e846173486df5f0bd51d060
+FileChecksum: MD5: 3413d13a8a50071ba6289960be615e54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/modelmetricsdk/singleton_manager.py
+SPDXID: SPDXRef-item3360982
+FileChecksum: SHA1: 1f367815164224b4cd73dded9fa45e0f6c6d4252
+FileChecksum: SHA256: 4c315c33f2d9b46c92e3813c06d7eddf03729db63a9eb6238b4287f6fa3180d0
+FileChecksum: MD5: 276ff5184e78e9ca860d8d4f617e185e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/templates/_aiml-notebook.tpl
+SPDXID: SPDXRef-item3360978
+FileChecksum: SHA1: f447e379f67df90ee7f3a75d065bb48e866b19ea
+FileChecksum: SHA256: f766cde21a144bdfb736a5a8b1d155e5e7035a9077777c21d04d2f13d635854a
+FileChecksum: MD5: 4fa0e7b7ec67fac2b36b461bbe389a62
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/modelmetricsdk/model_metrics_sdk.py
+SPDXID: SPDXRef-item3360983
+FileChecksum: SHA1: af896778034d4bd5e351e8ba56b9f2cbdfcdb137
+FileChecksum: SHA256: 904be22394debb96c829a22eaafb9edc63463ae3a6271a4219277fe5c5350cd1
+FileChecksum: MD5: 6e22fcbd7226368fcd2eb9a005d2ff25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/aimlfw-common/Common-Template/helm/aimlfw-common/Chart.yaml
+SPDXID: SPDXRef-item3360979
+FileChecksum: SHA1: 67b30f91836cd5b8ab679596d32b2c73337f3c6f
+FileChecksum: SHA256: 0997bec2d63271e2292d9d9f2f98c166e8a85e86ac40e3265fc9f5140086d1b3
+FileChecksum: MD5: 54085490a36fc06458703aa6d1029871
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/featurestoresdk/sdk_exception.py
+SPDXID: SPDXRef-item3361052
+FileChecksum: SHA1: b796668892879dc70b912d454784bd8d83b349e2
+FileChecksum: SHA256: 272bc3635f16812f02c4b4ad3157378a6f539faa6c434507e57bbf5ad7fd5bf9
+FileChecksum: MD5: 85fee4438aebd84a6d0d496f1955dafc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/modelmetricsdk/sdk_exception.py
+SPDXID: SPDXRef-item3360984
+FileChecksum: SHA1: b796668892879dc70b912d454784bd8d83b349e2
+FileChecksum: SHA256: 272bc3635f16812f02c4b4ad3157378a6f539faa6c434507e57bbf5ad7fd5bf9
+FileChecksum: MD5: 85fee4438aebd84a6d0d496f1955dafc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/setup.py
+SPDXID: SPDXRef-item3360985
+FileChecksum: SHA1: 2265bfcb3d34adfd3b58a5e653ca7e6afcdbf436
+FileChecksum: SHA256: f3ebdd843feff978f63f8d8c74bbfbfaa537828bd01ac135207ad8081ce8d436
+FileChecksum: MD5: 6f76a5990bd985057fb7e393090cbffc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/FeatureEngineeringFactory.py
+SPDXID: SPDXRef-item3360992
+FileChecksum: SHA1: f69169a5810bb6ac83d2e3e82485ae846b7b8326
+FileChecksum: SHA256: 0db33a8a15565130b8c7c9a6972c26fff6d4adeb85f78910936d0f9c6ba6f4b6
+FileChecksum: MD5: 77daa7637880263b3e18fe68ce9d408a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/sink/Base.py
+SPDXID: SPDXRef-item3360995
+FileChecksum: SHA1: 4ae0e1b46397ec4ad340c504d99c9c495f320028
+FileChecksum: SHA256: 4cba62e55370cef6afb88c60a5c19c1ee8cc6d7b18e0b099c8331349d710c10e
+FileChecksum: MD5: 8b4b7ae022f8adef849bebd41b58abab
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/sink/DefaultSparkSink.py
+SPDXID: SPDXRef-item3360996
+FileChecksum: SHA1: f4d6ecb69b5a307d3e08089f66c84b25dcfafc71
+FileChecksum: SHA256: cd359d42a00321985e924ecc5941bfbcaf737cbfbc13a058039a176833a5bdcc
+FileChecksum: MD5: 83a2daa64724371f08ffc088e91bd589
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/sink/CassandraSink.py
+SPDXID: SPDXRef-item3360998
+FileChecksum: SHA1: e7ade0dbeb93cf23274c5c3158b2920050a5d2a2
+FileChecksum: SHA256: 25caf2982b3ec85ec0a072c627ca3f7e7c323195cb202f2ca9a8745e3a40e002
+FileChecksum: MD5: e7c4e31d538ca6a64ce4b46e8eab2120
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/SparkHelper.py
+SPDXID: SPDXRef-item3360999
+FileChecksum: SHA1: e4395409cb139a0fd0d356d16cccb9911790b88e
+FileChecksum: SHA256: fed976b452df55168af2cc20f52cb2c09f950a76d8c833c1f0a20a8ba00c48b9
+FileChecksum: MD5: c48382cc0e006e3cf5f01287d87828e2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/InfluxSource.py
+SPDXID: SPDXRef-item3361002
+FileChecksum: SHA1: 1a85c4b45598f48749da6e33f616cce4c6200e61
+FileChecksum: SHA256: 4d7e924c2c2b97a4338589fbe6965e335c92b63f898952a69289811e3363a809
+FileChecksum: MD5: a0421300e287ad5c07dbac3b06395c61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/main.py
+SPDXID: SPDXRef-item3361000
+FileChecksum: SHA1: 544233d3bcdbbb2aef4bb3629a04214bc1c6c31b
+FileChecksum: SHA256: 2800c0b4a768965536b16cc5838782750807b13454622a6c1e4825241c9e40d7
+FileChecksum: MD5: fb7103f3ee9e7115900892eaeeb4cd59
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/CassandraSource.py
+SPDXID: SPDXRef-item3361003
+FileChecksum: SHA1: dc7936956c009d7648ab9c47d3ff138c3e961252
+FileChecksum: SHA256: 244e0f040e8c59f4aa586f035b2de0b8a9b6785149447a1f1f634d83b63d5d9b
+FileChecksum: MD5: fd6e371446981e119e235659aa5c3201
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/DefaultSparkSource.py
+SPDXID: SPDXRef-item3361004
+FileChecksum: SHA1: 1bf828cff5903331c9aa8d1ea3ae69b30a3d5277
+FileChecksum: SHA256: c5b3a33d8045e4a04573edb6e7ca5ae02f741f9128f4b567297a23f847e2665e
+FileChecksum: MD5: 4fb8eb2a07dc9b0de8f2bfab14a7e0ed
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/Base.py
+SPDXID: SPDXRef-item3361005
+FileChecksum: SHA1: a98d97023f30e3ba74faf4654d77007f68844898
+FileChecksum: SHA256: 6729c72ff729d5817efed0a9b739a7411f9d0b72092c180d56420951c566de55
+FileChecksum: MD5: 750ab6a77dbcbb72550d666f602cafa6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/Pipeline.py
+SPDXID: SPDXRef-item3361010
+FileChecksum: SHA1: cacf34ddd1ed94149e062ec0f69b2ba3c41d6bb9
+FileChecksum: SHA256: c66fdbfad8dfb8a29385f96cd1d501eaa28721842d56cc245dda347a1dafc61f
+FileChecksum: MD5: 3c494a4a24ef21dab5b0cdef5a36f958
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/tmgr_logger.py
+SPDXID: SPDXRef-item3361009
+FileChecksum: SHA1: d99cdba655776b0985baf33666010a992a3826c3
+FileChecksum: SHA256: 48264009ecaf1c564c01c712c8fe66a117a87ae4679fb65916f7b72a1399e75e
+FileChecksum: MD5: 48f0457b8b1c92040c0336fc1c862545
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/transform/SQLTransform.py
+SPDXID: SPDXRef-item3361013
+FileChecksum: SHA1: 25f41c06a6646f79aac186047d51b29efc4549af
+FileChecksum: SHA256: ae7e7d7694bf569add2a06c31ca59d664c46c5a05268b58a8072383eb62bd9f9
+FileChecksum: MD5: 835992317ceeafb1c59e8c3878c38ce8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/transform/Base.py
+SPDXID: SPDXRef-item3361012
+FileChecksum: SHA1: 5601f07f50648be65c9d9ba866dce90cb7d35a41
+FileChecksum: SHA256: f4a3c553707bdd1421b113a364a97f70d64fc06d97f62aeed0136852fc142e0d
+FileChecksum: MD5: 81968a52ad9806722b2c9ad480242735
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/transform/DefaultSparkTransform.py
+SPDXID: SPDXRef-item3361014
+FileChecksum: SHA1: 40cacb27124b9806997f2e2d4476f2c688e00e8d
+FileChecksum: SHA256: 170a392330ab863e3d5c33f3fb0a5fa07cdf9d8451ba0e26cea4a0a436d5c782
+FileChecksum: MD5: a6c0d9ebe99064f066d4facfa7211446
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/ConfigHelper.py
+SPDXID: SPDXRef-item3361017
+FileChecksum: SHA1: 7ede7ad9074d8603037540e4b70dea00eb62be6d
+FileChecksum: SHA256: 61c7367ab54a598c99e73325640f58553c1dc77d305a37871a4db5145423b4c0
+FileChecksum: MD5: 0e67af9d7a5d423720d44ea7eaf6319e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_cassandrasink.py
+SPDXID: SPDXRef-item3361022
+FileChecksum: SHA1: 38a8702b9b4af50600c2078f094f9a83c8763fd1
+FileChecksum: SHA256: 9c9f6df50d6b23df6dc74bc5b1f389b0dee0ee2b5b4add0439a155075c270216
+FileChecksum: MD5: 1620ee8d661431127e4d25dcd9e9ad5a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/log_config.yaml
+SPDXID: SPDXRef-item3361021
+FileChecksum: SHA1: ea413bcc5124823b4a700d8b09738eff180be3db
+FileChecksum: SHA256: e2826d6b246a77274b7c5e7157749b0deb0b952f273927eb447a85459bb6b1bd
+FileChecksum: MD5: 810b4b50f339c4be06ce220084aa8554
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_tmgr_logger.py
+SPDXID: SPDXRef-item3361024
+FileChecksum: SHA1: 4ff9b388152694c6317182f3148a5017cb5886c5
+FileChecksum: SHA256: 0dfa68c03c24311127babc00af942ba91c5dcdf2ddfeedb16e9b4178d641c930
+FileChecksum: MD5: 3d77408e48a53b3abae4d86e5561b7a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_influxsource.py
+SPDXID: SPDXRef-item3361025
+FileChecksum: SHA1: 4eda73a3556f6b3c09111746483eb5f03b0d866f
+FileChecksum: SHA256: 2e07c33bbf6b683ba92b1840a16d3896133ae7ed5e440523ebe4561dcb475ad0
+FileChecksum: MD5: 08edf5043e3630dc232cb59f17007fcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_main.py
+SPDXID: SPDXRef-item3361027
+FileChecksum: SHA1: 21c77442ad159e8de5e7851c8de675395486f81f
+FileChecksum: SHA256: 6986fe89966de57a4fde59fc02c1a0efa1864fd231f153e704183087a962ff11
+FileChecksum: MD5: d07966d3a7e97dd6117b933748098f9f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_pipeline.py
+SPDXID: SPDXRef-item3361030
+FileChecksum: SHA1: c8db98b8e3477113b7a1222308d001113c686df6
+FileChecksum: SHA256: 34d302a79ad7b19fac67e0395088fd3907c03986b7f0ccbece63861e12ed64d6
+FileChecksum: MD5: 7f2b47101e33811cf57e73b94ae96ef7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_defaultsparktransform.py
+SPDXID: SPDXRef-item3361036
+FileChecksum: SHA1: 529277ba051f2551e6dddf23473970bbabe0d008
+FileChecksum: SHA256: 555d5a8261cf4711bd331427e7358a19408d30a1b7ab55cc046b95040831cc5c
+FileChecksum: MD5: df8f9d4e5b2686480296a375b81527e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_DefaultSparkSource.py
+SPDXID: SPDXRef-item3361037
+FileChecksum: SHA1: 03178f98c3acc19cb379364ea566f63a8eb68693
+FileChecksum: SHA256: afcafaf6aca6e1f5be5f953cbec88543a7cc2bb9c003a5c59443a8df03048c2c
+FileChecksum: MD5: 8f1c8d3d480f2ed0ce08f3e90dd6b70e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_confighelper.py
+SPDXID: SPDXRef-item3361039
+FileChecksum: SHA1: 97343edcc16bc5d03245b621e74b2ac3ceb7175f
+FileChecksum: SHA256: 3f6d9c518e06f9158174dab1d83da0d2af07fe91de7fda545e549c862c250ef7
+FileChecksum: MD5: 4ca68db27100cdc1d083b5909f1d8a3c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_defaultsparksink.py
+SPDXID: SPDXRef-item3361038
+FileChecksum: SHA1: 9c4b207517677a2b3d85cd0778a36c91c5a5e482
+FileChecksum: SHA256: 9c5504d764a54219f39ab5fec23d566e7370aae3f7b5c698636de7e9079ca271
+FileChecksum: MD5: 9fc2bfc5e744f8837558121e1842402e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/Dockerfile
+SPDXID: SPDXRef-item3361041
+FileChecksum: SHA1: 4c3658f48f5d5af1681990420601b9c5108d7a48
+FileChecksum: SHA256: 6b5e83d700098efa2f4a9cde631f78aaaa7cc389faf1a9dede027d0ae1c50f91
+FileChecksum: MD5: bd4771ab46bb45eb7b0fe942738fe2f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/config/log_config.yaml
+SPDXID: SPDXRef-item3361044
+FileChecksum: SHA1: 521d632b99a56e2d5b477480176b3d49683b91cf
+FileChecksum: SHA256: d71869e93cd1ab51c12c97506cf9fd4806bd95f2793d12420830d5e6978e3778
+FileChecksum: MD5: c49c38f1c7860f032c68c064595d9c02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/featurestoresdk/feature_store_sdk.py
+SPDXID: SPDXRef-item3361050
+FileChecksum: SHA1: cfa5534c97733d853b7926905ce3babe9619f74b
+FileChecksum: SHA256: 2ded01ebfbca871fbc566ecfbeafdce1acbef6f76c8de5b6c2a73a0fd53ec333
+FileChecksum: MD5: 4fdac0ad5a9a9da049d40836d5101c64
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/setup.py
+SPDXID: SPDXRef-item3361053
+FileChecksum: SHA1: a807e31b778fd5b8a51884eac72b89ecff7f9f8c
+FileChecksum: SHA256: 72ccb7f6caaf115c55f7539a0bd4197bac11e82cdc9058234c1340661b031f7d
+FileChecksum: MD5: 5066fde513ddb1688c21a5e47cfdd74b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/featurestoresdk/singleton_manager.py
+SPDXID: SPDXRef-item3361051
+FileChecksum: SHA1: dc390e354c9f14aa46ed4d3004f8b30b152e0a3e
+FileChecksum: SHA256: 15a9ee4045b023c456eb3d407fd00929568a4c4abf22b1ebfb1db72995c83849
+FileChecksum: MD5: 004147aeab74ddb0d4316da1e9f6e444
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/tests/test_tm_apis.py
+SPDXID: SPDXRef-item3361063
+FileChecksum: SHA1: 0b97621b452f94549a899d212022e70264428722
+FileChecksum: SHA256: 31d88a1adaf6acaeacfbe56f5fb66b9c1bbaa8da69a0315a7b3e9ed62a0340a2
+FileChecksum: MD5: 6c9d3885b7bac9d4117eb5a3df0df7c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/tests/common/conf_log.yaml
+SPDXID: SPDXRef-item3361062
+FileChecksum: SHA1: 96d50c0dcfc3e81b0f7d7c3c2e3bf19e03156548
+FileChecksum: SHA256: fed9293058a82a4df60aa6e68c9db6516718a1debc4c1b41cebc93eb7fd5a75e
+FileChecksum: MD5: f3caaaed76ea278865ee9c7756d9e5fe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/db/trainingmgr_ps_db.py
+SPDXID: SPDXRef-item3361067
+FileChecksum: SHA1: 049924575e667fd5c0f591dbc39a5cbd8ac2cb4e
+FileChecksum: SHA256: 291bca7b9d3d5c6e99236250325572c6b9d8953e0a31640328a8b96815a76b75
+FileChecksum: MD5: 004809359186ff7bc05828ed74f4c431
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/db/common_db_fun.py
+SPDXID: SPDXRef-item3361069
+FileChecksum: SHA1: e81cd1778bb1c624893ec5b0f385a464d541f5e8
+FileChecksum: SHA256: 3f111466a83e8438fd35f7d075f22560f73c7be56db55d408cb07c0a8f5b7969
+FileChecksum: MD5: 06a507427b263c83f19b61e7582fae92
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/trainingmgr_main.py
+SPDXID: SPDXRef-item3361070
+FileChecksum: SHA1: 1a5bc624546f9017be43869334abc16a0fdd6858
+FileChecksum: SHA256: 01099c931bb82982db5f6bb11596765d85bdc7556eebc48c5f3b0a4a7523e318
+FileChecksum: MD5: 98fe90d88938981ae2cd6a1e782c4628
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/tests/README.MD
+SPDXID: SPDXRef-item3361064
+FileChecksum: SHA1: 9667e2f3d27fe18f5af558f4d390a8fa67aba5e6
+FileChecksum: SHA256: 92ebdcbb57c684244d6972c3c76b605df04db5ba1de9d963cc3d625ec20ffac0
+FileChecksum: MD5: 865cf3752cb614324730b8f6d4cfda93
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/trainingmgr_config.py
+SPDXID: SPDXRef-item3361073
+FileChecksum: SHA1: bcee744a79636e4541052e13136f2cccc2d22e71
+FileChecksum: SHA256: da5fb0b95f3c0f3ec2f0e915a1055f773629a9bc6a549fdb152ae6a0861ffbe9
+FileChecksum: MD5: c01a6b20f480422fb4235a693ef52e78
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/tmgr_logger.py
+SPDXID: SPDXRef-item3361076
+FileChecksum: SHA1: c90b252d3d242eff4323aa219b825faa1d0425dc
+FileChecksum: SHA256: c4d803384112a0ad7c7f111ba3791bf48ddc73d593f3172d728d8f04e70fa15c
+FileChecksum: MD5: 667f887104f10ceab9822124edfd845e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/trainingmgr_operations.py
+SPDXID: SPDXRef-item3361072
+FileChecksum: SHA1: fcf86b32672cee98ba2cad07c2be92790d2290f9
+FileChecksum: SHA256: 965f839570321b90df6caf04cec12508e6031afd622459adb4a97467e32a73fe
+FileChecksum: MD5: c4a1fbbb6e05cadbd4123bebc3e9050a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/exceptions_utls.py
+SPDXID: SPDXRef-item3361077
+FileChecksum: SHA1: 0d47d78e17c56c49e970cbf069edd91731587e5f
+FileChecksum: SHA256: 814ae92fca4b693ecb35bb94b8afff5c04c48e4384ead8603b1e268b2c7ba9a0
+FileChecksum: MD5: 2dda063f410aef8fc532692b4ab16bb9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/trainingmgr_util.py
+SPDXID: SPDXRef-item3361078
+FileChecksum: SHA1: e4dd8e6554000369bda95a5538fb22858d97dff0
+FileChecksum: SHA256: 7722f2d5b9387ae25ba3d2bc5ed134c1d8e0d37a7e7688d8e69e9f6805732049
+FileChecksum: MD5: 88d4edb0d8a98962f7569d2314033865
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/constants/steps.py
+SPDXID: SPDXRef-item3361081
+FileChecksum: SHA1: 06dbb0a5fa0416c79e4ec127b90a0c446884cd32
+FileChecksum: SHA256: 1b8047e773f336869995566986d945755cb723da813e0c0f5cb9fbaa5214e6f2
+FileChecksum: MD5: ecc1bc49c5e1231e6f8383a1df248bcf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/conf_log.yaml
+SPDXID: SPDXRef-item3361074
+FileChecksum: SHA1: 296180c0a065ccb1685be53ef6e90981d357ec23
+FileChecksum: SHA256: f5389915746fe469751ca4db736210f6c78511fc25b8f1f7d7360afd78bcaf23
+FileChecksum: MD5: 1c3d14023f84ba5ec6735012196d41c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/constants/states.py
+SPDXID: SPDXRef-item3361083
+FileChecksum: SHA1: c1444b5bc0a79e1c67b06e05e684ebc3b91cfe70
+FileChecksum: SHA256: bb91c077a059bd89cbbebbf1e4ddabfa44a338c739b2d4f17b1ec6ca888d8edc
+FileChecksum: MD5: f7a580e48fb6683a4aa065aa961ad98d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/setup.py
+SPDXID: SPDXRef-item3361084
+FileChecksum: SHA1: 52c8ea8d01636620f56e3a35cf9651ddacec9e5e
+FileChecksum: SHA256: f42f6c47654b60c69a12768f0cc9bea902e700e2fd114d96d9046471c8ef97dd
+FileChecksum: MD5: bad2a43165debe6e4f139cbfef99ae39
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/tox.ini
+SPDXID: SPDXRef-item3361085
+FileChecksum: SHA1: df0876ae16daac103d181cabfb110c9887a5ecad
+FileChecksum: SHA256: 3060f97c38be3e93c4d9f761a62e120de02a8811ecaac648c29bdbcdd662c06d
+FileChecksum: MD5: 5673fe5ff0ab8fb74ef3144d85f49c46
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Nordix </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/Dockerfile
+SPDXID: SPDXRef-item3361089
+FileChecksum: SHA1: cb4156f112486609903a5f84eef6179c77c63c6f
+FileChecksum: SHA256: 7e3a40abdce812a94843b544e7c1f7af21e63b47c3e8d41d415759eb32b7071d
+FileChecksum: MD5: 96871e59deda8fbe1528c2492be30af8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/README.md
+SPDXID: SPDXRef-item3361090
+FileChecksum: SHA1: b18fe9c25d3cbd6dae718f0df02e4341afd712c0
+FileChecksum: SHA256: cfcaebdc0953aca49020550d4cc018b7220d320aa72268000d5623b5a95c97a7
+FileChecksum: MD5: 0aa89299f200cfe72a7b04c90e27452f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2022 Samsung Electronics Co., Ltd. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/INFO.yaml
+SPDXID: SPDXRef-item3360791
+FileChecksum: SHA1: 59b8c559f9b948bd5dca1f52012003334428d78e
+FileChecksum: SHA256: 1df49964bfc301b6e00ba3bded07ccf800c8ea90f7655ef29ce0aa879ab23962
+FileChecksum: MD5: 451fbff8ebb10017124c38bdf72889e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/go.mod
+SPDXID: SPDXRef-item3360792
+FileChecksum: SHA1: 0409a399b36b9f6f9da3d99d647534f2ea8bb54b
+FileChecksum: SHA256: e856cde72a9f66a7f6b0b3cf616ddf38ab3c8945d669f5b04edf761844377771
+FileChecksum: MD5: 8b09c36ed55b178b0869f3881fbfb330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/.gitreview
+SPDXID: SPDXRef-item3360794
+FileChecksum: SHA1: fb7a5c6ae290d84e50ded452d0c4d7d18cb7c152
+FileChecksum: SHA256: 32735b349887037403d2c33ce348bce3a5107ef695ddf87aa9aed2e553cf82b0
+FileChecksum: MD5: f079f13eaf33311e28d3d246a165ec21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/go.sum
+SPDXID: SPDXRef-item3360795
+FileChecksum: SHA1: e3ee07555779f96690ed41c47261f3b83fd359d9
+FileChecksum: SHA256: fd3b9a6b283f452f343e36d1c19198898bc66cd241f881f87516354c9cbfb4e8
+FileChecksum: MD5: e2ada9eda26e91d955aa6d633bf71fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/config/uta_rtg.rt
+SPDXID: SPDXRef-item3360797
+FileChecksum: SHA1: c552b416c358fad6d5412a38efbdf2009d50bec2
+FileChecksum: SHA256: 796b69eaaf50b570bca62b067d1aff033cba8b656135321a84b512f4d90647cf
+FileChecksum: MD5: 48acb60bad895ee4a67a2decc03756dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/config/schema.json
+SPDXID: SPDXRef-item3360798
+FileChecksum: SHA1: cf58c983a391b3e5984911a7a3762491aa23960e
+FileChecksum: SHA256: 80e610e946c0b0febba6a962f00016acce20bedb8f4b1fe928903c66cfcc0bf9
+FileChecksum: MD5: 6aab61cbd17b5ef11aa02cd9c149a383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-qp-aimlfw/config/config-file.json
+SPDXID: SPDXRef-item3360799
+FileChecksum: SHA1: 8c0b1a0be5729f41aaf93460cc02373220ad3cad
+FileChecksum: SHA256: 09f0f87f2487210f0613953bcb422431bac8740305026b85b0b1da3ca4a9ff25
+FileChecksum: MD5: 68d5c4e5c45e9d607d85802e1e5cda61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aihp-tps-kserve-adapter/INFO.yaml
+SPDXID: SPDXRef-item3360803
+FileChecksum: SHA1: 96d12b7fe5fd3dea90ec3876aa78b603fdf8ff20
+FileChecksum: SHA256: a294b7175759fd7fda8d8d35b32b3b34bea7dbf4f2bd7012785d7f91f16cec31
+FileChecksum: MD5: f62a99894d3c4b3eaabeb56247d5ebe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/INFO.yaml
+SPDXID: SPDXRef-item3360805
+FileChecksum: SHA1: 053a712dc112c6b6c979d3343e1f2c05c526a910
+FileChecksum: SHA256: 263115a7c466ef50cc73a0ceee2bbcedc34f0ea9a941b1609400ab39cf403572
+FileChecksum: MD5: 926e7359ca8c3f9e852c74f6d33ee76e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/requirements.txt
+SPDXID: SPDXRef-item3360817
+FileChecksum: SHA1: 2aa96551bbf2ffc7cbac5dd74a10aaacb9c74845
+FileChecksum: SHA256: 7295ef539ed619aad7815987304c15a403444cd308848ff686d8f9850fb8da30
+FileChecksum: MD5: 795b56936cd6f53780bef3f16625d413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-tps-kubeflow-adapter/.gitreview
+SPDXID: SPDXRef-item3360820
+FileChecksum: SHA1: 6e4db5611182cf356ed5dfd909f7aca7c15da95f
+FileChecksum: SHA256: 1c6f536e244c79073900c97ad48e71eaf5dbee984a16e4d50b0b3da56cc401ba
+FileChecksum: MD5: df7e6f279bf2e5efbe97cb7f6dd14ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/package-lock.json
+SPDXID: SPDXRef-item3360830
+FileChecksum: SHA1: 548ed664b03d828ac0d62da25e820b09d3e3274d
+FileChecksum: SHA256: 440f3dab7cba40e4af3d90b401732799b02774921b3865c534204ff551e3da55
+FileChecksum: MD5: 004372db67a73367da418e3193ad0d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/kf-pipelines/qoe-pipeline.ipynb
+SPDXID: SPDXRef-item3360862
+FileChecksum: SHA1: 8cfef3452f53ed14e3fd4149b29c0b4fb6608691
+FileChecksum: SHA256: 262c18e48e9882fbbe507a40c58f82f89e4fa05c2e664ac683f95b5aa25b2619
+FileChecksum: MD5: 83a6691d566ebdf61031e5f7de2d2fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/INFO.yaml
+SPDXID: SPDXRef-item3360864
+FileChecksum: SHA1: f2e2bb5837fcc637a395173ec3b1af0069d5f6b5
+FileChecksum: SHA256: 1a9b95f76157bdb67d7acd2636059779fb755f9253cf549dd9132b429f25f2a0
+FileChecksum: MD5: 460f536b19aed3aba8bafe51846377e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/npm_run_build.sh
+SPDXID: SPDXRef-item3360866
+FileChecksum: SHA1: b6e1a8401ef93013d7204a47920305995f0fc08d
+FileChecksum: SHA256: 73fd3172f76f44c2a135c989ce1a6f224b212d229d01ea83bffde7d916f817bd
+FileChecksum: MD5: 016c3a4f00159069450dec226e7ebe2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/package.json
+SPDXID: SPDXRef-item3360868
+FileChecksum: SHA1: edc38f9b6002a917e7d07b57bbf358d0e57e2114
+FileChecksum: SHA256: 97476425681a13af2aa553a86bc2e5ee600142e5bae31d9af32205797f6ecb4b
+FileChecksum: MD5: 692548f27c31b11c14cbe3fed062e513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/.gitreview
+SPDXID: SPDXRef-item3360869
+FileChecksum: SHA1: 9c628435643669e025124a3d12dd5903304a43a9
+FileChecksum: SHA256: a0f390b9702cc679c1cede9c7d2e68e3e73ed1fe629165bc3b0d985e0014c03a
+FileChecksum: MD5: 0f0fbf501ded3628eee199262b8efa29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/portal-aiml-dashboard/public/index.html
+SPDXID: SPDXRef-item3360871
+FileChecksum: SHA1: 79b7d267761551d7c2588605b5e6dff434586918
+FileChecksum: SHA256: 51e5c2392b7d54f0d93f70d6feb3ddaa15830f8a014be441c829ad5a96baf354
+FileChecksum: MD5: 01ec410a759c166aae11af917ffac0d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/ric-app-hw-rust/INFO.yaml
+SPDXID: SPDXRef-item3360873
+FileChecksum: SHA1: c3f827bd3f91123a7848c8e0bcadbb6a9cd0e0eb
+FileChecksum: SHA256: 178f79337814e609650135fe37b174db48f63aa2b9dd2cc651da4ccb3c1258b4
+FileChecksum: MD5: fd6a36e882b7583537e10d3b91e27947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/uninstall_traininghost.sh
+SPDXID: SPDXRef-item3360877
+FileChecksum: SHA1: e3d29fb1796c998bae47ad6ea123f6db97256ebe
+FileChecksum: SHA256: 882c86e9dd3b940d619fff97273420f71460b2d6a918ff5555c770904f6e48de
+FileChecksum: MD5: 079af07e63ebe1392c4be9067bd4bb3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/bin/install_traininghost.sh
+SPDXID: SPDXRef-item3360884
+FileChecksum: SHA1: 6b10058cabd70fe29348ce98ec5d117b3574f096
+FileChecksum: SHA256: 147c001f78c3cb6ab2927f25ca70e0f3a430ecf9ecdd72b4eb1ef1aad7f42840
+FileChecksum: MD5: c94a7529fc5c94d1b07da38e05512699
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/INFO.yaml
+SPDXID: SPDXRef-item3360934
+FileChecksum: SHA1: bf403e101f3ca0b101aa90e3209acc3a0a5b4abe
+FileChecksum: SHA256: 0d2dfdd10d22f640060930836f5f6442e5266e9e9296aa4422a0a6df2b44883f
+FileChecksum: MD5: 2c404d6e92d01f56fc59042bccad3171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/ml-pipeline-apiserver-deployment.yaml
+SPDXID: SPDXRef-item3360940
+FileChecksum: SHA1: 9ac8c1b0a9658d86c88164aae10b1fc96f1bc036
+FileChecksum: SHA256: ae464dc7ec45c7070bf2ae740bc0379e7a0a2e441048fe95d0f19231cd1bd48c
+FileChecksum: MD5: 3e51b3c01fb5097560c692fa6de9789f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/kustomization.yaml
+SPDXID: SPDXRef-item3360941
+FileChecksum: SHA1: 3809b64a61385994ce6840114abf9750f1900712
+FileChecksum: SHA256: 61047eb3e9f789df80b032e82c5ccb80f40d4a143b777272cad8a1723ea67538
+FileChecksum: MD5: 408ad9238203dac33192abdf2eb319ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/config.json
+SPDXID: SPDXRef-item3360944
+FileChecksum: SHA1: 23b9553d74d2a3c34f4e172c991eebecb9cac79f
+FileChecksum: SHA256: 4fb52d05cee042e79cadeb6327820be21bbddec84e762fee8fd0061e2ab73717
+FileChecksum: MD5: 8b3108f76d95acaf5a94a2e0d4de57b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/tools/kubeflow/workflow-controller-configmap.yaml
+SPDXID: SPDXRef-item3360945
+FileChecksum: SHA1: a9562b1b5b1e8f306a4ea33d7512a79141289ea2
+FileChecksum: SHA256: b9e0a8838dd1faa7661aa47633873144809b2117c53fab0129d05a1cb3246525
+FileChecksum: MD5: d0ba0341371879f68026c1ed5883a5ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-aimlfw-dep/.gitreview
+SPDXID: SPDXRef-item3360965
+FileChecksum: SHA1: 6f35d4acc0d18045a7b58f158af96a7d5e88ad72
+FileChecksum: SHA256: 8c483c463b40e86b189a17a9456eefbbc62b04d763fa7ca9b96a459750d6a3c5
+FileChecksum: MD5: 0f404c10081a9935fdc10faef7b5bd02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/INFO.yaml
+SPDXID: SPDXRef-item3360986
+FileChecksum: SHA1: c2df7fed9d57304d1645a67dba62393bd5ab9d84
+FileChecksum: SHA256: fd4d2168aa333d5958e174b2c436be33b326f9c0fe4c4b9eaca7455901e0404b
+FileChecksum: MD5: 3ae7d9358d703f8546dd785c88b09531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/.gitreview
+SPDXID: SPDXRef-item3360987
+FileChecksum: SHA1: 3e9804a121b5fa41371b7c8b02dde8feb60c9c61
+FileChecksum: SHA256: 61552ff90dbba9bfa098c3a8b8c4a15ea5695d0c6cbf3df00e6c3f55f35cacac
+FileChecksum: MD5: d69d64e7329a6a15b64c438cd54dfbbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-model-storage/config/config.json
+SPDXID: SPDXRef-item3360989
+FileChecksum: SHA1: fe651980ec735182f6d22585aee5d6797adaf182
+FileChecksum: SHA256: 5465f1e523c4b2cfc91edeca5b11a6bbb46749e08e10d7519c24da8a6fb25ad9
+FileChecksum: MD5: 2c327f9445b998fe2b0b58e8842ba4ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/sink/SinkClassConfig.ini
+SPDXID: SPDXRef-item3360994
+FileChecksum: SHA1: 0cbf35307a323c20a025235a2e21d9c6af76410b
+FileChecksum: SHA256: 8ca53104897f545139ee6b742cf76707ad9bfada81fd400ea43245a6f03ae2c2
+FileChecksum: MD5: e2de927863ce1dc15f5d1f9276d6da50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/sink/__init__.py
+SPDXID: SPDXRef-item3360997
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/SourceClassConfig.ini
+SPDXID: SPDXRef-item3361006
+FileChecksum: SHA1: 73333aad6226e1d6c3417e9d5e300ecbdefcb118
+FileChecksum: SHA256: 7cfa1622f2e0c0e2d4f6a881ad7b0b67c9d8f791a7ca0bd4d04f357c31b05ff3
+FileChecksum: MD5: 34d56fdaa69abb87a05e4ce7580e646b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/source/__init__.py
+SPDXID: SPDXRef-item3361007
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/SparkConfig.ini
+SPDXID: SPDXRef-item3361008
+FileChecksum: SHA1: cf93fe97a60f2b65d21a25f87ed0fe3a727bb723
+FileChecksum: SHA256: 5b1ff4c5edd7dea1c99d38c1ec34dbca95197bd43a1ea8eacae735f178f5ad24
+FileChecksum: MD5: fa456e2413f1fa61fdc83041af812385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/transform/__init__.py
+SPDXID: SPDXRef-item3361015
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/dataextraction/transform/TransformClassConfig.ini
+SPDXID: SPDXRef-item3361016
+FileChecksum: SHA1: 3ed050dbb7032d0265b9e6ec4d0fb15ba43c0cdf
+FileChecksum: SHA256: 43a7bc5fe2d18725ddfed06ff069d00f3598a853aebcc6f0e132a85e33879509
+FileChecksum: MD5: 88feb6f190b730272f102a78cf8899eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/INFO.yaml
+SPDXID: SPDXRef-item3361018
+FileChecksum: SHA1: 27a18aff9b917b9a5160de501442998155fd6ab7
+FileChecksum: SHA256: 5636c3d825a5a491d6b0aa02fe900432c12af5d68e3de5fa0bf9b183a6e4e782
+FileChecksum: MD5: ff5e874929273a90c656ff5b341de96a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/requirements_tests.txt
+SPDXID: SPDXRef-item3361023
+FileChecksum: SHA1: 0d5cf0e5b8c7b892038f2e20e3129e1391487bb2
+FileChecksum: SHA256: 45fdfebfb2254cb19190de8ecc249f140332ebbd82a921209220d6f467dc8f82
+FileChecksum: MD5: 2c0575d8214425dd6373487bc890b739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/test_env.env
+SPDXID: SPDXRef-item3361026
+FileChecksum: SHA1: 9ec7b2a955e044de30952d6d102868a59ba44c48
+FileChecksum: SHA256: 0d057fde15badf12b51343211473ec0d183b36d3aafecfe6946d6251d1f0822a
+FileChecksum: MD5: 13dff2f0311eeae3aca79f0ff9c79ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/sink/SinkClassConfig.ini
+SPDXID: SPDXRef-item3361029
+FileChecksum: SHA1: 0cbf35307a323c20a025235a2e21d9c6af76410b
+FileChecksum: SHA256: 8ca53104897f545139ee6b742cf76707ad9bfada81fd400ea43245a6f03ae2c2
+FileChecksum: MD5: e2de927863ce1dc15f5d1f9276d6da50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/source/SourceClassConfig.ini
+SPDXID: SPDXRef-item3361032
+FileChecksum: SHA1: 73333aad6226e1d6c3417e9d5e300ecbdefcb118
+FileChecksum: SHA256: 7cfa1622f2e0c0e2d4f6a881ad7b0b67c9d8f791a7ca0bd4d04f357c31b05ff3
+FileChecksum: MD5: 34d56fdaa69abb87a05e4ce7580e646b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/SparkConfig.ini
+SPDXID: SPDXRef-item3361033
+FileChecksum: SHA1: cf93fe97a60f2b65d21a25f87ed0fe3a727bb723
+FileChecksum: SHA256: 5b1ff4c5edd7dea1c99d38c1ec34dbca95197bd43a1ea8eacae735f178f5ad24
+FileChecksum: MD5: fa456e2413f1fa61fdc83041af812385
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/test/transform/TransformClassConfig.ini
+SPDXID: SPDXRef-item3361035
+FileChecksum: SHA1: 3ed050dbb7032d0265b9e6ec4d0fb15ba43c0cdf
+FileChecksum: SHA256: 43a7bc5fe2d18725ddfed06ff069d00f3598a853aebcc6f0e132a85e33879509
+FileChecksum: MD5: 88feb6f190b730272f102a78cf8899eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/requirements.txt
+SPDXID: SPDXRef-item3361040
+FileChecksum: SHA1: ce95a72d2b8c4129867ae19f97f859e9c5f0aee2
+FileChecksum: SHA256: e3dbc9c47bf2f98a08817569240aa87ffd25fbcaba0bf3e9d4202300c1c0c99b
+FileChecksum: MD5: 2f27d28d058e99fcf569ed4a81765397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-data-extraction/.gitreview
+SPDXID: SPDXRef-item3361042
+FileChecksum: SHA1: 0ba4e3ed998e385aa7298bda90d5895ae19268c8
+FileChecksum: SHA256: 01569251a6c41f188e6075e870a3f3c1e0a0e24a258518ab914887205d3d7620
+FileChecksum: MD5: 4d65c1e61f905a85a009f7b39b22aa52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw/INFO.yaml
+SPDXID: SPDXRef-item3361046
+FileChecksum: SHA1: 8a43dc68ea0e9b7c0309c8de94dd13d14156d947
+FileChecksum: SHA256: dbcf6bcc5a5776ca8098df3ca2d77bcc7d12566fbc93c8cc524a8148131418f5
+FileChecksum: MD5: 7b6534113eea0e980b8f1d6075e79beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw/.gitreview
+SPDXID: SPDXRef-item3361047
+FileChecksum: SHA1: 10f531f330341d9006543d1efdb694a120c3938e
+FileChecksum: SHA256: ce6552f393080fded0d28993dc27f7264e9d976f2d3f60804fff3c564c3969db
+FileChecksum: MD5: 9c5eceff0d5309c3b2cb3ec4a501eb04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/INFO.yaml
+SPDXID: SPDXRef-item3361054
+FileChecksum: SHA1: 2640e98c921f00cc1fb5a739262089b149db953e
+FileChecksum: SHA256: 2a7c58f591d9354299471dc221648fa072490b72c050fdccc3bde5792a134fbf
+FileChecksum: MD5: 373f6fcf53cf82e6a0988d6048dce5ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/.gitreview
+SPDXID: SPDXRef-item3361055
+FileChecksum: SHA1: 629964893cecb5a1c9f353249d8f9f8d23ddf6d1
+FileChecksum: SHA256: 30b586f756c48f7e038af9c4167974ceb6528ae57a614653005b47dfceea3ecc
+FileChecksum: MD5: 2c8e2f532de3b8c0c66dbfb46f0aa9ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-athp-sdk-feature-store/config/config.json
+SPDXID: SPDXRef-item3361057
+FileChecksum: SHA1: 10051c3fa8807ff348428f73e1cc2123c6ba641d
+FileChecksum: SHA256: 8b71f2d9df492b88357f2d72812a58953facd3093f31bccfab643073809f522e
+FileChecksum: MD5: 2ca931f1d1d15b61d38c6f1b48f1f9ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/tests/requirement_tests.txt
+SPDXID: SPDXRef-item3361060
+FileChecksum: SHA1: c83aebe0cc27d7366712ab8077f200957cdf2bf0
+FileChecksum: SHA256: 9fdf63d3a20dcaf2925f2392e4b2bbb1c1c049579f31d0468aa89a8932abc8b2
+FileChecksum: MD5: c98201a445e33300e0cd8ef327ed36c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/db/__init__.py
+SPDXID: SPDXRef-item3361068
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/common/__init__.py
+SPDXID: SPDXRef-item3361075
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/__init__.py
+SPDXID: SPDXRef-item3361079
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/trainingmgr/constants/__init__.py
+SPDXID: SPDXRef-item3361082
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/INFO.yaml
+SPDXID: SPDXRef-item3361086
+FileChecksum: SHA1: bb369800ebfeaabf1d3541be4e834822c764038a
+FileChecksum: SHA256: 6666d3deccbd957ec89eb946e318ad36456aa5de36386c5baf65718741d9c3c1
+FileChecksum: MD5: c2c06c16860a3e030078a2350d887ee6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/requirements.txt
+SPDXID: SPDXRef-item3361088
+FileChecksum: SHA1: 1cc3b113da40d837ffe1da8cd130f50b0a5f383f
+FileChecksum: SHA256: 9abab1faab985ab63c428512cf4a49e53809eee7d9b5d1928bcb139f467c31a5
+FileChecksum: MD5: 198d5f5519340ae7fb0a5e37f4145e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: aimlfw-2022-12-02.zip/aiml-fw-awmf-tm/.gitreview
+SPDXID: SPDXRef-item3361091
+FileChecksum: SHA1: 4b3dd6f9234a8c541546c1d44a755ac449eb5cf4
+FileChecksum: SHA256: 8265dbc4d77b064bc65feefccd342706efb01713bbbd862debf3bb6f9572cbd7
+FileChecksum: MD5: 8858c499b25b32421cdc6ab213670718
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
