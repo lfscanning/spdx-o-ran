@@ -1,0 +1,2388 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_com-2023-05-22.zip_1684753631.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-05-22T11:07:11Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: com-2023-05-22.zip
+PackageFileName: com-2023-05-22.zip
+SPDXID: SPDXRef-upload901
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 9348bb5ffd7e0e3b41f16f0b7b8f552aa94d7730
+PackageChecksum: SHA1: c2c0463614d3f7519b8e52a503bf43b13c39524c
+PackageChecksum: SHA256: ce102015fa0a808ccac791aa867d97c2090e1c236ce60eb9f8ba527b36c0bc0b
+PackageChecksum: MD5: 779c9b4f093bc01004025e25e17fa088
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload901
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/LICENSES.txt
+SPDXID: SPDXRef-item4429714
+FileChecksum: SHA1: 60497411caf18a9c9f07032f945f700088688ab0
+FileChecksum: SHA256: 3608bcc558fd68874411c35134f7982632e261bfa74e50a21efc11b5e1345abf
+FileChecksum: MD5: 17ae03089e959f996b5650431c8e3549
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/LICENSES.txt
+SPDXID: SPDXRef-item4429584
+FileChecksum: SHA1: 60497411caf18a9c9f07032f945f700088688ab0
+FileChecksum: SHA256: 3608bcc558fd68874411c35134f7982632e261bfa74e50a21efc11b5e1345abf
+FileChecksum: MD5: 17ae03089e959f996b5650431c8e3549
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/.gitignore
+SPDXID: SPDXRef-item4429535
+FileChecksum: SHA1: f767277081df0e35ca3a59cda5dbeb952857fcb3
+FileChecksum: SHA256: 23cecc8711fdbb26146b46009726da027e8d9b1ccc6e55b9614c6b659ea44da5
+FileChecksum: MD5: f46c5c579c02c6722fefcbdc2686b2ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/tst/mdclogtestutils.py
+SPDXID: SPDXRef-item4429524
+FileChecksum: SHA1: 4739441eb22f90f62b93a0943b3ec66ea89a9048
+FileChecksum: SHA256: d8bf8bf55640692bf45b9c6b706963a6b16ba1deb3662ea5e247f826714b7740
+FileChecksum: MD5: 8634742ff7b440a0a5d9120733e21edb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/developer-guide.rst
+SPDXID: SPDXRef-item4429514
+FileChecksum: SHA1: 543f684691075b24f3abba88cfc5ad43baacb4f6
+FileChecksum: SHA256: 9a2909a2dafa1c8dad4b19adba29622321365c6bb8cb1850dbce929eaae7de70
+FileChecksum: MD5: 68e17acb7be4d12f5701b44de6a76f59
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia.
+Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/tst/test_Logger.py
+SPDXID: SPDXRef-item4429526
+FileChecksum: SHA1: f10e850a3bf9cfb6fec821764e0e402ba561752d
+FileChecksum: SHA256: f7725c77ffd2da9a9d2858ba1ce0afa8ca145ac41732d05998eebf0becb5994d
+FileChecksum: MD5: 79487912bf34bc77cfecd3094717c6aa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/mdclogpy/Logger.py
+SPDXID: SPDXRef-item4429528
+FileChecksum: SHA1: 70bbe88a3f8a147686e6f2f954d935037225a903
+FileChecksum: SHA256: 4006b07bbd6843bd5ac68e5282404f4765dd21375906acb5838c05b7b506c3cd
+FileChecksum: MD5: 65971836785ce42212551a4457a250c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/mdclogpy/__init__.py
+SPDXID: SPDXRef-item4429529
+FileChecksum: SHA1: c475f78f9f1182774bb61ce036808447bbd6802f
+FileChecksum: SHA256: c1df30abf58ee7482beffae326b04c69a00b09402bbb05d8c5f6b959d39ad1d9
+FileChecksum: MD5: 4b96c0a5f10f9364962eb1dcd1c6dcf4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/tst/__init__.py
+SPDXID: SPDXRef-item4429525
+FileChecksum: SHA1: 7b7944f5c42c9d8bc184ee488ec58ea198774305
+FileChecksum: SHA256: 07f79b6e2ecb090c2ef9ce6ee43e3eadf91f0eb6381ae6331dc03f7e7c9777ca
+FileChecksum: MD5: 9c31dec4ca2504c0d5abdbd559656a4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/tst/test_mdclogpy.py
+SPDXID: SPDXRef-item4429523
+FileChecksum: SHA1: 59bc2449474807680178d550bcb1ce7b3e6f4495
+FileChecksum: SHA256: 2fc0f22dc00835a68325a59c4dac4d5d4cc4273ca2b404e1dc8fa1902119c272
+FileChecksum: MD5: 3ecc127dc9a37e409c08990a26a5ba57
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/setup.py
+SPDXID: SPDXRef-item4429530
+FileChecksum: SHA1: e5058e15a91a193ac8ba4f2ec28debb4fb8a4978
+FileChecksum: SHA256: fb490ff6a661f4074d21cdd109dc1a802ea7ea8c6b525e6a541542f681bdb4e5
+FileChecksum: MD5: 17989e51b1c8ee55ebee7d0e508a5835
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/tox.ini
+SPDXID: SPDXRef-item4429531
+FileChecksum: SHA1: d8fe61e91905d191e2d5b3788bcc53809d6a9ffd
+FileChecksum: SHA256: ee02083f7c1005cf30b5c41197059916f64965af7314d9c9ba31494afb7aaa63
+FileChecksum: MD5: 1a49ccf8091b931794d41fa16d91c170
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 Nokia
+Copyright (c) 2018-2019 AT&T Intellectual Property. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/mdclogpy/README.md
+SPDXID: SPDXRef-item4429532
+FileChecksum: SHA1: 94cc49ef9839c947b683a4d77ad6ff3b18476288
+FileChecksum: SHA256: a0f1d7513cd39cfe30a967509fd5df77525e456f2afd42c445bd0194ec5481e2
+FileChecksum: MD5: 72010c11cacaf159fde1399d199765c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/LICENSES.txt
+SPDXID: SPDXRef-item4429538
+FileChecksum: SHA1: 6696e3ff33dcd5015074e0e88127105ac4435c8f
+FileChecksum: SHA256: 7d9c7e5719055e4ea8fa415075af817877f6f36694528eb4bc0d4265b4a5018b
+FileChecksum: MD5: 74885a50b1056c7874f03fa3afbba057
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/Makefile.am
+SPDXID: SPDXRef-item4429542
+FileChecksum: SHA1: 426dcae709011096358974d42c33bd4af102b99c
+FileChecksum: SHA256: 4c8b2fd739c64d29f47d299254b848fb2a837906721d4e939c649c82e34f8ed6
+FileChecksum: MD5: 37f611d8f7c3e9e5a29f856d6f32c33f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/src/mdclog.c
+SPDXID: SPDXRef-item4429555
+FileChecksum: SHA1: 35f5c550f84f8caba16c6675750a2d75e706bac4
+FileChecksum: SHA256: c538c529b64df25dddbb3176f1d3f2a08b7d700cce1f0c6a6f862386ffea4c6c
+FileChecksum: MD5: ad2870dcf41e4f6a74678673e29a1676
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tst/test_json_format.cpp
+SPDXID: SPDXRef-item4429559
+FileChecksum: SHA1: 223f5ea63e0f6e0d8a1d68958387c1030dadb8dd
+FileChecksum: SHA256: 5f121f81ace119eabfdc92a14e12fa878ba552844b3e52a36485ce6e9d0f1fd3
+FileChecksum: MD5: 3039ad6f46ba9547b8fd45dfeaf7c066
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tst/system_mock.hpp
+SPDXID: SPDXRef-item4429561
+FileChecksum: SHA1: bbb78bf29c5886c8dd68413ae80e5b5934ecdb88
+FileChecksum: SHA256: 56e1e1f6eff11681cbd93319cf9aad33ad3eaababf899a641602979eb9c35909
+FileChecksum: MD5: 5990da6c0f99ecc91b899e69ce42fecf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/src/mdc.c
+SPDXID: SPDXRef-item4429557
+FileChecksum: SHA1: 2965a7e67202aac8c31220e903d3f5559ba504b9
+FileChecksum: SHA256: e2c7f55f5a7d3066ffea25ad89816b1b19d54472738678ea4f87033d51ec960e
+FileChecksum: MD5: db48d8d4b9500175ad91b2880e5d28c7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/src/json_format.c
+SPDXID: SPDXRef-item4429556
+FileChecksum: SHA1: df56f5e92f136006c7baacab30faa503b912370d
+FileChecksum: SHA256: b5e19331c85b644326bb3fc9999b4d40b7a61de69ea0cc4f6e76e83b8c878d7a
+FileChecksum: MD5: 9dee7e149c02b5723b106e5806a435fc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tst/test_mdc.cpp
+SPDXID: SPDXRef-item4429560
+FileChecksum: SHA1: 80ebbcd18e21e2bd405ed56ed7320d55d59a0f69
+FileChecksum: SHA256: 01f1afe86951c8befe901fc3f7299929abd22fe8cbccc9f56f300893b8a245fa
+FileChecksum: MD5: 5fabcda0cd7424dd4adbfbf31c01da54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tst/system_mock.cpp
+SPDXID: SPDXRef-item4429562
+FileChecksum: SHA1: 6e5877c3a4f041cbe910b91eeeb0e340a8b4af35
+FileChecksum: SHA256: 144bc90a438ef8e42319110618271907fcc96079e6acf33136f883f41ba54eca
+FileChecksum: MD5: d4b4457756ab92125b33ecaca95b2e8a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/package.sh
+SPDXID: SPDXRef-item4429564
+FileChecksum: SHA1: a0d83ac697c8c7f83d1b0ed1ec4cd388d17fd101
+FileChecksum: SHA256: c15bfed4a3e0a2fbaec314d3bc4afcd128d3d1c9414dac93d68bd9d0fa46350f
+FileChecksum: MD5: 7dff29bac35dd7819a9c1933980fe8dd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tst/test_api.cpp
+SPDXID: SPDXRef-item4429563
+FileChecksum: SHA1: c1b7290cf04d66cc911e9d13c3f5c1b029e08e4e
+FileChecksum: SHA256: a73c0968c3e171c02a0a4524f3c17bfcde64730e6118fd2a6becfe74aa4d2f51
+FileChecksum: MD5: 428246851c1253498e3650865021d652
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/.gitignore
+SPDXID: SPDXRef-item4429567
+FileChecksum: SHA1: 60f190106edc1582beba09a5c31a436fdb2ee7eb
+FileChecksum: SHA256: e773fcbdcd93f2f02f2b7014d4b81dd56d25d1fa1a02642ad90b7a1ef56aa2e4
+FileChecksum: MD5: 5334d7ff2c7839418f325eac4b4a7184
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/mdclog.pc.in
+SPDXID: SPDXRef-item4429568
+FileChecksum: SHA1: b4945d069fd2c345361533b66bf37eb1785e1377
+FileChecksum: SHA256: 908b1270e78d62105f68b5d546ca9fd7c1856aabce40c350a699b33e688b0f42
+FileChecksum: MD5: b52364e875c196f98bd457beed1647d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/include/private/system.h
+SPDXID: SPDXRef-item4429571
+FileChecksum: SHA1: cebbf92ff4742c9bea6f946bbc00035013456887
+FileChecksum: SHA256: ceb297620f435f7989bd9c2989101c6d27823f2994678bad8f90af18e6ec52e0
+FileChecksum: MD5: 85ba7f7cbadd275d8ba7b584b96800f4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/include/private/json_format.h
+SPDXID: SPDXRef-item4429572
+FileChecksum: SHA1: a975553aeadd081830473d8751b8690fc515e475
+FileChecksum: SHA256: 20d17488616faf76a3188e6e4e287144a6815a8a616acd076f31edd635a31747
+FileChecksum: MD5: a75436362e62f30a11ad56daad891eb0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/include/private/mdc.h
+SPDXID: SPDXRef-item4429573
+FileChecksum: SHA1: 99ad279b09674fdeb24665564795e1ae817fc05f
+FileChecksum: SHA256: 3512c667e30077edeeb509853b32d68ddbbf3c42ed9a5cb2c1c7ef1bd5e22fef
+FileChecksum: MD5: 2b9149b39097d12f87a62ffe6e59204b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docker_test/publish.sh
+SPDXID: SPDXRef-item4429578
+FileChecksum: SHA1: f3c02429f61506cb39fd744a7c4817fd88254a16
+FileChecksum: SHA256: 65a207d2a3ec03e67461c71ac6f439f1bd47a00c1af554382ae7601fe13d2151
+FileChecksum: MD5: ce95bcbc3a1416c6518cee2299068ed4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property and Nokia </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docker_test/Dockerfile-Test
+SPDXID: SPDXRef-item4429577
+FileChecksum: SHA1: a954503a964e2ac57598f727a9cb7467709ed57c
+FileChecksum: SHA256: e80781d36e4e45be072936a4e67276dc73fe12aa33608ba6bbfaa01d1b167d98
+FileChecksum: MD5: e44a7c80419f95959ba9fae33456e3c2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (C) 2019 AT&T Intellectual Property and Nokia </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/include/mdclog/mdclog.h
+SPDXID: SPDXRef-item4429575
+FileChecksum: SHA1: 7da58b69bf096bd468204fb114cc179736b855b7
+FileChecksum: SHA256: a5162ee1fc952e5caf191f60163878ab831cc760a2b24e606cf4ca3e9f519e8e
+FileChecksum: MD5: 345609b3139dcb0dd65480f2e69d7dca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/configure.ac
+SPDXID: SPDXRef-item4429579
+FileChecksum: SHA1: 9195a6d13d94ccd8fabb63bd0b4caf6fe1b45300
+FileChecksum: SHA256: e8f414ecb4b807e26526a709691c25f4d12e0c40a58125efee6ef6b792a73d52
+FileChecksum: MD5: 42c1365b46c7d36ad1c1ad590b73192b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/autogen.sh
+SPDXID: SPDXRef-item4429676
+FileChecksum: SHA1: f12d67f829ce419dd96b95c04801b426a9002719
+FileChecksum: SHA256: 4ee9b8c68453548c30c45a0a89fc64c526d309ab6fb0fb2ef08b910093114a41
+FileChecksum: MD5: 1bd5d20344bdadb778dec748475750b7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/run-tests.sh.in
+SPDXID: SPDXRef-item4429679
+FileChecksum: SHA1: 5a2e9f5ce854a71a6dd1f50c0b5b88f2c7aeea9f
+FileChecksum: SHA256: 2c5ec8ab3e48973e50da083ad2eec0a437f5d3126e8944d28165a700a842b730
+FileChecksum: MD5: 81b225449883ae2eaf92b17ba2274cd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/README.md
+SPDXID: SPDXRef-item4429677
+FileChecksum: SHA1: 36681f31bac933ec133eaa31f5934b721c6c953b
+FileChecksum: SHA256: c0d664428fe2232233ca3801c6ccafbc36d78a22ecfa79dc9df5de2cac61f004
+FileChecksum: MD5: 09da92bcca214a5fffb075247708eb25
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/Doxyfile
+SPDXID: SPDXRef-item4429674
+FileChecksum: SHA1: ae0d8f4db7142002063a255e3b5f443e14e82b8c
+FileChecksum: SHA256: bcc0c4788dea25cd216639ba9bdaaefc9c7cd483300917ceb97617ac513a2ec7
+FileChecksum: MD5: e3b226cffa6e3680c480f03d8ee12c8d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/mdclog_test.go
+SPDXID: SPDXRef-item4429694
+FileChecksum: SHA1: 795702e00adad50282c2a7018e654e3605b2f5e8
+FileChecksum: SHA256: 9843d31057e5032fc72c0bab794e7b823ead271101b4eda4ebfc838e0ff987dd
+FileChecksum: MD5: 02457f5f0f8758e30f191b080599860a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/mdclog.go
+SPDXID: SPDXRef-item4429706
+FileChecksum: SHA1: 446635abe168196721b81dfc199e4629eefcdcf9
+FileChecksum: SHA256: 91fcc8b8001d976c80165d07a0ed8a0b784344eb8bbc46a56cd619025e1b63b8
+FileChecksum: MD5: 43fbaea80af2ca9532cd2c90b536cc54
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/cmd/logtester/main.go
+SPDXID: SPDXRef-item4429712
+FileChecksum: SHA1: 1d5eabcf574782cf47e6a162c7d569d5d66fa628
+FileChecksum: SHA256: d99d86d2872ebf2f012dbbc93932e95807221bb4345a8255fda42e51276ba3a9
+FileChecksum: MD5: e3cbb8296ddb6808f6db905b8a0b5f96
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/README.md
+SPDXID: SPDXRef-item4429716
+FileChecksum: SHA1: 2a59087950041f5b95853bd662659a34405f10e5
+FileChecksum: SHA256: a82d920175e50220706a41d2a24a4dfeb6ec541747e3066049c87f6456ba1849
+FileChecksum: MD5: 42cf3522818636cfe9d0f7d11098c36a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/ci/Dockerfile
+SPDXID: SPDXRef-item4429693
+FileChecksum: SHA1: 1e7d288d82eaa3f7083e532a22e3d6f3190e3c77
+FileChecksum: SHA256: af3589efc1c3650164b6224a0b6c52fd722ed6388055fe5c22c2b9182b35c2f1
+FileChecksum: MD5: c092a263ccaec68894063b3874ac4907
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2018-2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-filepath.cc
+SPDXID: SPDXRef-item4429600
+FileChecksum: SHA1: c3ec822c4cb63dbee050edcd84245c74d48118b7
+FileChecksum: SHA256: 6d1306ea416bc0e4de299bcb5e0e18ce21c8d08d52b19be29b2d5bdca432ae21
+FileChecksum: MD5: de555aef1eb92d2028211b54af70052a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-internal-inl.h
+SPDXID: SPDXRef-item4429599
+FileChecksum: SHA1: 644700c2deb139ee68a022599df4ea99b01a686b
+FileChecksum: SHA256: 0305f8f6cf7af1c197b8be54e86037dabd97fe54814bb84964d619f4fab5d756
+FileChecksum: MD5: 37988a4c422f74cea48087fa452e6d23
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-matchers.cc
+SPDXID: SPDXRef-item4429597
+FileChecksum: SHA1: 702e967300c53243ef78246a9f471a8b5367aec7
+FileChecksum: SHA256: 99a46d3081d4bc9afbc22bf1628ac1d909066f126b28e2f87ce3e56d38fb892c
+FileChecksum: MD5: 5778a1fcee9483b3eb7d25ad9107b817
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-port.cc
+SPDXID: SPDXRef-item4429594
+FileChecksum: SHA1: 7a14b1a8fd34bb9e30a4ec6ac75a997afa1cf810
+FileChecksum: SHA256: 1bbff88cdf213263c8db8bec6ed31b7a2caf5d10f315b9962d9ad7ec5524def8
+FileChecksum: MD5: f82dd2d93bf6c421dd8969d5b8a9b842
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-printers.cc
+SPDXID: SPDXRef-item4429591
+FileChecksum: SHA1: f0f9a9cc2e7d599bd8e0265f5125e35070ec7d1c
+FileChecksum: SHA256: e79202329a657b0e8dfba01ca838437e4b3752ca1e994b3590f5b8d9e7a56845
+FileChecksum: MD5: fb1c3942b6b4fb1aada1f4af6c723020
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-test-part.cc
+SPDXID: SPDXRef-item4429601
+FileChecksum: SHA1: 49c531fd942abd06fa695f2ff68e4ca0dba6e1e0
+FileChecksum: SHA256: 996f62ba92d0959e9f48c6b2d5f353aae65a86f1c81ffb96fa5275ef231c63d1
+FileChecksum: MD5: b9068dcedbad5accc47d560c86869afc
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-typed-test.cc
+SPDXID: SPDXRef-item4429598
+FileChecksum: SHA1: f733d6d3110252ab19b8bd32e74d2413c6cc3114
+FileChecksum: SHA256: 7c9165efe53322eb7790353e7a87a11aed2e96bb8c017ef6fbe7c93418cf7dea
+FileChecksum: MD5: 65d95395eef33ca8cc2cf761e624f454
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest.cc
+SPDXID: SPDXRef-item4429593
+FileChecksum: SHA1: 2956075881422217a85e913f15bae49afe187c45
+FileChecksum: SHA256: 139bfd06ba7e8bae3e17cfbec31463520417949faa798905047d443f42c9ca7c
+FileChecksum: MD5: a605f78e730997d31d31d3ad63ca6386
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest_main.cc
+SPDXID: SPDXRef-item4429596
+FileChecksum: SHA1: 7b3ef0ccb31f7750aed1ca89d03dbffa26c1bddf
+FileChecksum: SHA256: 874d11243a499943b8b31aa79107093a3f576627abe75657b71b3fd83e2297da
+FileChecksum: MD5: 3e146e9368eb14bb3c4e2648cbeb47d8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2006, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/developer-guide.rst
+SPDXID: SPDXRef-item4429547
+FileChecksum: SHA1: b43d6835edf73d351fb42b7417b5337d9c191b43
+FileChecksum: SHA256: d05b81c097afcdf0e3e2350f3e3bdf63d214c201274e4592cd8ed14534d044eb
+FileChecksum: MD5: 092748c1a7ac4c7b0552b52bcafd9ed3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/index.rst
+SPDXID: SPDXRef-item4429544
+FileChecksum: SHA1: e583a9e4aebd9fd966e8555a09a16ef30462bbaa
+FileChecksum: SHA256: 8922a417825df047184d86d305abafb7272b1718a7e1da5d2950a880c59d320d
+FileChecksum: MD5: e50bd9be9d4ad334d5ddbb661136c680
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/overview.rst
+SPDXID: SPDXRef-item4429545
+FileChecksum: SHA1: e3c73ea0a87ebf7ee698f1653eb42677e9e34237
+FileChecksum: SHA256: fedb8c67de6c33ac110aa768c8ac3b1106f9ccc377555cd46fdf3d2b89e16556
+FileChecksum: MD5: c577b478e2f70aa7c725dda69eac7fc5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/release-notes.rst
+SPDXID: SPDXRef-item4429546
+FileChecksum: SHA1: ab3d5288e80d85298f71089236727b033dec0059
+FileChecksum: SHA256: 6f152162cb864a3a6121ea9dc5ff49a9a628307a971642c3d718050f077aad8d
+FileChecksum: MD5: 51070955c6b04a101ddb2c5e2785607c
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/rpm/mdclog.spec
+SPDXID: SPDXRef-item4429586
+FileChecksum: SHA1: fc1e7f8516682442e81ee54e47defbd61645c3e5
+FileChecksum: SHA256: 38f8d1753b585966c683cd21a4801d1615a8e95210fdd0b429aca80a832918d4
+FileChecksum: MD5: 26191d69948feade68c7a922d18efcf1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/index.rst
+SPDXID: SPDXRef-item4429511
+FileChecksum: SHA1: cab82260ecc25d0a404f19c4d4174f5d744b94d6
+FileChecksum: SHA256: 5b8c7ce0c604f81a98c45e00bdd2df14d88766cf09cd542c8030ae331f9bc638
+FileChecksum: MD5: e3c9680e372759e5a2e3207709af78bc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/overview.rst
+SPDXID: SPDXRef-item4429512
+FileChecksum: SHA1: 398deb1526e915004bb421bc905392df45532779
+FileChecksum: SHA256: e7f87abb316bd9863d08727e7852784a184fa51047d3bfc145b3f8118a5da2da
+FileChecksum: MD5: 810e557704bc6b2c5dd6c8db39de0f87
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/release-notes.rst
+SPDXID: SPDXRef-item4429513
+FileChecksum: SHA1: f9b6833310b27a58fd00f7dc3a29eed52e87b48b
+FileChecksum: SHA256: c67ca16cda9815cfcd850f667606e8d45c231eae4cc72cb17099041f94612803
+FileChecksum: MD5: acf6c33c32b49302f699f107e4b5c170
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/developer-guide.rst
+SPDXID: SPDXRef-item4429699
+FileChecksum: SHA1: 152835a3c943bba7a79e44d4227caeaaa02cd839
+FileChecksum: SHA256: b901b457b6741f9031677bb222bf107b5a4b15c8763012d3734dbe9e23603180
+FileChecksum: MD5: e5bc2e7bb45418c68ae566344fb6cb5f
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/index.rst
+SPDXID: SPDXRef-item4429696
+FileChecksum: SHA1: 9f919c5e3b8564da21847164002447c039ff0a3f
+FileChecksum: SHA256: 9795f1d157515b0acf2637cc0d2832acdc0a60507dac5c2366181665a8aad892
+FileChecksum: MD5: 94e9d47638628ae5cbaec88c4e21c023
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/overview.rst
+SPDXID: SPDXRef-item4429697
+FileChecksum: SHA1: d9be9564784c4bc20d8b0b6b71ca1f7d4a1b7675
+FileChecksum: SHA256: ef5620c99d3b09334bbc0c8b84499887d2e92914d23930eb812ba6318aace7ba
+FileChecksum: MD5: e682012d11b119b5e4b7b1afac7b78fc
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/release-notes.rst
+SPDXID: SPDXRef-item4429698
+FileChecksum: SHA1: 26eae75f9ce647e4633c3b6b41cc62610eb9b9ed
+FileChecksum: SHA256: 913227165c2d3abf2f0c0dc783edd20140860a62806255e410b6cbc98637ae5d
+FileChecksum: MD5: c350bfc22c45a202676685d0aac5a6bf
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (c) 2019 AT&T Intellectual Property.
+Copyright (c) 2019 Nokia. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/custom/gmock-matchers.h
+SPDXID: SPDXRef-item4429667
+FileChecksum: SHA1: fd686cdfed54386c34174e9919675f068d8dc0d2
+FileChecksum: SHA256: 13275dccac14bb7469bc93ca1a923fb62c18f043991a306104be5b2bc2ccebcf
+FileChecksum: MD5: 64ed5309c2e6fc276a785c4d0f1d0dd3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/custom/gmock-port.h
+SPDXID: SPDXRef-item4429666
+FileChecksum: SHA1: 2855291853771ab6a17e4ac423f4cbdcfa44bb74
+FileChecksum: SHA256: 443a2b55b65265f3980eef6e129991a526c03d5a0ebb14a05ac69d161661741c
+FileChecksum: MD5: be81a1385477e78f3c46f13c43bcb73e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/gmock-internal-utils.h
+SPDXID: SPDXRef-item4429664
+FileChecksum: SHA1: e6fd44c41c136ed98827485337fc2983d861308c
+FileChecksum: SHA256: 6c5a23ef18c739449a055fc1827ad8d82d92b65bcf0a80212ef1404d23fb3dc0
+FileChecksum: MD5: 221e13a11773efb5e24216bff361f580
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/gmock-port.h
+SPDXID: SPDXRef-item4429663
+FileChecksum: SHA1: fc040ea4866029273326c91e86a35b8005ca5d3e
+FileChecksum: SHA256: c0e12cf6fea18a859b70e3269475c718725acd9b406b195c801b88378781e092
+FileChecksum: MD5: 7c6238cbe4b7492191e7a00bb21ed2a2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-actions.h
+SPDXID: SPDXRef-item4429648
+FileChecksum: SHA1: 8607d40e1b763435f24a78f533a73712a8bac531
+FileChecksum: SHA256: 03cd7e2e5611f057f3c88deab1d9fd1f86c67795ec0614461be28f2bbe53e23e
+FileChecksum: MD5: 59a3eb9b5697c6f7ffe3ddc975556f04
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-cardinalities.h
+SPDXID: SPDXRef-item4429651
+FileChecksum: SHA1: 264b909ea750f5386d84640cdb786259528bc5d4
+FileChecksum: SHA256: bc3253ba203686f7594dfab80349ccdd9211ef60ef8af2e153e11858923041d3
+FileChecksum: MD5: ced44f962d269ad72ab1ffee66af1940
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-actions.h
+SPDXID: SPDXRef-item4429653
+FileChecksum: SHA1: e1e4d46906d180fe141c37455e4bd52f08e794a0
+FileChecksum: SHA256: 28f458a99fdb2a97fa7479b983305e0cf9d72bc7325dc67e7c4519b516c90b11
+FileChecksum: MD5: 399e5dcdc62ed8dd31c194821ca93cd6
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-actions.h.pump
+SPDXID: SPDXRef-item4429657
+FileChecksum: SHA1: af0a6ff9cb43025fc7b17c3165f9b13cc61e2b87
+FileChecksum: SHA256: 1a82e5e9ac445e85691dba384967c4184b84a540427923dcdc48d8a66494892f
+FileChecksum: MD5: a7976b6d0c7d0d31952c3adc8f494279
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-function-mockers.h
+SPDXID: SPDXRef-item4429650
+FileChecksum: SHA1: 20eff9f57fe18bd50af91d67e630f7637f211dde
+FileChecksum: SHA256: c4cbf32295a88ad5628c7c90fffc78132ef0fac6c904d3e0201c024f281a3993
+FileChecksum: MD5: f55bb35917a48d708fff1bd647fe7138
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-function-mockers.h.pump
+SPDXID: SPDXRef-item4429647
+FileChecksum: SHA1: 1c1c900e5b4dbf73a8f6499d4feb3498f9600eab
+FileChecksum: SHA256: eca1ef0709dda56fd8a39733462eb9a492045c87faf337bf7d3cfd3130e6edf9
+FileChecksum: MD5: b839f1565a90447477093756a7cd4c25
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-matchers.h
+SPDXID: SPDXRef-item4429654
+FileChecksum: SHA1: 6a8948ff050efd89819b3d6ae694b7ada4cb97ce
+FileChecksum: SHA256: af250618e380f8ed67dd3dbcfda00d6a0b780edbf2d843d654eaf11d3ff6feda
+FileChecksum: MD5: 1210b4f26a677fcdf6bd17a1929b173f
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-generated-matchers.h.pump
+SPDXID: SPDXRef-item4429655
+FileChecksum: SHA1: e9770cb921da07a0a3236c833d0b897d2f0c5b32
+FileChecksum: SHA256: f1165b8be36593c60259dd6309da78e31294baf714ac15437ff70e5b0939f0f4
+FileChecksum: MD5: 5d44e7bb8d72e5f3115fcaf815e94f92
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-matchers.h
+SPDXID: SPDXRef-item4429649
+FileChecksum: SHA1: d629411f823209f2ffcd52b954142728e998ab02
+FileChecksum: SHA256: 558da0ef5b20bafcc826d6379866d791552d9378a523649e61045dcd2b3046a0
+FileChecksum: MD5: 01d8b7196edddaad5e85e45e7a8462a4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-more-actions.h
+SPDXID: SPDXRef-item4429658
+FileChecksum: SHA1: 011f44f786788e6bcdeca9cbc139f34bb4fa023e
+FileChecksum: SHA256: a3d8dfc003d70b3c9fa14aa4627160a9950c05866e443fd939dbd308f8c9c9c6
+FileChecksum: MD5: cf52ace7c97bef28ac51bbbb9c5028be
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-more-matchers.h
+SPDXID: SPDXRef-item4429660
+FileChecksum: SHA1: e0e581970189221567f091219d3ea41a68ed4d2d
+FileChecksum: SHA256: 29be4618de3ae4614b2cef8a48714bb2bd8a3a0dd71b88c8bf4337774b92f3ed
+FileChecksum: MD5: 1ec9327fac64880ef16e649607d9ade3
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2013, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-nice-strict.h
+SPDXID: SPDXRef-item4429656
+FileChecksum: SHA1: 2adc9f8b097a9719c25a16a983f320f786954b59
+FileChecksum: SHA256: fd660c73318dfb01ff2f61aa11b37ac599c7d335efb05c77277047ddb9dc62e9
+FileChecksum: MD5: 578dcdf0056f59b9588206d29ccedc99
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-spec-builders.h
+SPDXID: SPDXRef-item4429661
+FileChecksum: SHA1: 29748a63b2a29328950552a11f3820c4fe5c4db4
+FileChecksum: SHA256: 53771f547093351f49b5241c50cf0b2ca4054240820cedd3a2c7d883d4692b0d
+FileChecksum: MD5: 282d3c200cf55dcca8d0840f1c201456
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock.h
+SPDXID: SPDXRef-item4429652
+FileChecksum: SHA1: 8a8282e5e7baa9aee8a5bc70a6c762e2ad4af344
+FileChecksum: SHA256: 26c3ad6ac57ca2a1ad77355ea5c44b5dbb5ebb17ebb26d956ac1d5916c495be3
+FileChecksum: MD5: 2c9fc72a1be7c567b891cc58e774f9a4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock-all.cc
+SPDXID: SPDXRef-item4429643
+FileChecksum: SHA1: 7776114274f3755381b08310001b04c477cfd601
+FileChecksum: SHA256: 166fc3f915d7abcb66f2b1d5cb31c13237838d3464d4de3015dcac00b9d354cd
+FileChecksum: MD5: 5856d82da00232f3fe8c9287c4f30e67
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock-cardinalities.cc
+SPDXID: SPDXRef-item4429642
+FileChecksum: SHA1: 667ca71aa3d8f3b54ce972b0dffc8492cf5bf1ea
+FileChecksum: SHA256: 1351e0abab2f8fe7e7dddd86becdf6b5e208674116362b1436913d7c579e2979
+FileChecksum: MD5: 121aed92efe2a90f927151df0a00d755
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock-internal-utils.cc
+SPDXID: SPDXRef-item4429640
+FileChecksum: SHA1: 46a75bb2d124850d01abb16c3c32bab9a577b646
+FileChecksum: SHA256: f76620446cb7a07389915f60e4994eb9f71d6712f5bd21fa03db9385c3e00de2
+FileChecksum: MD5: 01db9483be8e7f62220935a5337b47da
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock-matchers.cc
+SPDXID: SPDXRef-item4429641
+FileChecksum: SHA1: 31565d52fc85c1d1dbb15900a700bf56469aeccf
+FileChecksum: SHA256: a2d6ed058343ee1777a75abb70cfbf10ee8a25e46befe7c6b75c5fa9db7a5e3f
+FileChecksum: MD5: ea51b08c62044985ab57898aa53c26c7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock-spec-builders.cc
+SPDXID: SPDXRef-item4429644
+FileChecksum: SHA1: 94456aa986242140cb12111739945327f870d874
+FileChecksum: SHA256: e50edd1914c76e8d7b2db7b0948a835df4d98a38ead5c0a3dcb1952088853d8e
+FileChecksum: MD5: e54b3643150203490395d8adfc7b2ce8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock.cc
+SPDXID: SPDXRef-item4429639
+FileChecksum: SHA1: cde3b41d61b71181f7bf17010ecb6568de427ac2
+FileChecksum: SHA256: 903bf3e81db724623a5eb35aa4e3b9e7efa854125904f68abd2835b86f8e51b1
+FileChecksum: MD5: a99eab617552218ca74376cd8cb7dbd7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/src/gmock_main.cc
+SPDXID: SPDXRef-item4429638
+FileChecksum: SHA1: 278cdebdb44ccd66596b30cfe8a2a240b224fff0
+FileChecksum: SHA256: 7a070607a79a2b74c1c2e7432024caa211029d08bea16fa03853b10f0102e22d
+FileChecksum: MD5: e10f7719b31267ddd17014d9901532f2
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/LICENSE
+SPDXID: SPDXRef-item4429636
+FileChecksum: SHA1: 5a2314153eadadc69258a9429104cd11804ea304
+FileChecksum: SHA256: 9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138
+FileChecksum: MD5: cbbd27594afd089daa160d3a16dd515a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/README.md
+SPDXID: SPDXRef-item4429673
+FileChecksum: SHA1: 4666a07b48134bcfd2f799d89396616c0ef28938
+FileChecksum: SHA256: 22de1dced275ca73b657bc16f0428bf74f31b3357bef7750809d5b2fc9b49f9e
+FileChecksum: MD5: db2216bff3bf5b5e7e3c5b475dd3ba44
+LicenseConcluded: LicenseRef-Apache
+LicenseInfoInFile: LicenseRef-Apache
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/custom/gtest-port.h
+SPDXID: SPDXRef-item4429630
+FileChecksum: SHA1: 4ff15364a274076908cdf572b918d878b65da6a2
+FileChecksum: SHA256: 58c6fe9e851b30c2cb294dd5064edf30032a9d544ba3e936820172528e4f0b89
+FileChecksum: MD5: 65efbbf687e93ca2f44bffb6c0b8aa0a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/custom/gtest-printers.h
+SPDXID: SPDXRef-item4429631
+FileChecksum: SHA1: 42c8cc6bf1b86f6b73b438f4bcd7b5c54aa20d5e
+FileChecksum: SHA256: 6edae1e2d9b5b51a36b4d868a8fd15411c92a4f06aef04df14fed5b648c2e943
+FileChecksum: MD5: 32e1703c8b9c102ee2f5c4e43af5bdb8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/custom/gtest.h
+SPDXID: SPDXRef-item4429629
+FileChecksum: SHA1: 09c0c055b28d26fbb1c7af47416dffd6540c16b1
+FileChecksum: SHA256: 178b3115ffc062ef2fb9659e200184e2958ba1fb9f7067ca3fa5c51346ecdb3f
+FileChecksum: MD5: 436c7f70556762c08c8f503be4422fe5
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-death-test-internal.h
+SPDXID: SPDXRef-item4429620
+FileChecksum: SHA1: 26c76bcc68bc82cb0f762684ed14812bee408e4e
+FileChecksum: SHA256: 10d885ba3768e574ddabce209a60887056e269788f1e7c492c5c7f1f497aaa41
+FileChecksum: MD5: 2233bc89fde2466b5b397b684b835831
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-filepath.h
+SPDXID: SPDXRef-item4429625
+FileChecksum: SHA1: 1924c836349ee2dada98c3f4d4fddb966077a8a6
+FileChecksum: SHA256: 92a5f83404ab8399941fb379158033cbd06f448a84b0baed116e1b53c3af5fd1
+FileChecksum: MD5: 5db11190b7f246b63f9b871a3b33c018
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-internal.h
+SPDXID: SPDXRef-item4429627
+FileChecksum: SHA1: a8aec01a493841c9bd96ec5a41b46cea74c4f311
+FileChecksum: SHA256: b86e55e61408eac8285733949d25c642d57e28e6c64854baa3b1625821cedd46
+FileChecksum: MD5: ba105d37cd98e2e00849f337c8fde3bf
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-param-util-generated.h
+SPDXID: SPDXRef-item4429622
+FileChecksum: SHA1: dec3049eede59faecd4d0cc76dd9162a9c81f403
+FileChecksum: SHA256: bca2499544d8c6a8819b5865eb159a645c2b01d48cccad8297847c3afbb0a180
+FileChecksum: MD5: 2aee378b42dfffbf28d7b0e29388a422
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-param-util-generated.h.pump
+SPDXID: SPDXRef-item4429621
+FileChecksum: SHA1: e537bc866639cc40bffc17a615b5747b849d9820
+FileChecksum: SHA256: ea5f8c7e301b4d5214cbb165f06ab8929eb76b8c34915dfcbc160312e9d81ca2
+FileChecksum: MD5: 62efcb531ea3812fa4a086d4d553e84e
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-param-util.h
+SPDXID: SPDXRef-item4429618
+FileChecksum: SHA1: 8bcfd03ce8aeccdf09389192e3fa4e9648c684fd
+FileChecksum: SHA256: f4cc066d60c06f8b18cece1d0790daa3566a291f2701f3ab8cdf17b9c0d4120a
+FileChecksum: MD5: e086e2cf868f67947db9d7a2ce861d77
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-port-arch.h
+SPDXID: SPDXRef-item4429617
+FileChecksum: SHA1: 1db6e7b11eb3b28e0b584eed8cc55183cd4bac28
+FileChecksum: SHA256: 66c5bc7c7d3b0370710a081edaa9b376b8c154d16558928dac875d50a39668ff
+FileChecksum: MD5: eaf42690e03992db341eb62f393151a0
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2015, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-port.h
+SPDXID: SPDXRef-item4429619
+FileChecksum: SHA1: 54a38f409d70e55659bceb65ec6f629f9328c7f4
+FileChecksum: SHA256: b159ecf7f7d3c1204334598bf6b59d003126fb1a41cff5d794cd8b4bb36a4be5
+FileChecksum: MD5: d96ef3a8ef9a66278cd3278012c81be4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-string.h
+SPDXID: SPDXRef-item4429626
+FileChecksum: SHA1: 11467e1a151bb911228fe7e33c67d2b8801e27e4
+FileChecksum: SHA256: 861696f4eb731160b540ada17b8988db35b6e99b1dc228ba6fa54410213d9193
+FileChecksum: MD5: 858b29e7454bb1912124affd7ad45456
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-type-util.h
+SPDXID: SPDXRef-item4429623
+FileChecksum: SHA1: 1b36a8fdf8a8afebe7f6a1ca1bd1cc231a8e9085
+FileChecksum: SHA256: 13ca0ad49bf14f8b762b90c96db9ed906f474018474f429bf970089c53ffb76a
+FileChecksum: MD5: e557cd9c5ff6a4bdf9746bdee6493d1d
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/gtest-type-util.h.pump
+SPDXID: SPDXRef-item4429624
+FileChecksum: SHA1: 9ef9eab549b4659140395505bb70ea35d31a1880
+FileChecksum: SHA256: 9b678b82b65a9a21cc749ca6f4444d70b692d375accc760cf77fdccde10790b4
+FileChecksum: MD5: f70a65370d01fe663d15df540995855b
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-death-test.h
+SPDXID: SPDXRef-item4429614
+FileChecksum: SHA1: 992ddce7957c3bb26b1239b6eb3955348f69b91d
+FileChecksum: SHA256: a9dd403e7f9107bf7f564d919ad1b574fe96fa19754419b5ce9a27af1e49d2e4
+FileChecksum: MD5: 02a604c524940861d3f8e9a86db188d7
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-matchers.h
+SPDXID: SPDXRef-item4429615
+FileChecksum: SHA1: b98396d8607e600a5982723f961ffc7a0d58c5fd
+FileChecksum: SHA256: 29a3584c36491933ce90ac0a2b5b742adb75609e7f6a4b47379b86d308e6fec3
+FileChecksum: MD5: b4b0e093b3ddb593b44ab21672d16359
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-message.h
+SPDXID: SPDXRef-item4429606
+FileChecksum: SHA1: 1f9f600bb7ee7cb8887a87fae85d14b7320a049b
+FileChecksum: SHA256: a03586f38f23b36f23a214dd734fc8d4e47a9da33da33205d753c62448ec2c79
+FileChecksum: MD5: 56d39fcd2cb4ccb479f9cef821e3f798
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-param-test.h
+SPDXID: SPDXRef-item4429604
+FileChecksum: SHA1: e4eb86b77f830896080837f72276ef18e0001d6c
+FileChecksum: SHA256: 377ed28298854c684c8362824da5632b85c3c2b93e2f1a5443df0dd69c7c3ee7
+FileChecksum: MD5: df4563959340e03e28b46000e99a972c
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-param-test.h.pump
+SPDXID: SPDXRef-item4429608
+FileChecksum: SHA1: 0bda134757cc0ef1bd494f67de5ce1701eb239ca
+FileChecksum: SHA256: aea8c9f80fcb25c4a862b470394d049d7881b6ac29c304ae41ad77b6fae8d146
+FileChecksum: MD5: 0ff56f77349ddc37e5583d7fcbdf9ff1
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-printers.h
+SPDXID: SPDXRef-item4429612
+FileChecksum: SHA1: d19afc31fc56002b47e73cbcfa8bc3c43a9b1843
+FileChecksum: SHA256: 63f8a87a1ff2183ec62620f256fc717dfa9cefaa5eec92b39fd32f02a1c97025
+FileChecksum: MD5: 506ffe27ac1506d7860f8e5f7aad40be
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-spi.h
+SPDXID: SPDXRef-item4429610
+FileChecksum: SHA1: 7341d717ea7bef96f04040d8fb893c3cf11ad42c
+FileChecksum: SHA256: 3f672d06014433de5307b63a48fe5a6649fd8c5562953fb003fb09cadc7c7cf2
+FileChecksum: MD5: 64b5adf27f89edfed1d03005d0b82216
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2007, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-test-part.h
+SPDXID: SPDXRef-item4429609
+FileChecksum: SHA1: 0b4e40e8e2dff3871681db035377a9a3beb88438
+FileChecksum: SHA256: d5be4c109bd5385f7a5739d24cf941cce6dfc7023cc75aaf1f7e5522c7f99269
+FileChecksum: MD5: 35da73451eedb66a8f3bc28b98bbb1f0
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest-typed-test.h
+SPDXID: SPDXRef-item4429611
+FileChecksum: SHA1: 444aefa533976d0119fc1033381ee6e375763023
+FileChecksum: SHA256: 584a53a6f2c3f839ea26f7873fbd502cd2c6936923bbe4c572fcd784d8d6e439
+FileChecksum: MD5: 72d353e7801f7542c66049a394763afa
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008 Google Inc. All Rights Reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest.h
+SPDXID: SPDXRef-item4429607
+FileChecksum: SHA1: f94e6b609466c586bb30ed815bc89a9fe611f00d
+FileChecksum: SHA256: 042b42730da92e7480e88e4e83fee37d83824f44c6926ab591f343325a43f0df
+FileChecksum: MD5: 3f37628151c7a2cbebe387afe0eea104
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+LicenseInfoInFile: BSD-2-Clause-Views
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest_pred_impl.h
+SPDXID: SPDXRef-item4429605
+FileChecksum: SHA1: 85f939929614cae804652c22bff6f6e685f55d3c
+FileChecksum: SHA256: 416536e063330c173999c44b33216467347463a9c3b21f3ef38e62c230920249
+FileChecksum: MD5: 44f6f1ca41193c82d203128b8384c705
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2006, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/gtest_prod.h
+SPDXID: SPDXRef-item4429613
+FileChecksum: SHA1: 9b5d2c7f23775f2ea3d9274e3bdc991881714b0f
+FileChecksum: SHA256: 97f9b6a96d244226c8df755c87f4bf8532e7df1ff4fcaf78f7532622a8e125b5
+FileChecksum: MD5: 74fdbe773910214010efe2618580e4fb
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2006, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-all.cc
+SPDXID: SPDXRef-item4429595
+FileChecksum: SHA1: 967765bd3d8f05f11018c2607a8cd45b2ca836b4
+FileChecksum: SHA256: f31bde33a162953020c707c7f88d3689f004d534e728e136c843e04d1e5cd328
+FileChecksum: MD5: f3d9ce6ac0bf734ca95026b97d827533
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/src/gtest-death-test.cc
+SPDXID: SPDXRef-item4429592
+FileChecksum: SHA1: 7c6caf243fa3bd93384dbcae00ed19ccfc8ece58
+FileChecksum: SHA256: 6c0e7d5f8f5430a29f9900d115ead5e318eabc69a9ed4062a1f350851c3394ee
+FileChecksum: MD5: 3b7cbf1d0d95021ac5e8807d453ac6d4
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2005, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/LICENSE
+SPDXID: SPDXRef-item4429589
+FileChecksum: SHA1: 5a2314153eadadc69258a9429104cd11804ea304
+FileChecksum: SHA256: 9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138
+FileChecksum: MD5: cbbd27594afd089daa160d3a16dd515a
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: <text> Copyright 2008, Google Inc. All rights reserved.
+copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/requirements-docs.txt
+SPDXID: SPDXRef-item4429515
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/_static/logo.png
+SPDXID: SPDXRef-item4429517
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/favicon.ico
+SPDXID: SPDXRef-item4429518
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/conf.py
+SPDXID: SPDXRef-item4429519
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/docs/conf.yaml
+SPDXID: SPDXRef-item4429520
+FileChecksum: SHA1: d21549bd9c0320578032120b49ba83f7727750c1
+FileChecksum: SHA256: 8e2169deef15e23fdf6d65cdde9737b556c770635996c2a5de3ccfc4f34f6a30
+FileChecksum: MD5: 2e32d8f5bc24f4ba841bf1af70fd7ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/tox.ini
+SPDXID: SPDXRef-item4429533
+FileChecksum: SHA1: 2a15ced751ec8d0cff650cd41ba8e8cc8a1f5aa4
+FileChecksum: SHA256: c589ea7575e9c40fe82f9b898f9b79dc56ac9df389d6dd11ee372ee0b73fb5bc
+FileChecksum: MD5: 714343e6a9146a37b956cdc6384a8bc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/INFO.yaml
+SPDXID: SPDXRef-item4429534
+FileChecksum: SHA1: fffb8fd438cad7574e8b091f83b143549c47cadf
+FileChecksum: SHA256: f69886cb42ca52fa67a009e1c03a735e230a577adc2de7a35f195e273782f2f6
+FileChecksum: MD5: 376c9b6606c342b85ae62b84a1689e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/releases/pypi-release.yaml
+SPDXID: SPDXRef-item4429537
+FileChecksum: SHA1: 184a0f0fbda7db80a1846d3edacac9170e9bd0aa
+FileChecksum: SHA256: 5368925a052dc7a05673249aefe75b626778fad97b2c3fb37538b075b131f9d9
+FileChecksum: MD5: dcf7fef33306bf0ad648424eb332b01d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/.readthedocs.yaml
+SPDXID: SPDXRef-item4429539
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: SHA256: 7a0d2870bf223541911fc960c7811b340209a99c552c4a1d98a571153701d106
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-pylog/README.md
+SPDXID: SPDXRef-item4429540
+FileChecksum: SHA1: f42ee5e74b5935d2f22c28ec636d00058d14e0d3
+FileChecksum: SHA256: e73cf899158d024d90102201bbf4b82c09f6f916907acfdc6f6ebf1a724ec0ec
+FileChecksum: MD5: a46aa3668a3e992f6cfb6cbc73c2b84e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/requirements-docs.txt
+SPDXID: SPDXRef-item4429548
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/_static/logo.png
+SPDXID: SPDXRef-item4429550
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/favicon.ico
+SPDXID: SPDXRef-item4429551
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/conf.py
+SPDXID: SPDXRef-item4429552
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/docs/conf.yaml
+SPDXID: SPDXRef-item4429553
+FileChecksum: SHA1: d21549bd9c0320578032120b49ba83f7727750c1
+FileChecksum: SHA256: 8e2169deef15e23fdf6d65cdde9737b556c770635996c2a5de3ccfc4f34f6a30
+FileChecksum: MD5: 2e32d8f5bc24f4ba841bf1af70fd7ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/tox.ini
+SPDXID: SPDXRef-item4429565
+FileChecksum: SHA1: 504632df60e85faa631b2b15dcea2ccfa93b773b
+FileChecksum: SHA256: f95299842252603f2960e86d2ba9a1b43e825844111e8f504f87a164956278bc
+FileChecksum: MD5: 8cdee2316fe7a6d8caadf542e3024706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/INFO.yaml
+SPDXID: SPDXRef-item4429566
+FileChecksum: SHA1: d97435e24490a93703b80245dfdb63b47ab01911
+FileChecksum: SHA256: afefa66a4d84e7a7984bfa3964fb65adc5063e9a9d7acee3ae82a69fb2d6e7f4
+FileChecksum: MD5: 2ac3e57db1f202f2d6672e235a1316e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/.gitattributes
+SPDXID: SPDXRef-item4429580
+FileChecksum: SHA1: 51eaaedf983b598480b3f641064fb97ff019c847
+FileChecksum: SHA256: fc2b81ed39bc0bcef63022d6085919389428ec8a22468839748a60dc93170a73
+FileChecksum: MD5: f6c4e21ef355e3430db58b6cff117d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/releases/packagecloud-0.0.4-log.yaml
+SPDXID: SPDXRef-item4429582
+FileChecksum: SHA1: 42de9fccce2195378151561cc7ee241a27d9eff6
+FileChecksum: SHA256: e9fda0835d9c4302f296e02628fabcb7c898fe0c7f93057e5c7ebcb96efbaae4
+FileChecksum: MD5: 1c637ecc0444646a6ca11690cc6eced5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/releases/packagecloud-log.yaml
+SPDXID: SPDXRef-item4429583
+FileChecksum: SHA1: 55bc7f90a59d62fa3af82e661c99fe90effa324c
+FileChecksum: SHA256: 99ff848958945a38f6d46668909d5726ce25e07bd54c0ea7a0bd3eb5fa40b798
+FileChecksum: MD5: 583595df50a0fa9c71fe8c620a731551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/include/gtest/internal/custom/README.md
+SPDXID: SPDXRef-item4429632
+FileChecksum: SHA1: 3e824995816e5e2e770773ee6127c938909619c3
+FileChecksum: SHA256: f2c5847a9f59ea63e25abe9bcecb1749e0030867998680ca03912d6c14244ca7
+FileChecksum: MD5: 202de3a1689045cd27a7ac6b00885f42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/CONTRIBUTORS
+SPDXID: SPDXRef-item4429633
+FileChecksum: SHA1: 02bbc2163b398d8411a21b9a477ea0de5a07f48b
+FileChecksum: SHA256: 4d911cd5e6d71f3f4bbcb2788b2f916df4b0ce1e088752a159457a1d936ae0ce
+FileChecksum: MD5: 15c89d1c05f9a7338b751cb2ccd170ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googletest/README.md
+SPDXID: SPDXRef-item4429634
+FileChecksum: SHA1: af759be6fbf517c05678c2d7508fd09b6d8f359f
+FileChecksum: SHA256: f832ba625299eed4af1f5d021a5971ac5516585db6eb6e2750ff4e16fc504c52
+FileChecksum: MD5: 74107ed8af3869361baf33a3b2c476fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/gmock-function-mocker.h
+SPDXID: SPDXRef-item4429659
+FileChecksum: SHA1: fcbc1a9ce5ce300d70a634e5df88e0de3d52d97d
+FileChecksum: SHA256: 9c6bb22232aca79a5e3563d3b3f883e0a903dca330aa6044d34e85f1b5b34452
+FileChecksum: MD5: bce5d9944d9559f2b10297ab3a90c3c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/custom/gmock-generated-actions.h
+SPDXID: SPDXRef-item4429668
+FileChecksum: SHA1: 12b3a5c3d8f7fd317c38f101fdceab7934ea1eac
+FileChecksum: SHA256: dc439df6e7035e1e0152348a157b80b5300b9e9d6d3442a9c19d556588129c3b
+FileChecksum: MD5: 9728316d484b5ed5f0d16ec86fbed13d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/custom/gmock-generated-actions.h.pump
+SPDXID: SPDXRef-item4429669
+FileChecksum: SHA1: a944c704647477b539d35aa32b14ae21a5293dff
+FileChecksum: SHA256: 851ab2f305009e41647efe3886b4de3dd8a1b9e15e4b5ecc5e83269e37be24d2
+FileChecksum: MD5: af918f16953d0055729150f1a3e308fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/custom/README.md
+SPDXID: SPDXRef-item4429670
+FileChecksum: SHA1: 9462a5624e815dea06d04798ca04e411f7b43e65
+FileChecksum: SHA256: b056988a7596308a813d6c11f1168c46eb484492742bb650e1efc542f395453c
+FileChecksum: MD5: 1cbf6fef3b8e8d9dff2ad1ee5aef5c2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/include/gmock/internal/gmock-pp.h
+SPDXID: SPDXRef-item4429671
+FileChecksum: SHA1: ff78d6501b42448a596c9b9ddd643edb7e37344c
+FileChecksum: SHA256: 519969040c43f92f8883bc0934bcee2f0c72dd28c07b8f00203dbb7de715a1f8
+FileChecksum: MD5: 90c8cf5a20a89eca90e00505aead1d2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/3rdparty/googlemock/CONTRIBUTORS
+SPDXID: SPDXRef-item4429672
+FileChecksum: SHA1: 9ce43a5f6fb1a1918e4bb542244d99e58a497cd4
+FileChecksum: SHA256: 84cdbb13c8f4744601ed72bfee76384c51820bd18e72aa2f3ae057d9aa96f1a2
+FileChecksum: MD5: 87029353a93a8afe05ef4f4557334573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/.readthedocs.yaml
+SPDXID: SPDXRef-item4429675
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: SHA256: 7a0d2870bf223541911fc960c7811b340209a99c552c4a1d98a571153701d106
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/.gitreview
+SPDXID: SPDXRef-item4429678
+FileChecksum: SHA1: ee1f1b656d38132bbcb5763eb6670239e0489b32
+FileChecksum: SHA256: d6814379fba44202438fbc385ff636afc805637af524a82440bde5f6d49f3063
+FileChecksum: MD5: d798dd805d6462dfbdfdc2d99da28eb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/mdclog-dev.dirs
+SPDXID: SPDXRef-item4429681
+FileChecksum: SHA1: d43a01d72cbb9e74877e19e70423d61ee3a866be
+FileChecksum: SHA256: 6be516da01978b9a3466ac594b8ca436ca14374f6f30d9bcb24136814274ad8e
+FileChecksum: MD5: b5d2b430b3d16ec06cc6de41972021d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/changelog
+SPDXID: SPDXRef-item4429682
+FileChecksum: SHA1: 3c5dcce4f236224826ad150cf2e4bedbaeb0275f
+FileChecksum: SHA256: 8f046c2a9cfd48986fbaf399edbe3bb937b548f84939ee1e2cef4a254c6fceb7
+FileChecksum: MD5: 5922c1bf289fff1be9b61ad0c90e5337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/mdclog-dev.install
+SPDXID: SPDXRef-item4429683
+FileChecksum: SHA1: 7069ca636db1525a8e03bdfa03791e19d98bf1e9
+FileChecksum: SHA256: 66b135b1e5d6a739030a49dc83a68dbc392e78c9f4083798dbabd37272bb031f
+FileChecksum: MD5: 6c4e8cae4ded3b8dbdc5453ed6f51f7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/compat
+SPDXID: SPDXRef-item4429684
+FileChecksum: SHA1: 4143d3a341877154d6e95211464e1df1015b74bd
+FileChecksum: SHA256: 917df3320d778ddbaa5c5c7742bc4046bf803c36ed2b050f30844ed206783469
+FileChecksum: MD5: 31d30eea8d0968d6458e0ad0027c9f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/mdclog.install
+SPDXID: SPDXRef-item4429685
+FileChecksum: SHA1: e167a649cb4e3b59442f0597753d4110e95e8209
+FileChecksum: SHA256: 0ff7b540b3e53d1d4d90544bc953d733e180b55ff772fa85ec29e497196454ef
+FileChecksum: MD5: 04a04ed89bb11415e9109fe62acf9f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/source/format
+SPDXID: SPDXRef-item4429687
+FileChecksum: SHA1: 1064dc0ce263680c076a1005f35ec906a5cf5a32
+FileChecksum: SHA256: 1be7080d72e6b566df3e236ce2c55efdfbbb8fa1c972d825e5b672ff8773be1a
+FileChecksum: MD5: d3a10140af54ec7371d3b9b084b07c14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/rules
+SPDXID: SPDXRef-item4429688
+FileChecksum: SHA1: 4bf8710a0512d14528bdbbedfcf8ee57538aeba2
+FileChecksum: SHA256: 8c966fd2d04b271c9cbf6d353d496e63dfa48bcb435115448eb03da0569b7ce4
+FileChecksum: MD5: 78f72f63bcffd66920908090d06b2d59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/mdclog.dirs
+SPDXID: SPDXRef-item4429689
+FileChecksum: SHA1: 98a74fe8ac00cd1860e6db3b06ff1c50daa07286
+FileChecksum: SHA256: 0bb13c291b79916c16ba0cb8da8d0daa0d0034da2c05616e71c6d6a7660bbdb4
+FileChecksum: MD5: 3dbf8c38685cfb2a60a98bddcf25b292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-log/debian/control
+SPDXID: SPDXRef-item4429690
+FileChecksum: SHA1: ddc1f27f20c70fbc1e055b9e456bb5c7093e3551
+FileChecksum: SHA256: 3576010a31e2bdaa01daa33d4b17de10bd9fb748618dafa305817c695f4c3fbd
+FileChecksum: MD5: e1bd38b713ea238ee29e9bb716267edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/requirements-docs.txt
+SPDXID: SPDXRef-item4429700
+FileChecksum: SHA1: 422e762efc01aca8537329d395bb10eae86c6b89
+FileChecksum: SHA256: 3411a753f9befe5fe1b4a1c37c72904ef06a32cbe364d64bc4867a8633ad85fe
+FileChecksum: MD5: 62214afda1e033e65761aa6d273acbaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/_static/logo.png
+SPDXID: SPDXRef-item4429702
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/favicon.ico
+SPDXID: SPDXRef-item4429703
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/conf.py
+SPDXID: SPDXRef-item4429704
+FileChecksum: SHA1: 1a0de88572a59084a6cc427640b51d4a8c858c6c
+FileChecksum: SHA256: 78067363898217f35cb29215367a1e3fbbf258275db1d42e52ce79587e5db0a5
+FileChecksum: MD5: bed48d61c9a43d85c54692a86805f7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/docs/conf.yaml
+SPDXID: SPDXRef-item4429705
+FileChecksum: SHA1: d21549bd9c0320578032120b49ba83f7727750c1
+FileChecksum: SHA256: 8e2169deef15e23fdf6d65cdde9737b556c770635996c2a5de3ccfc4f34f6a30
+FileChecksum: MD5: 2e32d8f5bc24f4ba841bf1af70fd7ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/tox.ini
+SPDXID: SPDXRef-item4429707
+FileChecksum: SHA1: 504632df60e85faa631b2b15dcea2ccfa93b773b
+FileChecksum: SHA256: f95299842252603f2960e86d2ba9a1b43e825844111e8f504f87a164956278bc
+FileChecksum: MD5: 8cdee2316fe7a6d8caadf542e3024706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/INFO.yaml
+SPDXID: SPDXRef-item4429708
+FileChecksum: SHA1: 3ca87de3d5c2c4682cf625cdcefc8545b0b1ea92
+FileChecksum: SHA256: 90ed670a41532083658bb7fad1c0c9aa0deb01b2944899445383caa79aa2ebd2
+FileChecksum: MD5: 89080f567ed0c91d8777e0e9ce067661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/.gitignore
+SPDXID: SPDXRef-item4429709
+FileChecksum: SHA1: 301388e7a61b07b5a4012f3a09e9da7a301b83e8
+FileChecksum: SHA256: b22e4db4206284941db36b4b42eedae146a23826db97ca1009fc7880c76057c8
+FileChecksum: MD5: 33a69c5bd0da6701934ab5098d0f1073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/go.mod
+SPDXID: SPDXRef-item4429713
+FileChecksum: SHA1: ef7f7e3dea7907cb79ea9a65baa810337a24c559
+FileChecksum: SHA256: 5f14b23ea0f1c07bea63806472492bfebb3d6ed7b683a5d31fed743b5c88d73b
+FileChecksum: MD5: 5626c07fafb0d3e610b5a5bef882e6b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/.readthedocs.yaml
+SPDXID: SPDXRef-item4429715
+FileChecksum: SHA1: 1d41128c3f8b096e1d81f5bb1b5810600f484166
+FileChecksum: SHA256: 7a0d2870bf223541911fc960c7811b340209a99c552c4a1d98a571153701d106
+FileChecksum: MD5: 93ae1ac54c062e901990bb82d80a5090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: com-2023-05-22.zip/com-golog/go.sum
+SPDXID: SPDXRef-item4429717
+FileChecksum: SHA1: a3b3e117475b622dadc12160b1415d5618adee51
+FileChecksum: SHA256: cf4aa2c25ec81fefb3cbe770031cdc7d3f685ec8de37092cbf9c644099d3aff7
+FileChecksum: MD5: 00f7a185da6423435bdc9d3953a8af92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache
+LicenseName: Apache
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
