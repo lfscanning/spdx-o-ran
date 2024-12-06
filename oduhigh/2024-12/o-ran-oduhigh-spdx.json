@@ -1,0 +1,70 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2024-12-06T08:16:51Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        }
+    ],
+    "name": "/tmp/tmpn57_a_gx/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpn57_a_gx/code-288d19b8-0600-4e11-bb10-57ee4c65e030",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-282483d9bbb9ec81",
+            "annotations": [
+                {
+                    "annotationDate": "2024-12-06T08:16:51Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause",
+            "name": "o-ran.oduhigh",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2024-12"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-oduhigh-o-du-l2",
+            "comment": "This package was added to the Trivy analysis for the o-du/l2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-2-Clause",
+            "name": "o-du/l2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "064201886fa5a8f26194d36407f236a3d705dbb6"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-282483d9bbb9ec81",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-282483d9bbb9ec81",
+            "relatedSpdxElement": "SPDXRef-o-ran-oduhigh-o-du-l2",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
