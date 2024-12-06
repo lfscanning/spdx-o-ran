@@ -1,0 +1,63 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2024-12-06T02:29:41Z",
+        "creators": [
+            "Organization: aquasecurity",
+            "Tool: trivy-dev",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ]
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpa_hdzng3/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpa_hdzng3/code-851a67df-6f49-41ff-8c83-03d2b09848f4",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-5a33ab6de9dc5fcb",
+            "annotations": [
+                {
+                    "annotationDate": "2024-12-06T02:29:41Z",
+                    "annotationType": "OTHER",
+                    "annotator": "Tool: Trivy",
+                    "comment": "SchemaVersion: 2"
+                }
+            ],
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "(Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "o-ran.doc",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2024-12"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-doc-doc",
+            "comment": "This package was added to the Trivy analysis for the doc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "(Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "(Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "fe1496196f63f9ac1d5eb40c3a0f6f79afcefec8"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5a33ab6de9dc5fcb",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5a33ab6de9dc5fcb",
+            "relatedSpdxElement": "SPDXRef-o-ran-doc-doc",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
