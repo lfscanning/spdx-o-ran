@@ -1,0 +1,3587 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-06-09T06:25:00Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-style",
+            "licenseId": "LicenseRef-BSD-style"
+        }
+    ],
+    "name": "/tmp/tmp3zgjya2y/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp3zgjya2y/code-f1b3e1d2-5cf2-4901-ab29-b7709fc33be4",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-e628a1c47781c869",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-3c98731003375d03",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5188c8e1ad6cb854",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/adapters/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-241763cd318e1b38",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/pgsql-schema-generator/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-81b1533802826b63",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-5f49afe6edf0d647",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/teiv/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-e57971ba89efbd6e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/yang-parser/parser-example/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-fa247667edcd45d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/yang-parser/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-dd1d897390a22fb",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-teiv/yang-parser/yang-parser-jar/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-a6afe5005db743e1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-ves/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-323c44d5af1139af",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "smo-ves/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff67a381ec534e69",
+            "description": "A simple framework for building complex web applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask@2.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Flask",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-efa8fd641c383265",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@3.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "3.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c980b384d4436480",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@2.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "MarkupSafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7c70aee1f391eaf7",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "PyYAML",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-364a731402bb4eeb",
+            "description": "The comprehensive WSGI web application library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/werkzeug@2.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Werkzeug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-745d93c42b26997",
+            "description": "Classes Without Boilerplate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/attrs@22.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: The attrs Cabal",
+            "versionInfo": "22.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-592933989445bd",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2022.9.24",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2022.9.24"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25681674953ac466",
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@2.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "charset-normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: TAHRI Ahmed R.",
+            "versionInfo": "2.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75a44446b220d3e4",
+            "description": "Composable command line interface toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/click@8.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "click",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "8.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-97ce2b7154eb2a47",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ba0c261ff9b0e19",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aa7e5603d94ff14d",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-126cb9de8d1ad0a",
+            "description": "Square\u2019s meticulous HTTP client for Java and Kotlin.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.squareup.okhttp3/okhttp@4.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://square.github.io/okhttp/",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.squareup.okhttp3:okhttp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "supplier": "Organization: Square",
+            "versionInfo": "4.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-488de14011013c8",
+            "description": "Square\u2019s meticulous HTTP client for Java and Kotlin.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.squareup.okhttp3/okhttp@4.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://square.github.io/okhttp/",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.squareup.okhttp3:okhttp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "supplier": "Organization: Square",
+            "versionInfo": "4.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f3fcaded1fad4edc",
+            "description": "Square\u2019s meticulous HTTP client for Java and Kotlin.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.squareup.okhttp3/okhttp@4.9.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://square.github.io/okhttp/",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.squareup.okhttp3:okhttp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Square",
+            "versionInfo": "4.9.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2a246d894ccb75af",
+            "description": "Old JAXB Core module. Contains sources required by XJC, JXC and Runtime modules with dependencies.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-core@2.3.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR (NOASSERTION AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "com.sun.xml.bind:jaxb-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "versionInfo": "2.3.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c329ef39edabec78",
+            "description": "Old JAXB Core module. Contains sources required by XJC, JXC and Runtime modules with dependencies.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-core@2.3.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(CDDL-1.1 AND CDDL-1.1) OR (NOASSERTION AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "com.sun.xml.bind:jaxb-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "2.3.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3473fd8814912259",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(CDDL-1.1 AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ec72bc677322f29b",
+            "description": "Old JAXB Runtime module. Contains sources required for runtime processing.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.sun.xml.bind/jaxb-impl@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://eclipse-ee4j.github.io/jaxb-ri/",
+            "licenseConcluded": "(CDDL-1.1 AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "com.sun.xml.bind:jaxb-impl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e458f62aeeea9204",
+            "description": "Confluent's Python client for Apache Kafka",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/confluent-kafka@1.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/confluentinc/confluent-kafka-python",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND NOASSERTION AND OpenSSL AND Zlib",
+            "licenseDeclared": "Apache-2.0",
+            "name": "confluent-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Confluent Inc.",
+            "versionInfo": "1.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-94156128bd69f3c9",
+            "description": "Code coverage measurement for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/coverage@6.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nedbat/coveragepy",
+            "licenseConcluded": "(Apache-2.0 AND Apache-2.0 AND NOASSERTION AND MIT) OR (GPL-2.0-only AND NOASSERTION)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "coverage",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Ned Batchelder",
+            "versionInfo": "6.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2729da61c8832eb6",
+            "description": "Backport of PEP 654 (exception groups)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/exceptiongroup@1.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "exceptiongroup",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Alex Gr\u00f6nholm",
+            "versionInfo": "1.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d73af4548b424762",
+            "description": "Clean single-source support for Python 3 and 2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/future@0.18.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://python-future.org",
+            "licenseConcluded": "(Apache-2.0 AND Python-2.0 AND BSD-2-Clause AND Python-2.0 AND BSD-3-Clause AND CC-BY-4.0) OR (CC-BY-3.0 AND HPND AND MIT AND MIT AND NOASSERTION AND NOASSERTION AND Python-2.0 AND Python-2.0) OR GPL-2.0-only",
+            "licenseDeclared": "MIT",
+            "name": "future",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python Charmers",
+            "versionInfo": "0.18.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6551913d091483a8",
+            "description": "Coroutine-based network library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/gevent@22.10.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.gevent.org/",
+            "licenseConcluded": "(Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT AND BSD-2-Clause) OR (GPL-2.0-or-later AND BSD-3-Clause AND BSD-3-Clause AND MIT AND NOASSERTION AND BSD-3-Clause AND NOASSERTION AND CC-BY-2.5 AND CC-BY-4.0 AND CC-BY-4.0 AND MIT AND FSFAP AND FSFUL AND FSFULLR AND NOASSERTION AND FSFUL AND NOASSERTION AND FSFULLR AND FSFULLR AND FSFULLRWD AND FSFULLRWD AND GPL-3.0-or-later AND NOASSERTION AND ISC AND ISC AND NOASSERTION AND LGPL-2.1-or-later AND MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND NOASSERTION AND NOASSERTION AND X11 AND NTP AND WTFPL)",
+            "licenseDeclared": "MIT AND Python-2.0",
+            "name": "gevent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: gevent",
+            "versionInfo": "22.10.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c027f9a8a7d2b055",
+            "description": "Lightweight in-process concurrent programming",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/greenlet@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://greenlet.readthedocs.io/",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION AND MIT AND Python-2.0 AND PSF-2.0",
+            "licenseDeclared": "MIT AND PSF-2.0",
+            "name": "greenlet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: python-greenlet",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2049f270e7462cb8",
+            "description": "Use graphviz in a pure java environment.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/guru.nidi/graphviz-java@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nidi3/graphviz-java",
+            "licenseDeclared": "Apache-2.0",
+            "name": "guru.nidi:graphviz-java",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "supplier": "Organization: Stefan Niederhauser",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ad8cf0d6676bbf1",
+            "description": "Use graphviz in a pure java environment.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/guru.nidi/graphviz-java@0.18.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nidi3/graphviz-java",
+            "licenseDeclared": "Apache-2.0",
+            "name": "guru.nidi:graphviz-java",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Stefan Niederhauser",
+            "versionInfo": "0.18.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-efbe33e3696ff717",
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-525c654ff6deaa52",
+            "description": "Read metadata from Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/importlib-metadata@5.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "importlib-metadata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "5.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d76ba31307d7661",
+            "description": "Read resources from Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/importlib-resources@5.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "importlib-resources",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "5.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-df6b4b3c4f094f54",
+            "description": "brain-dead simple config-ini parsing",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/iniconfig@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/iniconfig",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "iniconfig",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5c776fffda8da085",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-core@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-640b449a6bab2988",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-core@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9c538959a7123ecf",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-core@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2866defe005d49b4",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-kafka@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43f8b6f96ae99589",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-kafka@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-45dc5d92ab8bd740",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-kafka@2.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "2.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6cee969a676e0bfc",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-kafka@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ef7079d0cbf3b025",
+            "description": "CloudEvents SDK for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.cloudevents/cloudevents-kafka@2.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://cloudevents.github.io/sdk-java/",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.cloudevents:cloudevents-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "versionInfo": "2.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-df8eff5edb59c046",
+            "description": "Core module of Micrometer containing instrumentation API and implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-core@1.10.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e946f0b4fe2714f6",
+            "description": "Core module of Micrometer containing instrumentation API and implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-core@1.10.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-155b3b35d894569e",
+            "description": "MeterRegistry implementation for Prometheus using io.prometheus:prometheus-metrics-core. If you have compatibility issues with this module, you can go back to io.micrometer:micrometer-registry-prometheus-simpleclient that uses io.prometheus:simpleclient_common.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-registry-prometheus@1.10.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-registry-prometheus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-55e86fb4371c9d28",
+            "description": "MeterRegistry implementation for Prometheus using io.prometheus:prometheus-metrics-core. If you have compatibility issues with this module, you can go back to io.micrometer:micrometer-registry-prometheus-simpleclient that uses io.prometheus:simpleclient_common.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.micrometer/micrometer-registry-prometheus@1.10.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/micrometer-metrics/micrometer",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.micrometer:micrometer-registry-prometheus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Micrometer",
+            "versionInfo": "1.10.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-908c601c1cb8eeaf",
+            "description": "Safely pass data to untrusted environments and back.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/itsdangerous@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "itsdangerous",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-353c95bc3e5cd73c",
+            "description": "JAXB (JSR 222) API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/javax.xml.bind/jaxb-api@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/javaee/jaxb-spec",
+            "licenseConcluded": "(CDDL-1.1 AND GPL-2.0-only AND NOASSERTION AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "javax.xml.bind:jaxb-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Java EE",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bfea0db2b5f65825",
+            "description": "JAXB (JSR 222) API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/javax.xml.bind/jaxb-api@2.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/javaee/jaxb-spec",
+            "licenseConcluded": "(CDDL-1.1 AND GPL-2.0-only AND NOASSERTION AND NOASSERTION) OR CDDL-1.1",
+            "licenseDeclared": "CDDL-1.1 OR GPL-2.0-only WITH Classpath-exception-2.0",
+            "name": "javax.xml.bind:jaxb-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "supplier": "Organization: Java EE",
+            "versionInfo": "2.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0cfb272cd90e7a5",
+            "description": "An implementation of JSON Schema validation for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jsonschema@4.17.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-jsonschema/jsonschema",
+            "licenseConcluded": "Apache-2.0 AND GPL-1.0-or-later AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "jsonschema",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "4.17.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3f39bd41c98ee235",
+            "description": "Pure Python client for Apache Kafka",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/kafka-python@2.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dpkp/kafka-python",
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "kafka-python",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Dana Powers",
+            "versionInfo": "2.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-25edcabd4d4e0e3c",
+            "description": "Rolling backport of unittest.mock for all Pythons",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/mock@4.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://mock.readthedocs.org/en/latest/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: testing-cabal",
+            "versionInfo": "4.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-487183e52d076b5e",
+            "description": "Provides logback encoders, layouts, and appenders to log in JSON and other formats supported by Jackson",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/net.logstash.logback/logstash-logback-encoder@6.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/logfellow/logstash-logback-encoder",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "net.logstash.logback:logstash-logback-encoder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: logfellow",
+            "versionInfo": "6.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ad4067516760a710",
+            "description": "Provides logback encoders, layouts, and appenders to log in JSON and other formats supported by Jackson",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/net.logstash.logback/logstash-logback-encoder@6.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/logfellow/logstash-logback-encoder",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "net.logstash.logback:logstash-logback-encoder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: logfellow",
+            "versionInfo": "6.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4cbf4e7aed4940f0",
+            "description": "The ANTLR 4 Runtime",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.antlr/antlr4-runtime@4.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.antlr.org/",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "org.antlr:antlr4-runtime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Antlr Project",
+            "versionInfo": "4.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a87a122b178e969a",
+            "description": "The ANTLR 4 Runtime",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.antlr/antlr4-runtime@4.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.antlr.org/",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "org.antlr:antlr4-runtime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Antlr Project",
+            "versionInfo": "4.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a34afac6bdac2d77",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17 and 21 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "3.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eb909d74c57d7003",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17 and 21 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "versionInfo": "3.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3483927751f5fe3f",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://hc.apache.org/httpcomponents-client-5.5.x/5.5/",
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "org.apache.httpcomponents.client5:httpclient5",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ec29f6df28c61ac2",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents.client5/httpclient5@5.4.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://hc.apache.org/httpcomponents-client-5.5.x/5.5/",
+            "licenseConcluded": "Apache-2.0 AND MIT AND Apache-2.0 AND MPL-2.0",
+            "licenseDeclared": "Apache-2.0 AND MIT",
+            "name": "org.apache.httpcomponents.client5:httpclient5",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "5.4.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-52a6587bf49d83e3",
+            "description": "jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.jooq/jooq@3.18.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.jooq.org",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.jooq:jooq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: jOOQ Object Oriented Querying",
+            "versionInfo": "3.18.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c591ccc66c6171fd",
+            "description": "jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.jooq/jooq@3.18.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.jooq.org",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.jooq:jooq",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: jOOQ Object Oriented Querying",
+            "versionInfo": "3.18.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6f382f6836687557",
+            "description": "JsonNullable wrapper class and Jackson module to support fields with meaningful null values.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.openapitools/jackson-databind-nullable@0.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenAPITools/jackson-databind-nullable",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.openapitools:jackson-databind-nullable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: OpenAPI Tools",
+            "versionInfo": "0.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9eb41b11ca26562e",
+            "description": "JsonNullable wrapper class and Jackson module to support fields with meaningful null values.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.openapitools/jackson-databind-nullable@0.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/OpenAPITools/jackson-databind-nullable",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.openapitools:jackson-databind-nullable",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: OpenAPI Tools",
+            "versionInfo": "0.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-40408b8f73e0ed43",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.teiv.pgsqlgenerator/pgsql-schema-generator@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.teiv.pgsqlgenerator:pgsql-schema-generator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.teiv.pgsqlgenerator/pgsql-schema-generator@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.teiv.pgsqlgenerator:pgsql-schema-generator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.teiv/topology-exposure-inventory-jar@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.teiv:topology-exposure-inventory-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c778de9bfec432f1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.teiv/topology-exposure-inventory-jar@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.teiv:topology-exposure-inventory-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-92f7adcac9524378",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser.simple.example/parser-example@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser.simple.example:parser-example",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dfdae1d4e5daa321",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser.simple.example/parser-example@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser.simple.example:parser-example",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f5d65c75b24a07b7",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser.simple.example/parser-example@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser.simple.example:parser-example",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/parser-example/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31a86dcfb6a9c6d2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6cc9061d9a2f2d5b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-85012acf86f57e9f",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-917552cee228daa2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-95c43a668f33cec8",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9689947256ca36d3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/yang-parser-jar/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a7119c0253d0896",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bce7e1c16ccb72a3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo.yangtools.parser/yang-parser-jar@1.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "org.oran.smo.yangtools.parser:yang-parser-jar",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/parser-example/pom.xml",
+            "versionInfo": "1.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5312eb50bd165039",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/adapters@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:adapters",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6ceb5563338253e5",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/adapters@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:adapters",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-38d2ebb1f12de37b",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/ncmp-to-teiv-adapter@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:ncmp-to-teiv-adapter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-70fd0caf83b203f1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/ncmp-to-teiv-adapter@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:ncmp-to-teiv-adapter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-babc6c6a5c52cb04",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/ncmp-to-teiv-adapter@0.0.1-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:ncmp-to-teiv-adapter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.0.1-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c525181df7258e52",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/topology-exposure-inventory@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:topology-exposure-inventory",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-66a3655bc82bf167",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/yang-parser@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:yang-parser",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/yang-parser/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c698260c82beabf6",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.smo/yang-parser@0.2.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.oran.smo:yang-parser",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "0.2.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5100b6c422511ecd",
+            "description": "PostgreSQL JDBC Driver Postgresql",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.postgresql/postgresql@42.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jdbc.postgresql.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-2-Clause AND NOASSERTION AND BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "org.postgresql:postgresql",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Postgresql JDBC",
+            "versionInfo": "42.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e8645961657f0ab1",
+            "description": "PostgreSQL JDBC Driver Postgresql",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.postgresql/postgresql@42.5.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://jdbc.postgresql.org",
+            "licenseConcluded": "Apache-2.0 AND BSD-2-Clause AND NOASSERTION AND BSD-2-Clause",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "org.postgresql:postgresql",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Postgresql JDBC",
+            "versionInfo": "42.5.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4ca448781d9709d0",
+            "description": "Spring openapi documentation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-ui@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://springdoc.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springdoc:springdoc-openapi-starter-webmvc-ui",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: springdoc-openapi",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a56d25a054ac9bf0",
+            "description": "Spring openapi documentation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springdoc/springdoc-openapi-starter-webmvc-ui@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://springdoc.org/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springdoc:springdoc-openapi-starter-webmvc-ui",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: springdoc-openapi",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1d32af337b40278a",
+            "description": "Core starter, including auto-configuration support, logging and YAML",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pgsql-schema-generator/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3c3814c9ab612901",
+            "description": "Core starter, including auto-configuration support, logging and YAML",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8971cae23114693",
+            "description": "Core starter, including auto-configuration support, logging and YAML",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f4c5b19a4b3b1eff",
+            "description": "Core starter, including auto-configuration support, logging and YAML",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3d2121441d85ccd4",
+            "description": "Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-actuator",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-actuator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-798e5d0e1682b72d",
+            "description": "Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-actuator",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-actuator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c10f3ed93f712a0",
+            "description": "Starter for using Spring Framework's caching support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-cache",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-cache",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-feb686a3efd7485c",
+            "description": "Starter for using Spring Framework's caching support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-cache",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-cache",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ae0f25dd2d640cc4",
+            "description": "Starter for using JDBC with the HikariCP connection pool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jdbc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-jdbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cddea9bb18d64955",
+            "description": "Starter for using JDBC with the HikariCP connection pool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jdbc",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-jdbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31279b84a6689a30",
+            "description": "Starter for building RESTful web applications using JAX-RS and Jersey. An alternative to spring-boot-starter-web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jersey",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-jersey",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3ab5f07496733f55",
+            "description": "Starter for building RESTful web applications using JAX-RS and Jersey. An alternative to spring-boot-starter-web",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jersey",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-jersey",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-44d9e24dbbc1eae2",
+            "description": "Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-web",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e463ca4ed7ca3fff",
+            "description": "Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-web",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "name": "org.springframework.boot:spring-boot-starter-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8b55957142314591",
+            "description": "Spring Kafka Support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.kafka/spring-kafka",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
+            "name": "org.springframework.kafka:spring-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bf69a0d35f70324a",
+            "description": "Spring Kafka Support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.kafka/spring-kafka@3.3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.kafka:spring-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d88783650cf4d76b",
+            "description": "Spring Kafka Support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.kafka/spring-kafka@3.3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.kafka:spring-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/adapters/ncmp-to-teiv-adapter/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e3d821d919941a48",
+            "description": "Spring Kafka Support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.kafka/spring-kafka@3.3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.kafka:spring-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "3.3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f48112fad8d1e517",
+            "description": "Spring Kafka Support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.kafka/spring-kafka",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-kafka",
+            "name": "org.springframework.kafka:spring-kafka",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11fd0e34a7a38ee",
+            "description": "Spring Aspects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aspects",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "name": "org.springframework:spring-aspects",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7097e463d5e861ba",
+            "description": "Spring Aspects",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework/spring-aspects",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/spring-projects/spring-framework",
+            "name": "org.springframework:spring-aspects",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-11e2985990b379e8",
+            "description": "YAML 1.1 parser and emitter for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.yaml/snakeyaml@2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://bitbucket.org/snakeyaml/snakeyaml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.yaml:snakeyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/teiv/pom.xml",
+            "versionInfo": "2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4390ebefee28eee2",
+            "description": "YAML 1.1 parser and emitter for Java",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.yaml/snakeyaml@2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://bitbucket.org/snakeyaml/snakeyaml",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.yaml:snakeyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-teiv/pom.xml",
+            "versionInfo": "2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-740a695390aa32ba",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@21.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-2-Clause OR Apache-2.0) AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND (BSD-2-Clause OR Apache-2.0) AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND BSD-2-Clause AND BSD-3-Clause) OR Apache-2.0",
+            "licenseDeclared": "(Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause) OR (Apache-2.0 AND BSD-3-Clause)",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "21.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d440bfcdb5871a0",
+            "description": "Resolve a name to an object.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pkgutil-resolve-name@1.3.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/graingert/pkgutil-resolve-name",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT AND Python-2.0",
+            "name": "pkgutil-resolve-name",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Thomas Grainger",
+            "versionInfo": "1.3.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ab8e8a4a0050b76c",
+            "description": "plugin and hook calling mechanisms for python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pluggy@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pluggy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6d3052ba463907b2",
+            "description": "pyparsing module - Classes and methods to define and execute parsing grammars",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyparsing@3.0.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pyparsing/pyparsing/",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND GPL-1.0-or-later AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-2.0-or-later AND GPL-3.0-only AND MIT AND GPL-3.0-or-later AND MIT AND MIT AND NOASSERTION AND MIT-CMU AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pyparsing",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Pyparsing",
+            "versionInfo": "3.0.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a37bc25abb226784",
+            "description": "Persistent/Functional/Immutable data structures",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyrsistent@0.19.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tobgu/pyrsistent/",
+            "licenseConcluded": "BSD-3-Clause AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyrsistent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Tobias Gustafsson",
+            "versionInfo": "0.19.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e312d64642068a89",
+            "description": "pytest: simple powerful testing with Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest@7.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.pytest.org/en/latest/",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "pytest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "7.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5fe31c12393ab69a",
+            "description": "Pytest plugin for measuring coverage.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-cov@4.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-cov",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest-cov",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "4.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b516937fecc6e0c3",
+            "description": "Thin-wrapper around the mock package for easier use with pytest",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytest-mock@3.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pytest-dev/pytest-mock/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pytest-mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: pytest-dev",
+            "versionInfo": "3.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-85258e536682faa7",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.28.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests.readthedocs.io",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.28.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f2d0030bd97f6e44",
+            "description": "Mock out responses from the requests package",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests-mock@1.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests-mock.readthedocs.io/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests-mock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Jamie Lennox",
+            "versionInfo": "1.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d1c7a86d24ddc540",
+            "description": "Generic automation framework for acceptance testing and robotic process automation (RPA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework@5.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://robotframework.org",
+            "licenseDeclared": "Apache-2.0",
+            "name": "robotframework",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "supplier": "Organization: Robot Framework",
+            "versionInfo": "5.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a64f50ac38b35518",
+            "description": "Declare dependencies between Robot Framework tests",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-dependencylibrary@1.0.0.post1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mentalisttraceur/robotframework-dependencylibrary",
+            "licenseConcluded": "0BSD",
+            "licenseDeclared": "0BSD AND BSD-2-Clause",
+            "name": "robotframework-dependencylibrary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "versionInfo": "1.0.0.post1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4a482dee272a216",
+            "description": "robotframework-jsonlibrary is a Robot Framework test library for manipulating JSON Object. You can manipulate your JSON object using JSONPath",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-jsonlibrary@0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nottyo/robotframework-jsonlibrary.git",
+            "licenseConcluded": "LicenseRef-scancode-public-domain",
+            "licenseDeclared": "LicenseRef-scancode-public-domain",
+            "name": "robotframework-jsonlibrary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "supplier": "Organization: robotframework-thailand",
+            "versionInfo": "0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b12d63f66a463627",
+            "description": "A Robot Framework library for JSON Schema validation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-jsonschemalibrary@1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jstaffans",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "robotframework-jsonschemalibrary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c3a8fef84a7da368",
+            "description": "Robot framework library for MockServer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-mockserver@0.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/etsi-cti-admin/robotframework-mockserver",
+            "name": "robotframework-mockserver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "versionInfo": "0.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f34df1797678dae0",
+            "description": "Robot Framework keyword library wrapper around requests",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/robotframework-requests@0.8.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/MarketSquare/robotframework-requests",
+            "licenseDeclared": "MIT",
+            "name": "robotframework-requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-o2/tacker/tacker/tests/xtesting/requirements.txt",
+            "supplier": "Organization: marketsquare",
+            "versionInfo": "0.8.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-efe13d07981fa57a",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1714e3e7fb710d46",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/smo-ves.app/smo-ves@1.0-SNAPSHOT",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "name": "smo-ves.app:smo-ves",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/pom.xml",
+            "versionInfo": "1.0-SNAPSHOT"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-58817c113152ab47",
+            "description": "A lil' TOML parser",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tomli@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/hukkin/tomli",
+            "licenseConcluded": "MIT AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "tomli",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Taneli Hukkinen",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6efe557b703a7b12",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@1.26.13",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: urllib3",
+            "versionInfo": "1.26.13"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ed2596e878a89ee4",
+            "description": "Backport of pathlib-compatible object wrapper for zip files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zipp@3.11.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "zipp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Jason R. Coombs",
+            "versionInfo": "3.11.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3653ec72be88d4ee",
+            "description": "Very basic event publishing system",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zope.event@4.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/zopefoundation/zope.event",
+            "licenseConcluded": "ZPL-2.1",
+            "licenseDeclared": "ZPL-2.1",
+            "name": "zope.event",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Zope",
+            "versionInfo": "4.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f48d48a1f6795aef",
+            "description": "Interfaces for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zope.interface@5.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/zopefoundation/zope.interface",
+            "licenseConcluded": "ZPL-2.1",
+            "licenseDeclared": "ZPL-2.1",
+            "name": "zope.interface",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: smo-ves/requirements.txt",
+            "supplier": "Organization: Zope",
+            "versionInfo": "5.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "o-ran.smo",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-06"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-smo-smo-o1",
+            "comment": "This package was added to the Trivy analysis for the smo/o1 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "smo/o1",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "148cfd2526feb8191627e73f3ee3ef11867d3b83"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-smo-smo-o2",
+            "comment": "This package was added to the Trivy analysis for the smo/o2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "smo/o2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "e74c5485d713904d98a69743bfb1a7c852879d52"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-smo-smo-pkg",
+            "comment": "This package was added to the Trivy analysis for the smo/pkg by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "smo/pkg",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "f6dabfbfbe0f86c6369d5f704646a14f3dc5cb3a"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-smo-smo-teiv",
+            "comment": "This package was added to the Trivy analysis for the smo/teiv by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "smo/teiv",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "a91aeb598898c960b15155f1dade1bcd409aa8ca"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-smo-smo-ves",
+            "comment": "This package was added to the Trivy analysis for the smo/ves by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND BSD-4-Clause AND LicenseRef-BSD-style AND MIT",
+            "name": "smo/ves",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "c49f023e9b29f413db3d8503d37c1a34f5563724"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-241763cd318e1b38",
+            "relatedSpdxElement": "SPDXRef-Package-1d32af337b40278a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-241763cd318e1b38",
+            "relatedSpdxElement": "SPDXRef-Package-40408b8f73e0ed43",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-25681674953ac466",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-25edcabd4d4e0e3c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-2729da61c8832eb6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-2d76ba31307d7661",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-364a731402bb4eeb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-3653ec72be88d4ee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-3f39bd41c98ee235",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-525c654ff6deaa52",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-58817c113152ab47",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-592933989445bd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-5fe31c12393ab69a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-6551913d091483a8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-6d3052ba463907b2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-6d440bfcdb5871a0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-6efe557b703a7b12",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-740a695390aa32ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-745d93c42b26997",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-75a44446b220d3e4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-7c70aee1f391eaf7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-85258e536682faa7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-908c601c1cb8eeaf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-94156128bd69f3c9",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-a37bc25abb226784",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-ab8e8a4a0050b76c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-b516937fecc6e0c3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-c027f9a8a7d2b055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-c980b384d4436480",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-d0cfb272cd90e7a5",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-d73af4548b424762",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-df6b4b3c4f094f54",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-e312d64642068a89",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-e458f62aeeea9204",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-ed2596e878a89ee4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-efa8fd641c383265",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-efbe33e3696ff717",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-efe13d07981fa57a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-f2d0030bd97f6e44",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-f48d48a1f6795aef",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-323c44d5af1139af",
+            "relatedSpdxElement": "SPDXRef-Package-ff67a381ec534e69",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3c98731003375d03",
+            "relatedSpdxElement": "SPDXRef-Package-70fd0caf83b203f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3c98731003375d03",
+            "relatedSpdxElement": "SPDXRef-Package-97ce2b7154eb2a47",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-3c98731003375d03",
+            "relatedSpdxElement": "SPDXRef-Package-f4c5b19a4b3b1eff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5188c8e1ad6cb854",
+            "relatedSpdxElement": "SPDXRef-Package-5312eb50bd165039",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5188c8e1ad6cb854",
+            "relatedSpdxElement": "SPDXRef-Package-8971cae23114693",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5188c8e1ad6cb854",
+            "relatedSpdxElement": "SPDXRef-Package-9ba0c261ff9b0e19",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-3ab5f07496733f55",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-7097e463d5e861ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-798e5d0e1682b72d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-8b55957142314591",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-c778de9bfec432f1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-cddea9bb18d64955",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-e463ca4ed7ca3fff",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-5f49afe6edf0d647",
+            "relatedSpdxElement": "SPDXRef-Package-feb686a3efd7485c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-11fd0e34a7a38ee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-1c10f3ed93f712a0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-31279b84a6689a30",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-3c3814c9ab612901",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-3c3814c9ab612901",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-3d2121441d85ccd4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-44d9e24dbbc1eae2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-aa7e5603d94ff14d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-ae0f25dd2d640cc4",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-c525181df7258e52",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81b1533802826b63",
+            "relatedSpdxElement": "SPDXRef-Package-f48112fad8d1e517",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a6afe5005db743e1",
+            "relatedSpdxElement": "SPDXRef-Package-1714e3e7fb710d46",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-dd1d897390a22fb",
+            "relatedSpdxElement": "SPDXRef-Package-9689947256ca36d3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e57971ba89efbd6e",
+            "relatedSpdxElement": "SPDXRef-Package-f5d65c75b24a07b7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-a64f50ac38b35518",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-b12d63f66a463627",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-b4a482dee272a216",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-c3a8fef84a7da368",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-d1c7a86d24ddc540",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-e628a1c47781c869",
+            "relatedSpdxElement": "SPDXRef-Package-f34df1797678dae0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-fa247667edcd45d",
+            "relatedSpdxElement": "SPDXRef-Package-66a3655bc82bf167",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-241763cd318e1b38",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-323c44d5af1139af",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-3c98731003375d03",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-5188c8e1ad6cb854",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-5f49afe6edf0d647",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-81b1533802826b63",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-a6afe5005db743e1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-dd1d897390a22fb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-e57971ba89efbd6e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-e628a1c47781c869",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-Application-fa247667edcd45d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-38d2ebb1f12de37b",
+            "relatedSpdxElement": "SPDXRef-Package-126cb9de8d1ad0a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-38d2ebb1f12de37b",
+            "relatedSpdxElement": "SPDXRef-Package-5c776fffda8da085",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-38d2ebb1f12de37b",
+            "relatedSpdxElement": "SPDXRef-Package-6cee969a676e0bfc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-38d2ebb1f12de37b",
+            "relatedSpdxElement": "SPDXRef-Package-bf69a0d35f70324a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-4390ebefee28eee2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-45dc5d92ab8bd740",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-487183e52d076b5e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-4ca448781d9709d0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-52a6587bf49d83e3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-55e86fb4371c9d28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-9a7119c0253d0896",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-9eb41b11ca26562e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-a87a122b178e969a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-e8645961657f0ab1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-e946f0b4fe2714f6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relatedSpdxElement": "SPDXRef-Package-ec29f6df28c61ac2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-2049f270e7462cb8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-2a246d894ccb75af",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-3473fd8814912259",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-85012acf86f57e9f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-bfea0db2b5f65825",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-40408b8f73e0ed43",
+            "relatedSpdxElement": "SPDXRef-Package-eb909d74c57d7003",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-5312eb50bd165039",
+            "relatedSpdxElement": "SPDXRef-Package-38d2ebb1f12de37b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-66a3655bc82bf167",
+            "relatedSpdxElement": "SPDXRef-Package-31a86dcfb6a9c6d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-66a3655bc82bf167",
+            "relatedSpdxElement": "SPDXRef-Package-92f7adcac9524378",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-353c95bc3e5cd73c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-6ad8cf0d6676bbf1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-9a7119c0253d0896",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-a34afac6bdac2d77",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-c329ef39edabec78",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relatedSpdxElement": "SPDXRef-Package-ec72bc677322f29b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70fd0caf83b203f1",
+            "relatedSpdxElement": "SPDXRef-Package-43f8b6f96ae99589",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70fd0caf83b203f1",
+            "relatedSpdxElement": "SPDXRef-Package-488de14011013c8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70fd0caf83b203f1",
+            "relatedSpdxElement": "SPDXRef-Package-640b449a6bab2988",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-70fd0caf83b203f1",
+            "relatedSpdxElement": "SPDXRef-Package-d88783650cf4d76b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-92f7adcac9524378",
+            "relatedSpdxElement": "SPDXRef-Package-31a86dcfb6a9c6d2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-babc6c6a5c52cb04",
+            "relatedSpdxElement": "SPDXRef-Package-2866defe005d49b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-babc6c6a5c52cb04",
+            "relatedSpdxElement": "SPDXRef-Package-9c538959a7123ecf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-babc6c6a5c52cb04",
+            "relatedSpdxElement": "SPDXRef-Package-e3d821d919941a48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-babc6c6a5c52cb04",
+            "relatedSpdxElement": "SPDXRef-Package-f3fcaded1fad4edc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-3d6b7c48458ec9cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-6972dbf3a6a1a2e4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-6ceb5563338253e5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-9a7119c0253d0896",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-babc6c6a5c52cb04",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-c698260c82beabf6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c525181df7258e52",
+            "relatedSpdxElement": "SPDXRef-Package-dfdae1d4e5daa321",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-11e2985990b379e8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-155b3b35d894569e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-3483927751f5fe3f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-4cbf4e7aed4940f0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-5100b6c422511ecd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-6cc9061d9a2f2d5b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-6f382f6836687557",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-a56d25a054ac9bf0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-ad4067516760a710",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-c591ccc66c6171fd",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-df8eff5edb59c046",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c778de9bfec432f1",
+            "relatedSpdxElement": "SPDXRef-Package-ef7079d0cbf3b025",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-dfdae1d4e5daa321",
+            "relatedSpdxElement": "SPDXRef-Package-9a7119c0253d0896",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5d65c75b24a07b7",
+            "relatedSpdxElement": "SPDXRef-Package-bce7e1c16ccb72a3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-o-ran-smo-smo-o1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-o-ran-smo-smo-o2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-o-ran-smo-smo-pkg",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-o-ran-smo-smo-teiv",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-8835a5cda7a11c14",
+            "relatedSpdxElement": "SPDXRef-o-ran-smo-smo-ves",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
