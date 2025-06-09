@@ -1,0 +1,139 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-06-09T05:31:51Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpwxtv3qo3/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpwxtv3qo3/code-2ead2082-cf67-4660-bf6c-a9248fddfb39",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-170c978a5c773cc6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "name": "pti-o2/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f80405b584475652",
+            "description": "JSON Web Token implementation in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyjwt@2.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jpadilla/pyjwt",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyjwt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: pti-o2/requirements.txt",
+            "supplier": "Organization: Jos\u00e9 Padilla",
+            "versionInfo": "2.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6b4e99cc3da49383",
+            "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ruamel.yaml@0.17.17",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sourceforge.net/p/ruamel-yaml/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ruamel.yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: pti-o2/requirements.txt",
+            "supplier": "Organization: Gregory Szorc",
+            "versionInfo": "0.17.17"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-fe98ce3a6eb6ea50",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0",
+            "name": "o-ran.inf",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-06"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-inf-pti-o2",
+            "comment": "This package was added to the Trivy analysis for the pti/o2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0",
+            "name": "pti/o2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "036da2720c21da323d143b34512f8e2d2c94988c"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-inf-pti-rtp",
+            "comment": "This package was added to the Trivy analysis for the pti/rtp by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND CC-BY-4.0",
+            "name": "pti/rtp",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "7677c4c884d70a366b81eab0f74e64b2e20d744d"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-170c978a5c773cc6",
+            "relatedSpdxElement": "SPDXRef-Package-6b4e99cc3da49383",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-170c978a5c773cc6",
+            "relatedSpdxElement": "SPDXRef-Package-f80405b584475652",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-fe98ce3a6eb6ea50",
+            "relatedSpdxElement": "SPDXRef-Application-170c978a5c773cc6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-fe98ce3a6eb6ea50",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-fe98ce3a6eb6ea50",
+            "relatedSpdxElement": "SPDXRef-o-ran-inf-pti-o2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-fe98ce3a6eb6ea50",
+            "relatedSpdxElement": "SPDXRef-o-ran-inf-pti-rtp",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
