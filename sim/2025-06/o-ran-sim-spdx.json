@@ -1,0 +1,169 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-06-09T06:22:59Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-2-Clause and BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-style",
+            "licenseId": "LicenseRef-BSD-style"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-style (O-RAN Alliance)",
+            "licenseId": "LicenseRef-BSD-style-O-RAN-Alliance-"
+        }
+    ],
+    "name": "/tmp/tmpecsnl0xy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmpecsnl0xy/code-33ea4ebc-038b-44c6-87e3-24822b4269e3",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "o-ran.sim",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-06"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-a1-interface",
+            "comment": "This package was added to the Trivy analysis for the sim/a1-interface by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/a1-interface",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "7c905365b4532d39c34d6c8f0073c4d67d3d8d38"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-e2-interface",
+            "comment": "This package was added to the Trivy analysis for the sim/e2-interface by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/e2-interface",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "da6f82f286cdbb38af1178f82f85877b12c2f85b"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-e2-interface-data",
+            "comment": "This package was added to the Trivy analysis for the sim/e2-interface-data by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/e2-interface-data",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "cde821036d9fb559b903a5e678a898b5ed54795c"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-ns3-o-ran-e2",
+            "comment": "This package was added to the Trivy analysis for the sim/ns3-o-ran-e2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/ns3-o-ran-e2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "8ceee89404856e3249b75b3ae36b3877e910aef8"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-o1-ofhmp-interfaces",
+            "comment": "This package was added to the Trivy analysis for the sim/o1-ofhmp-interfaces by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/o1-ofhmp-interfaces",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "1f6db7bef7f7d64f96406c9654dadd656413da7e"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-sim-sim-o1-interface",
+            "comment": "This package was added to the Trivy analysis for the sim/o1-interface by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND CDLA-Permissive-1.0 AND GPL-2.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified- AND BSD-3-Clause AND LicenseRef-BSD-style AND LicenseRef-BSD-style-O-RAN-Alliance-",
+            "name": "sim/o1-interface",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "d813be5ab70d2717ceb728819a21defeda84d1eb"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-a1-interface",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-e2-interface",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-e2-interface-data",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-ns3-o-ran-e2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-o1-ofhmp-interfaces",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-7b70a6fc30c11fd7",
+            "relatedSpdxElement": "SPDXRef-o-ran-sim-sim-o1-interface",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
