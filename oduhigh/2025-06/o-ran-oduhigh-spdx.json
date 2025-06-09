@@ -1,0 +1,69 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-06-09T06:05:30Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250214231819-98dbdd2c0be6+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-version-unspecified-"
+        },
+        {
+            "comment": "This license text represents a string found in licensing metadata - the actual text is not known",
+            "extractedText": "BSD-2-Clause and BSD (version unspecified)",
+            "licenseId": "LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-"
+        }
+    ],
+    "name": "/tmp/tmp5ufr1hb7/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem//tmp/tmp5ufr1hb7/code-4fbf214a-334c-48c8-b87f-beef49f728c7",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-218886816d4aeef5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-",
+            "name": "o-ran.oduhigh",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-06"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-oduhigh-o-du-l2",
+            "comment": "This package was added to the Trivy analysis for the o-du/l2 by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND LicenseRef-BSD-version-unspecified- AND LicenseRef-BSD-2-Clause-and-BSD-version-unspecified-",
+            "name": "o-du/l2",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "7d68c765516d631f29ffcdbe0f1467eb396fc53d"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-218886816d4aeef5",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-218886816d4aeef5",
+            "relatedSpdxElement": "SPDXRef-o-ran-oduhigh-o-du-l2",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
