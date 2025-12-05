@@ -1,0 +1,256 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-12-05T18:22:17Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpz6tti35c/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpz6tti35c/code-b211a667-ff4f-4f11-bc0b-42a0f1b34777",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-9a45e6d3495347b6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com-golog/go.mod",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9648852bffe53be",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/gerrit.o-ran-sc.org/r/com/golog",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "gerrit.o-ran-sc.org/r/com/golog",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5d67f6ea559cd8ac",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/davecgh/go-spew@v1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/davecgh/go-spew",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "github.com/davecgh/go-spew",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod",
+            "supplier": "Organization: Dave Collins",
+            "versionInfo": "v1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6918b63a38ce9d29",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/pmezard/go-difflib@v1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/pmezard/go-difflib",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "github.com/pmezard/go-difflib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod",
+            "supplier": "Organization: Patrick M\u00e9zard",
+            "versionInfo": "v1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9588f945608a542",
+            "description": "Module testify is a set of packages that provide many tools for testifying that your code will behave as you intend.\n\nTestify contains the following packages:\n\nThe github.com/stretchr/testify/assert package provides a comprehensive set of assertion functions that tie in to the Go testing system.\nThe github.com/stretchr/testify/require package provides the same assertions but as fatal checks.\n\nThe github.com/stretchr/testify/mock package provides a system by which it is possible to mock your objects and verify calls are happening as expected.\n\nThe github.com/stretchr/testify/suite package provides a basic structure for using structs as testing suites, and methods on those structs as tests.  It includes setup/teardown functionality in the way of interfaces.\n\nA golangci-lint compatible linter for testify is available called testifylint.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/github.com/stretchr/testify@v1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/stretchr/testify",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "github.com/stretchr/testify",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod",
+            "supplier": "Organization: Stretchr, Inc.",
+            "versionInfo": "v1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8a22adaf35708405",
+            "description": "Package yaml implements YAML support for the Go language.\n\nSource code and other details for the project are available at GitHub:",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v2@v2.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/go-yaml/yaml",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "gopkg.in/yaml.v2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod",
+            "supplier": "Organization: go-yaml",
+            "versionInfo": "v2.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-47a00c2b7218f046",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/k8s.io/utils@v0.0.0-20230313181309-38a27ef9d749",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/kubernetes/utils",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "k8s.io/utils",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: com-golog/go.mod",
+            "supplier": "Organization: Kubernetes",
+            "versionInfo": "v0.0.0-20230313181309-38a27ef9d749"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-6cf41c1eaacb6a15",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "name": "o-ran.com",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-12"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-com-com-golog",
+            "comment": "This package was added to the Trivy analysis for the com/golog by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "name": "com-golog",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "78901281c985115b2b9497d89befa2efce154d4f"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-com-com-log",
+            "comment": "This package was added to the Trivy analysis for the com/log by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "name": "com-log",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "dd51d2b9ed197f242cbc8a0e5add9698034a9320"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-com-com-pylog",
+            "comment": "This package was added to the Trivy analysis for the com/pylog by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0 AND BSD-3-Clause",
+            "name": "com-pylog",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "34b33525519549b8b6ff6074aafb46e0d3087f4a"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-9a45e6d3495347b6",
+            "relatedSpdxElement": "SPDXRef-Package-b9648852bffe53be",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-com-com-golog",
+            "relatedSpdxElement": "SPDXRef-Application-9a45e6d3495347b6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b9648852bffe53be",
+            "relatedSpdxElement": "SPDXRef-Package-47a00c2b7218f046",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b9648852bffe53be",
+            "relatedSpdxElement": "SPDXRef-Package-5d67f6ea559cd8ac",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b9648852bffe53be",
+            "relatedSpdxElement": "SPDXRef-Package-6918b63a38ce9d29",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b9648852bffe53be",
+            "relatedSpdxElement": "SPDXRef-Package-8a22adaf35708405",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-b9648852bffe53be",
+            "relatedSpdxElement": "SPDXRef-Package-b9588f945608a542",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-6cf41c1eaacb6a15",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6cf41c1eaacb6a15",
+            "relatedSpdxElement": "SPDXRef-o-ran-com-com-golog",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6cf41c1eaacb6a15",
+            "relatedSpdxElement": "SPDXRef-o-ran-com-com-log",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-6cf41c1eaacb6a15",
+            "relatedSpdxElement": "SPDXRef-o-ran-com-com-pylog",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
