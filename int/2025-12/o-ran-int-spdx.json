@@ -1,0 +1,3083 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-12-05T18:25:53Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "OTHER",
+            "licenseId": "LicenseRef-fixed-0x68eb354e4277a926"
+        }
+    ],
+    "name": "/tmp/tmpn0_wt0t7/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpn0_wt0t7/code-289c3077-70c7-4bdb-9cfc-bbe500e44bfb",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-a94595bc8b828738",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-dev/xapp_onboarder/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-d0d834581f0de788",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-otf/otf-camunda/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-ce3bf054468731ee",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-otf/otf-service-api/pom.xml",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-test/XTesting/kubeadm/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c0e78a0d253b1fca",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-test/XTesting/kubespray/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-57838d6b1dca1213",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-test/XTesting/powder-control/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-75475c6447c275fd",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-test/ric_robot_suite/xapp/src/go.mod",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-81c3d8af5944e5bc",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "it-tifg/visualization/requirements.txt",
+            "primaryPackagePurpose": "APPLICATION"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1cf4002c15060ad2",
+            "description": "Composable command line interface toolkit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/click@7.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "Click",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "7.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3df7b3f9c375403a",
+            "description": "A simple framework for building complex web applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Flask",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2a012387596846fc",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@2.11.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.11.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-95feae688070186d",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "MarkupSafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d009fce3146c5056",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "MarkupSafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-df69367c9d00b420",
+            "description": "Safely add untrusted strings to HTML/XML markup.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/markupsafe@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "MarkupSafe",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2ef461ce7640204",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@5.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "PyYAML",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "5.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a3d7ccd90594593f",
+            "description": "The comprehensive WSGI web application library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/werkzeug@0.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "Werkzeug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "0.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-86554602f6fb7abe",
+            "description": "A library for parsing ISO 8601 strings.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/aniso8601@8.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://codeberg.org/nielsenb-jf/aniso8601",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "aniso8601",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "versionInfo": "8.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4c972cff0705959c",
+            "description": "Radically simple IT automation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ansible@5.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ansible.com/",
+            "licenseConcluded": "(AGPL-3.0 AND AGPL-3.0-only AND AGPL-3.0-or-later AND GPL-3.0-or-later AND Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-2.0-only AND (MIT OR GPL-1.0-or-later) AND Apache-2.0 AND GPL-1.0-or-later AND Apache-2.0 AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND Apache-2.0 AND GPL-1.0-or-later AND NTP AND Apache-2.0 AND GPL-3.0-or-later AND Apache-2.0 AND NOASSERTION AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND GPL-3.0-only AND BSD-2-Clause AND GPL-3.0-or-later AND BSD-2-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause) OR (Apache-2.0 AND CC-BY-SA-3.0 AND GPL-3.0-or-later AND CC0-1.0 AND CC0-1.0 AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only AND LGPL-2.1-or-later AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-3.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND MPL-2.0 AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND GPL-1.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-2.0-only AND GPL-2.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-only AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-or-later AND GPL-3.0-only AND GPL-3.0 AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-only AND NOASSERTION AND GPL-3.0-or-later AND GPL-3.0-or-later AND MIT AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-or-later AND PostgreSQL AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND MPL-2.0 AND NOASSERTION AND NOASSERTION AND Python-2.0 AND NTP AND PostgreSQL AND Python-2.0)",
+            "licenseDeclared": "GPL-3.0 AND GPL-3.0-or-later",
+            "name": "ansible",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Community managed Ansible repositories",
+            "versionInfo": "5.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-573e4ae6406d8a82",
+            "description": "Radically simple IT automation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ansible@5.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ansible.com/",
+            "licenseConcluded": "(AGPL-3.0 AND AGPL-3.0-only AND AGPL-3.0-or-later AND GPL-3.0-or-later AND Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND GPL-2.0-only AND (MIT OR GPL-1.0-or-later) AND Apache-2.0 AND GPL-1.0-or-later AND Apache-2.0 AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND Apache-2.0 AND GPL-1.0-or-later AND NTP AND Apache-2.0 AND GPL-3.0-or-later AND Apache-2.0 AND NOASSERTION AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND GPL-3.0-only AND BSD-2-Clause AND GPL-3.0-or-later AND BSD-2-Clause AND NOASSERTION AND BSD-3-Clause AND BSD-3-Clause AND GPL-3.0-only AND BSD-3-Clause AND NOASSERTION AND BSD-3-Clause) OR (Apache-2.0 AND CC-BY-SA-3.0 AND GPL-3.0-or-later AND CC0-1.0 AND CC0-1.0 AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-1.0-or-later AND GPL-2.0 AND GPL-2.0-only AND LGPL-2.1-or-later AND GPL-1.0-or-later AND GPL-2.0-only AND GPL-3.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND MPL-2.0 AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND LGPL-2.0-or-later AND LGPL-2.1-or-later AND NOASSERTION AND GPL-1.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-2.0-only AND GPL-2.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-only AND NOASSERTION AND GPL-2.0-only AND GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-2.0-or-later AND GPL-3.0-only AND GPL-3.0 AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-only AND NOASSERTION AND GPL-3.0-or-later AND GPL-3.0-or-later AND MIT AND GPL-3.0-or-later AND NOASSERTION AND GPL-3.0-or-later AND PostgreSQL AND LGPL-2.1-or-later AND LGPL-3.0-or-later AND MIT AND MPL-2.0 AND NOASSERTION AND NOASSERTION AND Python-2.0 AND NTP AND PostgreSQL AND Python-2.0)",
+            "licenseDeclared": "GPL-3.0 AND GPL-3.0-or-later",
+            "name": "ansible",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Community managed Ansible repositories",
+            "versionInfo": "5.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e0e112476c1f5430",
+            "description": "Radically simple IT automation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ansible-core@2.12.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ansible.com/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND GPL-3.0-or-later AND Apache-2.0 AND BSD-3-Clause AND (MIT OR GPL-1.0-or-later) AND Apache-2.0 AND GPL-3.0-or-later AND NOASSERTION AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-3.0 AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-2.0-only AND GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-3.0-or-later AND GPL-3.0 AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-3.0-only AND NOASSERTION AND GPL-3.0-or-later AND GPL-3.0-or-later AND MIT AND GPL-3.0-or-later AND NOASSERTION AND LGPL-3.0-or-later AND MIT AND MIT AND NOASSERTION AND Python-2.0 AND NOASSERTION AND NOASSERTION AND Python-2.0 AND Python-2.0",
+            "licenseDeclared": "GPL-3.0 AND GPL-3.0-or-later",
+            "name": "ansible-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Ansible",
+            "versionInfo": "2.12.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f387129f40e2976e",
+            "description": "Radically simple IT automation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ansible-core@2.12.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://ansible.com/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND GPL-3.0-or-later AND Apache-2.0 AND BSD-3-Clause AND (MIT OR GPL-1.0-or-later) AND Apache-2.0 AND GPL-3.0-or-later AND NOASSERTION AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-or-later AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND BSD-2-Clause AND BSD-3-Clause AND NOASSERTION AND Python-2.0 AND BSD-3-Clause AND CC-BY-SA-3.0 AND CC-BY-SA-3.0 AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-only AND GPL-3.0-or-later AND NOASSERTION AND GPL-1.0-or-later AND GPL-3.0-or-later AND GPL-1.0-or-later AND GPL-3.0-or-later AND NOASSERTION AND GPL-2.0-only AND GPL-2.0-only AND GPL-3.0-or-later AND GPL-2.0-or-later AND GPL-3.0-or-later AND GPL-3.0 AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-only AND GPL-3.0-or-later AND GPL-3.0-only AND NOASSERTION AND GPL-3.0-or-later AND GPL-3.0-or-later AND MIT AND GPL-3.0-or-later AND NOASSERTION AND LGPL-3.0-or-later AND MIT AND MIT AND NOASSERTION AND Python-2.0 AND NOASSERTION AND NOASSERTION AND Python-2.0 AND Python-2.0",
+            "licenseDeclared": "GPL-3.0 AND GPL-3.0-or-later",
+            "name": "ansible-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Ansible",
+            "versionInfo": "2.12.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1d4de8b6bfd851c6",
+            "description": "Classes Without Boilerplate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/attrs@19.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: The attrs Cabal",
+            "versionInfo": "19.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-355f6dbe5337e5f",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2019.11.28",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2019.11.28"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3b6034ed89308a82",
+            "description": "Universal encoding detector for Python 3",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/chardet@3.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/chardet/chardet",
+            "licenseConcluded": "CC-BY-SA-2.5 AND LGPL-2.0-or-later AND LGPL-2.1 AND LGPL-2.1-only AND LGPL-2.1+ AND LGPL-2.1-or-later AND LGPL-2.1-or-later AND NOASSERTION",
+            "licenseDeclared": "LGPL-2.1-or-later",
+            "name": "chardet",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Character Encoding Detector",
+            "versionInfo": "3.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e4dcb2e680f5e2f7",
+            "description": "Core annotations used for value types, used by Jackson data binding package.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://github.com/FasterXML/jackson",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.fasterxml.jackson.core:jackson-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-90b5a0317c006e2d",
+            "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-core",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-core",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.fasterxml.jackson.core:jackson-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2dac7575f77bf6a3",
+            "description": "General data-binding functionality for Jackson: works on core streaming API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.core/jackson-databind",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.fasterxml.jackson.core:jackson-databind",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: FasterXML, LLC"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dff84959d4be2d28",
+            "description": "Add-on module to support JSR-310 (Java 8 Date & Time API) data types.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-modules-java8",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.datatype:jackson-datatype-jsr310",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-189f1a6ee731c627",
+            "description": "Add-on module for Jackson (https://github.com/FasterXML/jackson/) to support Kotlin language, specifically introspection of method/constructor parameter names, without having to add explicit property name annotation.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/FasterXML/jackson-module-kotlin",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.fasterxml.jackson.module:jackson-module-kotlin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: FasterXML, LLC",
+            "versionInfo": "2.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-211929a0a69bdea6",
+            "description": "Gson JSON library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.code.gson/gson@2.8.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/gson",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.code.gson:gson",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "2.8.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d95f0f85d00b95",
+            "description": "Gson JSON library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.code.gson/gson@2.8.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/gson",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.code.gson:gson",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Google",
+            "versionInfo": "2.8.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-461b17b3c7e2af34",
+            "description": "Guava is a suite of core and expanded libraries that include utility classes, Google's collections, I/O classes, and much more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.google.guava/guava@27.1-jre",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/guava",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "com.google.guava:guava",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "27.1-jre"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-106f49e361fc3677",
+            "description": "H2 Database Engine",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.h2database/h2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://h2database.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.h2database:h2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: H2 Database Engine"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d81ba8ca9986275e",
+            "description": "H2 Database Engine",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.h2database/h2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://h2database.com",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "com.h2database:h2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: H2 Database Engine"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f68f3ea31e828b15",
+            "description": "JSch is a pure Java implementation of SSH2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/com.jcraft/jsch@0.1.54",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.jcraft.com/jsch/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "com.jcraft:jsch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "0.1.54"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-363ec144eddeb14f",
+            "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cryptography@3.4.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-3-Clause OR Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause) OR (Apache-2.0 AND PSF-2.0 AND Python-2.0 AND Apache-2.0 AND BSD-3-Clause)",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND Python-2.0",
+            "name": "cryptography",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Python Cryptographic Authority",
+            "versionInfo": "3.4.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ea925b4ed6929515",
+            "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/cryptography@3.4.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((BSD-3-Clause OR Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause) OR (Apache-2.0 AND PSF-2.0 AND Python-2.0 AND Apache-2.0 AND BSD-3-Clause)",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND PSF-2.0 AND Python-2.0",
+            "name": "cryptography",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Python Cryptographic Authority",
+            "versionInfo": "3.4.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dffd6a64530cbd18",
+            "description": "A library for automatically generating command line interfaces.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fire@0.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/google/python-fire",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "fire",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Google",
+            "versionInfo": "0.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6434cc0ff7b90f1d",
+            "description": "Fully featured framework for fast, easy and documented API development with Flask",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/flask-restplus@0.13.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/noirbizarre/flask-restplus",
+            "licenseConcluded": "BSD-3-Clause AND MIT AND MIT AND Unlicense",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "flask-restplus",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Axel H.",
+            "versionInfo": "0.13.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-88fd4f57ae554f55",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/gerrit.o-ran-sc.org/r/it/test/ric_robot_suite/xapp",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "gerrit.o-ran-sc.org/r/it/test/ric_robot_suite/xapp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/ric_robot_suite/xapp/src/go.mod"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fb13cbd187c15b82",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:golang/gerrit.o-ran-sc.org/r/ric-plt/xapp-frame.git@v0.0.21",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "gerrit.o-ran-sc.org/r/ric-plt/xapp-frame.git",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/ric_robot_suite/xapp/src/go.mod",
+            "versionInfo": "v0.0.21"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff67a14e819d8e82",
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@2.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "2.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9a620bbbd2ff5a03",
+            "description": "Read metadata from Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/importlib-metadata@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "importlib-metadata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Python",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-644ca752360d7d32",
+            "description": "JSON API documentation for spring based applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.springfox/springfox-bean-validators@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/springfox/springfox",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.springfox:springfox-bean-validators",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: springfox",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a8bcee049eceea33",
+            "description": "JSON API documentation for spring based applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.springfox/springfox-swagger-ui@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/springfox/springfox",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND MIT AND Unlicense AND BSD-2-Clause AND MIT AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.springfox:springfox-swagger-ui",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: springfox",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f282dd2ed24c9fc5",
+            "description": "JSON API documentation for spring based applications",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.springfox/springfox-swagger2@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/springfox/springfox",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.springfox:springfox-swagger2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: springfox",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4dd118efb46fc587",
+            "description": "swagger-annotations",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.swagger.core.v3/swagger-annotations@2.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.swagger.core.v3:swagger-annotations",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Swagger",
+            "versionInfo": "2.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-215bc0963b2e40e7",
+            "description": "swagger-jaxrs2",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.swagger.core.v3/swagger-jaxrs2@2.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.swagger.core.v3:swagger-jaxrs2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Swagger",
+            "versionInfo": "2.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b3655e6c8c9f516a",
+            "description": "swagger-servlet-initializer",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer@2.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/swagger-api/swagger-core",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "io.swagger.core.v3:swagger-jaxrs2-servlet-initializer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Swagger",
+            "versionInfo": "2.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5c2cc460499d82f3",
+            "description": "Safely pass data to untrusted environments and back.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/itsdangerous@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "itsdangerous",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2923ff34df099ace",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@2.11.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.11.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c1c064f0b4e29a51",
+            "description": "A very fast and expressive template engine.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jinja2@2.11.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "jinja2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Pallets",
+            "versionInfo": "2.11.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c96fd3e6f521b14",
+            "description": "JSON Matching Expressions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jmespath@0.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jmespath/jmespath.py",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jmespath",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: jmespath",
+            "versionInfo": "0.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c6ccf8763461c5bb",
+            "description": "JSON Matching Expressions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jmespath@0.9.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jmespath/jmespath.py",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "jmespath",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: jmespath",
+            "versionInfo": "0.9.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8f344d43c2becc0a",
+            "description": "An implementation of JSON Schema validation for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jsonschema@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python-jsonschema/jsonschema",
+            "licenseConcluded": "Apache-2.0 AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "jsonschema",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Python + JSON Schema",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dfefcca5d3308efb",
+            "description": "JUnit is a unit testing framework for Java, created by Erich Gamma and Kent Beck.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/junit/junit",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://junit.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "junit:junit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: JUnit"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-60b571bff8ed363e",
+            "description": "MinIO Python SDK for Amazon S3 Compatible Cloud Storage",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/minio@7.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/minio/minio-py",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "minio",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-tifg/visualization/requirements.txt",
+            "supplier": "Organization: MinIO",
+            "versionInfo": "7.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82df99b50afc4f9e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/mysql/mysql-connector-java@8.0.14",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "LicenseRef-fixed-0x68eb354e4277a926",
+            "name": "mysql:mysql-connector-java",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "8.0.14"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-420ff2c0525d7ce6",
+            "description": "Java Native Access Platform",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/net.java.dev.jna/jna-platform",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/java-native-access/jna",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "net.java.dev.jna:jna-platform",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Java Native Access"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4699e82efc2a0db8",
+            "description": "A network address manipulation library for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/netaddr@0.7.19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "netaddr",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: netaddr",
+            "versionInfo": "0.7.19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-64d82cef9a81d68b",
+            "description": "A network address manipulation library for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/netaddr@0.7.19",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "netaddr",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: netaddr",
+            "versionInfo": "0.7.19"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5b6d951ba3fe5d50",
+            "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang. The code is tested using the latest revision of the JDK for supported LTS releases: 8, 11, 17, 21 and 25 currently. See https://github.com/apache/commons-lang/blob/master/.github/workflows/maven.yml Please ensure your build environment is up-to-date and kindly report any build issues.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-lang3@3.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-lang/",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-lang3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "3.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-dd39c6adcb664f05",
+            "description": "Apache Commons VFS is a Virtual File System library.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.commons/commons-vfs2@2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://commons.apache.org/proper/commons-vfs/",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.commons:commons-vfs2",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2df6436143d7fb16",
+            "description": "Apache HttpComponents AsyncClient",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpasyncclient@4.1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-asyncclient",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpasyncclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "4.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b83b1971a4f5ab44",
+            "description": "Apache HttpComponents AsyncClient",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpasyncclient@4.1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-asyncclient",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpasyncclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "versionInfo": "4.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c315f2196fccfa27",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fad353ae054cf0d4",
+            "description": "Apache HttpComponents Client",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpclient@4.5.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-116169aeefad66ab",
+            "description": "Apache HttpComponents HttpClient - MIME coded entities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.apache.httpcomponents/httpmime@4.5.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://hc.apache.org/httpcomponents-client-ga",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.apache.httpcomponents:httpmime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "4.5.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-699927045a0b93ae",
+            "description": "This pom defines the required plugins and profiles to allow a camunda release build. Inherit this pom when you want to release your project into the camunda nexus and/or maven central.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.extension.reactor/camunda-bpm-reactor-core@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.extension.reactor:camunda-bpm-reactor-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda Community Hub",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c9970f02ed48c7c5",
+            "description": "This pom defines the required plugins and profiles to allow a camunda release build. Inherit this pom when you want to release your project into the camunda nexus and/or maven central.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.extension.reactor/camunda-bpm-reactor-spring@2.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.extension.reactor:camunda-bpm-reactor-spring",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda Community Hub",
+            "versionInfo": "2.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6198884784af0050",
+            "description": "This pom defines the required plugins and profiles to allow a camunda release build. Inherit this pom when you want to release your project into the camunda nexus and/or maven central.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.extension/camunda-bpm-assert@2.0-alpha2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.extension:camunda-bpm-assert",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "2.0-alpha2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-361ec27939ef6e9b",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.springboot:camunda-bpm-spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7fac182d2d1faec8",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-rest@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.springboot:camunda-bpm-spring-boot-starter-rest",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-90a99bf871c28cf0",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm.springboot/camunda-bpm-spring-boot-starter-webapp@3.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm.springboot:camunda-bpm-spring-boot-starter-webapp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "3.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fac3b0b32aa03992",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm/camunda-engine@7.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm:camunda-engine",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "7.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bbda1d91c562809b",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm/camunda-engine-plugin-connect@7.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm:camunda-engine-plugin-connect",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "7.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-574ab98e14851dbf",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm/camunda-engine-plugin-spin@7.10.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm:camunda-engine-plugin-spin",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "7.10.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d4529edc8dcc89cb",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.bpm/camunda-external-task-client@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.bpm:camunda-external-task-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6b28c25ea402cdd5",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.connect/camunda-connect-connectors-all",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.camunda.connect:camunda-connect-connectors-all",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ed738ae3104a98a",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.spin/camunda-spin-core@1.6.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.spin:camunda-spin-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "1.6.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7fd4d62362fb79c9",
+            "description": "Note: 7.24.0 is the last community edition release published on Maven Central. This library will not receive any new versions or releases. However, if you are interested in extended maintenance you could look into our enterprise edition. Get in touch with us: https://camunda.com/contact/",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.camunda.spin/camunda-spin-dataformat-all@1.6.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://www.camunda.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.camunda.spin:camunda-spin-dataformat-all",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Camunda",
+            "versionInfo": "1.6.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d074d2da55e44744",
+            "description": "Groovy: A powerful, dynamic language for the JVM",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.codehaus.groovy/groovy-all@2.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://groovy-lang.org",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.codehaus.groovy:groovy-all",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "2.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c259361641a30744",
+            "description": "Jersey Multipart entity providers support module.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.glassfish.jersey.media/jersey-media-multipart@2.27",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
+            "licenseConcluded": "GPL-2.0-only",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.glassfish.jersey.media:jersey-media-multipart",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Eclipse EE4J",
+            "versionInfo": "2.27"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ccd3b8a86e235669",
+            "description": "Jersey Multipart entity providers support module.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.glassfish.jersey.media/jersey-media-multipart",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://projects.eclipse.org/projects/ee4j.jersey",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.glassfish.jersey.media:jersey-media-multipart",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Eclipse EE4J"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-93c0b69bde6cd9b1",
+            "description": "JSON is a light-weight, language independent, data interchange format. See http://www.JSON.org/ The files in this package implement JSON encoders/decoders in Java. It also includes the capability to convert between JSON and XML, HTTP headers, Cookies, and CDL. This is a reference implementation. There are a large number of JSON packages in Java. Perhaps someday the Java community will standardize on one. Until then, choose carefully.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.json/json@20180813",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/douglascrockford/JSON-java",
+            "licenseConcluded": "JSON",
+            "licenseDeclared": "JSON",
+            "name": "org.json:json",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Sean Leary",
+            "versionInfo": "20180813"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-93bc2b17d1534e20",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-auth-client@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-auth-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a87aae12e52aaa6d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-auth-client@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-auth-client",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7491d164974aaa56",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-cadi-aaf@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-cadi-aaf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-964dfdb91254c8dc",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-cadi-aaf@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-cadi-aaf",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30391112931f836",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-cadi-core@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-cadi-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-975ae7890f5d641d",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.onap.aaf.authz/aaf-cadi-core@2.1.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.onap.aaf.authz:aaf-cadi-core",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "2.1.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-edd06bebf115c2c1",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.otf/otf-camunda@Camille.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.oran.otf:otf-camunda",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "versionInfo": "Camille.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7982684640610ce7",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.oran.otf/otf-service-api@Camille.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.oran.otf:otf-service-api",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "versionInfo": "Camille.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cc676028773a7869",
+            "description": "Jython is an implementation of the high-level, dynamic, object-oriented language Python written in 100% Pure Java, and seamlessly integrated with the Java platform. It thus allows you to run Python on any Java platform.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.python/jython-standalone@2.7.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://www.jython.org/",
+            "licenseConcluded": "((MIT OR Apache-2.0) AND Python-2.0 AND Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-public-domain AND Apache-2.0 AND Python-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-2-Clause AND CNRI-Python AND CPL-1.0) OR GPL-2.0-only OR (LGPL-2.1-only AND HPND AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-python-cwi AND LicenseRef-scancode-secret-labs-2011 AND LicenseRef-scancode-secret-labs-2011 AND Python-2.0 AND LicenseRef-scancode-unicode AND LicenseRef-scancode-unicode-icu-58 AND LicenseRef-scancode-warranty-disclaimer AND MIT AND Python-2.0 AND Python-2.0 AND Apache-2.0 AND Python-2.0) OR GPL-2.0-only",
+            "licenseDeclared": "(Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CPL-1.0 AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unicode-icu-58) OR (Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-2.0-only AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unicode-icu-58) OR (Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND LGPL-2.1-only AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unicode-icu-58)",
+            "name": "org.python:jython-standalone",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Jython Development",
+            "versionInfo": "2.7.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-957dd55b3641cf40",
+            "description": "Core starter, including auto-configuration support, logging and YAML",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework.boot:spring-boot-starter",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-adb615315cc2aef3",
+            "description": "Starter for using Spring Boot's Actuator which provides production ready features to help you monitor and manage your application",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-actuator@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-actuator",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51d496e2d77f0628",
+            "description": "Starter for using Spring AMQP and Rabbit MQ",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-amqp@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-amqp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1bc0da1b65a775f9",
+            "description": "Starter for using MongoDB document-oriented database and Spring Data MongoDB",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-data-mongodb",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aa1c3619f96e8b67",
+            "description": "Starter for using MongoDB document-oriented database and Spring Data MongoDB",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-data-mongodb",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework.boot:spring-boot-starter-data-mongodb",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ad65aab192f30d45",
+            "description": "Starter for using JDBC with the HikariCP connection pool",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jdbc@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-jdbc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-13ec654992570c89",
+            "description": "Starter for using JAX-RS and Jersey",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jersey",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework.boot:spring-boot-starter-jersey",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d7fe6157fa35dad5",
+            "description": "Starter for using JAX-RS and Jersey",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-jersey@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-jersey",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cbe6ab78f6998b2a",
+            "description": "Starter for reading and writing JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-json@2.1.4.RELEASE",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "Apache-2.0",
+            "name": "org.springframework.boot:spring-boot-starter-json",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-camunda/pom.xml",
+            "supplier": "Organization: Spring",
+            "versionInfo": "2.1.4.RELEASE"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b436948c079dd3f",
+            "description": "Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container (deprecated in favor of spring-boot-starter-webmvc)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.springframework.boot/spring-boot-starter-web",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://spring.io/projects/spring-boot",
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.springframework.boot:spring-boot-starter-web",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-otf/otf-service-api/pom.xml",
+            "supplier": "Organization: Spring"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-56df82bc9820f1ed",
+            "description": "Python Build Reasonableness",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pbr@5.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.openstack.org/pbr/latest/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR BSD-3-Clause) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pbr",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "versionInfo": "5.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff1af13a24bc4352",
+            "description": "Python Build Reasonableness",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pbr@5.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://docs.openstack.org/pbr/latest/",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (Apache-2.0 OR BSD-3-Clause) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pbr",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "versionInfo": "5.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-28e9489ba0bfec3d",
+            "description": "Pexpect allows easy control of interactive console applications.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pexpect@4.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pexpect.readthedocs.io/",
+            "licenseConcluded": "ISC AND NOASSERTION",
+            "licenseDeclared": "GPL-1.0-or-later AND ISC",
+            "name": "pexpect",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/powder-control/requirements.txt",
+            "supplier": "Organization: pexpect",
+            "versionInfo": "4.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-914d5c03c7e2e848",
+            "description": "psycopg2 - Python-PostgreSQL Database Adapter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/psycopg2-binary@2.9.9",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://psycopg.org/",
+            "licenseConcluded": "LGPL-2.0-or-later AND LGPL-3.0-or-later AND NOASSERTION AND LGPL-2.0-or-later AND NOASSERTION AND LGPL-3.0 AND LGPL-3.0-only AND LGPL-3.0-or-later AND NOASSERTION AND NOASSERTION AND PSF-2.0 AND NOASSERTION AND Zlib",
+            "licenseDeclared": "LGPL-3.0-or-later WITH openvpn-openssl-exception",
+            "name": "psycopg2-binary",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-tifg/visualization/requirements.txt",
+            "supplier": "Organization: The Psycopg Team",
+            "versionInfo": "2.9.9"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-152314283bcb0669",
+            "description": "Persistent/Functional/Immutable data structures",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyrsistent@0.15.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tobgu/pyrsistent/",
+            "licenseConcluded": "BSD-3-Clause AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyrsistent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Tobias Gustafsson",
+            "versionInfo": "0.15.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a4c4dcd045bd03b3",
+            "description": "Read key-value pairs from a .env file and set them as environment variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dotenv@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND (LicenseRef-scancode-unknown-license-reference AND Python-2.0) AND BSD-3-Clause AND (Python-2.0 AND BSD-3-Clause)",
+            "licenseDeclared": "BSD-3-Clause",
+            "name": "python-dotenv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-tifg/visualization/requirements.txt",
+            "supplier": "Organization: Saurabh Kumar",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-515610e7672cb0ca",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2019.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "versionInfo": "2019.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2a65157f45ac1575",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.23.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests.readthedocs.io",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.23.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d8074e80dc99c7e6",
+            "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ruamel.yaml@0.16.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sourceforge.net/p/ruamel-yaml/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ruamel.yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "supplier": "Organization: Gregory Szorc",
+            "versionInfo": "0.16.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f0e1225795d55c5f",
+            "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ruamel.yaml@0.16.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sourceforge.net/p/ruamel-yaml/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ruamel.yaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "supplier": "Organization: Gregory Szorc",
+            "versionInfo": "0.16.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-20721738e27bac4b",
+            "description": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ruamel.yaml.clib@0.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sourceforge.net/p/ruamel-yaml-clib/",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "ruamel.yaml.clib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubespray/requirements.txt",
+            "versionInfo": "0.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fa0808b9d7b6c2c2",
+            "description": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/ruamel.yaml.clib@0.2.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://sourceforge.net/p/ruamel-yaml-clib/",
+            "licenseConcluded": "MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "ruamel.yaml.clib",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/kubeadm/requirements.txt",
+            "versionInfo": "0.2.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f8947f65e559cb7c",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.14.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.14.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-84872c0277cd2a8f",
+            "description": "ANSI color formatting for output in terminal",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/termcolor@1.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/termcolor/termcolor",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "termcolor",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "versionInfo": "1.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ed294af5191a59f",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@1.25.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "versionInfo": "1.25.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a0af5e26af2874eb",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@2.0.7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-tifg/visualization/requirements.txt",
+            "versionInfo": "2.0.7"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d2ea681a4cb2b1fa",
+            "description": "Filesystem events monitoring",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/watchdog@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/gorakhargosh/watchdog",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND LicenseRef-scancode-public-domain",
+            "licenseDeclared": "Apache-2.0",
+            "name": "watchdog",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-tifg/visualization/requirements.txt",
+            "supplier": "Organization: Yesudeep Mangalapilly",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4ce3cda374615d11",
+            "description": "Makes working with XML feel like you are working with JSON",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xmltodict@0.12.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/martinblech/xmltodict",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "xmltodict",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-test/XTesting/powder-control/requirements.txt",
+            "supplier": "Organization: Mart\u00edn Blech",
+            "versionInfo": "0.12.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8cc156d6a5aa96e3",
+            "description": "Backport of pathlib-compatible object wrapper for zip files",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zipp@3.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "zipp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: it-dev/xapp_onboarder/requirements.txt",
+            "supplier": "Organization: Jason R. Coombs",
+            "versionInfo": "3.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "o-ran.int",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2025-12"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-int-it-dep",
+            "comment": "This package was added to the Trivy analysis for the it/dep by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "it-dep",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "78e5a4625e0140aea68c77c1d8d88dba0f9c3f2a"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-int-it-dev",
+            "comment": "This package was added to the Trivy analysis for the it/dev by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "it-dev",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "c05b6364ad371af734f28b74ac006e03c2123b16"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-int-it-otf",
+            "comment": "This package was added to the Trivy analysis for the it/otf by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "it-otf",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "b9fbd467a62eac8ec3cca03d78a23b2371b6727a"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-int-it-test",
+            "comment": "This package was added to the Trivy analysis for the it/test by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "it-test",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "ff93fac4c976b89c1f5df57c9cee9972db05f54d"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-int-it-tifg",
+            "comment": "This package was added to the Trivy analysis for the it/tifg by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND (Apache-2.0 OR CC-BY-4.0) AND CC-BY-4.0 AND (Apache-2.0 OR BSD-2-Clause) AND BSD-2-Clause",
+            "name": "it-tifg",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "1a264b9997301e3454f3048240030038c9289813"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-2923ff34df099ace",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-363ec144eddeb14f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-573e4ae6406d8a82",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-64d82cef9a81d68b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-c6ccf8763461c5bb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-d009fce3146c5056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-d8074e80dc99c7e6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-f387129f40e2976e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-fa0808b9d7b6c2c2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relatedSpdxElement": "SPDXRef-Package-ff1af13a24bc4352",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-57838d6b1dca1213",
+            "relatedSpdxElement": "SPDXRef-Package-28e9489ba0bfec3d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-57838d6b1dca1213",
+            "relatedSpdxElement": "SPDXRef-Package-4ce3cda374615d11",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-75475c6447c275fd",
+            "relatedSpdxElement": "SPDXRef-Package-88fd4f57ae554f55",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relatedSpdxElement": "SPDXRef-Package-60b571bff8ed363e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relatedSpdxElement": "SPDXRef-Package-914d5c03c7e2e848",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relatedSpdxElement": "SPDXRef-Package-a0af5e26af2874eb",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relatedSpdxElement": "SPDXRef-Package-a4c4dcd045bd03b3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relatedSpdxElement": "SPDXRef-Package-d2ea681a4cb2b1fa",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-152314283bcb0669",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-1cf4002c15060ad2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-1d4de8b6bfd851c6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-2a012387596846fc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-2a65157f45ac1575",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-2ef461ce7640204",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-355f6dbe5337e5f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-3b6034ed89308a82",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-3df7b3f9c375403a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-515610e7672cb0ca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-5c2cc460499d82f3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-6434cc0ff7b90f1d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-84872c0277cd2a8f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-86554602f6fb7abe",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-8cc156d6a5aa96e3",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-8f344d43c2becc0a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-9a620bbbd2ff5a03",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-9ed294af5191a59f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-a3d7ccd90594593f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-df69367c9d00b420",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-dffd6a64530cbd18",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-f8947f65e559cb7c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-a94595bc8b828738",
+            "relatedSpdxElement": "SPDXRef-Package-ff67a14e819d8e82",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-1c96fd3e6f521b14",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-20721738e27bac4b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-4699e82efc2a0db8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-4c972cff0705959c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-56df82bc9820f1ed",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-95feae688070186d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-c1c064f0b4e29a51",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-e0e112476c1f5430",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-ea925b4ed6929515",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relatedSpdxElement": "SPDXRef-Package-f0e1225795d55c5f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-ce3bf054468731ee",
+            "relatedSpdxElement": "SPDXRef-Package-7982684640610ce7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-d0d834581f0de788",
+            "relatedSpdxElement": "SPDXRef-Package-edd06bebf115c2c1",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-test",
+            "relatedSpdxElement": "SPDXRef-Application-4fb5aea116b8d8bd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-test",
+            "relatedSpdxElement": "SPDXRef-Application-57838d6b1dca1213",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-test",
+            "relatedSpdxElement": "SPDXRef-Application-75475c6447c275fd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-tifg",
+            "relatedSpdxElement": "SPDXRef-Application-81c3d8af5944e5bc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-dev",
+            "relatedSpdxElement": "SPDXRef-Application-a94595bc8b828738",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-test",
+            "relatedSpdxElement": "SPDXRef-Application-c0e78a0d253b1fca",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-otf",
+            "relatedSpdxElement": "SPDXRef-Application-ce3bf054468731ee",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-o-ran-int-it-otf",
+            "relatedSpdxElement": "SPDXRef-Application-d0d834581f0de788",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-116169aeefad66ab",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-215bc0963b2e40e7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-30391112931f836",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-4dd118efb46fc587",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-644ca752360d7d32",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-93c0b69bde6cd9b1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-964dfdb91254c8dc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-a87aae12e52aaa6d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-a8bcee049eceea33",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-b3655e6c8c9f516a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-b83b1971a4f5ab44",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-c259361641a30744",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-d95f0f85d00b95",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7982684640610ce7",
+            "relatedSpdxElement": "SPDXRef-Package-f282dd2ed24c9fc5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-88fd4f57ae554f55",
+            "relatedSpdxElement": "SPDXRef-Package-fb13cbd187c15b82",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-189f1a6ee731c627",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-1bc0da1b65a775f9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-211929a0a69bdea6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-2df6436143d7fb16",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-361ec27939ef6e9b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-461b17b3c7e2af34",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-51d496e2d77f0628",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-574ab98e14851dbf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-5b6d951ba3fe5d50",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-6198884784af0050",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-699927045a0b93ae",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-7491d164974aaa56",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-7ed738ae3104a98a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-7fac182d2d1faec8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-7fd4d62362fb79c9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-82df99b50afc4f9e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-90a99bf871c28cf0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-93bc2b17d1534e20",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-975ae7890f5d641d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-ad65aab192f30d45",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-adb615315cc2aef3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-bbda1d91c562809b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-c9970f02ed48c7c5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-cbe6ab78f6998b2a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-cc676028773a7869",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-d074d2da55e44744",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-d4529edc8dcc89cb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-d7fe6157fa35dad5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-dd39c6adcb664f05",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-dff84959d4be2d28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-f68f3ea31e828b15",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-fac3b0b32aa03992",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-edd06bebf115c2c1",
+            "relatedSpdxElement": "SPDXRef-Package-fad353ae054cf0d4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relatedSpdxElement": "SPDXRef-o-ran-int-it-dep",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relatedSpdxElement": "SPDXRef-o-ran-int-it-dev",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relatedSpdxElement": "SPDXRef-o-ran-int-it-otf",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relatedSpdxElement": "SPDXRef-o-ran-int-it-test",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-b0eb0317ef28d69e",
+            "relatedSpdxElement": "SPDXRef-o-ran-int-it-tifg",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
