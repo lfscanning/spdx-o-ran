@@ -1,0 +1,482 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_doc-2026-07-23.zip_1784825149.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2026-07-23T16:45:49Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: doc-2026-07-23.zip
+PackageFileName: doc-2026-07-23.zip
+SPDXID: SPDXRef-upload2255
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 884891c9669d63955ca24ae9e22ea8160bbf31a3
+PackageChecksum: SHA1: f0063e3704f7e7b5fd6213fe12460127f7fbdd64
+PackageChecksum: SHA256: befa8293eb1393820d6793cfdf29e0712a3a0688ee9f56ca954342bad73c2746
+PackageChecksum: MD5: fabad879456c55482c322ed86e917bfd
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2255
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/release-notes.rst
+SPDXID: SPDXRef-item14618627
+FileChecksum: SHA1: 9b55f6643fecde98c00eeec1ec5006c644101859
+FileChecksum: SHA256: e113ce7d6cb340000d30e0f81b9102c62d1e92118e80026522b1fa2c70871469
+FileChecksum: MD5: ddf1a2cc2daf8e607a15e9e4ffbc01dd
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/index.rst
+SPDXID: SPDXRef-item14618613
+FileChecksum: SHA1: 43b73ad554443326770531a7fa3a0dfb077d2f2e
+FileChecksum: SHA256: 58532c26e3e550795e8c2ca00c51fc62cabb6288dbf22cae7901bdc9f081fef8
+FileChecksum: MD5: 726ecb98bb1df96c2b5a11878b6185f3
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) CMCC </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/.github/dependabot.yml
+SPDXID: SPDXRef-item14618655
+FileChecksum: SHA1: 6afda01192ef7297b29f58a8a17cc4ff122cff8b
+FileChecksum: SHA256: bf06cf583c130d07caee488f33a27d3a3e79b24012db2e9fed65bac3abe62ae2
+FileChecksum: MD5: dedf05161cebf3b23450816c00ff2892
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> 2025 The Linux Foundation </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/api-docs.rst
+SPDXID: SPDXRef-item14618642
+FileChecksum: SHA1: 34780add673015f00065be5494ec65b5440351fe
+FileChecksum: SHA256: 942b4807bcd7c7d0213f5b36bc2cf73196c86a953250e9968ff9eff37e3723ef
+FileChecksum: MD5: 6d673be9bddeb49660d6380c8807dcb5
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/developer-guide.rst
+SPDXID: SPDXRef-item14618645
+FileChecksum: SHA1: 9507cb385d15b65315aaca0769e0a5f024bfcb17
+FileChecksum: SHA256: cf9e9510c5cc494ae48586f50f7a7c06d7076bcd505d9c976c373f2e121ed969
+FileChecksum: MD5: 6a3d24078f412af737f9de2d0c81fd84
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/index.rst
+SPDXID: SPDXRef-item14618639
+FileChecksum: SHA1: a4436265e9cc9f5db66784d1e7c0094baf37e73e
+FileChecksum: SHA256: 39555ec5db972ed9c17aa1d4cb395a05d1e378d3863ac2c79b11265711b9c6a6
+FileChecksum: MD5: d6d0659be37b8691e10bf759ddfce3de
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/installation-guide.rst
+SPDXID: SPDXRef-item14618641
+FileChecksum: SHA1: d1fc6cbcab708e09c29318ee13e3930f5a346662
+FileChecksum: SHA256: 1caf017190b443759809ab90b7ede01c98f7930ba194a512b3e7e81781b05761
+FileChecksum: MD5: 1bac6baeb36306b2f502ccf43effeee0
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/overview.rst
+SPDXID: SPDXRef-item14618640
+FileChecksum: SHA1: d9abf3585bc1fea8818a8cedc3cd7cccb1c4c409
+FileChecksum: SHA256: 5a70882fd2fec2310900fa544bfe005b5aaa42b454b1af3c22add6e3beaa70f3
+FileChecksum: MD5: 2ee66e32df49aa0cd3206b92134dce02
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/release-notes.rst
+SPDXID: SPDXRef-item14618643
+FileChecksum: SHA1: 645110e25918b64ea4d7cff4d1cd9824b1c7acf9
+FileChecksum: SHA256: 10ee53b9808d70851cfa92c208a566a1fed918300a9b11163ab2ce633e88c6ad
+FileChecksum: MD5: 68d92095664696ea1492419a3888b213
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/user-guide.rst
+SPDXID: SPDXRef-item14618635
+FileChecksum: SHA1: 18513f56fd7885463eeadb48830bf3b62f397372
+FileChecksum: SHA256: 54f9c7956f302137eafb3a948ae585f21cfdc4af93dd976c85b6681d33c3a9bf
+FileChecksum: MD5: b3a2025bfd1b1cc90d4e59b294f0969b
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 YOUR-ORGANIZATION-NAME </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/architecture/architecture.rst
+SPDXID: SPDXRef-item14618622
+FileChecksum: SHA1: 4b8792d76af874b0ee0bc17cebcfa2c7ec5f330e
+FileChecksum: SHA256: 4d407d25d4e5431271e36cd87d1e484950ca1e3f51e8d801588de05dacf62d06
+FileChecksum: MD5: 8a6ea52a222b847278dd5ee7106e1d79
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/iosmcn.rst
+SPDXID: SPDXRef-item14618620
+FileChecksum: SHA1: 16a1516853ccf681bd91f90a467c404314db234b
+FileChecksum: SHA256: f18da6ebc6024e13362417d0fd286c0006984b6158496c47688968ec2e318a16
+FileChecksum: MD5: 59020249476a08cf8d1dd3de36686756
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2024 IOSMCN </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/user-experience/index.rst
+SPDXID: SPDXRef-item14618615
+FileChecksum: SHA1: 1a1663ea00b572ffc301365a3031819f5d17a68b
+FileChecksum: SHA256: e41693f228f5e592b5cf062beb24568fd13c87cb43e3e37b34a876dbcf68fcce
+FileChecksum: MD5: c15cd5c4ff17dacdeb45ce714eb68452
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) CMCC </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/api-docs.rst
+SPDXID: SPDXRef-item14618626
+FileChecksum: SHA1: 24044d0c77cd76140fa38d9f7a8daec01d6f1cdf
+FileChecksum: SHA256: 770c275144756d2f7570bb7f57208619a7c42b7a6153e588e3b38c897a62ccec
+FileChecksum: MD5: 06467c96973df11986a543fd14b063d9
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/license.rst
+SPDXID: SPDXRef-item14618625
+FileChecksum: SHA1: f48ad5b4b0ca1835ca2a37e1e75dc95bd73367e3
+FileChecksum: SHA256: 1fe193d797502824e77df6d996c0dd18c39a9598bf43a0a11f6b3efb86905678
+FileChecksum: MD5: 957c66ffa33f2145147f674ef22e60a2
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/projects.rst
+SPDXID: SPDXRef-item14618612
+FileChecksum: SHA1: dd170936c35dc4f9ccd41d030565283eb99f8012
+FileChecksum: SHA256: b01b22fa83aa4363b4eb9f1f67729fdcb67a1301bedadc3ef10e50692ad07cfa
+FileChecksum: MD5: 665d3eb72cc1b7363bdf148b613a5c2e
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright (C) 2019 CMCC </text>
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/images/smo.png
+SPDXID: SPDXRef-item14618618
+FileChecksum: SHA1: 4868d25793adbe2760c2dc5ad0b2e285f2a9fc87
+FileChecksum: SHA256: 7b9624768a72f94e8c1f59df2e0de8bb0614820f3491c02f43091fd153e48ae6
+FileChecksum: MD5: 26f483ac655cee342918f3687b009bc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/images/oam.jpg
+SPDXID: SPDXRef-item14618619
+FileChecksum: SHA1: df0efbaab17bfb5338f74da33ff1a183f9b78dae
+FileChecksum: SHA256: ab92c015285dddc8a2ad14113ad1030ad6779ace61e28195c63ba0546097049c
+FileChecksum: MD5: e4e774be8c86119da1a3c0b7593aaae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/architecture/media/o-ran-architecture.png
+SPDXID: SPDXRef-item14618624
+FileChecksum: SHA1: 6a0e418b8220785960d24f84f8a61ce7ba9579a2
+FileChecksum: SHA256: f514396c83e07142ffc6085f9fd226b48ed3029481aa794c41088fe67d36e2ce
+FileChecksum: MD5: c79a4405fac22fcb24119522f9dc2613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/requirements-docs.txt
+SPDXID: SPDXRef-item14618628
+FileChecksum: SHA1: 2c34274ff45f93d342a751cb779f0f0371801812
+FileChecksum: SHA256: 5a539406604ee334534a0bc21a50a8adf4e677111fb85b529895ebd515825416
+FileChecksum: MD5: 75610cdf6ec073459f44762271a1391c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/_static/logo.png
+SPDXID: SPDXRef-item14618630
+FileChecksum: SHA1: 552b903df50b629f41f9cb5d7cfa948a8e489db8
+FileChecksum: SHA256: 5f7f85c9400caf7d424eb08a08c827d9f2c0580603c14d204a7270c6ad53d516
+FileChecksum: MD5: 8cbb866c5516545d9cabe900ee56ba6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/favicon.ico
+SPDXID: SPDXRef-item14618631
+FileChecksum: SHA1: c77792dc42ab4255c1122249593c437ea75eebf2
+FileChecksum: SHA256: 30c3c3716f67e11a2ee16f65e55abd0d6452985a501d1a436874d96098d951ed
+FileChecksum: MD5: e10b66c50f958bb963a8b8586a554d5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/conf.py
+SPDXID: SPDXRef-item14618632
+FileChecksum: SHA1: 26b2388deee7454c6ce621fccefcfddcd5bf6e12
+FileChecksum: SHA256: cf2441e0cebaa6eb366a45fae69f263fc65d82029687d6983ba58cc4aa5d094f
+FileChecksum: MD5: 03479fa328fa151b276995da6bf34bfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/docs/conf.yaml
+SPDXID: SPDXRef-item14618633
+FileChecksum: SHA1: 1e45a8f3fba53377c38869044b4e727c97c8fe8c
+FileChecksum: SHA256: 727e30f4cdb8c5445cccf8b565d19ef6af65c313b28708a3e20bcd6566fbc452
+FileChecksum: MD5: a812c762d85f53135141e06f5cb7eb9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/repo-root-dir-files/tox.ini
+SPDXID: SPDXRef-item14618637
+FileChecksum: SHA1: c6b7d88477be8e3e665caed735e69b98ebd5e1a3
+FileChecksum: SHA256: 269498d47fbdbe3372881b78d19ce13f7e9d3de16ad651a4fc7d512139d055a7
+FileChecksum: MD5: 1b70bcd16e0d3fc68715af25d835e9ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/repo-root-dir-files/.readthedocs.yaml
+SPDXID: SPDXRef-item14618638
+FileChecksum: SHA1: 0c0e41885d8871a9fde6fc22560e014dca349cc1
+FileChecksum: SHA256: 3c7c34948d5da74609b09af9d16810731e83cafbe6f19bcd1fe558b5e51e4837
+FileChecksum: MD5: e8e8e07c2ed396d94e7bb67b07e68586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/REAMDME.txt
+SPDXID: SPDXRef-item14618644
+FileChecksum: SHA1: 9bbbb16149032f8716daf945242a34b0b82c180d
+FileChecksum: SHA256: 34c877989cc89edd528e1c1ac0e78df92aa7da748c69588af74b071126945022
+FileChecksum: MD5: 56792522825d3b7a47d1c4bb2c5a7108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/requirements-docs.txt
+SPDXID: SPDXRef-item14618646
+FileChecksum: SHA1: d95999203246cb6368b9d27f0863d4dfcddb8d14
+FileChecksum: SHA256: 5def30270038c40a92140681279e2d217c9e86a3682e0ad37bb7fd1b09cf7865
+FileChecksum: MD5: 7464e4e4985d0cf504781343a024dc00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/_static/logo.png
+SPDXID: SPDXRef-item14618648
+FileChecksum: SHA1: 51085fee7c9556906e914852ca414470f8f744ea
+FileChecksum: SHA256: 09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11
+FileChecksum: MD5: d1c469a2852106c7e48beb0fc4bd28e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/favicon.ico
+SPDXID: SPDXRef-item14618649
+FileChecksum: SHA1: 1b77e07f249b3a8c7880fa9970bb0a0792d06753
+FileChecksum: SHA256: 5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2
+FileChecksum: MD5: c98cb9f139835b26bdf0d9327588320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/conf.py
+SPDXID: SPDXRef-item14618650
+FileChecksum: SHA1: 5291f5cdf28320a29b374257cbac9e246d9a250d
+FileChecksum: SHA256: ce1b01ea2e8226340f8ede3346413192c3d4a9b648cb39dc1a94a47b17e24e70
+FileChecksum: MD5: 9caacae06baece2eb17014e7f9047afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/doc-templates/conf.yaml
+SPDXID: SPDXRef-item14618651
+FileChecksum: SHA1: 0df4127cdf67dcea53aac56c39d68c3f05319749
+FileChecksum: SHA256: eb3b296d78df3cf86b2f2667a03205da21a7171878e5df299c1905c8a95048d6
+FileChecksum: MD5: f5b37ee0e831985193fbff3141af3874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/.github/workflows/gerrit-verify.yaml
+SPDXID: SPDXRef-item14618654
+FileChecksum: SHA1: 2e892fffd8068c64b39f3b22c9c4224031b0f5f1
+FileChecksum: SHA256: caddda75c91b5c22d0571784f3f5904c689135a6587a552fd0c6478f71ae53d2
+FileChecksum: MD5: 0a580f6f7145dd0fa957f0fbbba00caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/tox.ini
+SPDXID: SPDXRef-item14618656
+FileChecksum: SHA1: 23d8a28ef4d7e78eb74b90b6ba1f7d81df241dc7
+FileChecksum: SHA256: beca0f5c55f45b0f378129e23f902cbd662b67c2523fa9c3401a77399adee0df
+FileChecksum: MD5: b4e2e50b18b7376a7998ff067a0c14b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/INFO.yaml
+SPDXID: SPDXRef-item14618657
+FileChecksum: SHA1: 78ee5311e1e8b0d57b7ffbf34d8c7515a9734b0e
+FileChecksum: SHA256: a5a2e2e94fe63a1d910e18bdcd0e5ff7b9925900eda02bb9b0969bd928bdfc4f
+FileChecksum: MD5: f4c4473b85aa6513d50bcfdf6436393c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/.gitignore
+SPDXID: SPDXRef-item14618658
+FileChecksum: SHA1: e3b2cee88d1831c5961ca3ca21d9dacfe9192b84
+FileChecksum: SHA256: 78d0f6473fe8fab5c51e95fd4b20ee87b7f12de8aa4d2d4b50ed6b11aa2c1c8d
+FileChecksum: MD5: 327e127d349f7f9c8205dc4b32dfcb32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/.readthedocs.yaml
+SPDXID: SPDXRef-item14618659
+FileChecksum: SHA1: 0c0e41885d8871a9fde6fc22560e014dca349cc1
+FileChecksum: SHA256: 3c7c34948d5da74609b09af9d16810731e83cafbe6f19bcd1fe558b5e51e4837
+FileChecksum: MD5: e8e8e07c2ed396d94e7bb67b07e68586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: doc-2026-07-23.zip/doc/.gitreview
+SPDXID: SPDXRef-item14618660
+FileChecksum: SHA1: acee2e86ceceb60aafc4ea95c9c8cce75e5e41c9
+FileChecksum: SHA256: 1122de882e86ed2c306938eb56a06b1f298fa65cbf612760ed19ed47c665d03b
+FileChecksum: MD5: 077866139d94677a15b8168a8add607f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
