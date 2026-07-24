@@ -1,0 +1,57 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2026-07-24T08:06:09Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp512vxi2s/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp512vxi2s/code-4d7cc539-3427-4b01-93b4-d1bdcb3df111",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-1d4bff5f31a87197",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "o-ran.doc",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "2026-07"
+        },
+        {
+            "SPDXID": "SPDXRef-o-ran-doc-doc",
+            "comment": "This package was added to the Trivy analysis for the doc by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "name": "doc",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran",
+            "supplier": "Organization: Linux Foundation Project o-ran",
+            "versionInfo": "d97b6304c78cf6b7efb693e396abd344b25630cd"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-1d4bff5f31a87197",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-1d4bff5f31a87197",
+            "relatedSpdxElement": "SPDXRef-o-ran-doc-doc",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
