@@ -1,0 +1,2472 @@
+{
+    "@context": "https://spdx.org/rdf/3.0.1/spdx-context.jsonld",
+    "@graph": [
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo0",
+            "created": "2026-07-24T08:06:09Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd2",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd3",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd7"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd5",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd6",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd4",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd1",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo1",
+            "comment": "This is a generated SPDX License object from the SPDX license list",
+            "created": "2026-02-20T00:00:00Z",
+            "createdBy": [
+                "https://spdx.org/licenses/creatoragent/3_28_0"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "CreationInfo",
+            "@id": "_:CreationInfo2",
+            "created": "2026-07-24T08:06:09Z",
+            "createdBy": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd188",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd183",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd184"
+            ],
+            "createdUsing": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd186",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd187",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd181",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd182",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd185"
+            ],
+            "specVersion": "3.0.1"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd10",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd100",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd99",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd101",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd99",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd102",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd103"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd103",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/index.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "39555ec5db972ed9c17aa1d4cb395a05d1e378d3863ac2c79b11265711b9c6a6"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d6d0659be37b8691e10bf759ddfce3de"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "a4436265e9cc9f5db66784d1e7c0094baf37e73e"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd104",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd103",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd105",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd103",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd106",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd107"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd107",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/repo-root-dir-files/.readthedocs.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "3c7c34948d5da74609b09af9d16810731e83cafbe6f19bcd1fe558b5e51e4837"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e8e8e07c2ed396d94e7bb67b07e68586"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "0c0e41885d8871a9fde6fc22560e014dca349cc1"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd108",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd107",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd109",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd107",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd110"
+            ]
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "comment": "This package was added to the Trivy analysis for the doc by the Scaffold tool SBOM augmentation",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc",
+            "suppliedBy": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd170",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "d97b6304c78cf6b7efb693e396abd344b25630cd",
+            "software_sourceInfo": "The source this package was part of the LF Scanning configuration for the project o-ran"
+        },
+        {
+            "type": "expandedlicensing_CustomLicense",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd110",
+            "comment": "",
+            "creationInfo": "_:CreationInfo0",
+            "name": "See-URL",
+            "simplelicensing_licenseText": "License by Nomos."
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd111",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd112"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd112",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/conf.py",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "ce1b01ea2e8226340f8ede3346413192c3d4a9b648cb39dc1a94a47b17e24e70"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "9caacae06baece2eb17014e7f9047afb"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "5291f5cdf28320a29b374257cbac9e246d9a250d"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd113",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd112",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd114",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd112",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd115",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd116"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd116",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/favicon.ico",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "5615d9e1494bd7d59aa49a8dfd7fb02ef07d6810d5c5302395e901ccc539f5b2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "c98cb9f139835b26bdf0d9327588320b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "1b77e07f249b3a8c7880fa9970bb0a0792d06753"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd117",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd116",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd118",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd116",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd119",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd120"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd12",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd13"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd120",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/.github/workflows/gerrit-verify.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "2e892fffd8068c64b39f3b22c9c4224031b0f5f1"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "caddda75c91b5c22d0571784f3f5904c689135a6587a552fd0c6478f71ae53d2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "0a580f6f7145dd0fa957f0fbbba00caa"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd121",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd120",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd122",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd120",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd123",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd124"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd124",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/conf.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "0df4127cdf67dcea53aac56c39d68c3f05319749"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "eb3b296d78df3cf86b2f2667a03205da21a7171878e5df299c1905c8a95048d6"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "f5b37ee0e831985193fbff3141af3874"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd125",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd124",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd126",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd124",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd127",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd128"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd128",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/conf.py",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "cf2441e0cebaa6eb366a45fae69f263fc65d82029687d6983ba58cc4aa5d094f"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "03479fa328fa151b276995da6bf34bfe"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "26b2388deee7454c6ce621fccefcfddcd5bf6e12"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd129",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd128",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd13",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/release-notes.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "e113ce7d6cb340000d30e0f81b9102c62d1e92118e80026522b1fa2c70871469"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "ddf1a2cc2daf8e607a15e9e4ffbc01dd"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "9b55f6643fecde98c00eeec1ec5006c644101859"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 CMCC"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd130",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd128",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd131",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd132"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd132",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/favicon.ico",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "c77792dc42ab4255c1122249593c437ea75eebf2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "30c3c3716f67e11a2ee16f65e55abd0d6452985a501d1a436874d96098d951ed"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e10b66c50f958bb963a8b8586a554d5d"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd133",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd132",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd134",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd132",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd135",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd136"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd136",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/user-guide.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "b3a2025bfd1b1cc90d4e59b294f0969b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "18513f56fd7885463eeadb48830bf3b62f397372"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "54f9c7956f302137eafb3a948ae585f21cfdc4af93dd976c85b6681d33c3a9bf"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd137",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd136",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd138",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd136",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd139",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd140"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd14",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd140",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/_static/logo.png",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "d1c469a2852106c7e48beb0fc4bd28e1"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "51085fee7c9556906e914852ca414470f8f744ea"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "09a14b952d27432921ee01142e7e9ce5b0eda3c562d3316c77429ca9409f6f11"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd141",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd140",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd142",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd140",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd143",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd144"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd144",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/conf.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "1e45a8f3fba53377c38869044b4e727c97c8fe8c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "727e30f4cdb8c5445cccf8b565d19ef6af65c313b28708a3e20bcd6566fbc452"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "a812c762d85f53135141e06f5cb7eb9f"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd145",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd144",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd146",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd144",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd147",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd148"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd148",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/.readthedocs.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "3c7c34948d5da74609b09af9d16810731e83cafbe6f19bcd1fe558b5e51e4837"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e8e8e07c2ed396d94e7bb67b07e68586"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "0c0e41885d8871a9fde6fc22560e014dca349cc1"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd149",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd148",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd15",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd13",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd150",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd148",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd110"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd151",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd152"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd152",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/tox.ini",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "b4e2e50b18b7376a7998ff067a0c14b3"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "23d8a28ef4d7e78eb74b90b6ba1f7d81df241dc7"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "beca0f5c55f45b0f378129e23f902cbd662b67c2523fa9c3401a77399adee0df"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd153",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd152",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd154",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd152",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd155",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd156"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd156",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/.github/dependabot.yml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "6afda01192ef7297b29f58a8a17cc4ff122cff8b"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "bf06cf583c130d07caee488f33a27d3a3e79b24012db2e9fed65bac3abe62ae2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "dedf05161cebf3b23450816c00ff2892"
+                }
+            ],
+            "software_copyrightText": "2025 The Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd157",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd156",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd158",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd156",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd159",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd160"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd16",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd17"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd160",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/.gitignore",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "327e127d349f7f9c8205dc4b32dfcb32"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "e3b2cee88d1831c5961ca3ca21d9dacfe9192b84"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "78d0f6473fe8fab5c51e95fd4b20ee87b7f12de8aa4d2d4b50ed6b11aa2c1c8d"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd161",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd160",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd162",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd160",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd163",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd164"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd164",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/INFO.yaml",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "f4c4473b85aa6513d50bcfdf6436393c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "78ee5311e1e8b0d57b7ffbf34d8c7515a9734b0e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "a5a2e2e94fe63a1d910e18bdcd0e5ff7b9925900eda02bb9b0969bd928bdfc4f"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd165",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd164",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd166",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd164",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd167",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd168"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd168",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd169",
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd169",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd17",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/api-docs.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "06467c96973df11986a543fd14b063d9"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "24044d0c77cd76140fa38d9f7a8daec01d6f1cdf"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "770c275144756d2f7570bb7f57208619a7c42b7a6153e588e3b38c897a62ccec"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd170",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project o-ran"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd171",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd172"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd172",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd173",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd173",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd174",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd175"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd175",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd176",
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd176",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd177",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation Project o-ran"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd178",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd179"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd179",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd180",
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd18",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd180",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd183",
+            "creationInfo": "_:CreationInfo2",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd184",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd188",
+            "creationInfo": "_:CreationInfo2",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd19",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd17",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd2",
+            "creationInfo": "_:CreationInfo0",
+            "name": "aquasecurity"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd20",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd21"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd21",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/_static/logo.png",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "5f7f85c9400caf7d424eb08a08c827d9f2c0580603c14d204a7270c6ad53d516"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "552b903df50b629f41f9cb5d7cfa948a8e489db8"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "8cbb866c5516545d9cabe900ee56ba6e"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd22",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd23",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd21",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd24",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd25"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd25",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/requirements-docs.txt",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "5a539406604ee334534a0bc21a50a8adf4e677111fb85b529895ebd515825416"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "75610cdf6ec073459f44762271a1391c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "2c34274ff45f93d342a751cb779f0f0371801812"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd26",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd27",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd25",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd28",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd29"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd29",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/license.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "f48ad5b4b0ca1835ca2a37e1e75dc95bd73367e3"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1fe193d797502824e77df6d996c0dd18c39a9598bf43a0a11f6b3efb86905678"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "957c66ffa33f2145147f674ef22e60a2"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Organization",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd3",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Linux Foundation"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd30",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd31"
+            ]
+        },
+        {
+            "type": "expandedlicensing_ConjunctiveLicenseSet",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd31",
+            "creationInfo": "_:CreationInfo0",
+            "expandedlicensing_member": [
+                "http://spdx.org/licenses/Apache-2.0",
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd32",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/Apache-2.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd33",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd29",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd34",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd35"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd35",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/architecture/media/o-ran-architecture.png",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "c79a4405fac22fcb24119522f9dc2613"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "6a0e418b8220785960d24f84f8a61ce7ba9579a2"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "f514396c83e07142ffc6085f9fd226b48ed3029481aa794c41088fe67d36e2ce"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd36",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd35",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd37",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd35",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd38",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd39"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd39",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/architecture/architecture.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "4b8792d76af874b0ee0bc17cebcfa2c7ec5f330e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "4d407d25d4e5431271e36cd87d1e484950ca1e3f51e8d801588de05dacf62d06"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "8a6ea52a222b847278dd5ee7106e1d79"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 CMCC"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd40",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd39",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd41",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd39",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd42",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd43"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd43",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/images/smo.png",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "26f483ac655cee342918f3687b009bc6"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "4868d25793adbe2760c2dc5ad0b2e285f2a9fc87"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "7b9624768a72f94e8c1f59df2e0de8bb0614820f3491c02f43091fd153e48ae6"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd44",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd43",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd45",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd43",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd46",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd47"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd47",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/developer-guide.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "9507cb385d15b65315aaca0769e0a5f024bfcb17"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "cf9e9510c5cc494ae48586f50f7a7c06d7076bcd505d9c976c373f2e121ed969"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "6a3d24078f412af737f9de2d0c81fd84"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd48",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd47",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd49",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd47",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd50",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd51"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd51",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/user-experience/index.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "e41693f228f5e592b5cf062beb24568fd13c87cb43e3e37b34a876dbcf68fcce"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "c15cd5c4ff17dacdeb45ce714eb68452"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "1a1663ea00b572ffc301365a3031819f5d17a68b"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) CMCC"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd52",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd51",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd53",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd51",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd54",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd55"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd55",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/REAMDME.txt",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "34c877989cc89edd528e1c1ac0e78df92aa7da748c69588af74b071126945022"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "56792522825d3b7a47d1c4bb2c5a7108"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "9bbbb16149032f8716daf945242a34b0b82c180d"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd56",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd55",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd57",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd55",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd58",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd59"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd59",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/iosmcn.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "59020249476a08cf8d1dd3de36686756"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "f18da6ebc6024e13362417d0fd286c0006984b6158496c47688968ec2e318a16"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "16a1516853ccf681bd91f90a467c404314db234b"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2024 IOSMCN"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd60",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd59",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd61",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd59",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd62",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd63"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd63",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/user-experience/iosmcn/images/oam.jpg",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "ab92c015285dddc8a2ad14113ad1030ad6779ace61e28195c63ba0546097049c"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "df0efbaab17bfb5338f74da33ff1a183f9b78dae"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "e4e774be8c86119da1a3c0b7593aaae3"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd64",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd63",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd65",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd63",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd66",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd67"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd67",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/requirements-docs.txt",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "7464e4e4985d0cf504781343a024dc00"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "d95999203246cb6368b9d27f0863d4dfcddb8d14"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "5def30270038c40a92140681279e2d217c9e86a3682e0ad37bb7fd1b09cf7865"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd68",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd67",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd69",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd67",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Person",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd7",
+            "creationInfo": "_:CreationInfo0",
+            "externalIdentifier": [
+                {
+                    "type": "ExternalIdentifier",
+                    "externalIdentifierType": "email",
+                    "identifier": "garylegal@sourceauditor.com"
+                }
+            ],
+            "name": "gary"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd70",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd71"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd71",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/.gitreview",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "077866139d94677a15b8168a8add607f"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "acee2e86ceceb60aafc4ea95c9c8cce75e5e41c9"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1122de882e86ed2c306938eb56a06b1f298fa65cbf612760ed19ed47c665d03b"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd72",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd71",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd73",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd71",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "expandedlicensing_NoAssertionLicense"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd74",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd75"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd75",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/installation-guide.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "d1fc6cbcab708e09c29318ee13e3930f5a346662"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "1caf017190b443759809ab90b7ede01c98f7930ba194a512b3e7e81781b05761"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "1bac6baeb36306b2f502ccf43effeee0"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd76",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd75",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd77",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd75",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd78",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd79"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd79",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/overview.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "d9abf3585bc1fea8818a8cedc3cd7cccb1c4c409"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "5a70882fd2fec2310900fa544bfe005b5aaa42b454b1af3c22add6e3beaa70f3"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "2ee66e32df49aa0cd3206b92134dce02"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd80",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd79",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd81",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd79",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd82",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd83"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd83",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/index.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "726ecb98bb1df96c2b5a11878b6185f3"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "43b73ad554443326770531a7fa3a0dfb077d2f2e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "58532c26e3e550795e8c2ca00c51fc62cabb6288dbf22cae7901bdc9f081fef8"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) CMCC"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd84",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd83",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd85",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd83",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd86",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd87"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd87",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/release-notes.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "10ee53b9808d70851cfa92c208a566a1fed918300a9b11163ab2ce633e88c6ad"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "68d92095664696ea1492419a3888b213"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "645110e25918b64ea4d7cff4d1cd9824b1c7acf9"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd88",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd87",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd89",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd87",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "software_Package",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9",
+            "creationInfo": "_:CreationInfo0",
+            "name": "o-ran.doc",
+            "suppliedBy": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd177",
+            "software_copyrightText": "",
+            "software_primaryPurpose": "source",
+            "software_downloadLocation": "NOASSERTION",
+            "software_packageVersion": "2026-07"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd90",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd91"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd91",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/docs/projects.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "b01b22fa83aa4363b4eb9f1f67729fdcb67a1301bedadc3ef10e50692ad07cfa"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "665d3eb72cc1b7363bdf148b613a5c2e"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "dd170936c35dc4f9ccd41d030565283eb99f8012"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 CMCC"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd92",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd91",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd93",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd91",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd94",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd95"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd95",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/api-docs.rst",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "6d673be9bddeb49660d6380c8807dcb5"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "34780add673015f00065be5494ec65b5440351fe"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "942b4807bcd7c7d0213f5b36bc2cf73196c86a953250e9968ff9eff37e3723ef"
+                }
+            ],
+            "software_copyrightText": "Copyright (C) 2019 YOUR-ORGANIZATION-NAME"
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd96",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd95",
+            "relationshipType": "hasConcludedLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd97",
+            "creationInfo": "_:CreationInfo0",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd95",
+            "relationshipType": "hasDeclaredLicense",
+            "to": [
+                "http://spdx.org/licenses/CC-BY-4.0"
+            ]
+        },
+        {
+            "type": "Relationship",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd98",
+            "creationInfo": "_:CreationInfo0",
+            "completeness": "noAssertion",
+            "from": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd11",
+            "relationshipType": "contains",
+            "to": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd99"
+            ]
+        },
+        {
+            "type": "software_File",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd99",
+            "creationInfo": "_:CreationInfo0",
+            "name": "doc-2026-07-23.zip/doc/doc-templates/repo-root-dir-files/tox.ini",
+            "verifiedUsing": [
+                {
+                    "type": "Hash",
+                    "algorithm": "md5",
+                    "hashValue": "1b70bcd16e0d3fc68715af25d835e9ec"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha1",
+                    "hashValue": "c6b7d88477be8e3e665caed735e69b98ebd5e1a3"
+                },
+                {
+                    "type": "Hash",
+                    "algorithm": "sha256",
+                    "hashValue": "269498d47fbdbe3372881b78d19ce13f7e9d3de16ad651a4fc7d512139d055a7"
+                }
+            ],
+            "software_copyrightText": "NOASSERTION"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd0",
+            "creationInfo": "_:CreationInfo0",
+            "name": "protobom-v0.0.0-20250416155525-64c0c744777d+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd1",
+            "creationInfo": "_:CreationInfo0",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd181",
+            "creationInfo": "_:CreationInfo2",
+            "name": "protobom-v0.0.0-20250416155525-64c0c744777d+dirty"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd182",
+            "creationInfo": "_:CreationInfo2",
+            "name": "trivy-dev"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd185",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd186",
+            "creationInfo": "_:CreationInfo2",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd187",
+            "creationInfo": "_:CreationInfo2",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd4",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Scaffold"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd5",
+            "creationInfo": "_:CreationInfo0",
+            "name": "Parlay"
+        },
+        {
+            "type": "Tool",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/additionalToolSPDXRef-gnrtd6",
+            "creationInfo": "_:CreationInfo0",
+            "name": "fossology-4.3.0"
+        },
+        {
+            "type": "SpdxDocument",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/document0",
+            "creationInfo": "_:CreationInfo2",
+            "name": "/tmp/tmp512vxi2s/code",
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/sbom"
+            ],
+            "dataLicense": "http://spdx.org/licenses/CC0-1.0"
+        },
+        {
+            "type": "software_Sbom",
+            "spdxId": "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/sbom",
+            "creationInfo": "_:CreationInfo2",
+            "element": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9"
+            ],
+            "rootElement": [
+                "https://github.com/lfscanning/spdx-o-ran/doc/2026-07/o-ran-doc-full/8aa76f42-3161-41dd-a0aa-c194b3ec88ad-specv3/SPDXRef-gnrtd9"
+            ],
+            "software_sbomType": [
+                "source"
+            ]
+        },
+        {
+            "type": "Agent",
+            "spdxId": "https://spdx.org/licenses/creatoragent/3_28_0",
+            "creationInfo": "_:CreationInfo1",
+            "description": "This object is created and maintained by the SPDX legal team (https://spdx.dev/engage/participate/legal-team/)",
+            "name": "SPDX Legal Team"
+        }
+    ]
+}
